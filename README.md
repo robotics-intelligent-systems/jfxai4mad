@@ -1,4 +1,4 @@
-# Top 50 Activities for Meeting a Marriage-Oriented Partner
+# Activities for Meeting a Marriage-Oriented Partner
 
 ## Objective
 
