@@ -1,4 +1,18 @@
-# JFXAI4MAD
+<p align="center">
+  <img
+    src="travel-connections-architecture.jpg"
+    alt="JFXAI4MAD — AI-Powered Travel, Culture and Dating Platform Architecture"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <em>
+    Open-source architecture for AI-powered travel, culture, matchmaking,
+    community experiences, personalization, data integration and global connections.
+  </em>
+</p>
+
 
 ## AI-Powered Mobile Dating, Social Intelligence & Relationship Business Intelligence Platform
 
@@ -41,21 +55,6 @@
 25. [License](#25-license)
 
 ---
-
-<p align="center">
-  <img
-    src="travel-connections-architecture.jpg"
-    alt="JFXAI4MAD — AI-Powered Travel, Culture and Dating Platform Architecture"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <em>
-    Open-source architecture for AI-powered travel, culture, matchmaking,
-    community experiences, personalization, data integration and global connections.
-  </em>
-</p>
 
 # 1. Overview
 
