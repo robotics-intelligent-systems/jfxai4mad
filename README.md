@@ -1,4 +1,20 @@
-# JFXAI4MAD — LinkedIn Marketing, Advertising & Organic Positioning Integration Architecture
+<p align="center">
+  <img
+    src="travel-connections-architecture.jpg"
+    alt="JFXAI4MAD — Travel, Culture, Community and AI Social Intelligence Architecture"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <em>
+    JFXAI4MAD — Open-source architecture for AI-powered travel, culture,
+    community discovery, university collaboration, social intelligence,
+    professional networking and responsible relationship-oriented services.
+  </em>
+</p>
+
+# LinkedIn Marketing, Advertising & Organic Positioning Integration Architecture
 
 ## AI-Powered Social Intelligence, University Partnership, Volunteer Community, Venture Formation & Optional Family-Formation Platform
 
