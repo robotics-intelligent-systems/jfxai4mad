@@ -264,8 +264,7 @@ Before a pilot, the product owner should approve the service catalogue, the priv
 
 ## 12. Evidence and source register
 
-- [JFXAI4MAD repository](https://github.com/robotics-intelligent-systems/jfxai4mad) — reviewed `main` at commit `8df406c6337636a5ce033cd86917bd57a9259993`.
-- [JFXAI4MAD README](https://github.com/robotics-intelligent-systems/jfxai4mad/blob/main/README.md) — current product and requirements baseline.
+- [LinkedIn Network and Portfolio Opportunity Report](reports/2026-09-01-15-linkedin-portfolio-report-en.md).
 - [AI tourism and social architecture diagram](https://github.com/robotics-intelligent-systems/jfxai4mad/blob/main/MBSE/CAS/drawio/ai_tourism_social_architecture.drawio) — candidate reference architecture.
 - Moors, Gesselman and Garcia, [“Desire, Familiarity, and Engagement in Polyamory”](https://digitalcommons.chapman.edu/psychology_articles/241/) — national quota sample of 3,438 single U.S. adults; useful for research scope, not occupational profiling. The published article is [available through Frontiers](https://doi.org/10.3389/fpsyg.2021.619640).
 - [Tinder U / College Mode eligibility](https://www.help.tinder.com/hc/en-us/articles/360015516052-Tinder-U-College-Mode) — official, region- and institution-specific product capability.
