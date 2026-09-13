@@ -264,7 +264,7 @@ Before a pilot, the product owner should approve the service catalogue, the priv
 
 ## 12. Evidence and source register
 
-- [LinkedIn Network and Portfolio Opportunity Report](reports/2026-09-01-15-linkedin-portfolio-report-en.md).
+- [LinkedIn Network and Portfolio Opportunity Report](reports/linkedin-network-portfolio-opportunity-analysis-2026-09-01-15-en.md).
 - [AI tourism and social architecture diagram](https://github.com/robotics-intelligent-systems/jfxai4mad/blob/main/MBSE/CAS/drawio/ai_tourism_social_architecture.drawio) — candidate reference architecture.
 - Moors, Gesselman and Garcia, [“Desire, Familiarity, and Engagement in Polyamory”](https://digitalcommons.chapman.edu/psychology_articles/241/) — national quota sample of 3,438 single U.S. adults; useful for research scope, not occupational profiling. The published article is [available through Frontiers](https://doi.org/10.3389/fpsyg.2021.619640).
 - [Tinder U / College Mode eligibility](https://www.help.tinder.com/hc/en-us/articles/360015516052-Tinder-U-College-Mode) — official, region- and institution-specific product capability.
