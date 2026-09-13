@@ -1,4 +1,18 @@
-# JFXAI4MAD — Evidence-Based Social Discovery, Tourism and Optional Relationship Services
+<p align="center">
+  <a href="https://github.com/robotics-intelligent-systems/jfxai4mad/blob/main/travel-connections-architecture.jpg">
+    <img
+      src="./travel-connections-architecture.jpg"
+      alt="JFXAI4MAD travel connections architecture"
+      width="1200"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <em>Travel Connections Architecture — JFXAI4MAD</em>
+</p>
+
+# Evidence-Based Social Discovery, Tourism and Optional Relationship Services
 
 **Expanded English consolidation and executive summary · 13 September 2026**  
 **Repository:** [`robotics-intelligent-systems/jfxai4mad`](https://github.com/robotics-intelligent-systems/jfxai4mad)  
