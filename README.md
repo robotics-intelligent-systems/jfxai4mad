@@ -50,14 +50,18 @@ El sistema se estructura en cinco dominios con aislamiento estricto de datos (*D
 
 El análisis de mercado exploratory (*"La probabilidad de atraer.txt"*) ha sido traducido a controles de software y criterios de calificación de usuarios, eliminando perfilamientos arbitrarios y priorizando la **intención explícita y verificable**:
 
+```mermaid
+flowchart TD
+    A["[ Datos Atributivos / Sesgos ]"] -->|"ELIMINADOS"| B["No se infiere atracción por ocupación/edad"]
+    A --> C["[ Preferencias Explícitas & Intención ]"]
+    C -->|"EVALUADOS"| D["Filtros explícitos de presupuesto, agenda y valores"]
+
+    %% Estilos de diseño
+    style A fill:#2e4053,stroke:#1b2631,stroke-width:1px,color:#fff
+    style B fill:#922b21,stroke:#641e16,stroke-width:1px,color:#fff
+    style C fill:#1a5276,stroke:#117864,stroke-width:2px,color:#fff
+    style D fill:#1e8449,stroke:#145a32,stroke-width:1px,color:#fff
 ```
-  [ Datos Atributivos / Sesgos ]  ──►  ELIMINADOS (No se infiere atracción por ocupación/edad)
-                                                  │
-                                                  ▼
-
-\[ Preferencias Explícitas & Intención \] ──► EVALUADOS (Filtros explícitos de presupuesto, agenda y valores)
-
-````
 
 | Tema de Análisis | Evaluación de Evidencia | Requerimiento de Producto |
 | :--- | :--- | :--- |
@@ -154,6 +158,30 @@ Pruebas de carga, idempotencia y auditoría de documentos superadas\[cite: 3\].
 Bus de eventos (Kafka/Redpanda), Kubernetes, observabilidad y apertura a nuevos mercados en LATAM/EE. UU.\[cite: 3\]
 
 Métricas de rendimiento y presupuestos de privacidad validados previa expansión regional\[cite: 3\].
+
+## 6. Global Strategic Annex: FOSS Simulation, Aeronaval Academies & Demographic Incentives
+
+For a detailed analysis of international mobility, Free Trade Agreements (FTAs) with the Andean Community (CAN), and demographic repopulation programs, consult the complete project annex: [`ANNEX.md`](./ANNEX.md).
+
+### Executive Summary of the Annex
+The **`jfxai4mad`** ecosystem extends its core architecture to support open-source simulation frameworks (including Model-Based Design / CAD integration for platforms like the *Stavatti Stiletto*) targeted at **pre-military naval aviation academies**. 
+
+To address severe global demographic declines, aging populations, and regional brain drain, the platform integrates **Voluntary Service Agreements (VSAs)** linked to state-backed housing, tax, and family relocation grants across high-urgency cities in North America, Europe, and Asia.
+
+```mermaid
+graph TD
+    A["CAN Pre-Military Academies<br/><i>(Peru, Colombia, Ecuador, Bolivia)</i>"] -->|"Voluntary Service Agreement / CAD Training"| B["Open-Source Simulation Engine<br/><b>(jfxai4mad)</b>"]
+
+    B -->|"Industrial Art & Design Showcases"| C["Industrial Art Gallery Exhibitions<br/><i>(Tel Aviv / Milan)</i>"]
+    B -->|"Repopulation & Remote Dev Incentives"| D["Rural AI & FOSS Repopulation Hubs<br/><i>(Tulsa / Kamiyama / Ponga / Görlitz)</i>"]
+    B -->|"Aeronaval CAD / MBD Co-Development"| E["Dual-Use Aeronaval R&D<br/><i>(South Korea / Taiwan / Romania)</i>"]
+
+    style A fill:#003366,stroke:#001a33,stroke-width:2px,color:#fff
+    style B fill:#1a5276,stroke:#117864,stroke-width:3px,color:#fff
+    style C fill:#2e4053,stroke:#1b2631,stroke-width:1px,color:#fff
+    style D fill:#1e8449,stroke:#145a32,stroke-width:1px,color:#fff
+    style E fill:#7d3c98,stroke:#512e5f,stroke-width:1px,color:#fff
+```
 
 ## 📍 Declaración de Posicionamiento
 
