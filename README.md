@@ -1,201 +1,159 @@
+# JFXAI4MAD: LegalTech, Destination Tourism and Evidence-Based Social Discovery
 
-# 🌐 JFXAI4MAD: LegalTech, Turismo de Destino y Ecosistema de Descubrimiento Social Basado en Evidencia
+**Consolidated English edition · Reviewed 27 September 2026**  
+**Status:** Proposed reference architecture, business model and implementation roadmap for partner and investor review.
 
-**Consolidación Ejecutiva y Tesis de Inversión · Versión Actualizada 2026**  
-**Repositorio Base:** [`robotics-intelligent-systems/jfxai4mad`](https://github.com/robotics-intelligent-systems/jfxai4mad)[cite: 3]  
-**Estado:** Arquitectura de Referencia, Modelo de Negocio y Documento de Especificación para Revisión de Inversionistas y Operadores.
+JFXAI4MAD is a proposed modular platform combining destination travel, cross-border marriage-service coordination, professional collaboration and voluntary adult social discovery. Its strategic annex explores a separate institutional track for FOSS simulation education, international collaboration and technology-hub development.
 
----
+The repository currently contains documentation, concept images and requirements diagrams. The services, integrations, commercial partnerships and funding pathways described below are proposals; they are not evidence of an operating platform or secured investment. The project targets an open-source implementation; software releases require an explicit license and dependency review.
 
-## 🎯 Resumen Ejecutivo y Tesis de Inversión
+## Contents
 
-**JFXAI4MAD** es un concepto de plataforma modular de código abierto que integra **planificación turística de alto valor, LegalTech transfronterizo (gestión de matrimonio expreso/remoto), redes de colaboración profesional y descubrimiento social bajo modelos de consentimiento informado y explícito**.
+- [Executive overview](#executive-overview)
+- [1. Consolidated project scope](#1-consolidated-project-scope)
+- [2. From market hypotheses to product requirements](#2-from-market-hypotheses-to-product-requirements)
+- [3. Integration architecture and AI modules](#3-integration-architecture-and-ai-modules)
+- [4. Business model and performance indicators](#4-business-model-and-performance-indicators)
+- [5. Implementation and investment phases](#5-implementation-and-investment-phases)
+- [6. Global strategic annex](#6-global-strategic-annex)
+- [Repository resources](#repository-resources)
 
-La plataforma transforma el mercado del turismo de bodas (*destination weddings*) y los servicios de vinculación civil rápida mediante un modelo de **Sociedad Colaborativa**, conectando a usuarios finales con proveedores de alojamiento, operadores turísticos, oficiantes legales y firmas de asesoría. 
+## Executive overview
 
-```mermaid
-flowchart LR
-    subgraph Flujo_Usuario["Flujo de Usuario y LegalTech"]
-        direction LR
-        U["[ Usuario / Pareja ]"] --> R["[ Motor RAG / IA Privada ]"]
-        R --> L["[ Flujo LegalTech (Matrimonio Expreso) ]"]
-    end
+The proposed collaborative B2B/B2C model connects travelers and couples with accommodation providers, tour operators, authorized officiants and qualified advisers. Revenue would come from disclosed coordination fees, bookings and operator services. Demand, margins and repeat business remain hypotheses to validate through a controlled pilot.
 
-    subgraph Flujo_Monetizacion["Flujo de Reserva y Monetización"]
-        direction RL
-        RI["[ Reserva Integrada ]"] --> H["[ Hoteles / Yates / Experiencias ]"]
-        H --> RS["[ Revenue Share ]"]
-    end
+Three opportunities guide the product:
 
-    U --> RI
+- **Destination tourism:** coordinated accommodation, yacht charters, cultural activities, events and concierge services.
+- **LegalTech coordination:** identity checks, document preparation, appointment scheduling and case tracking for eligible civil-marriage procedures.
+- **Professional collaboration:** voluntary communities, business partnerships and institution-led projects, isolated from intimate user data.
 
-    %% Estilos de diseño
-    style U fill:#003366,stroke:#001a33,stroke-width:2px,color:#fff
-    style R fill:#1a5276,stroke:#117864,stroke-width:2px,color:#fff
-    style L fill:#7d3c98,stroke:#512e5f,stroke-width:2px,color:#fff
-    style RI fill:#2e4053,stroke:#1b2631,stroke-width:1px,color:#fff
-    style H fill:#1e8449,stroke:#145a32,stroke-width:1px,color:#fff
-    style RS fill:#b7950b,stroke:#7d6608,stroke-width:2px,color:#fff
-```
-
-### Oportunidad de Mercado e Inversión
-* **Turismo de Destino e Impacto Económico:** El turismo asociado a celebraciones y acuerdos vinculantes genera ingresos recurrentes de alto margen (hotelería boutique, chartering de yates, logística de eventos y servicios de concierge).
-* **Automatización LegalTransfronteriza (LegalTech):** Reducción de fricción en trámites civiles internacionales (ej. jurisdicción de Utah County para matrimonios remotos válidos), integrando verificación de identidad, tramitación documental e inscripción de certificados en tiempos óptimos.
-* **Estructura de Sociedad Colaborativa:** Un esquema B2B/B2C en el que los socios inversores y proveedores turísticos participan directamente de los ingresos por comisión de coordinación, reservas boutique y servicios de soporte privado confidencial.
-
----
-
-## 1. Alcance Consolidado del Proyecto
-
-El sistema se estructura en cinco dominios con aislamiento estricto de datos (*Domain Data Isolation*):
-
-| Dominio | Propósito Estratégico | Límite Operativo / Privacidad |
-| :--- | :--- | :--- |
-| **Turismo y Cultura High-End** | Gestión de destinos, hoteles, cruceros, yates, rutas y experiencias de lujo. | Una reserva turística jamás enrola automáticamente al usuario en descubrimiento social. |
-| **Servicios de Matrimonio Expreso y LegalTech** | Coordinación de trámites civiles remotos, bodas de destino y enlaces simbólicos. | Requiere aceptación explícita de cada adulto; el estado civil es un registro legal auditable. |
-| **Comunidad y Descubrimiento Social** | Networking por intereses, eventos exclusivos e introducción entre adultos elegibles. | Participación voluntaria y restringida a mayores de edad verificado. |
-| **Colaboración Profesional e Inversión** | Alianzas B2B, formación de *ventures*, marketing de afiliados y proyectos de impacto. | Los registros profesionales no exponen preferencias personales ni trámites legales. |
-| **Soporte Privado y Eventos Familiares** | Asistencia confidencial, eventos de bienvenida y gestión de accesibilidad. | Los menores pueden asistir a eventos familiares pero no ingresan al motor de búsqueda de adultos. |
-
----
-
-## 2. Traducción del Análisis de Mercado en Requerimientos de Producto
-
-El análisis de mercado exploratory (*"La probabilidad de atraer.txt"*) ha sido traducido a controles de software y criterios de calificación de usuarios, eliminando perfilamientos arbitrarios y priorizando la **intención explícita y verificable**:
+Remote marriage is a jurisdiction-specific service. The [Utah County Clerk](https://clerk.utahcounty.gov/marriage-license) is an official starting point for its licensing process; the platform must obtain current authority guidance and qualified review for each cross-border case. It must not promise universal recognition, a fixed certificate deadline, automatic immigration benefits or automatic dissolution.
 
 ```mermaid
 flowchart TD
-    A["[ Datos Atributivos / Sesgos ]"] -->|"ELIMINADOS"| B["No se infiere atracción por ocupación/edad"]
-    A --> C["[ Preferencias Explícitas & Intención ]"]
-    C -->|"EVALUADOS"| D["Filtros explícitos de presupuesto, agenda y valores"]
-
-    %% Estilos de diseño
-    style A fill:#2e4053,stroke:#1b2631,stroke-width:1px,color:#fff
-    style B fill:#922b21,stroke:#641e16,stroke-width:1px,color:#fff
-    style C fill:#1a5276,stroke:#117864,stroke-width:2px,color:#fff
-    style D fill:#1e8449,stroke:#145a32,stroke-width:1px,color:#fff
+    U["User request"] --> C["Identity and explicit consent"]
+    C --> T["Travel planning"]
+    C --> L["Legal coordination"]
+    L --> H["Qualified human review"]
+    T --> Q["Itemized proposal"]
+    H --> Q
+    Q --> A{"User approves?"}
+    A -->|Yes| B["Booking and case tracking"]
+    A -->|No| R["Revise or withdraw"]
+    R --> Q
 ```
 
-| Tema de Análisis | Evaluación de Evidencia | Requerimiento de Producto |
-| :--- | :--- | :--- |
-| **Ocupación y Atractivo Financiero** | Listados narrativos sin metodología estadística representativa. | Permite etiquetas opcionales de estilo de vida, estabilidad e intereses. No asigna pesos algorítmicos por cargo o ingresos. |
-| **Matrimonio Expreso y Modelos Relacionales** | Diversidad en expectativas de compromisos civiles y acuerdos patrimoniales. | Trata el monógramo, la no monogamia consensual y los acuerdos exprés como selecciones explícitas y revocables. |
-| **Disponibilidad Horaria y Turnos** | Existencia de patrones de trabajo nocturno y agendas complejas. | Utiliza ventanas de contacto y calendarios de viaje elegidos por el usuario, sin inferir disponibilidad por título laboral. |
-| **Comunidades Universitarias y de Negocios** | Filtros de verificación institucional en redes y plataformas[cite: 3]. | Habilita comunidades *opt-in* por universidad o sector profesional mediante verificación de correo o credenciales[cite: 3]. |
+## 1. Consolidated project scope
 
----
+Five domains define the core platform and its data-access boundaries.
 
-## 3. Arquitectura de Integración y Módulos de IA
+| Domain | Purpose | Operational boundary |
+| --- | --- | --- |
+| Destination tourism and culture | Destinations, hotels, cruises, yachts, itineraries and premium experiences | A booking never automatically enrolls a traveler in social discovery. |
+| Marriage services and LegalTech | Remote civil-marriage coordination, destination weddings and symbolic ceremonies | Each adult consents separately; legal status and symbolic celebrations remain distinct. |
+| Community and social discovery | Interest-based networking, events and introductions | Voluntary participation for age-verified adults, with reciprocal consent and withdrawal controls. |
+| Professional collaboration and investment | B2B partnerships, ventures, affiliate arrangements and impact projects | Professional profiles do not expose relationship preferences or legal case records. |
+| Private support and family events | Confidential assistance, accessibility and family-event logistics | Minors may participate in appropriate family events but never enter adult discovery. |
 
-El núcleo tecnológico garantiza soberanía de datos, respuestas trazables vía RAG y orquestación distribuida mediante microservicios y un motor de IA local/privado[cite: 3]:
+Institutional training and mobility in [section 6](#6-global-strategic-annex) form an optional extension with separate enrollment, records and governance.
+
+## 2. From market hypotheses to product requirements
+
+Earlier exploratory market notes are treated as hypotheses, not representative statistical evidence. Recommendations use declared intentions and preferences; they must not infer attraction, availability or suitability from occupation, age stereotypes or assumed wealth.
+
+| Analysis topic | Evidence assessment | Product requirement |
+| --- | --- | --- |
+| Occupation and financial attractiveness | Narrative claims do not establish reliable attraction probabilities. | Offer optional interest and lifestyle tags; do not rank people by job title or presumed income. |
+| Relationship expectations | Expectations about commitment and property arrangements vary. | Record explicit, revocable preferences such as monogamy or consensual non-monogamy; do not confuse preferences with legally available marriage forms. |
+| Shift patterns and schedules | Work schedules can constrain contact and travel. | Use user-selected contact windows and travel dates rather than occupational assumptions. |
+| University and business communities | Membership needs an appropriate verification process. | Offer opt-in communities with verified email or credentials and limited disclosure. |
+
+Users must be able to inspect, correct and withdraw their preferences. Acceptance of travel, legal services, accommodation sharing and social introductions must be recorded separately.
+
+## 3. Integration architecture and AI modules
+
+The proposed architecture separates domain services, provider adapters, private AI processing and auditable persistence.
 
 ```mermaid
-flowchart TB
-    U["Canales: Web, Mobile PWA, Chat & Maps"] --> I["Capa de Identidad, Consentimiento & Mod"]
-    I --> S["Servicios: Turismo, LegalTech, Eventos & Business Hub"]
-    S --> A["Pasarela de IA: LLM Local, RAG, Ranking Explicable & Human-in-the-Loop"]
-    S --> P["Adaptadores: Proveedores de Vuelos, Hoteles, Oficiantes & Utah County Legal"]
-    S --> D["Persistencia: PostgreSQL, Vector DB (Qdrant/FAISS), Event Outbox"]
-    A --> D
+flowchart TD
+    U["Web, mobile PWA and chat"] --> I["Identity, consent and moderation"]
+    I --> S["Tourism, LegalTech, events and business services"]
+    S --> A["Private AI gateway"]
+    S --> P["Provider adapters"]
+    S --> D["Domain stores and event outbox"]
+    A --> R["Source-grounded retrieval"]
+    R --> D
+    A --> H["Human review queue"]
+    H --> S
 ```
 
-### Componentes Clave de IA y Algoritmos
+| Component | Proposed responsibility | Review requirement |
+| --- | --- | --- |
+| Local/private LLM and multilingual RAG | Draft explanations, retrieve jurisdictional sources and assist itinerary preparation | Record source, jurisdiction, publication/review date and uncertainty; escalate missing or conflicting evidence. |
+| Explicit-preference recommendation | Compare declared dates, budgets, destinations and reciprocal opt-in | Explain matches and exclude inferred intimate traits. |
+| Human review | Validate legal case preparation, disputed eligibility and sensitive decisions | AI does not determine legal capacity, civil status or document validity. |
+| Provider adapters | Connect approved travel, accommodation and officiant services | Confirm API availability, contracts and consent before integration; provide a manual workflow where needed. |
+| PostgreSQL and retrieval index | Store domain records and searchable approved material; evaluate Qdrant or FAISS as alternatives | Apply access controls, retention rules and domain isolation before indexing personal data. |
+| Event outbox and audit records | Track case transitions and provider responses | Require idempotent writes, retry handling and auditable consent changes. |
 
-1.  **Pasarela LLM / RAG Multilingüe:** Acceso a modelos abiertos local-first para interpretar requisitos legales de matrimonio por jurisdicción y cotizar itinerarios sin fuga de datos\[cite: 3\].
-    
-2.  **Motor de Recomendación Basado en Coincidencia Explícita:** Evalúa disponibilidad de fechas, presupuestos compartidos, destinos seleccionados y aceptación mutua (*reciprocal opt-in*)\[cite: 3\].
-    
-3.  **Control Human-in-the-Loop:** La IA no emite juicios sobre capacidad legal, estado civil ni validez de documentos; prepara el expediente para validación por un especialista humano o autoridad civil\[cite: 3\].
-    
+Private hosting is a design choice, not a guarantee against data exposure. Implementation acceptance includes authorization, logging and retention checks across all integrations.
 
-## 4\. Modelo de Negocio e Indicadores de Rendimiento (KPIs)
+## 4. Business model and performance indicators
 
-La rentabilidad del proyecto se basa en la intermediación de servicios turísticos y de gestión legal de alto valor agregado, evitando esquemas que moneticen la vulnerabilidad o los datos íntimos de los usuarios\[cite: 3\].
+The commercial model monetizes delivered services rather than intimate data or vulnerability.
 
-### Fuentes de Ingreso (Revenue Streams)
+| Revenue stream | Proposed offering | Validation needed |
+| --- | --- | --- |
+| LegalTech coordination | Disclosed fees for case preparation and administrative support | Permitted scope of service, provider responsibilities and refund terms |
+| Destination tourism | Disclosed commissions or revenue sharing with travel and event suppliers | Signed agreements, cancellation conditions and unit economics |
+| B2B subscriptions | Operator tools for availability, events and booking coordination | Willingness to pay and licensing model |
+| Premium concierge | Travel assistance, translation and document-service coordination | Supplier qualifications, service limits and realistic delivery times |
 
--   **Comisiones por Coordinación LegalTech:** Tarifa fija por la gestión acelerada de expedientes de matrimonio remoto/expreso e inscripción documental\[cite: 3\].
-    
--   **Márgenes de Turismo de Destino:** Revenue-share con cadenas hoteleras, charters marítimos, restaurantes y empresas de logística de eventos\[cite: 3\].
-    
--   **Suscripciones B2B para Operadores:** Licenciamiento del módulo de gestión de eventos, *matching* de disponibilidad y coordinación de reservas para proveedores locales\[cite: 3\].
-    
--   **Paquetes Premium de Concierge:** Asistencia personalizada en viaje, traducción jurada, apostillado y gestoría posterior al enlace\[cite: 3\].
-    
+| KPI | Measurement |
+| --- | --- |
+| Completed-service conversion | Completed agreed service packages divided by accepted proposals, with cancellations reported separately |
+| Legal-processing time | Elapsed time by case stage, distinguishing platform handling from authority processing |
+| Reciprocal opt-in | Mutually approved interactions divided by eligible introduction requests |
+| User and provider satisfaction | Post-service feedback with sample size, response rate and incident outcomes |
+| Contribution margin | Revenue minus direct supplier, support, payment and refund costs |
 
-### Métricas Principales (KPIs)
+These are proposed measurements, not published performance results.
 
--   **Tasa de Conversión de Itinerarios Completa:** Ratio de paquetes turísticos + coordinación legal ejecutados con éxito\[cite: 3\].
-    
--   **Tiempo de Tramitación Legal:** Eficiencia en el procesamiento de documentos desde la solicitud hasta la emisión del certificado digital/físico\[cite: 3\].
-    
--   **Tasa de Aceptación Recíproca (*Opt-in*):** Porcentaje de interacciones donde ambas partes aprueban compartir agenda o alojamiento\[cite: 3\].
-    
--   **Nivel de Satisfacción de Proveedores y Usuarios:** Evaluación de la calidad del servicio, seguridad y respuesta ante emergencias\[cite: 3\].
-    
+## 5. Implementation and investment phases
 
-## 5\. Plan de Implementación y Fases de Inversión
+| Phase | Deliverable | Exit criterion |
+| --- | --- | --- |
+| 0. Governance and legal inputs | Source register, data map, threat model and draft partnership terms | Qualified review of the selected pilot jurisdictions and accountable service owners |
+| 1. Local-first MVP | Modular API, domain storage, retrieval and manual concierge workflows | Synthetic-case checks for consent, authorization and domain isolation pass |
+| 2. Controlled pilot | One destination with contracted accommodation, legal-service and support providers | Completed pilot cases; incident review and agreed satisfaction targets assessed with an adequate sample |
+| 3. Automated integrations | Approved APIs, webhooks and document workflows | Load, idempotency, recovery and audit checks pass |
+| 4. Expansion | Additional markets and operating partners; event infrastructure and orchestration where justified | Sustainable unit economics, capacity and privacy controls demonstrated before expansion |
 
-**Fase**
+The earlier satisfaction target above 90% remains a proposed pilot ambition, not a guaranteed outcome. Kafka, Kubernetes or alternative infrastructure should be selected only when measured requirements justify the operational cost.
 
-**Entregable Clave**
+## 6. Global strategic annex
 
-**Criterio de Salida / Milestone**
+The [strategic annex](docs/ANNEX.md) develops the proposed FOSS simulation, CAD/model-based design and naval-aviation preparatory education track. It also covers industrial-design showcases, professional mobility and regional development.
 
-**Fase 0: Gobierno e Insumos Legales**
+**New comparison:** [Annex section 6](docs/ANNEX.md#6-technology-city-incentives-austria-greece-and-sweden-compared-with-turkey) compares technology-city opportunities in **Austria, Greece and Sweden against Türkiye (Turkey)**. It distinguishes company R&D support, personal tax treatment, ecosystem access and individual immigration requirements.
 
-Registro de fuentes legales, mapa de datos, modelo de amenaza y contratos marco de alianza\[cite: 3\].
+| Candidate hub | Role proposed for evaluation |
+| --- | --- |
+| Vienna, Austria | R&D funding and a possible coordination base |
+| Athens / Thessaloniki, Greece | Tourism/LegalTech pilot and innovation partnerships |
+| Gothenburg, Sweden | Collaborative mobility and simulation research |
+| Ankara, Türkiye | Technopark-based software and engineering development |
 
-Dictamen legal favorable en jurisdicciones piloto (ej. Perú, Utah/EE. UU.)\[cite: 3\].
+These roles are project hypotheses, not confirmed partnerships or a country ranking. Technology-hub support is not automatically a housing or demographic-repopulation grant.
 
-**Fase 1: MVP Local-First**
+Voluntary Service Agreements (VSAs) are proposed project contracts for clearly defined training or collaboration. They do not establish entitlement to public benefits, employment, military admission, visas or residency. Adult professional mobility must remain separate from social discovery and family decisions.
 
-API modular, PostgreSQL + Vector DB, pasarela RAG legal y flujos de reserva manual/concierge\[cite: 3\].
+## Repository resources
 
-Pruebas sintéticas aprobadas para aislamiento de dominios y consentimiento\[cite: 3\].
+- [Strategic and institutional annex](docs/ANNEX.md)
+- [CAD concept illustrations](MBSE/CAD/)
+- [Requirements and architecture diagrams](MBSE/CAS/drawio/)
+- [Network and portfolio opportunity report](reports/linkedin-network-portfolio-opportunity-analysis-2026-09-01-15-en.md)
 
-**Fase 2: Piloto Controlado**
-
-Despliegue en 1 destino turístico estratégico con hoteles boutique, oficiantes y staff de soporte\[cite: 3\].
-
-Cierre exitoso de casos piloto de turismo + matrimonio expreso con satisfacción > 90%\[cite: 3\].
-
-**Fase 3: Integraciones Automatizadas**
-
-Conexión vía API/Webhooks con motores de reserva turística y plataformas de firma legal\[cite: 3\].
-
-Pruebas de carga, idempotencia y auditoría de documentos superadas\[cite: 3\].
-
-**Fase 4: Escala e Inversión de Expansión**
-
-Bus de eventos (Kafka/Redpanda), Kubernetes, observabilidad y apertura a nuevos mercados en LATAM/EE. UU.\[cite: 3\]
-
-Métricas de rendimiento y presupuestos de privacidad validados previa expansión regional\[cite: 3\].
-
-## 6. Global Strategic Annex: FOSS Simulation, Aeronaval Academies & Demographic Incentives
-
-For a detailed analysis of international mobility, Free Trade Agreements (FTAs) with the Andean Community (CAN), and demographic repopulation programs, consult the complete project annex: [`ANNEX.md`](./docs/ANNEX.md).
-
-### Executive Summary of the Annex
-The **`jfxai4mad`** ecosystem extends its core architecture to support open-source simulation frameworks (including Model-Based Design / CAD integration for platforms like the *Stavatti Stiletto*) targeted at **pre-military naval aviation academies**. 
-
-To address severe global demographic declines, aging populations, and regional brain drain, the platform integrates **Voluntary Service Agreements (VSAs)** linked to state-backed housing, tax, and family relocation grants across high-urgency cities in North America, Europe, and Asia.
-
-```mermaid
-graph TD
-    A["CAN Pre-Military Academies<br/><i>(Peru, Colombia, Ecuador, Bolivia)</i>"] -->|"Voluntary Service Agreement / CAD Training"| B["Open-Source Simulation Engine<br/><b>(jfxai4mad)</b>"]
-
-    B -->|"Industrial Art & Design Showcases"| C["Industrial Art Gallery Exhibitions<br/><i>(Tel Aviv / Milan)</i>"]
-    B -->|"Repopulation & Remote Dev Incentives"| D["Rural AI & FOSS Repopulation Hubs<br/><i>(Tulsa / Kamiyama / Ponga / Görlitz)</i>"]
-    B -->|"Aeronaval CAD / MBD Co-Development"| E["Dual-Use Aeronaval R&D<br/><i>(South Korea / Taiwan / Romania)</i>"]
-
-    style A fill:#003366,stroke:#001a33,stroke-width:2px,color:#fff
-    style B fill:#1a5276,stroke:#117864,stroke-width:3px,color:#fff
-    style C fill:#2e4053,stroke:#1b2631,stroke-width:1px,color:#fff
-    style D fill:#1e8449,stroke:#145a32,stroke-width:1px,color:#fff
-    style E fill:#7d3c98,stroke:#512e5f,stroke-width:1px,color:#fff
-```
-
-## 📍 Declaración de Posicionamiento
-
-> **JFXAI4MAD** es una plataforma abierta y modular que rediseña la confluencia entre el turismo de destino, el LegalTech de matrimonio expreso y la colaboración profesional\[cite: 3\]. Al utilizar un motor de IA explicable y privado que procesa únicamente elecciones explícitas de los usuarios, elimina la intermediación ineficiente y ofrece a inversores y socios comerciales un modelo transparente de ingresos basado en servicios turísticos y de coordinación de alto valor\[cite: 3\].
+**Positioning:** JFXAI4MAD proposes a modular, evidence-led coordination platform for destination tourism, LegalTech and professional collaboration, with explicit user choice and human accountability at its core.
