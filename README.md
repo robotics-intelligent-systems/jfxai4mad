@@ -13,16 +13,29 @@
 
 La plataforma transforma el mercado del turismo de bodas (*destination weddings*) y los servicios de vinculación civil rápida mediante un modelo de **Sociedad Colaborativa**, conectando a usuarios finales con proveedores de alojamiento, operadores turísticos, oficiantes legales y firmas de asesoría. 
 
-```
+```mermaid
+flowchart LR
+    subgraph Flujo_Usuario["Flujo de Usuario y LegalTech"]
+        direction LR
+        U["[ Usuario / Pareja ]"] --> R["[ Motor RAG / IA Privada ]"]
+        R --> L["[ Flujo LegalTech (Matrimonio Expreso) ]"]
+    end
 
-\[ Usuario / Pareja \] ──► \[ Motor RAG / IA Privada \] ──► \[ Flujo LegalTech (Matrimonio Expreso) \]
+    subgraph Flujo_Monetizacion["Flujo de Reserva y Monetización"]
+        direction RL
+        RS["[ Revenue Share ]"] <-- H["[ Hoteles / Yates / Experiencias ]"]
+        H <-- RI["[ Reserva Integrada ]"]
+    end
 
-│
+    U --> RI
 
-▼
-
-\[ Revenue Share \] ◄── \[ Hoteles / Yates / Experiencias \] ◄── \[ Reserva Integrada \]
-
+    %% Estilos de diseño
+    style U fill:#003366,stroke:#001a33,stroke-width:2px,color:#fff
+    style R fill:#1a5276,stroke:#117864,stroke-width:2px,color:#fff
+    style L fill:#7d3c98,stroke:#512e5f,stroke-width:2px,color:#fff
+    style RI fill:#2e4053,stroke:#1b2631,stroke-width:1px,color:#fff
+    style H fill:#1e8449,stroke:#145a32,stroke-width:1px,color:#fff
+    style RS fill:#b7950b,stroke:#7d6608,stroke-width:2px,color:#fff
 ```
 
 ### Oportunidad de Mercado e Inversión
@@ -161,7 +174,7 @@ Métricas de rendimiento y presupuestos de privacidad validados previa expansió
 
 ## 6. Global Strategic Annex: FOSS Simulation, Aeronaval Academies & Demographic Incentives
 
-For a detailed analysis of international mobility, Free Trade Agreements (FTAs) with the Andean Community (CAN), and demographic repopulation programs, consult the complete project annex: [`ANNEX.md`](./ANNEX.md).
+For a detailed analysis of international mobility, Free Trade Agreements (FTAs) with the Andean Community (CAN), and demographic repopulation programs, consult the complete project annex: [`ANNEX.md`](./docs/ANNEX.md).
 
 ### Executive Summary of the Annex
 The **`jfxai4mad`** ecosystem extends its core architecture to support open-source simulation frameworks (including Model-Based Design / CAD integration for platforms like the *Stavatti Stiletto*) targeted at **pre-military naval aviation academies**. 
