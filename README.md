@@ -23,8 +23,8 @@ flowchart LR
 
     subgraph Flujo_Monetizacion["Flujo de Reserva y Monetización"]
         direction RL
-        RS["[ Revenue Share ]"] <-- H["[ Hoteles / Yates / Experiencias ]"]
-        H <-- RI["[ Reserva Integrada ]"]
+        RI["[ Reserva Integrada ]"] --> H["[ Hoteles / Yates / Experiencias ]"]
+        H --> RS["[ Revenue Share ]"]
     end
 
     U --> RI
@@ -97,7 +97,7 @@ flowchart TB
     S --> P["Adaptadores: Proveedores de Vuelos, Hoteles, Oficiantes & Utah County Legal"]
     S --> D["Persistencia: PostgreSQL, Vector DB (Qdrant/FAISS), Event Outbox"]
     A --> D
-````
+```
 
 ### Componentes Clave de IA y Algoritmos
 
