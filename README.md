@@ -18,6 +18,7 @@ The repository currently contains documentation, concept images and requirements
 - [6. Global strategic annex](#6-global-strategic-annex)
   - [Detailed annex contents](docs/ANNEX.md#contents)
   - [Professional collaboration](docs/ANNEX.md#9-professional-collaboration-and-ai-assisted-sourcing)
+  - [Reproductive planning framework](docs/ANNEX.md#14-reproductive-planning-in-consensual-adult-multi-partner-families)
   - [Commercial corridors and evaluation](docs/ANNEX.md#11-proposed-international-commercial-corridors)
 - [Repository resources](#repository-resources)
 
@@ -150,11 +151,14 @@ The [strategic and institutional annex](docs/ANNEX.md) consolidates proposed FOS
 | Corporate agreements and personal autonomy | [Section 10: governance](docs/ANNEX.md#10-corporate-governance-and-personal-autonomy) |
 | International commercial research | [Section 11: proposed corridors](docs/ANNEX.md#11-proposed-international-commercial-corridors) |
 | Project economics and separate impact measures | [Section 12: evaluation](docs/ANNEX.md#12-economic-evaluation-and-impact-measurement) |
+| Reproductive planning for consenting adult families | [Section 14: fertility education and evidence limits](docs/ANNEX.md#14-reproductive-planning-in-consensual-adult-multi-partner-families) |
 | Deliverables and acceptance criteria | [Section 13: implementation gates](docs/ANNEX.md#13-implementation-matrix-and-release-gates) |
 
 Vienna, Athens/Thessaloniki, Gothenburg and Ankara remain candidate hubs, not selected partners or a country ranking. Programme terms must be checked before applications; technology support is not automatically a housing or relocation grant.
 
 Professional participation uses declared skills and voluntary applications. AI must not infer intimate preferences from GitHub or LinkedIn profiles. Project agreements, company formation, personal relationships, marriage services and work/residence applications have separate decisions and records. Voluntary Service Agreements do not establish entitlement to public benefits, employment, military admission, visas or residency.
+
+The reproductive-planning extension covers conception through intercourse, optional fertility awareness and preconception care. It does not establish a validated polyamorous fertility protocol, partner quota or pregnancy guarantee. Personal health decisions and records remain separate from professional collaboration and incentive evaluation.
 
 ## Repository resources
 
