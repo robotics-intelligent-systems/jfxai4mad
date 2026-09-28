@@ -22,6 +22,7 @@ The repository currently contains documentation, concept images and requirements
   - [Lubricants and natural secretions](docs/ANNEX.md#17-lubricants-and-natural-secretions-when-trying-to-conceive)
   - [Uterine orientation and fertility](docs/ANNEX.md#18-uterine-orientation-anatomy-comfort-and-fertility)
   - [Seven-adult household space planning](docs/ANNEX.md#19-conceptual-space-planning-for-a-seven-adult-household)
+  - [Shared retreat suite specifications](docs/ANNEX.md#20-shared-retreat-suite-preliminary-architectural-specifications)
   - [Annual coordination and athletic wellbeing](docs/ANNEX.md#15-annual-coordination-personal-preferences-and-athletic-wellbeing)
   - [Reproductive planning framework](docs/ANNEX.md#14-reproductive-planning-in-consensual-adult-multi-partner-families)
   - [Commercial corridors and evaluation](docs/ANNEX.md#11-proposed-international-commercial-corridors)
@@ -162,6 +163,7 @@ The [strategic and institutional annex](docs/ANNEX.md) consolidates proposed FOS
 | Lubricants and natural secretions | [Section 17: formulation evidence, household-substitute limitations and product selection](docs/ANNEX.md#17-lubricants-and-natural-secretions-when-trying-to-conceive) |
 | Uterine orientation and fertility | [Section 18: anatomy, comfort and posture evidence](docs/ANNEX.md#18-uterine-orientation-anatomy-comfort-and-fertility) |
 | Residential, underground and yacht space planning | [Section 19: privacy, room programme and conceptual circulation](docs/ANNEX.md#19-conceptual-space-planning-for-a-seven-adult-household) |
+| Shared retreat suite specifications | [Section 20: area budget, furniture, environmental controls and verification](docs/ANNEX.md#20-shared-retreat-suite-preliminary-architectural-specifications) |
 | Deliverables and acceptance criteria | [Section 13: implementation gates](docs/ANNEX.md#13-implementation-matrix-and-release-gates) |
 
 Vienna, Athens/Thessaloniki, Gothenburg and Ankara remain candidate hubs, not selected partners or a country ranking. Programme terms must be checked before applications; technology support is not automatically a housing or relocation grant.
