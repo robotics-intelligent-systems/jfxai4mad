@@ -32,6 +32,7 @@
 - [19. Conceptual space planning for a seven-adult household](#19-conceptual-space-planning-for-a-seven-adult-household)
 - [20. Shared retreat suite: preliminary architectural specifications](#20-shared-retreat-suite-preliminary-architectural-specifications)
 - [21. Utah and comparative family-law review](#21-utah-and-comparative-family-law-review)
+- [22. European rural renewal and independent safeguarding review](#22-european-rural-renewal-and-independent-safeguarding-review)
 
 ## 1. Executive summary
 
@@ -1051,3 +1052,82 @@ Utah remains a jurisdiction to evaluate for the project's existing marriage-coor
 | L11 | [Austria — Cross-border family benefits](https://www.oesterreich.gv.at/en/themen/familie_und_partnerschaft/finanzielle-unterstuetzungen/Grenz%C3%BCberschreitende-Familienleistungen-in-der-EU) | Eligibility and coordination limitations |
 
 This is a sourced comparative planning note, not an individual legal or tax determination. Numeric consent-age comparisons for Japan, Türkiye and Austria remain outside the verified scope of this update.
+
+
+## 22. European rural renewal and independent safeguarding review
+
+**Review date: 28 September 2026.** Rural housing, regional development, family benefits and criminal-law protections are separate policy domains. Funding eligibility does not change the law on consent, marriage or child protection. This section compares the five countries submitted for review—Italy, Germany, Austria, Hungary and Bulgaria—by documented programme mechanisms, not by sexual-consent thresholds.
+
+The project remains **18+** for adult discovery and reproductive planning. A lower statutory threshold is neither legal adulthood nor an eligibility criterion for these services. Children may benefit from appropriate family services; they do not enter adult discovery or reproductive scheduling.
+
+### 22.1 Programme comparison and evidence status
+
+| Country | Documented mechanism | Status and limits at review | Required local verification |
+| --- | --- | --- | --- |
+| Italy | Municipal symbolic-price property initiatives, illustrated by Mussomeli's official one-euro-house purchase and transfer documentation. [R1] | A municipal programme is not a national right to a €1 habitable home. The existence of application documents does not establish that a particular property is currently available. | Current listing and tender rules, title, transaction costs, renovation scope, guarantees, deadlines and any residence obligation |
+| Germany | KfW housing finance, including programme 308, *Jung kauft Alt*, for eligible families purchasing and improving an existing property. [R2, R3] | Baukindergeld 424 is closed to new applications. Programme 308 is a loan with conditions, not a rural relocation grant or free-land entitlement. | Current product rules, income and ownership eligibility, renovation requirements, financing approval and application timing |
+| Austria | Länder-administered housing support, including regional loans or interest subsidies. [R4] | Conditions differ by Bundesland and project. General housing support is not automatically restricted to depopulating villages or available to every relocating household. | Regional funding rules, income, residence, building type, energy requirements and any municipal supplement |
+| Hungary | Rural family-housing measures including *Falusi CSOK*, alongside other distinct loan and renovation programmes. [R5] | Government material documents the programme, but the cited announcement does not determine an applicant's current eligibility or establish an open application window for every associated scheme. | Eligible settlement list, purchase/renovation purpose, existing versus planned children, applicant status, deadlines and repayment obligations |
+| Bulgaria | CAP Strategic Plan interventions addressing rural living conditions and young or small farmers. [R6] | An approved strategy is not an individual grant award or confirmation of an open call. Agricultural business support is not a general birth bonus or residential relocation payment. | National managing-authority call, farm/business requirements, eligible expenditure, co-financing, selection criteria and deadlines |
+
+**Germany:** KfW 308 concerns eligible existing homes and energy renovation requirements; renovation costs have a separate financing route. Its criteria include household circumstances and owner occupation. Do not relabel it as a programme exclusively for underdeveloped rural districts. [R3]
+
+**Austria:** Housing support and Familienbeihilfe are different instruments. Section 21 covers family-benefit starting points; no nationwide entitlement to an additional municipal baby bonus is established here.
+
+**Hungary:** Do not merge *Falusi CSOK*, *CSOK Plusz*, renovation support and personal-income-tax allowances into a single “forgivable loan.” The tax authority separately describes relief for qualifying mothers and specified income categories. That does not establish exemption from every tax on every type of income, nor an entitlement for a newly arrived resident. [R7]
+
+### 22.2 Submitted claims requiring correction or further evidence
+
+| Submitted claim | Treatment in this study |
+| --- | --- |
+| All one-euro homes require renovation within 1–3 years and permanent residence | Replace with property- and municipality-specific requirements; no universal deadline or occupancy rule is asserted |
+| Molise pays €700 per month for three years to new residents | Treat as an unverified historical programme lead, not a current offer; obtain the original call, closure date and any successor scheme before budgeting |
+| Free or symbolic-price plots are broadly available across eastern Germany | No named current municipal offer was verified; exclude this promise until a specific tender and binding conditions are available |
+| Rural relocation grants are routinely available to doctors, nurses and teachers | Verify a named professional scheme, licensing requirements and service commitment; no blanket entitlement is recorded |
+| Local birth bonuses are available throughout rural Italy and Austria | Require an identified municipality, current ordinance, budget and eligibility rules; do not extrapolate a local example nationwide |
+| Hungary universally rewards promises of future children | Distinguish programme-specific eligibility and contractual commitments from support for existing children; review consequences if conditions are not met |
+| Bulgaria offers general tax exemptions to rural newcomers | No specific tax provision was verified; retain only the documented agricultural-development research lead |
+
+The source review does not establish comparable national depopulation rates, social acceptance or net financial advantage. No country ranking follows from this table.
+
+### 22.3 Independent child-protection review
+
+The supplied “14 years in all five countries” table is not adopted as a verified legal summary. The cited provisions and simplified age-gap statements do not establish a complete rule for each jurisdiction. General criminal responsibility, sexual-offence law, majority and marriage capacity are distinct concepts.
+
+For example, Germany's StGB §182 contains additional protections concerning exploitation and adolescent vulnerability; Austria's relevant review extends beyond §206 to provisions such as §207b. This is why a headline threshold or a single three-year-gap rule is inadequate. [R8, R9] The detailed current thresholds and exceptions for all five jurisdictions were not fully verified in this review and must not be presented as operational advice.
+
+Any future legal appendix requires a qualified reviewer to check the applicable consolidated text, effective date, authority/dependency relationships, exploitation, coercion and cross-border rules. Rural relocation tools must not filter, rank or recommend destinations by access to minors or lower sexual-consent thresholds. Keep this legal review separate from economic eligibility and the existing 18+ service boundary.
+
+### 22.4 Rural opportunity assessment and CAD integration
+
+Use a programme-level register with the following fields:
+
+| Record | Required information |
+| --- | --- |
+| Programme identity | Authority, municipality/region, official call and version |
+| Availability | Open, closed, historical or unverified; application deadline and remaining-budget evidence where published |
+| Eligibility | Residence/citizenship, income, household definition, ownership and activity requirements |
+| Financial instrument | Grant, repayable loan, tax relief or discounted asset; identify which costs are excluded |
+| Obligations | Occupancy, renovation, business activity, reporting, clawback and transfer restrictions |
+| Total cost | Purchase, professional fees, tax, rehabilitation, energy, financing, maintenance and contingency |
+| Review | Named legal/financial reviewer, source date and next recheck |
+
+Before linking a property to the OpenTwin habitat concept, assess planning permission, heritage constraints, ground conditions, accessibility, services and actual renovation feasibility. A low purchase price does not validate an underground extension, seven-suite layout or funding eligibility. Sections 8.2 and 19–20 provide design-study inputs, not ready-to-build plans.
+
+Compare candidate locations using adult household needs, employment, healthcare, education, connectivity, total costs and verified programme terms. Do not count speculative subsidies as secured financing or make reproductive commitments on behalf of residents.
+
+### 22.5 Official source register
+
+| ID | Source | Review scope |
+| --- | --- | --- |
+| R1 | [Comune di Mussomeli — One-euro property purchase request](https://www.comune.mussomeli.cl.it/amministrazione/documenti_e_dati/modulistica/documento_91.html) | Municipal documentation; current property availability not established |
+| R2 | [KfW — Baukindergeld 424](https://www.kfw.de/inlandsfoerderung/Privatpersonen/Bestandsimmobilie/F%C3%B6rderprodukte/Baukindergeld-%28424%29/) | Explicit closure to new applications |
+| R3 | [KfW — Existing-home purchase programme 308](https://www.kfw.de/inlandsfoerderung/Privatpersonen/Bestehende-Immobilie/F%C3%B6rderprodukte/Wohneigentum-f%C3%BCr-Familien-Bestandserwerb-%28308%29/) | Loan purpose and conditions; not an approval or interest-rate quotation |
+| R4 | [Austria — Housing support and allowances](https://www.oesterreich.gv.at/de/themen/bauen_und_wohnen/wohnen/8/3/Seite.210172) | Differences between regional housing schemes |
+| R5 | [Hungarian Government — Continuation of the Hungarian Village Programme](https://kormany.hu/hirek/folytatodik-a-magyar-falu-program5) | Programme announcement; current applicant terms require separate verification |
+| R6 | [European Commission — Bulgaria CAP Strategic Plan](https://agriculture.ec.europa.eu/cap-my-country/cap-strategic-plans/bulgaria_en) | Approved strategy and links to national implementation |
+| R7 | [Hungarian tax authority — Relief for mothers raising four or more children](https://nav.gov.hu/ado/szja/szja-kedvezmenyek/negy-vagy-tobb-gyermeket-nevelo-anyak-kedvezmenye) | Separate tax-relief framework; individual qualification not determined |
+| R8 | [Germany — StGB §182](https://www.gesetze-im-internet.de/stgb/__182.html) | Additional adolescent-protection provisions; not a complete consent-law opinion |
+| R9 | [Austria — Consolidated Criminal Code](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10002296) | Official legal-review starting point; indexed text consulted, direct §207b retrieval unavailable |
+
+These sources establish research starting points and selected verified corrections. They do not establish immigration rights, benefit eligibility, approval of a household structure or permission to bypass child-protection rules.
