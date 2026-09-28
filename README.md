@@ -17,6 +17,7 @@ The repository currently contains documentation, concept images and requirements
 - [5. Implementation and investment phases](#5-implementation-and-investment-phases)
 - [6. Global strategic annex](#6-global-strategic-annex)
   - [Detailed annex contents](docs/ANNEX.md#contents)
+  - [Utah and comparative family-law review](docs/ANNEX.md#21-utah-and-comparative-family-law-review)
   - [Professional collaboration](docs/ANNEX.md#9-professional-collaboration-and-ai-assisted-sourcing)
   - [Sperm transport and postcoital evidence](docs/ANNEX.md#16-sperm-transport-lubrication-and-postcoital-evidence)
   - [Lubricants and natural secretions](docs/ANNEX.md#17-lubricants-and-natural-secretions-when-trying-to-conceive)
@@ -165,6 +166,7 @@ The [strategic and institutional annex](docs/ANNEX.md) consolidates proposed FOS
 | Uterine orientation and fertility | [Section 18: anatomy, comfort and posture evidence](docs/ANNEX.md#18-uterine-orientation-anatomy-comfort-and-fertility) |
 | Residential, underground and yacht space planning | [Section 19: privacy, room programme and conceptual circulation](docs/ANNEX.md#19-conceptual-space-planning-for-a-seven-adult-household) |
 | Shared retreat suite specifications | [Section 20: area budget, furniture, environmental controls and verification](docs/ANNEX.md#20-shared-retreat-suite-preliminary-architectural-specifications) |
+| Utah, Japan, Türkiye and Austria: household legal status and family support | [Section 21: legal distinctions, adult-only scope and eligibility review](docs/ANNEX.md#21-utah-and-comparative-family-law-review) |
 | Deliverables and acceptance criteria | [Section 13: implementation gates](docs/ANNEX.md#13-implementation-matrix-and-release-gates) |
 
 Vienna, Athens/Thessaloniki, Gothenburg and Ankara remain candidate hubs, not selected partners or a country ranking. Programme terms must be checked before applications; technology support is not automatically a housing or relocation grant.
@@ -174,6 +176,8 @@ Professional participation uses declared skills and voluntary applications. AI m
 The reproductive-planning extension covers conception through intercourse, optional fertility awareness and preconception care. It does not establish a validated polyamorous fertility protocol, partner quota or pregnancy guarantee. Personal health decisions and records remain separate from professional collaboration and incentive evaluation.
 
 The annual example uses optional quarterly support reviews for two self-selected planning circles. It establishes no biological cohort size, sexual quota, physique target or ethnicity-based compatibility rule. Each adult retains independent choices and access to care throughout the year.
+
+The [Utah comparison](docs/ANNEX.md#21-utah-and-comparative-family-law-review) distinguishes the 2020 bigamy reform from recognition of plural marriage and reviews family-support eligibility across Japan, Türkiye and Austria. It does not rank destinations by consent-age thresholds or guarantee subsidies; adult discovery remains 18+, and legal and tax conclusions require individual review.
 
 ## CAD spotlight: OpenTwin modular habitat and shared retreat
 

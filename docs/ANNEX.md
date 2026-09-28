@@ -31,6 +31,7 @@
 - [18. Uterine orientation: anatomy, comfort and fertility](#18-uterine-orientation-anatomy-comfort-and-fertility)
 - [19. Conceptual space planning for a seven-adult household](#19-conceptual-space-planning-for-a-seven-adult-household)
 - [20. Shared retreat suite: preliminary architectural specifications](#20-shared-retreat-suite-preliminary-architectural-specifications)
+- [21. Utah and comparative family-law review](#21-utah-and-comparative-family-law-review)
 
 ## 1. Executive summary
 
@@ -984,3 +985,69 @@ Reviewed on **28 September 2026**:
 | F16 | [US Department of Energy — Purchasing Energy-Efficient Light Bulbs](https://www.energy.gov/cmei/femp/purchasing-energy-efficient-light-bulbs) | Colour temperature versus light output |
 
 All numerical values above are preliminary design inputs or explicitly shown geometric calculations, not validated clinical thresholds or declarations of code compliance.
+
+
+## 21. Utah and comparative family-law review
+
+**Review date: 28 September 2026.** This supplement compares the submitted Utah, Japan, Türkiye and Austria proposals without declaring a preferred destination. It distinguishes private cohabitation, marriage recognition, criminal liability and household-benefit eligibility. The project's adult social-discovery and reproductive-planning functions remain **18+**, regardless of lower statutory thresholds in any jurisdiction.
+
+### 21.1 Utah: reform is not recognition of plural marriage
+
+Utah's 2020 S.B. 102 reduced the basic bigamy offence to an infraction and retained felony provisions for specified aggravated conduct. It defined the basic offence around purporting to marry while knowing, or reasonably being expected to know, that either person is already legally married. Mere cohabitation is not the same statutory element. The reform does not mean that every multi-partner arrangement is immune from legal consequences. [L1]
+
+Do not describe this as a purely civil matter or promise that prosecution occurs only when there is abuse: the basic offence remains an infraction in the criminal-law framework. Fraud, threats, coercion and additional offences have distinct consequences. Article III of Utah's Constitution continues to prohibit plural marriages. Reduced punishment is not recognition of multiple spouses. [L1, L2]
+
+The official code search also exposes a version effective **1 January 2027**. That future text must not be substituted for the law applicable on this review date. Direct retrieval of some current-code pages was blocked; the historical reform and official marriage guidance were accessible. A qualified Utah lawyer must verify the applicable consolidated statute before a user-facing legal determination.
+
+Historical religious context is not evidence of present-day acceptance of a particular household. The annex makes no claim that Utah is uniquely permissive worldwide or that its residents, institutions or religious communities uniformly support non-monogamy.
+
+### 21.2 Age, marriage and safeguarding are separate questions
+
+The submitted table conflates sexual-consent rules, legal adulthood and marriage eligibility. A single age cannot communicate exceptions, age differences, authority relationships, coercion provisions and other protections.
+
+Utah County's official guidance states a standard marriage age of 18, with parental and judicial consent required for 16–17-year-olds and no marriage below 16. The 2026 enrolled H.B. 103 text, effective 6 May 2026, strengthens protections relating to unlawful minor marriages and recognition of marriages performed elsewhere; it does not support the supplied statement “18 without exception.” [L3, L4]
+
+The submitted “Utah consent age 16” must not be presented as unrestricted permission for adult-minor relationships. Sexual-offence provisions require a separate current-law analysis. This review does not publish a jurisdiction-shopping table of minimum sexual ages or implement minor participation. Legal majority, capacity and freely given, continuing consent must be assessed independently.
+
+Austria's current national marriage guidance states legal adulthood at 18 and decision-making capacity as requirements. Older official pages can conflict with current guidance, so dated or superseded summaries must not drive product eligibility. [L5]
+
+### 21.3 Comparative evidence matrix
+
+| Jurisdiction | Marriage and cohabitation assessment | Family-support evidence | Unresolved requirements |
+| --- | --- | --- | --- |
+| Utah / United States | Bigamy reform does not authorise plural civil marriage; cohabitation and purported marriage require separate analysis. [L1–L3] | Federal child-related tax benefits depend on qualifying-child and taxpayer rules; they are not Utah-specific grants for multiple partners. [L6] | Current state code, parentage, property, insurance, immigration and actual household tax eligibility |
+| Japan | Do not equate informal cohabitation with recognised multi-spouse status. A current family-law review is required before claiming legal protection. | Official guidance describes pregnancy and child-rearing support, with local administration and eligibility differences. [L7] | Current marriage/parentage law, residence requirements and municipal benefits; no unsupported social-stigma rating |
+| Türkiye | Do not classify all informal cohabitation or every religious practice as criminal from a summary about civil marriage. Use the official marriage authority and qualified local review. [L8] | The expanded birth-assistance programme applies eligibility conditions including Turkish citizenship, residence and qualifying births from 2025. [L9] | Marriage recognition, relevant criminal provisions, parentage and programme-specific eligibility |
+| Austria | Current official guidance requires marriageability and absence of marriage prohibitions; privacy rights do not themselves create plural spousal rights. [L5] | Familienbeihilfe and related supports exist, but cross-border rules and individual conditions matter. Residence registration or citizenship alone does not establish entitlement. [L10, L11] | Household attribution, applicable EU coordination, employment/insurance and parental-leave eligibility |
+
+No verified, comparable model supports the submitted “low / high / very high” ratings or a conclusion that Utah maximises family support. Nor do the reviewed sources establish Austria as the universal financial winner. Compare the same household assumptions, tax year, residence status, childcare costs, healthcare coverage and net disposable income before making an economic recommendation.
+
+The proposal's references to an “Office of Families,” historical fertility leadership and broad sociocultural preferences do not establish a benefit entitlement and are not adopted as evidence of financial advantage.
+
+### 21.4 Requirements for a defensible household comparison
+
+1. Identify each adult's nationality, residence and legal marital status without inferring eligibility from relationship labels.
+2. Obtain separate advice on marriage recognition, parentage, guardianship, property, inheritance and emergency decision-making.
+3. Calculate benefits for named programmes and eligible claimants. Do not assume that every adult may claim the same child or that relocation creates immediate entitlement.
+4. Record controlling sources, effective dates, conflicting guidance and qualified-review status. Distinguish proposed legislation from enacted law.
+5. Preserve individual finances, consent, access to advice and the ability to leave. Do not rank jurisdictions by presumed ease of avoiding safeguarding rules.
+
+Utah remains a jurisdiction to evaluate for the project's existing marriage-coordination track, not an endorsed destination for plural marriage or a guaranteed source of family subsidies. The housing concepts in sections 19–20 establish no legal household status or right to public support.
+
+### 21.5 Official source register
+
+| ID | Source | Evidence scope and limitation |
+| --- | --- | --- |
+| L1 | [Utah S.B. 102, enrolled, 2020](https://le.utah.gov/~2020/bills/sbillenr/SB0102.htm) | Historical bigamy reform; current consolidation requires rechecking |
+| L2 | [Utah Constitution, Article III](https://le.utah.gov/xcode/ArticleIII/UC_AIII_1800010118000101.pdf) | Prohibition on plural marriage; official indexed text consulted |
+| L3 | [Utah County Clerk — Officiant responsibilities](https://clerk.utahcounty.gov/marriage-license/officiant-responsibilities) | Marriage age, consent and prohibited marriages |
+| L4 | [Utah H.B. 103, enrolled, 2026](https://le.utah.gov/Session/2026/bills/enrolled/HB0103.pdf) | Underage-marriage protections and effective date |
+| L5 | [Austria — Registering to get married](https://www.oesterreich.gv.at/en/themen/familie_und_partnerschaft/partnerschaft-und-ehe/heirat/3/Seite.070100) | Current national marriage guidance |
+| L6 | [IRS — Family, dependents and students credits](https://www.irs.gov/credits-deductions/family-dependents-and-students-credits) | Federal programme starting points, not a household eligibility determination |
+| L7 | [Japan Children and Families Agency — Pregnancy and child-rearing guide](https://mchbook.cfa.go.jp/pdf/R5_EN_lea.pdf) | General service guide; current municipal conditions must be checked |
+| L8 | [Türkiye General Directorate of Population and Citizenship Affairs — Marriage procedures](https://www.nvi.gov.tr/evlenme-islemleri) | Official procedural starting point; not a complete criminal-law opinion |
+| L9 | [Türkiye Ministry of Family and Social Services — New birth assistance FAQ](https://www.aile.gov.tr/sss/sosyal-yardimlar-genel-mudurlugu/yeni-dogum-yardimi/) | Programme conditions; no cross-country generosity ranking |
+| L10 | [Austria — Family allowance](https://www.oesterreich.gv.at/en/themen/familie_und_partnerschaft/familienbeihilfe) | Programme overview |
+| L11 | [Austria — Cross-border family benefits](https://www.oesterreich.gv.at/en/themen/familie_und_partnerschaft/finanzielle-unterstuetzungen/Grenz%C3%BCberschreitende-Familienleistungen-in-der-EU) | Eligibility and coordination limitations |
+
+This is a sourced comparative planning note, not an individual legal or tax determination. Numeric consent-age comparisons for Japan, Türkiye and Austria remain outside the verified scope of this update.
