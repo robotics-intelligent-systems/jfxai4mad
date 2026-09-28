@@ -18,6 +18,7 @@ The repository currently contains documentation, concept images and requirements
 - [6. Global strategic annex](#6-global-strategic-annex)
   - [Detailed annex contents](docs/ANNEX.md#contents)
   - [Professional collaboration](docs/ANNEX.md#9-professional-collaboration-and-ai-assisted-sourcing)
+  - [Sperm transport and postcoital evidence](docs/ANNEX.md#16-sperm-transport-lubrication-and-postcoital-evidence)
   - [Annual coordination and athletic wellbeing](docs/ANNEX.md#15-annual-coordination-personal-preferences-and-athletic-wellbeing)
   - [Reproductive planning framework](docs/ANNEX.md#14-reproductive-planning-in-consensual-adult-multi-partner-families)
   - [Commercial corridors and evaluation](docs/ANNEX.md#11-proposed-international-commercial-corridors)
@@ -154,6 +155,7 @@ The [strategic and institutional annex](docs/ANNEX.md) consolidates proposed FOS
 | Project economics and separate impact measures | [Section 12: evaluation](docs/ANNEX.md#12-economic-evaluation-and-impact-measurement) |
 | Reproductive planning for consenting adult families | [Section 14: fertility education and evidence limits](docs/ANNEX.md#14-reproductive-planning-in-consensual-adult-multi-partner-families) |
 | Optional annual planning and athletic wellbeing | [Section 15: calendar, individual preferences and evidence boundaries](docs/ANNEX.md#15-annual-coordination-personal-preferences-and-athletic-wellbeing) |
+| Sperm transport, lubrication and postcoital claims | [Section 16: clinical evidence and unsupported prescriptions](docs/ANNEX.md#16-sperm-transport-lubrication-and-postcoital-evidence) |
 | Deliverables and acceptance criteria | [Section 13: implementation gates](docs/ANNEX.md#13-implementation-matrix-and-release-gates) |
 
 Vienna, Athens/Thessaloniki, Gothenburg and Ankara remain candidate hubs, not selected partners or a country ranking. Programme terms must be checked before applications; technology support is not automatically a housing or relocation grant.
