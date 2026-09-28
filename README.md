@@ -21,6 +21,7 @@ The repository currently contains documentation, concept images and requirements
   - [European rural renewal and safeguarding](docs/ANNEX.md#22-european-rural-renewal-and-independent-safeguarding-review)
   - [Rural population decline and regional differences](docs/ANNEX.md#23-rural-population-decline-drivers-and-regional-differences)
   - [Venezuelan and Ukrainian displacement](docs/ANNEX.md#24-venezuelan-and-ukrainian-displacement-comparative-review)
+  - [Professional sourcing and GitHub review metrics](docs/ANNEX.md#25-professional-sourcing-channels-and-github-review-metrics)
   - [Professional collaboration](docs/ANNEX.md#9-professional-collaboration-and-ai-assisted-sourcing)
   - [Sperm transport and postcoital evidence](docs/ANNEX.md#16-sperm-transport-lubrication-and-postcoital-evidence)
   - [Lubricants and natural secretions](docs/ANNEX.md#17-lubricants-and-natural-secretions-when-trying-to-conceive)
@@ -173,6 +174,7 @@ The [strategic and institutional annex](docs/ANNEX.md) consolidates proposed FOS
 | Italy, Germany, Austria, Hungary and Bulgaria: rural renewal | [Section 22: programme status, eligibility and independent safeguarding review](docs/ANNEX.md#22-european-rural-renewal-and-independent-safeguarding-review) |
 | Rural population decline in Asia, North America and Europe | [Section 23: demographic drivers, regional differences and evidence limits](docs/ANNEX.md#23-rural-population-decline-drivers-and-regional-differences) |
 | Venezuelan and Ukrainian displacement | [Section 24: causes, demographics, protection systems and inclusion](docs/ANNEX.md#24-venezuelan-and-ukrainian-displacement-comparative-review) |
+| Professional sourcing channels and GitHub assessment | [Section 25: platform fit, verified availability and conversion measurement](docs/ANNEX.md#25-professional-sourcing-channels-and-github-review-metrics) |
 | Deliverables and acceptance criteria | [Section 13: implementation gates](docs/ANNEX.md#13-implementation-matrix-and-release-gates) |
 
 Vienna, Athens/Thessaloniki, Gothenburg and Ankara remain candidate hubs, not selected partners or a country ranking. Programme terms must be checked before applications; technology support is not automatically a housing or relocation grant.
@@ -190,6 +192,8 @@ The [European rural-renewal review](docs/ANNEX.md#22-european-rural-renewal-and-
 The [rural demographic analysis](docs/ANNEX.md#23-rural-population-decline-drivers-and-regional-differences) separates natural population change from migration and examines employment, housing and service-access mechanisms. It corrects the Japanese vacancy figure and recognises that aggregate rural growth can coexist with local decline; CAD scenarios do not establish demographic recovery.
 
 The [displacement comparison](docs/ANNEX.md#24-venezuelan-and-ukrainian-displacement-comparative-review) reviews Venezuelan and Ukrainian migration using dated demographic evidence and country-specific protection frameworks. It distinguishes work rights from employment outcomes and keeps voluntary housing, humanitarian support and professional inclusion separate from adult social discovery.
+
+The [professional-sourcing review](docs/ANNEX.md#25-professional-sourcing-channels-and-github-review-metrics) records Bumble Bizz's discontinuation and OkCupid's employment-solicitation restrictions, and defines a measurable professional outreach-to-GitHub-review-to-interview sequence. Submitted conversion percentages remain unverified and are not project forecasts.
 
 ## CAD spotlight: OpenTwin modular habitat and shared retreat
 

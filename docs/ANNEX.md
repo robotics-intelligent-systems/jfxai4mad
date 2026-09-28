@@ -35,6 +35,7 @@
 - [22. European rural renewal and independent safeguarding review](#22-european-rural-renewal-and-independent-safeguarding-review)
 - [23. Rural population decline: drivers and regional differences](#23-rural-population-decline-drivers-and-regional-differences)
 - [24. Venezuelan and Ukrainian displacement: comparative review](#24-venezuelan-and-ukrainian-displacement-comparative-review)
+- [25. Professional sourcing channels and GitHub review metrics](#25-professional-sourcing-channels-and-github-review-metrics)
 
 ## 1. Executive summary
 
@@ -1292,3 +1293,80 @@ For each proposed service, record the responsible authority, applicant consent, 
 | M8 | [UNHCR — Venezuela Situation funding, 30 September 2025](https://www.unhcr.org/sites/default/files/2025-10/venezuela-situation-funding-30-09-2025.pdf) | Indicative appeal funding snapshot and methodology |
 
 The observation dates deliberately remain visible. The two population baselines are not contemporaneous and must not be used to calculate comparative displacement rates or per-person funding.
+
+
+## 25. Professional sourcing channels and GitHub review metrics
+
+**Review date: 28 September 2026.** This supplement evaluates the submitted LinkedIn versus dating-app recruitment comparison. No campaign dataset or traceable study was supplied for its conversion ranges. They must not be presented as industry benchmarks, measured project results or evidence of a tenfold advantage.
+
+### 25.1 Channel suitability and current availability
+
+| Channel | Verified context | Project decision |
+| --- | --- | --- |
+| LinkedIn | Open to Work communicates interest in job opportunities; visibility can be configured. Professional conduct and anti-spam rules still apply. [P1, P2] | Use relevant, transparent professional sourcing, subject to platform rules and individual preferences |
+| OkCupid | Terms prohibit content relating to commercial activities, including employment or investment opportunities. [P3] | Exclude recruitment campaigns and recruiting profiles from the proposed channel plan |
+| Bumble Bizz | Official support, updated 7 September 2026, states that Bizz is no longer available and its activation option has been removed. [P4] | Treat as a discontinued historical channel, not an active alternative |
+| Bumble Date | A personal dating context does not establish permission to recruit or transfer profile data into a hiring system | Do not use it as a substitute for discontinued Bizz or as a recruitment experiment; no conversion forecast is adopted |
+
+Open to Work is a professional-intent signal, not proof that every vacancy is relevant or permission for unlimited contact. A green public frame is not the only visibility option. Conversely, lack of a public GitHub profile does not establish lack of technical ability.
+
+The supplied statements “zero friction,” “100% active job search,” “no account risk” and “low-quality dating-app traffic” are not defensible universal metrics. LinkedIn explicitly restricts unwanted or irrelevant messaging. A personal relationship is not a valid hiring-quality proxy, and co-founder recruitment is not an exception to platform rules. [P2, P3]
+
+### 25.2 Review of the submitted numerical claims
+
+| Submitted metric | LinkedIn claim | Dating-app claim | Evidence status |
+| --- | --- | --- | --- |
+| Initial response or match | 10–25% | 1–5% | Unverified; a response and a swipe match have different denominators and intent |
+| GitHub click/review | 40–60% | 15–30% | Unverified; clicking a URL does not establish technical review |
+| Contact-to-interview | 1.5–4.5% | 0.1–0.5% | Unverified; interview invitation, booking and completion are different events |
+| Relative effectiveness | Up to tenfold | Reference comparator | Unsupported without comparable cohorts, costs, observation windows and outcome definitions |
+
+These numbers are retained only to identify the claims being reviewed; they are not planning assumptions. Multiplying the first two supplied percentages does not derive an interview rate: the conditional review-to-interview transition is missing. “Exponential superiority” is also an inappropriate description of a claimed ratio between conversion rates.
+
+### 25.3 A measurable professional recruitment sequence
+
+For an eligible professional channel, use a defined cohort of unique candidates for one role and observation window:
+
+1. **Delivered initial outreach (N):** a documented professional message, deduplicated by candidate; follow-ups do not create new candidates.
+2. **Positive professional response (R):** explicit interest in discussing the opportunity, excluding declines and automated replies.
+3. **Completed GitHub review (G):** a reviewer records assessment of an attributable, role-relevant work sample for an interested candidate.
+4. **Completed technical interview (I):** the interview occurred; track invitations, bookings and no-shows separately.
+
+| Measure | Definition | Reporting rule |
+| --- | --- | --- |
+| Positive response rate | R / N | State delivered-message coverage and count |
+| GitHub-review progression | G / R | A completed review, not a profile view or link click |
+| Review-to-interview progression | I / G | Applies only to interviews reached through this GitHub route |
+| GitHub-mediated interview conversion | I / N | Same cohort, ordered stages and observation window |
+| Cost per completed interview | Attributable channel and reviewer cost / I | Include staff time; report undefined if I is zero |
+
+For a strictly nested sequence, **I/N = (R/N) × (G/R) × (I/G)** when denominators are nonzero. This is an accounting identity, not evidence of channel performance. Candidates using private work samples, technical discussions or another assessment route must be recorded separately so this funnel does not exclude them from recruitment.
+
+Define observation windows before collection and allow for delayed outcomes. Record sample sizes, withdrawals, duplicate handling and uncertainty; do not compare a mature cohort with one still waiting for replies. Separate pre-contact public portfolio inspection from the post-response review stage.
+
+### 25.4 GitHub review and candidate choice
+
+Use candidate-provided links or clearly attributable public professional work, and confirm authorship and contribution scope. Assess role-relevant design, tests, documentation, maintainability and explanation of trade-offs. Repository stars, commit counts and contribution streaks are not stand-alone measures of competence.
+
+Offer an alternative where work is private, proprietary or unavailable publicly. Never request employer-confidential code or require a candidate to publish private material. A fork or team repository needs contribution context rather than automatic attribution to one person.
+
+A reviewer action recorded in the recruitment system is stronger evidence of review completion than URL analytics. Do not introduce hidden tracking, dating-profile scraping or cross-context identity matching to manufacture funnel data. Keep assessment notes limited to professional evidence and permit correction of mistaken attribution.
+
+### 25.5 Pilot and integration requirements
+
+Start with a documented role, relevant professional outreach and a consistent assessment rubric. Compare permitted professional channels only, controlling for seniority, geography, role, compensation, message and timing where feasible. Differences in response may reflect candidate selection rather than a channel effect; observational conversion alone does not prove causality.
+
+Connect this work to [section 9](#9-professional-collaboration-and-ai-assisted-sourcing). AI may help organise approved professional evidence or draft messages for human review; it must not infer job suitability from dating preferences, relationship status, nationality or perceived personal chemistry.
+
+No messages are sent by this documentation update. Any operational pilot requires its own authorised outreach, current policy check and data-retention plan. Success measures should include candidate experience and assessment quality as well as completed interviews.
+
+### 25.6 Source register
+
+| ID | Official source | Scope |
+| --- | --- | --- |
+| P1 | [LinkedIn — Let recruiters know you are Open to Work](https://www.linkedin.com/help/linkedin/answer/a507508/) | Feature intent and visibility; no conversion benchmark |
+| P2 | [LinkedIn — Professional Community Policies](https://www.linkedin.com/legal/professional-community-policies) | Professional context and restrictions on spam |
+| P3 | [OkCupid — Terms and Conditions](https://okcupid-app.zendesk.com/hc/en-us/articles/23941864418203-Terms-Conditions) | Prohibited commercial content, including employment opportunities |
+| P4 | [Bumble — Availability of Bumble Bizz](https://support.bumble.com/hc/en-us/articles/30208230972189-Availability-of-Bumble-Bizz) | Bizz no longer available; support article updated 7 September 2026 |
+
+The recommendation to use professional channels is based on purpose, availability and policy fit. It is not a validated claim about relative conversion rates.
