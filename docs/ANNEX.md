@@ -269,13 +269,17 @@ A streamlined recreational craft study combines a tandem cockpit, outer fairing,
 
 **Proposed study:** compare hull variants, buoyancy and trim, propulsion demand and transition-control behavior. Pressure integrity, emergency recovery, occupant support and operating limits require dedicated engineering evidence; the illustration establishes no dive depth, endurance or passenger-safety approval.
 
-### 8.2 Modular underground habitat
+### 8.2 OpenTwin modular habitat and shared retreat
 
-![Modular underground habitat with surface solar installation, living modules and utility rooms](../MBSE/CAD/modular-underground-habitat-digital-twin.jpg)
+![OpenTwin underground habitat cutaway with seven private rooms, shared living spaces, daylight courtyard and a detailed shared retreat suite](../MBSE/CAD/opentwin-modular-habitat-shared-retreat-cutaway.jpg)
 
-A surface service building and photovoltaic installation connect to underground living, sleeping, sanitation and utility modules. The cutaway depicts energy storage, air circulation, water treatment and separate access routes, with a digital overlay for system monitoring.
+The consolidated **OpenTwin · Modular Habitat & Shared Retreat** illustration replaces the previous standalone underground-habitat concept. It combines a surface pavilion with solar generation, underground residential modules, seven numbered private sleeping rooms, communal kitchen and living areas, a private consultation room and an optional shared retreat. A daylight courtyard brings an open-air connection to the retreat; the board also depicts a main stair and lift, a separate emergency-access shaft and utility modules for energy, ventilation and water.
 
-**Proposed study:** assess thermal loads, ventilation, water and energy balances, module interfaces and outage scenarios. Geotechnical conditions, groundwater, structural loading, fire protection and egress need site-specific assessment. The artwork is neither construction documentation nor evidence of eligibility for a housing incentive.
+The enlarged retreat view distinguishes **A: rest**, **B: lounge** and **C: entry and wash**. It presents adjustable furniture, seating and privacy features as comfort and accessibility proposals. The **48 m² study target** remains provisional: the illustration does not resolve the bed-clearance conflict or the net/gross area budget documented in [section 20](#20-shared-retreat-suite-preliminary-architectural-specifications). The illustrated emergency shaft and lift likewise require a proper access and evacuation design; their appearance does not demonstrate compliant egress.
+
+**Proposed study:** develop a parametric BIM layout, reconcile the detailed suite with the overall habitat, and evaluate daylight, thermal loads, ventilation, acoustics, water and energy balances, modular interfaces and utility-outage scenarios. The wireframe and system panels communicate a proposed digital-twin workflow, not an executable model or live measurements. FreeCAD/BIM, Blender, OpenModelica, OpenFOAM and EnergyPlus are candidate tools described in section 8.4.
+
+**Requirements traceability:** [section 19](#19-conceptual-space-planning-for-a-seven-adult-household) defines the room programme, privacy and independent circulation; [section 20](#20-shared-retreat-suite-preliminary-architectural-specifications) defines preliminary dimensions, furniture, environmental controls and verification deliverables. Site-specific geotechnical, groundwater, structural, fire and accessibility assessments remain necessary. This is architectural concept artwork, not a fertility intervention, construction approval or evidence of housing-incentive eligibility.
 
 ### 8.3 OpenTwin modular amphibious ATV
 

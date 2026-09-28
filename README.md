@@ -1,6 +1,6 @@
 # JFXAI4MAD: LegalTech, Destination Tourism and Evidence-Based Social Discovery
 
-**Consolidated English edition · Reviewed 27 September 2026**
+**Consolidated English edition · Reviewed 28 September 2026**
 **Status:** Proposed reference architecture, business model and implementation roadmap for partner and investor review.
 
 JFXAI4MAD is a proposed modular platform combining destination travel, cross-border marriage-service coordination, professional collaboration and voluntary adult social discovery. Its strategic annex explores a separate institutional track for FOSS simulation education, international collaboration and technology-hub development.
@@ -26,6 +26,7 @@ The repository currently contains documentation, concept images and requirements
   - [Annual coordination and athletic wellbeing](docs/ANNEX.md#15-annual-coordination-personal-preferences-and-athletic-wellbeing)
   - [Reproductive planning framework](docs/ANNEX.md#14-reproductive-planning-in-consensual-adult-multi-partner-families)
   - [Commercial corridors and evaluation](docs/ANNEX.md#11-proposed-international-commercial-corridors)
+- [CAD spotlight: OpenTwin modular habitat and shared retreat](#cad-spotlight-opentwin-modular-habitat-and-shared-retreat)
 - [Repository resources](#repository-resources)
 
 ## Executive overview
@@ -152,7 +153,7 @@ The [strategic and institutional annex](docs/ANNEX.md) consolidates proposed FOS
 | Institutional workflow and participation boundaries | [Sections 4–5](docs/ANNEX.md#4-proposed-integration-workflow) |
 | Austria, Greece and Sweden compared with Türkiye | [Section 6: technology-city incentives](docs/ANNEX.md#6-technology-city-incentives-austria-greece-and-sweden-compared-with-turkey) |
 | Official programme references | [Section 7: source register](docs/ANNEX.md#7-source-register) |
-| Hydrojet craft, underground habitat and amphibious ATV | [Section 8: CAD and simulation work packages](docs/ANNEX.md#8-cad-concepts-and-simulation-work-packages) |
+| Hydrojet craft, OpenTwin habitat and shared retreat, and amphibious ATV | [Section 8: CAD and simulation work packages](docs/ANNEX.md#8-cad-concepts-and-simulation-work-packages) |
 | Voluntary professional sourcing and AI assistance | [Section 9: collaboration workflow](docs/ANNEX.md#9-professional-collaboration-and-ai-assisted-sourcing) |
 | Corporate agreements and personal autonomy | [Section 10: governance](docs/ANNEX.md#10-corporate-governance-and-personal-autonomy) |
 | International commercial research | [Section 11: proposed corridors](docs/ANNEX.md#11-proposed-international-commercial-corridors) |
@@ -173,6 +174,18 @@ Professional participation uses declared skills and voluntary applications. AI m
 The reproductive-planning extension covers conception through intercourse, optional fertility awareness and preconception care. It does not establish a validated polyamorous fertility protocol, partner quota or pregnancy guarantee. Personal health decisions and records remain separate from professional collaboration and incentive evaluation.
 
 The annual example uses optional quarterly support reviews for two self-selected planning circles. It establishes no biological cohort size, sexual quota, physique target or ethnicity-based compatibility rule. Each adult retains independent choices and access to care throughout the year.
+
+## CAD spotlight: OpenTwin modular habitat and shared retreat
+
+![OpenTwin modular underground habitat with seven private rooms and an enlarged shared retreat suite](MBSE/CAD/opentwin-modular-habitat-shared-retreat-cutaway.jpg)
+
+The updated **OpenTwin · Modular Habitat & Shared Retreat** concept consolidates the underground habitat and shared-suite studies into one architectural cutaway. It depicts seven private rooms, communal living and dining, a daylight courtyard, a consultation room, utility modules and an optional retreat with rest, lounge and entry/wash zones.
+
+The proposed open-source workflow uses FreeCAD/BIM and Blender for geometry and presentation, with OpenModelica, OpenFOAM and EnergyPlus as candidate simulation tools. The rendering and wireframe are conceptual; the 48 m² suite target, circulation, structure and access arrangements remain subject to CAD reconciliation and engineering validation.
+
+- [Concept description and simulation work package](docs/ANNEX.md#82-opentwin-modular-habitat-and-shared-retreat)
+- [Household space-planning requirements](docs/ANNEX.md#19-conceptual-space-planning-for-a-seven-adult-household)
+- [Detailed suite specifications and geometry checks](docs/ANNEX.md#20-shared-retreat-suite-preliminary-architectural-specifications)
 
 ## Repository resources
 
