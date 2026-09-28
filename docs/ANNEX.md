@@ -22,6 +22,7 @@
 - [11. Proposed international commercial corridors](#11-proposed-international-commercial-corridors)
 - [12. Economic evaluation and impact measurement](#12-economic-evaluation-and-impact-measurement)
 - [13. Implementation matrix and release gates](#13-implementation-matrix-and-release-gates)
+- [14. Reproductive planning in consensual adult multi-partner families](#14-reproductive-planning-in-consensual-adult-multi-partner-families)
 
 ## 1. Executive summary
 
@@ -432,3 +433,101 @@ Compare a no-incentive baseline with a conditional-support scenario using the sa
 | CAD simulation | Model and evidence package from section 8 | Verification and intended-use validation completed before capability claims |
 
 Keep this annex as the detailed source for these extensions and the README as its navigation summary. Changes to section titles must update both contents lists and cross-document anchors. Expired or unverified programme claims must remain outside active recommendations.
+
+## 14. Reproductive planning in consensual adult multi-partner families
+
+**Scope:** educational information for adults choosing conception through vaginal intercourse, including consensually non-monogamous or polyamorous families. Assisted reproduction, IVF and clinical insemination protocols are outside this section. This scope does not exclude preconception care, fertility assessment or antenatal care.
+
+Timed intercourse is a general fertility-awareness approach, not a distinct validated “polyamorous technique”. The sources below do not validate rotational cohorts, a maximum partner count or group pregnancy targets. Individual reproductive choices must remain independent of employment, housing, immigration, public incentives and the professional sourcing workflow in section 9.
+
+### 14.1 Evidence review of the proposed protocol
+
+| Proposed rule | Evidence-based disposition |
+| --- | --- |
+| One ejaculation every 24–48 hours as a biological maximum | ASRM does not recommend restricting frequency; daily ejaculation can retain normal semen parameters. [F1] |
+| Fixed semen volume, concentration and monthly session quotas | Remove universal depletion thresholds and the 12–18-session capacity calculation; these are not supported by the cited guidance. [F1] |
+| Four to six participants per cycle; eleven or more cannot succeed | No validated cohort limit is established by these sources. Do not encode one in the platform. |
+| Morning intercourse, prescribed pelvic angle and post-coital rest | No established fertility benefit supports prescribed positions or post-coital routines; the proposed clock-time rule is not established here. [F1] |
+| Highest LH reading or age over 30 determines priority | Do not rank people for access to conception attempts; the proposed ranking has no validated basis in this framework. |
+| Approximately 85% success for each annual cohort | Do not transfer a population estimate into a guarantee for an individual or multi-partner group. |
+
+### 14.2 Fertile-window awareness and tracking
+
+The fertile window spans the five days before ovulation and ovulation day. Intercourse every one to two days within it is a general option, guided by participants' preferences rather than a mandatory timetable. Tracking can assist timing but must not become a performance obligation. [F1]
+
+Urinary LH suggests approaching ovulation rather than its exact time; a positive result may precede ovulation by up to two days. Cervical mucus observations can help identify fertile days. Avoid assuming every cycle follows a 28-day calendar. [F1]
+
+Basal body temperature is retrospective and can be unreliable; it does not confirm an exact ovulation moment. Choose test start dates according to cycle history and kit instructions rather than prescribing day 10 universally. Discuss irregular cycles or confusing results with a clinician. [F2]
+
+### 14.3 Individual plans and voluntary review periods
+
+Quarterly, six-monthly or annual meetings may be used to review family resources and preferences. They are administrative choices, not hormonal synchronisation, a sperm-recovery schedule or evidence-based fertility treatment.
+
+| Review period | Optional discussion | Boundary |
+| --- | --- | --- |
+| Three months | Preferences, emotional burden and shared support | No automatic reassignment of a person's reproductive plans |
+| Six months | Care access, expenses and childcare responsibilities | Do not postpone a clinically indicated fertility assessment |
+| Twelve months | Longer-term family plans and completed decisions | No guaranteed conception rate or compulsory cohort rotation |
+
+Each adult may pause or withdraw at any time. Being outside an agreed planning period is not a biologically “non-fertile” state. If pregnancy is not desired, discuss contraception separately; a roster is not contraception. Shared calendars should expose only information each person expressly chooses to share.
+
+### 14.4 Preconception care and sexual health
+
+Review medical conditions, medicines, supplements, vaccination needs, substance use and nutrition with a qualified clinician before pregnancy. Do not start hormone manipulation or high-dose fertility supplements from an AI-generated schedule. General preconception guidance supports healthy activity and balanced nutrition, with individual assessment where needed. [F3]
+
+CDC recommends **400 micrograms of folic acid daily** for people who can become pregnant to help prevent neural-tube defects. This is not a conception-rate booster; ask a clinician whether individual circumstances require a different plan. [F4]
+
+STIs may be asymptomatic and can affect pregnancy. Discuss testing, timing after exposures, prevention and any treatment needs with a clinician; a negative result is not a permanent guarantee. Condoms reduce STI risk, while conception through intercourse involves a separate informed discussion about exposure. Pregnancy itself offers no protection, and prenatal STI screening remains important. [F5]
+
+Sunlight, room temperature, music tempo, clothing and specific micronutrient combinations are not established fertility prescriptions in this framework. Comfort preferences may be recorded as preferences, without claiming an endocrine or pregnancy benefit. Avoid presenting a particular climate as treatment for infertility.
+
+### 14.5 When to seek evaluation
+
+ASRM recommends evaluation after 12 months of unsuccessful attempts when the woman is younger than 35, or after six months at 35 or older. Over 40, more immediate assessment may be warranted. Seek earlier review for irregular or absent cycles, known reproductive conditions or suspected male-factor problems. Relevant partners may need concurrent assessment. Time already spent trying matters; a group rotation does not reset it. [F2]
+
+Choosing conception without ART does not require declining diagnostic advice. A clinician can discuss findings and options while respecting that preference.
+
+### 14.6 Location and family-support research
+
+The submitted destinations remain lifestyle research candidates, not ranked fertility locations. No climate range, tax entitlement, residency route or healthcare-quality claim is confirmed by this section.
+
+| Candidate location | Evidence needed before relocation advice |
+| --- | --- |
+| Canary Islands, Spain | Local care access, housing, climate data and separately verified programme eligibility |
+| Costa del Sol, Spain | Continuity of maternity care, insurance, living costs and support network |
+| Panama City or coastal Panama | Care access, travel logistics and independent tax/residence review |
+| Medellín or Colombia's Coffee Region | Local services, insurance, costs and family-support arrangements |
+
+Review parentage, caregiving, guardianship and financial responsibilities with qualified local advisers before relying on any cross-border arrangement. Relationship structure does not itself establish legal recognition or public-benefit eligibility.
+
+### 14.7 Consent-led planning workflow
+
+```mermaid
+flowchart TD
+    A["Individual reproductive goals"] --> C["Independent consent and privacy choices"]
+    C --> H["Preconception and sexual-health review"]
+    H --> D{"Person chooses to try now?"}
+    D -->|No| P["Pause and discuss contraception if needed"]
+    D -->|Yes| T["Optional fertility awareness"]
+    T --> R["Review wellbeing and outcomes"]
+    R --> Q{"Next step?"}
+    Q -->|Pregnancy| M["Antenatal care"]
+    Q -->|Assessment indicated| E["Individual clinical evaluation"]
+    Q -->|Continue or pause| A
+```
+
+This is a proposed educational navigation flow, not a diagnostic or pregnancy-prediction algorithm. Do not optimise pregnancy counts, allocate partners or infer fertility from social profiles. Reproductive records must be opt-in, access-restricted and excluded from recruitment, investment and incentive scoring. Examples must use synthetic data.
+
+### 14.8 Source register and publication gate
+
+Sources consulted on **28 September 2026**. These materials support general education; they do not study or endorse the proposed rotational-cohort protocol.
+
+| ID | Source | Scope |
+| --- | --- | --- |
+| F1 | [ASRM — Optimizing natural fertility, 2022](https://www.asrm.org/practice-guidance/practice-committee-documents/optimizing-natural-fertility-a-committee-opinion-2021/) | Timing, frequency and unsupported coital practices |
+| F2 | [ASRM — Fertility evaluation, 2021](https://www.asrm.org/practice-guidance/practice-committee-documents/fertility-evaluation-of-infertile-women-a-committee-opinion-2021/) | Evaluation timing and tracking limitations |
+| F3 | [ASRM/ACOG — Prepregnancy counseling, 2019](https://www.asrm.org/practice-guidance/practice-committee-documents/prepregnancy-counseling-2019/) | Individual health and medication review |
+| F4 | [CDC — Folic acid intake and sources](https://www.cdc.gov/folic-acid/about/intake-and-sources.html) | Folic acid for neural-tube-defect prevention |
+| F5 | [CDC — STIs and pregnancy](https://www.cdc.gov/sti/about/about-stis-and-pregnancy.html) | Infection prevention and prenatal testing |
+
+Before turning this documentation into a user-facing health feature, obtain qualified clinical review, define privacy and escalation requirements, and evaluate the accuracy of all educational outputs. No such clinical validation is claimed by this addition.
