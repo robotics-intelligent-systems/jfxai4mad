@@ -18,6 +18,7 @@ The repository currently contains documentation, concept images and requirements
 - [6. Global strategic annex](#6-global-strategic-annex)
   - [Detailed annex contents](docs/ANNEX.md#contents)
   - [Utah and comparative family-law review](docs/ANNEX.md#21-utah-and-comparative-family-law-review)
+  - [European rural renewal and safeguarding](docs/ANNEX.md#22-european-rural-renewal-and-independent-safeguarding-review)
   - [Professional collaboration](docs/ANNEX.md#9-professional-collaboration-and-ai-assisted-sourcing)
   - [Sperm transport and postcoital evidence](docs/ANNEX.md#16-sperm-transport-lubrication-and-postcoital-evidence)
   - [Lubricants and natural secretions](docs/ANNEX.md#17-lubricants-and-natural-secretions-when-trying-to-conceive)
@@ -167,6 +168,7 @@ The [strategic and institutional annex](docs/ANNEX.md) consolidates proposed FOS
 | Residential, underground and yacht space planning | [Section 19: privacy, room programme and conceptual circulation](docs/ANNEX.md#19-conceptual-space-planning-for-a-seven-adult-household) |
 | Shared retreat suite specifications | [Section 20: area budget, furniture, environmental controls and verification](docs/ANNEX.md#20-shared-retreat-suite-preliminary-architectural-specifications) |
 | Utah, Japan, Türkiye and Austria: household legal status and family support | [Section 21: legal distinctions, adult-only scope and eligibility review](docs/ANNEX.md#21-utah-and-comparative-family-law-review) |
+| Italy, Germany, Austria, Hungary and Bulgaria: rural renewal | [Section 22: programme status, eligibility and independent safeguarding review](docs/ANNEX.md#22-european-rural-renewal-and-independent-safeguarding-review) |
 | Deliverables and acceptance criteria | [Section 13: implementation gates](docs/ANNEX.md#13-implementation-matrix-and-release-gates) |
 
 Vienna, Athens/Thessaloniki, Gothenburg and Ankara remain candidate hubs, not selected partners or a country ranking. Programme terms must be checked before applications; technology support is not automatically a housing or relocation grant.
@@ -178,6 +180,8 @@ The reproductive-planning extension covers conception through intercourse, optio
 The annual example uses optional quarterly support reviews for two self-selected planning circles. It establishes no biological cohort size, sexual quota, physique target or ethnicity-based compatibility rule. Each adult retains independent choices and access to care throughout the year.
 
 The [Utah comparison](docs/ANNEX.md#21-utah-and-comparative-family-law-review) distinguishes the 2020 bigamy reform from recognition of plural marriage and reviews family-support eligibility across Japan, Türkiye and Austria. It does not rank destinations by consent-age thresholds or guarantee subsidies; adult discovery remains 18+, and legal and tax conclusions require individual review.
+
+The [European rural-renewal review](docs/ANNEX.md#22-european-rural-renewal-and-independent-safeguarding-review) separates housing, family and agricultural support from child-protection law. It distinguishes closed programmes, documented financing instruments and unverified local offers, and connects property assessment to the CAD requirements without implying funding eligibility.
 
 ## CAD spotlight: OpenTwin modular habitat and shared retreat
 
