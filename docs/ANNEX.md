@@ -34,6 +34,7 @@
 - [21. Utah and comparative family-law review](#21-utah-and-comparative-family-law-review)
 - [22. European rural renewal and independent safeguarding review](#22-european-rural-renewal-and-independent-safeguarding-review)
 - [23. Rural population decline: drivers and regional differences](#23-rural-population-decline-drivers-and-regional-differences)
+- [24. Venezuelan and Ukrainian displacement: comparative review](#24-venezuelan-and-ukrainian-displacement-comparative-review)
 
 ## 1. Executive summary
 
@@ -1216,3 +1217,78 @@ Use retention, voluntary in-migration, access to services, employment and reside
 | D9 | [EU Rural Pact — Access to services and generational renewal](https://ruralpact.rural-vision.europa.eu/news/strengthening-access-services-foster-generational-renewal-rural-areas_en) | Rural service-access policy context |
 
 Review dates are not observation dates. Recheck local series and definitions before comparing candidate sites or estimating intervention effects.
+
+
+## 24. Venezuelan and Ukrainian displacement: comparative review
+
+**Review date: 28 September 2026.** Both situations involve large-scale displacement, but their histories, protection systems and host-country conditions differ. This comparison separates causes, population statistics, legal entitlements and observed integration outcomes. It does not rank nationalities by suitability for work, relationships or rural settlement.
+
+### 24.1 Origins and scope
+
+Russia's full-scale invasion in February 2022 drove a major escalation of displacement from Ukraine; it was not the beginning of all Ukrainian displacement. For Venezuela, the response framework addresses a prolonged crisis involving intersecting protection, political, economic and basic-service needs. Neither situation should be reduced to a binary distinction between “genuine refugees” and “economic migrants.” [M1, M2]
+
+Refugees, asylum-seekers, temporary-protection beneficiaries, other migrants and internally displaced people are different categories. Nationality alone does not establish an individual's legal status. Border crossings are movements, not a count of unique people; repeated crossings, returns and onward movement require careful interpretation.
+
+### 24.2 Dated population and demographic evidence
+
+| Measure | Ukraine-related displacement | Venezuelan displacement |
+| --- | --- | --- |
+| Illustrative observation | Eurostat reported 4.38 million temporary-protection beneficiaries in the EU at 31 May 2026. [M3] | R4V's November 2024 planning baseline reported 7.9 million people from Venezuela abroad, including 6.7 million in Latin America and the Caribbean. [M2] |
+| Geographic interpretation | EU beneficiaries are not the worldwide displaced population and exclude internally displaced people | The regional figure represented approximately 85% of that dated global estimate; it is not a current 2026 count |
+| Demographic evidence | Adult women: 43.4%; adult men: 26.8%; minors: 29.8% of the specified EU beneficiary population. [M3] | No comparable harmonised age/sex distribution is established by the sources reviewed here |
+| Limits | These categories cannot validate an undated “80–90% women, children and older people” estimate; older adults overlap the adult sex categories | Avoid treating all migration waves as complete families or all early arrivals as professionals; profiles vary by destination and observation period |
+
+Adult women and minors together account for **73.2%** of the cited EU population, a calculation from Eurostat's two non-overlapping categories. Children are not a labour-force category. Family separation, caregiving and reunification needs require individual assessment in both situations.
+
+Wartime exit restrictions have influenced Ukrainian migration, but the submitted blanket ban on all men aged 18–60 is outdated as a general statement: Ukraine's government announced revised rules for men aged 18–22 in August 2025. Current exceptions, documents and implementation must be checked with the authorities; this annex does not provide border-crossing eligibility advice. [M4]
+
+### 24.3 Protection systems and administrative access
+
+**European Union:** The temporary-protection mechanism was first activated in March 2022 for eligible people displaced from Ukraine. It provides a collective protection route without requiring each beneficiary first to obtain individual asylum recognition. Eligibility, registration and national administration still matter. Residence, access to employment, healthcare, accommodation support and education are rights within the applicable framework, not promises of immediate housing or a job. [M1]
+
+Protection rights are associated with the host state; short visits elsewhere do not create unrestricted residence and benefit entitlement in every Member State simultaneously. Visa-free travel, temporary protection, asylum and long-term residence are separate legal routes. [M1]
+
+On **15 July 2026**, the Council announced agreement on extension to **4 March 2028**, with additional conditions described for new applicants concerning Ukrainian military obligations. That announcement stated that formal adoption and publication would follow. This review did not independently verify the final implementing instrument; the announcement must not be converted into an automated eligibility rule. Confirm the applicable EU act and national guidance before relying on a deadline or condition. [M5]
+
+**Latin America and the Caribbean:** National responses include asylum systems, temporary permissions and regularisation programmes rather than one uniform regional status. Colombia's ETPV provides a framework for the PPT, subject to its conditions; it is not automatic permission for every new arrival. [M6]
+
+Peru's CPP/PTP history must be distinguished from a currently available procedure. Migraciones' 2025 formalisation announcement excluded people who entered irregularly and had never previously obtained a temporary permit or residence through Migraciones. Current application windows, entry history, documents and transitions require case-specific verification. A general CPP information page alone is insufficient to establish eligibility. [M7]
+
+Do not generalise visa rules, passport requirements, border practices or irregularity rates across all host countries. Each assertion needs a country, effective date, population denominator and authoritative source.
+
+### 24.4 Reception, employment and funding
+
+| Dimension | Comparative assessment | Evidence needed for a stronger conclusion |
+| --- | --- | --- |
+| Destinations | The EU and Latin America/Caribbean are major host regions in the cited sources; both situations also involve other destinations and onward movement | Same-date country counts with compatible population definitions |
+| Employment | A work entitlement facilitates access but does not establish employment, formal contracts or recognition of qualifications | Country-specific employment, informality, wages, skills mismatch, language and childcare data |
+| Public reception | Solidarity, local capacity pressures and discrimination can coexist in either host context | Dated representative surveys and incident data; no blanket acceptance or xenophobia ranking |
+| Public services | Demand and capacity depend on locality, funding, eligibility and existing infrastructure | Service utilisation, waiting times and host-community baselines |
+| International funding | Compare like-for-like response budgets and actual receipts, not military assistance with refugee services | Same period, agency/appeal scope, currency, denominator and treatment of domestic host expenditure |
+
+UNHCR's Venezuela Situation funding update dated **30 September 2025** reported an indicative **24% funded**. This documents a funding gap within that appeal; it does not by itself establish a worldwide “least funded per person” ranking or a comparable Ukraine ratio. Requirements, pledges, receipts and expenditure are different measures. [M8]
+
+This review does not substantiate the submitted claims of uniformly rapid Ukrainian labour integration or predominantly informal employment for every Venezuelan host-country population. Those questions remain important, but require matched data rather than assumptions based on legal status.
+
+### 24.5 Implications for the project and rural-renewal study
+
+Any connection to sections 22–23 should focus on voluntary inclusion, lawful employment, suitable housing, language support, credential recognition, healthcare, education and family unity. Displaced people are not a supply of partners, reproductive capacity or replacement labour for shrinking communities.
+
+Keep humanitarian referrals, employment services and legal-status records separate from adult social discovery. Housing or assistance must never depend on intimate participation, pregnancy plans or remaining with a particular household. Avoid nationality-based matching, vulnerability scoring and promises that a property purchase establishes residence rights.
+
+For each proposed service, record the responsible authority, applicant consent, legal basis, current eligibility and referral route. Assess outcomes through access to services, decent work, stable housing and user-defined wellbeing. Protect information that could expose people to discrimination or exploitation, and provide qualified legal support where status is uncertain.
+
+### 24.6 Source register
+
+| ID | Official source | Scope |
+| --- | --- | --- |
+| M1 | [European Commission — Temporary protection](https://home-affairs.ec.europa.eu/policies/migration-and-asylum/asylum-eu/temporary-protection_en) | Mechanism, rights and mobility distinctions |
+| M2 | [R4V — RMRP 2025–2026 overview](https://www.r4v.info/sites/g/files/tmzbdl2426/files/2024-12/WEB%204Pager%20-RMRP-2025-2026%20ENG.pdf) | November 2024 Venezuelan population baseline and response context |
+| M3 | [Eurostat — Temporary protection in May 2026](https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20260710-1) | Dated EU beneficiary count and demographic shares |
+| M4 | [Cabinet of Ministers of Ukraine — Border-rule announcement, 26 August 2025](https://www.kmu.gov.ua/en/news/choloviky-vid-18-do-22-rokiv-zmozhut-bezpereshkodno-peretynaty-kordon-pid-chas-voiennoho-stanu-iuliia-svyrydenko) | Evidence that a blanket 18–60 description is insufficient; current individual eligibility not determined |
+| M5 | [Council of the EU — Extension agreement, 15 July 2026](https://www.consilium.europa.eu/en/press/press-releases/2026/07/15/eu-countries-agree-to-extend-temporary-protection-for-those-fleeing-ukraine-until-march-2028/) | Announcement; final legal instrument not verified in this review |
+| M6 | [Migración Colombia — ETPV](https://portal.migracioncolombia.gov.co/tramites-y-servicios/tramites-de-regularizacion/estatuto-etpv) | Programme framework and conditional regularisation |
+| M7 | [Peru Migraciones — 2025 formalisation announcement](https://www.gob.pe/institucion/migraciones/noticias/1238301-migraciones-inicia-proceso-de-formalizacion-migratoria-no-aplica-para-extranjeros-con-ingreso-irregular) | Specific programme scope; not a general guarantee of regularisation |
+| M8 | [UNHCR — Venezuela Situation funding, 30 September 2025](https://www.unhcr.org/sites/default/files/2025-10/venezuela-situation-funding-30-09-2025.pdf) | Indicative appeal funding snapshot and methodology |
+
+The observation dates deliberately remain visible. The two population baselines are not contemporaneous and must not be used to calculate comparative displacement rates or per-person funding.
