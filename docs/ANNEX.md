@@ -30,6 +30,7 @@
 - [17. Lubricants and natural secretions when trying to conceive](#17-lubricants-and-natural-secretions-when-trying-to-conceive)
 - [18. Uterine orientation: anatomy, comfort and fertility](#18-uterine-orientation-anatomy-comfort-and-fertility)
 - [19. Conceptual space planning for a seven-adult household](#19-conceptual-space-planning-for-a-seven-adult-household)
+- [20. Shared retreat suite: preliminary architectural specifications](#20-shared-retreat-suite-preliminary-architectural-specifications)
 
 ## 1. Executive summary
 
@@ -897,3 +898,85 @@ Reviewed on **28 September 2026**:
 | F13 | [WHO — Housing and health guidelines](https://www.who.int/publications/i/item/9789241550376) | Healthy housing considerations |
 | F14 | [EPA — Ionisers and ozone-generating air cleaners](https://www.epa.gov/indoor-air-quality-iaq/what-are-ionizers-and-other-ozone-generating-air-cleaners) | Ozone concerns |
 | F15 | [EPA — Guide to Air Cleaners in the Home](https://www.epa.gov/indoor-air-quality-iaq/guide-air-cleaners-home) | Filtration within indoor-air management |
+
+## 20. Shared retreat suite: preliminary architectural specifications
+
+This section develops the optional shared retreat in section 19 from the submitted 48 m² suite concept. It is a comfort and accessibility brief, not a clinical fertility installation. The proposed morning schedule, anatomy-specific furniture and automatic postcoital positioning are not adopted as reproductive interventions; sections 16 and 18 explain the evidence limits.
+
+### 20.1 Area budget and dimensional feasibility
+
+The initial study envelope is **8.0 × 6.0 m**, with **2.80 m clear height**. Treat these as client targets pending a measured plan. If dimensions are clear internal dimensions, the nominal volume is **134.4 m³** before partitions, furniture and services; gross construction area will be larger. If 48 m² is instead a gross-area limit, usable area must be reduced accordingly.
+
+| Zone | Initial allocation | Intended use | Design check |
+| --- | --- | --- | --- |
+| A: rest and adjustable furniture | 24 m² | Bed, optional comfort supports and circulation | Test transfer space, adjustment envelope and access to both sides |
+| B: sitting and refreshment | 14 m² | Adjustable seating, drinking water and personal storage | Keep seating and cabinet doors outside the circulation route |
+| C: entry and wash area | 10 m² | Privacy vestibule, handwashing and optional consultation-room connection | Check door swings, plumbing, ventilation and manoeuvring space |
+| Total | 48 m² | Preliminary functional budget | Reconcile partitions, service shafts and all circulation before freezing dimensions |
+
+The allocations sum to 48 m² and leave no additional allowance for partitions. They must not be presented as verified net room areas inside a 48 m² gross shell.
+
+For a **2.20 × 2.00 m** bed, a nominal **1.20 m clearance on every side** produces a **4.60 × 4.40 m** envelope, or **20.24 m²**, before other furniture. A 24 m² zone is not automatically adequate: a 6 × 4 m strip cannot contain that envelope. Reconfigure the zones or enlarge the suite after testing the plan. The 1.20 m target does not certify wheelchair access, door manoeuvring or compliance with any jurisdiction.
+
+Use a circulation spine rather than forcing visitors through the bed zone to reach seating, washing or the consultation room. A proposed 3 m window opening requires structural, shading, glazing and privacy review; an eastern orientation is optional.
+
+### 20.2 Furniture and material schedule
+
+| Item | Preliminary requirement | Verification before selection |
+| --- | --- | --- |
+| Adjustable bed | Nominal 2.20 × 2.00 m footprint; user-operated positioning | Rated loads, full moving envelope, pinch and entrapment protection, reachable stop control, power-loss behaviour and cleaning instructions |
+| Motor noise | Submitted target below 30 dB remains provisional | Define dB weighting, distance, operating load, background noise and measurement method |
+| Adjustment range | Select for individual comfort and access | No universal 0–25° range, 15° wedge or automatic pelvic-elevation programme is medically specified |
+| Mattress and cushions | Removable, cleanable covers; user-selected comfort | Allergies, durability, emissions documentation and applicable fire performance; “medical” requires substantiation |
+| Adjustable lounge chair | Optional rest seating | Stability, transfer access and pinch protection; no uterine-orientation prescription |
+| Textiles and finishes | Documented material composition and maintenance | “Natural,” silk, latex or organic cotton does not establish absence of allergens or endocrine effects; do not remove required fire protection on that basis |
+| Water station | Drinking water and accessible storage | Plumbing hygiene and spill control; no automatic supplement dispensing |
+
+Moving furniture must remain under deliberate local user control. No movement is triggered by a reported sexual event, elapsed retention time or reproductive measurement.
+
+### 20.3 Lighting, acoustics and indoor environment
+
+- **Lighting:** Provide separate task, ambient and night settings, dimming, shading and manual override. A 2000–3000 K value describes colour appearance, not illuminance or sunlight intensity. Specify illuminance separately in lux at defined locations, along with glare and blackout performance. No lighting preset promises testosterone, dopamine or conception effects. [F16]
+- **Acoustics:** Develop wall, door, glazing and service-noise requirements as one system. A vestibule should preserve easy exit and usable door clearances. Verify the completed assembly rather than relying on a single insulation number.
+- **Temperature and humidity:** Treat 23 °C as an optional comfort setpoint, adjustable within the engineered operating range. Account for condensation, local climate, occupancy and equipment loads; no fertility-specific thermal effect is claimed.
+- **Air cleaning:** HEPA filtration addresses particles; gas-phase media such as activated carbon address selected gases subject to capacity and maintenance limits. Neither guarantees VOC-free air. Source control and ventilation remain necessary. [F15]
+- **Ventilation:** Define supply and extract flow, outdoor-air fraction, noise, pressure relationships and maintenance access. “100% renewal” is ambiguous: outdoor-air fraction and removal of contaminants are different quantities. Commission measured airflow and document any purge mode; a timer alone does not establish sanitation.
+- **UV-C:** Omit it from the baseline specification. Any later in-duct proposal needs specialist assessment of efficacy, exposure containment, interlocks, maintenance and material compatibility; it cannot replace cleaning or be advertised as instant sterilisation.
+
+### 20.4 Voluntary use and controls
+
+Room access is independent of LH results, fertility ranking or participation in any intimate activity. Residents may request private time without sharing health data. Locks need resident control and a professionally reviewed emergency-egress arrangement; avoid reproductive-data-triggered unlocking.
+
+```mermaid
+flowchart TD
+    A["Voluntary room request"] --> B{"Room available?"}
+    B -->|No| C["Choose another time or cancel"]
+    B -->|Yes| D["Resident-controlled entry"]
+    D --> E["Manual comfort settings"]
+    E --> F["Private use or rest"]
+    F --> G["Exit at any time"]
+    G --> H["Cleaning and service check"]
+    H --> I["Available for reuse"]
+```
+
+This workflow has no mandatory 06:00 start, biological confirmation, allocated participant, sexual-position instruction or 20-minute rest period. Optional handwashing facilities do not imply vaginal irrigation. Routine cleaning follows product and surface instructions; air treatment is not a substitute.
+
+Keep health records outside building automation. Provide local controls for essential functions during network failure, limit access logs and retention, and exclude intimate-event detection. A booking indicates room availability, not consent to any activity.
+
+### 20.5 Residence and vessel implementation gates
+
+A building architect must resolve the area budget, structure, accessibility, services and applicable approvals. A naval architect must separately check whether the 8 × 6 m footprint and 2.80 m clear height fit the vessel, including structural depth, equipment weight, stability, securing of furniture, access and escape. Residential dimensions are not automatically transferable to a yacht.
+
+Before procurement, produce a dimensioned furniture plan with operating envelopes, an area reconciliation, acoustic and lighting schedules, a mechanical-services schematic, a controls cause-and-effect table and a commissioning checklist. Acceptance should test safe movement, manual overrides, privacy, airflow and usable circulation—not pregnancy rates or sexual compliance.
+
+### 20.6 References
+
+Reviewed on **28 September 2026**:
+
+| ID | Source | Scope |
+| --- | --- | --- |
+| F1 | [ASRM — Optimizing natural fertility, 2022](https://www.asrm.org/practice-guidance/practice-committee-documents/optimizing-natural-fertility-a-committee-opinion-2021/) | Clinical boundaries already discussed in sections 16 and 18 |
+| F15 | [EPA — Guide to Air Cleaners in the Home](https://www.epa.gov/indoor-air-quality-iaq/guide-air-cleaners-home) | Particle and gas filtration limitations |
+| F16 | [US Department of Energy — Purchasing Energy-Efficient Light Bulbs](https://www.energy.gov/cmei/femp/purchasing-energy-efficient-light-bulbs) | Colour temperature versus light output |
+
+All numerical values above are preliminary design inputs or explicitly shown geometric calculations, not validated clinical thresholds or declarations of code compliance.
