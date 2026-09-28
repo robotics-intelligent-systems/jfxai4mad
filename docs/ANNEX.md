@@ -27,6 +27,7 @@
 - [15. Annual coordination, personal preferences and athletic wellbeing](#15-annual-coordination-personal-preferences-and-athletic-wellbeing)
 
 - [16. Sperm transport, lubrication and postcoital evidence](#16-sperm-transport-lubrication-and-postcoital-evidence)
+- [17. Lubricants and natural secretions when trying to conceive](#17-lubricants-and-natural-secretions-when-trying-to-conceive)
 
 ## 1. Executive summary
 
@@ -659,7 +660,7 @@ These editorial decisions remove unsupported recommendations rather than replaci
 
 Some lubricants impair sperm in laboratory testing, but that does not establish reduced pregnancy rates in everyday use. ASRM distinguishes these findings from observational conception outcomes. [F1]
 
-If lubrication is needed, discuss a product intended to be compatible with sperm with a clinician or pharmacist and follow its labelling. Do not interpret “fertility-friendly” marketing as a guarantee of conception or a universally recognised certification. This annex recommends no brand, home preparation or vaginal pH manipulation.
+If lubrication is needed, discuss a product intended to be compatible with sperm with a clinician or pharmacist and follow its labelling. Do not interpret “fertility-friendly” marketing as a guarantee of conception or a universally recognised certification. This annex recommends no brand, home preparation or vaginal pH manipulation. See [section 17](#17-lubricants-and-natural-secretions-when-trying-to-conceive) for formulation evidence and product-selection criteria.
 
 The Office on Women's Health advises against vaginal douching: it can disturb normal bacteria and acidity. Internal washing is unnecessary, and douching neither prevents pregnancy nor protects against STIs. Gentle external washing is distinct from internal irrigation. Seek clinical advice for unusual discharge, odour, irritation or pain rather than trying to wash symptoms away. [F8]
 
@@ -689,3 +690,64 @@ Reviewed on **28 September 2026**:
 - **F8:** [Office on Women's Health — Douching](https://womenshealth.gov/a-z-topics/douching), updated 27 February 2025.
 
 This addition is a sourced educational correction, not clinical validation of the platform.
+
+
+## 17. Lubricants and natural secretions when trying to conceive
+
+This supplement reviews the proposed “natural fertility-friendly lubricant” guidance. It addresses comfort and product compatibility, not a method for increasing pregnancy rates. Read it with sections 14–16; it supplies no home formulation or hormone-treatment protocol.
+
+### 17.1 Formulation and evidence review
+
+ASRM describes adverse effects of some lubricants and saliva on sperm in laboratory experiments, while observational studies did not find lower cycle fecundability among lubricant users. These findings do not establish that every product is equivalent or that a compatible lubricant improves conception. [F1]
+
+| Submitted factor | Evidence boundary and documentation decision |
+| --- | --- |
+| Glycerol or propylene glycol | Evaluate the finished formulation, concentration and measured osmolality. Ingredient presence alone does not establish sperm immobilisation or DNA fragmentation; no ingredient-only blacklist is adopted here. |
+| Acidity | Do not turn a proposed pH cutoff into an instant sperm-death rule. Normal vaginal acidity is protective; do not attempt to alkalinise the vagina. Product compatibility requires more than a pH claim. [F8] |
+| Parabens and other preservatives | Do not infer universal acrosomal toxicity from a preservative name. Require evidence for the particular formulation and exposure. “Preservative-free” alone does not establish compatibility. |
+| Silicone and oils | Do not describe all such products as impenetrable sperm barriers. Some oils have shown limited effects on motility in laboratory studies, which does not validate household products for vaginal use. [F1] |
+| Motility, viability and DNA integrity | These are different endpoints. A favourable result for one cannot be relabelled as proof of all three, successful fertilisation or improved live-birth rates. |
+
+The proposed exact pH ranges, universal damage timelines and blanket claims of DNA protection are not adopted. Any future product comparison must record the tested formulation, exposure conditions, endpoint and limitations.
+
+### 17.2 Natural secretions and proposed household substitutes
+
+Cervical mucus changes across the cycle. Clear, slippery mucus can indicate fertile days, but its absence does not exclude conception. [F1] Cervical mucus and lubrication associated with sexual arousal should not be treated as interchangeable measurements or scored as reproductive performance.
+
+| Proposed option | Position in this annex |
+| --- | --- |
+| Natural lubrication | Allow time for comfort and stop if intercourse is painful. No mucus-volume target or requirement to avoid a suitable lubricant is imposed. |
+| Hydration, L-arginine or evening primrose oil | No evidence reviewed here establishes a supplement regimen that creates fertility-enhancing mucus. Do not convert general wellbeing advice into a fertility-treatment claim. |
+| Estrogen | Do not recommend self-prescribed hormones to stimulate mucus. Any treatment belongs to individual clinical assessment. |
+| Raw or pasteurised egg white | Not recommended as a vaginal lubricant. Food pasteurisation does not establish suitability for intravaginal use; resemblance to mucus is not evidence of equivalent function or safety. |
+| Canola, mineral or baby oil | Laboratory findings about selected substances do not validate a kitchen or cosmetic product. No household-oil recommendation, mixing recipe or application protocol is provided. |
+| Saliva | Not recommended as a substitute for a lubricant assessed for sperm compatibility. Laboratory motility findings do not establish the submitted universal explanation involving acidity and digestive enzymes. [F1] |
+
+“Natural,” “organic” and “food-grade” are not substitutes for evidence about the intended vaginal use. Persistent dryness, pain, irritation or unusual discharge warrants clinical advice rather than experimenting with household substances.
+
+### 17.3 Selecting and using a product
+
+The FDA's PEB category covers personal lubricants intended to be compatible with gametes, fertilisation and embryos. This compatibility category is distinct from evidence that a product increases pregnancy or live-birth rates. It also does not automatically establish compatibility with every condom material. [F9]
+
+The submitted brands—Pre-Seed, Conceive Plus, BabyDance and Astroglide TTC—are not a verified product shortlist in this annex. Formulations, availability, instructions and regulatory status require separate checks for the exact product and market; a brand name is insufficient.
+
+1. **Identify the intended use.** If lubrication is needed while attempting conception, ask a clinician or pharmacist about a product specifically assessed for sperm compatibility.
+2. **Check the exact label.** Confirm the formulation, intended route, expiry date and relevant regulatory record. “Non-spermicidal” alone does not establish sperm compatibility.
+3. **Follow product-specific directions.** Use the labelled amount and application method. This annex prescribes neither a universal dose nor placement near the cervix, and does not assume every product includes an applicator.
+4. **Keep comfort central.** Do not withhold needed lubrication because of an unproven dilution rule. Stop a product that causes irritation and seek advice for persistent symptoms.
+5. **Check barrier compatibility separately.** CDC recommends water- or silicone-based lubricants with external condoms and warns that oils can weaken them. Follow the condom and lubricant labels; conception compatibility is not STI protection. [F10]
+
+Do not douche or manipulate vaginal pH to improve sperm survival. [F8] This product-selection guidance does not replace the evaluation timelines in section 14.
+
+### 17.4 Sources and maintenance
+
+Reviewed on **28 September 2026**:
+
+| ID | Source | Relevant scope |
+| --- | --- | --- |
+| F1 | [ASRM — Optimizing natural fertility, 2022](https://www.asrm.org/practice-guidance/practice-committee-documents/optimizing-natural-fertility-a-committee-opinion-2021/) | Laboratory lubricant findings, observational conception outcomes and cervical mucus |
+| F8 | [Office on Women's Health — Douching](https://womenshealth.gov/a-z-topics/douching) | Normal vaginal environment and avoidance of douching |
+| F9 | [FDA — Product classification PEB](https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfpcd/classification.cfm?id=PEB) | Intended use and compatibility category; not a comparative efficacy trial |
+| F10 | [CDC — Preventing HIV with Condoms](https://www.cdc.gov/hiv/prevention/condoms.html) | Lubricant and external-condom compatibility |
+
+Before publishing product-specific recommendations, a qualified reviewer must verify the current label, supporting evidence and jurisdiction. The platform must not generate household vaginal preparations, supplement doses or fertility guarantees from ingredient lists.
