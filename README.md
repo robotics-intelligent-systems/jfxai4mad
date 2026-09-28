@@ -1,6 +1,6 @@
 # JFXAI4MAD: LegalTech, Destination Tourism and Evidence-Based Social Discovery
 
-**Consolidated English edition · Reviewed 27 September 2026**  
+**Consolidated English edition · Reviewed 27 September 2026**
 **Status:** Proposed reference architecture, business model and implementation roadmap for partner and investor review.
 
 JFXAI4MAD is a proposed modular platform combining destination travel, cross-border marriage-service coordination, professional collaboration and voluntary adult social discovery. Its strategic annex explores a separate institutional track for FOSS simulation education, international collaboration and technology-hub development.
@@ -16,6 +16,9 @@ The repository currently contains documentation, concept images and requirements
 - [4. Business model and performance indicators](#4-business-model-and-performance-indicators)
 - [5. Implementation and investment phases](#5-implementation-and-investment-phases)
 - [6. Global strategic annex](#6-global-strategic-annex)
+  - [Detailed annex contents](docs/ANNEX.md#contents)
+  - [Professional collaboration](docs/ANNEX.md#9-professional-collaboration-and-ai-assisted-sourcing)
+  - [Commercial corridors and evaluation](docs/ANNEX.md#11-proposed-international-commercial-corridors)
 - [Repository resources](#repository-resources)
 
 ## Executive overview
@@ -134,20 +137,24 @@ The earlier satisfaction target above 90% remains a proposed pilot ambition, not
 
 ## 6. Global strategic annex
 
-The [strategic annex](docs/ANNEX.md) develops the proposed FOSS simulation, CAD/model-based design and naval-aviation preparatory education track. It also covers industrial-design showcases, professional mobility and regional development.
+The [strategic and institutional annex](docs/ANNEX.md) consolidates proposed FOSS simulation education, professional collaboration, technology-hub evaluation and commercial research. It is a planning document; it does not establish operational services, partnerships, funding awards or individual eligibility.
 
-**New comparison:** [Annex section 6](docs/ANNEX.md#6-technology-city-incentives-austria-greece-and-sweden-compared-with-turkey) compares technology-city opportunities in **Austria, Greece and Sweden against Türkiye (Turkey)**. It distinguishes company R&D support, personal tax treatment, ecosystem access and individual immigration requirements.
-
-| Candidate hub | Role proposed for evaluation |
+| Annex topic | Detailed section |
 | --- | --- |
-| Vienna, Austria | R&D funding and a possible coordination base |
-| Athens / Thessaloniki, Greece | Tourism/LegalTech pilot and innovation partnerships |
-| Gothenburg, Sweden | Collaborative mobility and simulation research |
-| Ankara, Türkiye | Technopark-based software and engineering development |
+| Legacy destination research and evidence rules | [Sections 2–3](docs/ANNEX.md#2-existing-destination-research-portfolio) |
+| Institutional workflow and participation boundaries | [Sections 4–5](docs/ANNEX.md#4-proposed-integration-workflow) |
+| Austria, Greece and Sweden compared with Türkiye | [Section 6: technology-city incentives](docs/ANNEX.md#6-technology-city-incentives-austria-greece-and-sweden-compared-with-turkey) |
+| Official programme references | [Section 7: source register](docs/ANNEX.md#7-source-register) |
+| Hydrojet craft, underground habitat and amphibious ATV | [Section 8: CAD and simulation work packages](docs/ANNEX.md#8-cad-concepts-and-simulation-work-packages) |
+| Voluntary professional sourcing and AI assistance | [Section 9: collaboration workflow](docs/ANNEX.md#9-professional-collaboration-and-ai-assisted-sourcing) |
+| Corporate agreements and personal autonomy | [Section 10: governance](docs/ANNEX.md#10-corporate-governance-and-personal-autonomy) |
+| International commercial research | [Section 11: proposed corridors](docs/ANNEX.md#11-proposed-international-commercial-corridors) |
+| Project economics and separate impact measures | [Section 12: evaluation](docs/ANNEX.md#12-economic-evaluation-and-impact-measurement) |
+| Deliverables and acceptance criteria | [Section 13: implementation gates](docs/ANNEX.md#13-implementation-matrix-and-release-gates) |
 
-These roles are project hypotheses, not confirmed partnerships or a country ranking. Technology-hub support is not automatically a housing or demographic-repopulation grant.
+Vienna, Athens/Thessaloniki, Gothenburg and Ankara remain candidate hubs, not selected partners or a country ranking. Programme terms must be checked before applications; technology support is not automatically a housing or relocation grant.
 
-Voluntary Service Agreements (VSAs) are proposed project contracts for clearly defined training or collaboration. They do not establish entitlement to public benefits, employment, military admission, visas or residency. Adult professional mobility must remain separate from social discovery and family decisions.
+Professional participation uses declared skills and voluntary applications. AI must not infer intimate preferences from GitHub or LinkedIn profiles. Project agreements, company formation, personal relationships, marriage services and work/residence applications have separate decisions and records. Voluntary Service Agreements do not establish entitlement to public benefits, employment, military admission, visas or residency.
 
 ## Repository resources
 
