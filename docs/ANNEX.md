@@ -26,6 +26,8 @@
 
 - [15. Annual coordination, personal preferences and athletic wellbeing](#15-annual-coordination-personal-preferences-and-athletic-wellbeing)
 
+- [16. Sperm transport, lubrication and postcoital evidence](#16-sperm-transport-lubrication-and-postcoital-evidence)
+
 ## 1. Executive summary
 
 This annex proposes an institutional extension for FOSS simulation, CAD and model-based design education, including potential cooperation with naval-aviation preparatory academies. The CAD portfolio in section 8 provides concept-study subjects for mobility and resilient infrastructure. Inclusion does not establish an open hardware license, an endorsed partnership or a certified training platform.
@@ -625,3 +627,65 @@ Additional references consulted on **28 September 2026**:
 | F7 | [AUA/ASRM male infertility guideline, part II](https://prod.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/) | Testosterone and sperm-production considerations; clinical guidance, not a self-treatment protocol |
 
 These sources do not validate annual reproductive cohorts or attraction matching. Any user-facing implementation requires the clinical and privacy review described in section 14.8.
+
+## 16. Sperm transport, lubrication and postcoital evidence
+
+This adult clinical-education supplement reviews the submitted biomechanical claims. It does not prescribe sexual techniques or establish an optimal position. Sections 14–15 continue to govern individual choice, fertility evaluation and privacy.
+
+### 16.1 Anatomy and interpretation
+
+The posterior vaginal fornix is the recess behind the cervix, not the site of fertilisation. The anatomical route is vagina, cervical canal, uterine cavity and fallopian tube; fertilisation usually occurs in a fallopian tube. This description is not a targeting instruction, and shorter deposition distance is not a validated optimisation objective.
+
+ASRM reports rapid entry of sperm into the cervical canal irrespective of position. Clear, slippery cervical mucus may help identify fertile days, but its absence does not rule out pregnancy. [F1]
+
+Do not equate a physiological transport mechanism, a laboratory finding or an anatomical illustration with improved pregnancy or live-birth outcomes. The platform must distinguish these evidence levels.
+
+### 16.2 Review of position and retention claims
+
+ASRM finds no demonstrated fertility advantage from a particular coital position or postcoital routine. Remaining supine to improve transport or prevent leakage lacks scientific support. [F1]
+
+| Submitted prescription | Documentation decision |
+| --- | --- |
+| A “gold standard” position or a fixed pelvic angle | Do not publish a ranked-position table or angle prescription |
+| Greater depth or cervical contact improves conception | Do not make penetration depth a performance target |
+| A posture selected for uterine retroversion | Do not generate posture advice from an assumed uterine orientation |
+| Timed prone/supine transitions or 15–20 minutes of mandatory rest | Do not create countdowns or compliance requirements |
+| Slow withdrawal prevents fertility loss through “suction” | No validated withdrawal-speed rule is established here |
+| Leg elevation changes cervical alignment in a clinically useful way | No leg-angle or cervical-position optimisation rule is adopted |
+
+These editorial decisions remove unsupported recommendations rather than replacing them with another mechanical protocol. Comfort and the ability to stop take priority over completing a scheduled attempt.
+
+### 16.3 Lubrication and hygiene
+
+Some lubricants impair sperm in laboratory testing, but that does not establish reduced pregnancy rates in everyday use. ASRM distinguishes these findings from observational conception outcomes. [F1]
+
+If lubrication is needed, discuss a product intended to be compatible with sperm with a clinician or pharmacist and follow its labelling. Do not interpret “fertility-friendly” marketing as a guarantee of conception or a universally recognised certification. This annex recommends no brand, home preparation or vaginal pH manipulation.
+
+The Office on Women's Health advises against vaginal douching: it can disturb normal bacteria and acidity. Internal washing is unnecessary, and douching neither prevents pregnancy nor protects against STIs. Gentle external washing is distinct from internal irrigation. Seek clinical advice for unusual discharge, odour, irritation or pain rather than trying to wash symptoms away. [F8]
+
+### 16.4 Orgasm and neuroendocrine claims
+
+ASRM reports no known relationship between female orgasm and fertility. A proposed effect on transport does not establish improved conception, and no simultaneous or post-ejaculatory orgasm schedule is supported. [F1]
+
+The submitted “up-suck” and hormone explanations therefore remain unvalidated hypotheses for this purpose. No participant should be assigned an orgasm target, and no AI feature should score orgasm timing, presumed oxytocin release or endometrial receptivity from reported sexual behaviour.
+
+### 16.5 Product requirements and review
+
+| Requirement | Acceptance criterion |
+| --- | --- |
+| Evidence labels | Separate anatomy, mechanism, laboratory observations and clinical outcomes |
+| Educational content | No superior-position, depth, retention-time or orgasm-sequence claims without suitable clinical evidence |
+| Comfort and symptoms | No instruction to continue through pain; provide a route to qualified care |
+| Data minimisation | Do not collect intimate technique or orgasm records as fertility-performance metrics |
+| Clinical oversight | A named qualified reviewer approves any future user-facing health content |
+
+Use the existing consent-led planning workflow in section 14.7. No additional procedural diagram is needed because the supplied posture sequence is not a validated fertility intervention.
+
+### 16.6 Sources
+
+Reviewed on **28 September 2026**:
+
+- **F1:** [ASRM — Optimizing natural fertility, 2022](https://www.asrm.org/practice-guidance/practice-committee-documents/optimizing-natural-fertility-a-committee-opinion-2021/), especially fertility-awareness methods and coital practices.
+- **F8:** [Office on Women's Health — Douching](https://womenshealth.gov/a-z-topics/douching), updated 27 February 2025.
+
+This addition is a sourced educational correction, not clinical validation of the platform.
