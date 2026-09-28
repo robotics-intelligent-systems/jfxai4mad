@@ -28,6 +28,7 @@
 
 - [16. Sperm transport, lubrication and postcoital evidence](#16-sperm-transport-lubrication-and-postcoital-evidence)
 - [17. Lubricants and natural secretions when trying to conceive](#17-lubricants-and-natural-secretions-when-trying-to-conceive)
+- [18. Uterine orientation: anatomy, comfort and fertility](#18-uterine-orientation-anatomy-comfort-and-fertility)
 
 ## 1. Executive summary
 
@@ -751,3 +752,59 @@ Reviewed on **28 September 2026**:
 | F10 | [CDC — Preventing HIV with Condoms](https://www.cdc.gov/hiv/prevention/condoms.html) | Lubricant and external-condom compatibility |
 
 Before publishing product-specific recommendations, a qualified reviewer must verify the current label, supporting evidence and jurisdiction. The platform must not generate household vaginal preparations, supplement doses or fertility guarantees from ingredient lists.
+
+
+## 18. Uterine orientation: anatomy, comfort and fertility
+
+Neither anteversion nor retroversion is established as a superior orientation for natural conception. This section replaces the proposed position-specific optimisation protocol with anatomical education and comfort-led guidance. The evidence boundaries in sections 14–17 remain applicable.
+
+### 18.1 Anatomical comparison
+
+| Feature | Anteverted uterus | Retroverted uterus |
+| --- | --- | --- |
+| General orientation | Tilts forward toward the bladder | Tilts backward toward the rectum and spine |
+| Typical cervical direction | More posterior | More anterior |
+| Interpretation | Common anatomical orientation | Common variation; not automatically a disease |
+
+These are simplified descriptions, not fixed coordinates for an individual. Cleveland Clinic estimates retroversion in approximately one in five women; the submitted percentage ranges should not be treated as universal population measurements. A clinician can assess orientation by pelvic examination, with ultrasound when appropriate. [F11]
+
+Use **retroverted**, rather than “inverted,” for a backward tilt. Uterine inversion is a different condition; the annex must not use these terms interchangeably. Nor should retroversion be illustrated as an “inverted posterior fornix” or as an obstructed sperm pathway.
+
+### 18.2 Fertility and associated conditions
+
+Retroversion alone generally does not impair fertility. It can coexist with conditions such as endometriosis, fibroids or pelvic adhesions; an associated disorder may warrant assessment independently of the tilt. [F11, F12]
+
+The project must not assign a fertility score from uterine orientation or infer it from body shape, symptoms or a preferred sexual position. A diagram is not a diagnosis. Continue to use the individual evaluation guidance in section 14 rather than delaying care while trying to change uterine alignment.
+
+### 18.3 Review of posture and postcoital claims
+
+ASRM finds no evidence that a particular coital position improves fecundability; prescribed postcoital routines likewise lack demonstrated benefit. Sperm transport is not adequately described as passive fluid pooling under gravity. [F1]
+
+| Submitted recommendation | Evidence-based documentation decision |
+| --- | --- |
+| A particular position for each uterine orientation | No orientation-based ranking for conception |
+| A 10–15 cm cushion or a fixed pelvic angle | No validated height or alignment prescription |
+| Deeper penetration or cervical contact improves delivery | No depth target or requirement for cervical contact |
+| Posterior entry is universally preferable for retroversion | Do not prescribe a universal position; comfort varies |
+| Supine rest for anteversion and prone rest for retroversion | No evidence-based orientation-specific retention routine established |
+| Mandatory 10–20 minute rest after intercourse | No fertility timer or compliance requirement |
+
+A change that improves comfort is not evidence that it improves conception. Users may stop or adjust an activity that is uncomfortable; no one should persist through pain to complete a scheduled attempt.
+
+### 18.4 Symptoms and clinical review
+
+Persistent pain during intercourse, troublesome menstrual pain or urinary symptoms deserve clinical assessment. Do not assume that retroversion explains every symptom or prescribe deep hip flexion, exercises or manual repositioning as a remedy. [F11]
+
+For an asymptomatic anatomical variant, this annex proposes no corrective intervention. Any treatment decision should address the person's symptoms and relevant diagnosis, not an aesthetic or reproductive preference for a forward tilt. [F12]
+
+### 18.5 Sources and publication requirements
+
+Reviewed on **28 September 2026**:
+
+| ID | Source | Scope |
+| --- | --- | --- |
+| F1 | [ASRM — Optimizing natural fertility, 2022](https://www.asrm.org/practice-guidance/practice-committee-documents/optimizing-natural-fertility-a-committee-opinion-2021/) | Coital positions, sperm transport and postcoital routines |
+| F11 | [Cleveland Clinic — Retroverted Uterus](https://my.clevelandclinic.org/health/diseases/23426-retroverted-uterus) | Orientation, approximate prevalence, diagnosis and symptoms |
+| F12 | [Better Health Channel — Retroverted uterus](https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/retroverted-uterus) | Anatomical variation, associated conditions and fertility |
+
+A qualified clinical reviewer must approve future patient-facing anatomy illustrations. Keep anatomical orientation, reported comfort and clinical fertility outcomes separate; do not implement automated sexual-position prescriptions or collect intimate technique records for optimisation.
