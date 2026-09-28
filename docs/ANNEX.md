@@ -24,6 +24,8 @@
 - [13. Implementation matrix and release gates](#13-implementation-matrix-and-release-gates)
 - [14. Reproductive planning in consensual adult multi-partner families](#14-reproductive-planning-in-consensual-adult-multi-partner-families)
 
+- [15. Annual coordination, personal preferences and athletic wellbeing](#15-annual-coordination-personal-preferences-and-athletic-wellbeing)
+
 ## 1. Executive summary
 
 This annex proposes an institutional extension for FOSS simulation, CAD and model-based design education, including potential cooperation with naval-aviation preparatory academies. The CAD portfolio in section 8 provides concept-study subjects for mobility and resilient infrastructure. Inclusion does not establish an open hardware license, an endorsed partnership or a certified training platform.
@@ -531,3 +533,95 @@ Sources consulted on **28 September 2026**. These materials support general educ
 | F5 | [CDC — STIs and pregnancy](https://www.cdc.gov/sti/about/about-stis-and-pregnancy.html) | Infection prevention and prenatal testing |
 
 Before turning this documentation into a user-facing health feature, obtain qualified clinical review, define privacy and escalation requirements, and evaluate the accuracy of all educational outputs. No such clinical validation is claimed by this addition.
+
+## 15. Annual coordination, personal preferences and athletic wellbeing
+
+This extension develops the voluntary planning approach in section 14. It is an administrative example for consenting adults, not a validated reproductive protocol. It does not introduce assisted-reproduction procedures or replace individual medical care.
+
+### 15.1 Optional annual calendar
+
+For the submitted example of 10–12 adults considering pregnancy, two self-selected planning circles, A and B, could each contain 5–6 people. These numbers describe the example only: they have no demonstrated biological advantage and confer no entitlement to another person's participation. A circle coordinates support, not access to intercourse.
+
+The proposed maximum of one ejaculation every 24–48 hours and 12–15 sessions per month is not adopted. ASRM does not recommend limiting intercourse frequency to protect fertility; section 14 summarises the clinical guidance. [F1]
+
+| Quarter | Optional coordination focus | Individual decisions and care |
+| --- | --- | --- |
+| January–March | Circle A reviews preferences, care access and practical support | Each person independently chooses whether to try, continue, pause or seek assessment; tracking remains optional |
+| April–June | Circle A reviews support needs; Circle B may request preconception appointments | Pregnancy care begins when needed, not at the quarter boundary; people who have not conceived retain their own plan |
+| July–September | Circle B reviews preferences and support; Circle A revisits caregiving arrangements | No automatic transfer to a “rest” or pregnancy state; clinical needs override the calendar |
+| October–December | Both circles review costs, wellbeing and next-year preferences | Continuing attempts, pregnancy, postpartum care and non-participation are individual circumstances, not group milestones |
+
+All quarters permit all decisions. Preparing for pregnancy is not reserved for the quarter immediately before a group's nominal planning period. Unsuccessful attempts do not move someone into a lower-priority category, and review dates must not delay the assessment thresholds in section 14.5. There is no scheduled “confirmation trimester”: pregnancy cannot be promised or assigned to a calendar phase.
+
+### 15.2 Individual-state workflow
+
+```mermaid
+flowchart TD
+    R["Optional quarterly review"] --> C["Private individual choice"]
+    C --> D{"Chosen next step?"}
+    D -->|Try or continue| T["Individual plan and care access"]
+    D -->|Pause or decline| P["Respect withdrawal and privacy"]
+    D -->|Clinical concern| H["Qualified assessment"]
+    T --> N{"Care needs changed?"}
+    N -->|Yes| H
+    N -->|No| F["Optional support follow-up"]
+    H --> F
+    F --> R
+```
+
+The calendar must not generate compulsory sexual appointments, publish fertility rankings or treat a missed appointment as noncompliance. Pregnancy and postpartum needs require their own care plans, irrespective of circle membership.
+
+### 15.3 Attraction and anthropometric claims
+
+The project will represent attraction through self-declared, reciprocal preferences. It will not use body measurements, ancestry or athletic participation to predict a person's sexual interests or to rank reproductive suitability.
+
+| Submitted claim | Treatment in this framework |
+| --- | --- |
+| Shoulder-to-waist proportions directly reveal testosterone and fertility | Do not use appearance as a hormone test, semen assessment or clinical diagnosis |
+| Tall or curvier body types predict preference for particular male athletes | Do not assign preferences from height, weight or somatotype; ask individuals only about information they wish to share |
+| Ethnic mixing establishes “hybrid vigour”, MHC compatibility or pheromone-driven attraction | Not established by the sources used here; no ethnic matching or genetic-quality score is implemented |
+| Combat sports imply protective dominance or sexual compatibility | Treat sport as an optional shared interest, not evidence of consent, character or intimate compatibility |
+| Dance or martial arts directly improve a specific person's sexual experience | Do not infer intimate performance from a sporting discipline |
+
+Race or ethnicity is not used as a substitute for an individual genetic assessment. If a family has a genetic-health question, the project can direct them to qualified counselling rather than an ancestry-based matching rule. This section is a product-design boundary, not a systematic review of attraction research.
+
+### 15.4 Optional shared activities
+
+| Activity | Voluntary community use | Boundary |
+| --- | --- | --- |
+| Strength training or calisthenics | Shared exercise interests and mutual encouragement | No prescribed physique or body-fat target for participation |
+| Swimming or outdoor activity | Recreation and social connection | Participation never indicates sexual availability |
+| Martial arts | A chosen sporting activity with appropriate instruction | No inference of dominance, protection or fertility |
+| Dance | Recreation and communication | Consent to dance is not consent to intimacy |
+
+Activity choices should accommodate disability, pregnancy, recovery, different fitness levels and the option not to participate. Do not use music, exercise or a group setting to engineer receptivity to scheduled intercourse. No oxytocin, dopamine or cortisol response is measured or guaranteed by these activities in this project.
+
+### 15.5 Training, energy availability and reproductive health
+
+The IOC REDs consensus identifies problematic low energy availability as a health concern for female and male athletes, with possible reproductive effects. It supports individual assessment rather than diagnosing someone from sport, muscularity or body-fat percentage alone. [F6]
+
+The proposed 10–14% body-fat target and universal effects attributed to a value below 6% are not adopted as fertility thresholds. Training load, food intake, recovery and symptoms need individual consideration. Persistent fatigue, menstrual changes, reduced libido or other concerns warrant discussion with a qualified clinician; they are not automatically proof of “overtraining” or infertility.
+
+Discuss testosterone, anabolic steroids and other performance-enhancing products with a clinician when planning pregnancy. Exogenous testosterone can suppress sperm production; AUA/ASRM guidance advises against testosterone monotherapy for men interested in current or future fertility. This is not a recommendation to self-treat hormone levels or abruptly change prescribed treatment. [F7]
+
+No endocrine optimisation score, supplement regimen or athletic-performance target is generated by the platform. Healthy training is a wellbeing objective, not a guarantee of conception or attraction.
+
+### 15.6 Implementation and evidence requirements
+
+| Requirement | Acceptance criterion |
+| --- | --- |
+| Voluntary scheduling | Every person can decline, pause or leave without losing unrelated project opportunities |
+| Private records | Shared views show only explicitly authorised information; reproductive details stay outside recruitment and incentives |
+| No biological quotas | No partner-count limits, ejaculation quotas or guaranteed conception milestones encoded as medical rules |
+| No inferred attraction | No scoring from ethnicity, body shape, photographs, testosterone assumptions or sporting discipline |
+| Clinical continuity | The calendar cannot postpone assessment or care because another circle has priority |
+| Wellbeing review | Use participant feedback and support needs, not pregnancy counts or sexual compliance as success metrics |
+
+Additional references consulted on **28 September 2026**:
+
+| ID | Source | Scope and access |
+| --- | --- | --- |
+| F6 | [IOC REDs consensus statement, 2023](https://doi.org/10.1136/bjsports-2023-106994) | Low energy availability and athlete health; indexed abstract and publisher excerpts consulted, full-text retrieval unavailable in this review |
+| F7 | [AUA/ASRM male infertility guideline, part II](https://prod.asrm.org/practice-guidance/practice-committee-documents/diagnosis-and-treatment-of-infertility-in-men-aua-asrm-guideline-part2/) | Testosterone and sperm-production considerations; clinical guidance, not a self-treatment protocol |
+
+These sources do not validate annual reproductive cohorts or attraction matching. Any user-facing implementation requires the clinical and privacy review described in section 14.8.
