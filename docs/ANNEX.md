@@ -29,6 +29,7 @@
 - [16. Sperm transport, lubrication and postcoital evidence](#16-sperm-transport-lubrication-and-postcoital-evidence)
 - [17. Lubricants and natural secretions when trying to conceive](#17-lubricants-and-natural-secretions-when-trying-to-conceive)
 - [18. Uterine orientation: anatomy, comfort and fertility](#18-uterine-orientation-anatomy-comfort-and-fertility)
+- [19. Conceptual space planning for a seven-adult household](#19-conceptual-space-planning-for-a-seven-adult-household)
 
 ## 1. Executive summary
 
@@ -808,3 +809,91 @@ Reviewed on **28 September 2026**:
 | F12 | [Better Health Channel — Retroverted uterus](https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/retroverted-uterus) | Anatomical variation, associated conditions and fertility |
 
 A qualified clinical reviewer must approve future patient-facing anatomy illustrations. Keep anatomical orientation, reported comfort and clinical fertility outcomes separate; do not implement automated sexual-position prescriptions or collect intimate technique records for optimisation.
+
+
+## 19. Conceptual space planning for a seven-adult household
+
+This initial architectural brief addresses the submitted scenario of one man and six women who may independently choose to pursue pregnancy. Occupancy is a design assumption, not a medically validated reproductive cohort. The brief supports privacy, rest, voluntary intimacy and access to care; it does not synchronise ovulation or prescribe sexual activity.
+
+The following is a proposed programme and adjacency study, not a dimensioned plan, construction specification or approved vessel arrangement. Site, jurisdiction, budget, accessibility needs and professional design review remain open inputs.
+
+### 19.1 Three-zone programme and circulation
+
+Retain three functional zones without requiring literal concentric rings. Every adult should have an independent private sleeping space, including the male resident; a shared room must not substitute for someone's right to retreat.
+
+| Zone | Initial room programme | Adjacency and privacy intent |
+| --- | --- | --- |
+| Shared living | Lounge, dining room, kitchen and optional garden or terrace | Near arrival and service access; no route through bedrooms |
+| Support and wellbeing | Private consultation room, accessible bathroom, laundry, storage and optional exercise studio | Reachable discreetly from common circulation; separate noisy equipment from sleep areas |
+| Private retreat | Seven private sleeping suites with comparable amenity and individual storage | Resident-controlled access, bathroom access and acoustic separation; adapt dimensions to access needs rather than imposing identical geometry |
+| Optional shared retreat | Flexible, bookable room for private time or rest | Independent access; no compulsory central location or assigned reproductive function |
+
+```mermaid
+flowchart TD
+    A["Arrival"] --> B["Shared living"]
+    A --> C["Independent circulation"]
+    C --> D["Private suites"]
+    C --> E["Consultation and support"]
+    C --> F["Optional shared retreat"]
+    B --> G["Kitchen and service access"]
+    D --> H["Reviewed escape routes"]
+    E --> H
+    F --> H
+```
+
+Arrows show conceptual access relationships, not a mandatory sequence, occupant-tracking system or compliant escape design. Independent circulation must allow residents to bypass social gatherings and the shared retreat.
+
+### 19.2 Residential and underground adaptation
+
+For a country residence, test daylight, shading, views, noise and accessible circulation against the actual site. An east-facing room may be a preference; no 06:00–08:00 fertility advantage or hormonal outcome is specified. Provide adjustable lighting and blackout options for different sleep schedules.
+
+For an underground habitat, develop a separate engineering brief for ventilation, moisture and water ingress, utilities, emergency lighting, communications and evacuation. A surface room arrangement cannot simply be copied underground. Link this study to the [habitat concept in section 8](#8-cad-concepts-and-simulation-work-packages), while keeping rendered concepts separate from verified engineering models.
+
+| Submitted specification | Revised design treatment |
+| --- | --- |
+| Articulated bed and pelvic supports | Optional comfort or accessibility furniture; no prescribed angle or postcoital retention function |
+| Constant 22–23 °C and 50% humidity | Candidate comfort preferences only; mechanical design must account for climate, condensation, occupancy and individual needs |
+| Sound insulation above 50 dB | Incomplete specification: an acoustic designer must define the rating, test method, assemblies, doors, flanking paths and building-services noise |
+| Identical suites prevent conflict | Aim for equitable amenity and resident input; geometry cannot guarantee interpersonal outcomes |
+| Eight to nine hours of mandatory sleep | Enable quiet rest and individual schedules; do not impose a fertility compliance target |
+
+WHO housing guidance supports attention to crowding, indoor temperatures, injury prevention and accessibility; it does not validate this reproductive household programme. [F13]
+
+### 19.3 Private health support and information boundaries
+
+Provide a discreet room for private conversations, telehealth and storage of personal supplies. Calling it a room for health support does not establish a licensed laboratory or diagnostic service. Any clinical use needs a separately defined professional scope and applicable approvals.
+
+LH or temperature tracking remains optional and individual, as described in section 14. Do not display a household ranking of fertile residents, infer exact ovulation from a single reading or allocate access to intimacy from a dashboard. Shared calendars may show voluntary room reservations without recording reproductive status. No cameras, microphones or intimate-activity sensing belong in this concept.
+
+### 19.4 Preliminary adaptation to a 40–50 metre yacht
+
+Length alone does not establish capacity for seven suites, crew accommodation and support functions. A naval architect must test the arrangement against displacement, stability, structure, machinery, services, operating area and applicable flag requirements. No compliance or feasibility claim is made here.
+
+| Deck concept | Possible use | Design question to resolve |
+| --- | --- | --- |
+| Upper deck | Shaded outdoor lounge and optional recreation | Weather protection, safe circulation and weight allocation; no prescribed heliotherapy |
+| Main deck | Shared living and an accessible private cabin or support room | Boarding, access to essential services and emergency transfer |
+| Lower deck | Remaining private cabins where feasible | Noise, vibration, ventilation, escape and access needs |
+
+Crew spaces, machinery, stores, sanitation and evacuation provisions require their own allocation. Stabilisation is a motion-reduction objective, not a promise to eliminate roll; equipment selection requires vessel-specific analysis. Plan access to shoreside healthcare before treating the yacht as a setting for pregnancy support.
+
+### 19.5 Shared amenities and environmental controls
+
+A kitchen should support resident preferences, food storage, preparation hygiene and cleaning. It is not a “fertility banquet” intervention. Exercise, dance and outdoor areas are optional wellbeing amenities without promised oxytocin, cortisol or conception effects.
+
+Spa or bathing facilities need separate equipment, hygiene and user-suitability review. Do not encode pelvic-circulation treatments, sex-specific temperature zones or testicular-temperature targets in building controls. Pregnancy-related activity and heat questions belong to individual clinical advice.
+
+Use source control, ventilation and appropriately selected filtration as indoor-air design considerations. EPA notes that ionisers can generate ozone, a lung irritant; negative-ion enrichment is therefore not included as a health feature. HEPA filtration is not a substitute for ventilation or humidity management. [F14, F15]
+
+### 19.6 Next design deliverables and sources
+
+The next stage should produce a room schedule, alternative dimensioned plans, accessibility and escape review, environmental-services concept and cost estimate. Test daylight, thermal loads, acoustics and circulation with explicit assumptions; do not simulate conception probability from room geometry. Resident review and qualified building or marine design review precede implementation.
+
+Reviewed on **28 September 2026**:
+
+| ID | Source | Scope |
+| --- | --- | --- |
+| F1 | [ASRM — Optimizing natural fertility, 2022](https://www.asrm.org/practice-guidance/practice-committee-documents/optimizing-natural-fertility-a-committee-opinion-2021/) | Clinical boundaries described in sections 14–18; no validation of a fertility-specific floor plan |
+| F13 | [WHO — Housing and health guidelines](https://www.who.int/publications/i/item/9789241550376) | Healthy housing considerations |
+| F14 | [EPA — Ionisers and ozone-generating air cleaners](https://www.epa.gov/indoor-air-quality-iaq/what-are-ionizers-and-other-ozone-generating-air-cleaners) | Ozone concerns |
+| F15 | [EPA — Guide to Air Cleaners in the Home](https://www.epa.gov/indoor-air-quality-iaq/guide-air-cleaners-home) | Filtration within indoor-air management |
