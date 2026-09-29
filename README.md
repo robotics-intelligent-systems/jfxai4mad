@@ -22,6 +22,7 @@ The repository currently contains documentation, concept images and requirements
   - [Rural population decline and regional differences](docs/ANNEX.md#23-rural-population-decline-drivers-and-regional-differences)
   - [Venezuelan and Ukrainian displacement](docs/ANNEX.md#24-venezuelan-and-ukrainian-displacement-comparative-review)
   - [Professional sourcing and GitHub review metrics](docs/ANNEX.md#25-professional-sourcing-channels-and-github-review-metrics)
+  - [Hypothetical funnel and resource simulation](docs/ANNEX.md#26-hypothetical-conversion-funnel-and-resource-simulation)
   - [Professional collaboration](docs/ANNEX.md#9-professional-collaboration-and-ai-assisted-sourcing)
   - [Sperm transport and postcoital evidence](docs/ANNEX.md#16-sperm-transport-lubrication-and-postcoital-evidence)
   - [Lubricants and natural secretions](docs/ANNEX.md#17-lubricants-and-natural-secretions-when-trying-to-conceive)
@@ -175,6 +176,7 @@ The [strategic and institutional annex](docs/ANNEX.md) consolidates proposed FOS
 | Rural population decline in Asia, North America and Europe | [Section 23: demographic drivers, regional differences and evidence limits](docs/ANNEX.md#23-rural-population-decline-drivers-and-regional-differences) |
 | Venezuelan and Ukrainian displacement | [Section 24: causes, demographics, protection systems and inclusion](docs/ANNEX.md#24-venezuelan-and-ukrainian-displacement-comparative-review) |
 | Professional sourcing channels and GitHub assessment | [Section 25: platform fit, verified availability and conversion measurement](docs/ANNEX.md#25-professional-sourcing-channels-and-github-review-metrics) |
+| Hypothetical funnel scenarios and resource costs | [Section 26: assumptions, expected counts, costs and sensitivity](docs/ANNEX.md#26-hypothetical-conversion-funnel-and-resource-simulation) |
 | Deliverables and acceptance criteria | [Section 13: implementation gates](docs/ANNEX.md#13-implementation-matrix-and-release-gates) |
 
 Vienna, Athens/Thessaloniki, Gothenburg and Ankara remain candidate hubs, not selected partners or a country ranking. Programme terms must be checked before applications; technology support is not automatically a housing or relocation grant.
@@ -194,6 +196,8 @@ The [rural demographic analysis](docs/ANNEX.md#23-rural-population-decline-drive
 The [displacement comparison](docs/ANNEX.md#24-venezuelan-and-ukrainian-displacement-comparative-review) reviews Venezuelan and Ukrainian migration using dated demographic evidence and country-specific protection frameworks. It distinguishes work rights from employment outcomes and keeps voluntary housing, humanitarian support and professional inclusion separate from adult social discovery.
 
 The [professional-sourcing review](docs/ANNEX.md#25-professional-sourcing-channels-and-github-review-metrics) records Bumble Bizz's discontinuation and OkCupid's employment-solicitation restrictions, and defines a measurable professional outreach-to-GitHub-review-to-interview sequence. Submitted conversion percentages remain unverified and are not project forecasts.
+
+The [funnel simulation](docs/ANNEX.md#26-hypothetical-conversion-funnel-and-resource-simulation) supplies explicitly hypothetical scenarios for professional outreach, GitHub review and completed interviews. It calculates staff time, cost per interview and sensitivity, keeps personal discovery separate, and demonstrates why higher conversion alone does not establish better ROI.
 
 ## CAD spotlight: OpenTwin modular habitat and shared retreat
 
