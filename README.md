@@ -26,6 +26,7 @@ The repository currently contains documentation, concept images and requirements
   - [Five-week professional collaboration pilot](docs/ANNEX.md#27-five-week-professional-collaboration-pilot)
   - [Fictional OkCupid dialogue and independent life planning](docs/ANNEX.md#28-fictional-okcupid-dialogue-and-independent-life-planning)
   - [Latin American dating vocabulary and social contexts](docs/ANNEX.md#29-latin-american-dating-vocabulary-and-social-contexts)
+  - [Fictional daytime and evening conversations in Lima](docs/ANNEX.md#30-fictional-daytime-and-evening-conversations-in-lima)
   - [Professional collaboration](docs/ANNEX.md#9-professional-collaboration-and-ai-assisted-sourcing)
   - [Sperm transport and postcoital evidence](docs/ANNEX.md#16-sperm-transport-lubrication-and-postcoital-evidence)
   - [Lubricants and natural secretions](docs/ANNEX.md#17-lubricants-and-natural-secretions-when-trying-to-conceive)
@@ -183,6 +184,7 @@ The [strategic and institutional annex](docs/ANNEX.md) consolidates proposed FOS
 | Five-week professional collaboration plan | [Section 27: outreach, mutual fit, agreement, onboarding and measured outcomes](docs/ANNEX.md#27-five-week-professional-collaboration-pilot) |
 | Fictional adult ENM conversation and separate life planning | [Section 28: dialogue, platform boundaries and independent civil/financial decisions](docs/ANNEX.md#28-fictional-okcupid-dialogue-and-independent-life-planning) |
 | Latin American dating vocabulary and social contexts | [Section 29: regional glossary, settings and evidence limits](docs/ANNEX.md#29-latin-american-dating-vocabulary-and-social-contexts) |
+| Fictional conversations in Miraflores and Barranco | [Section 30: dialogue continuity, optional transitions and refusal branches](docs/ANNEX.md#30-fictional-daytime-and-evening-conversations-in-lima) |
 | Deliverables and acceptance criteria | [Section 13: implementation gates](docs/ANNEX.md#13-implementation-matrix-and-release-gates) |
 
 Vienna, Athens/Thessaloniki, Gothenburg and Ankara remain candidate hubs, not selected partners or a country ranking. Programme terms must be checked before applications; technology support is not automatically a housing or relocation grant.
@@ -210,6 +212,8 @@ The [five-week collaboration pilot](docs/ANNEX.md#27-five-week-professional-coll
 The [fictional OkCupid dialogue](docs/ANNEX.md#28-fictional-okcupid-dialogue-and-independent-life-planning) illustrates adult ENM communication with pause and decline branches. It separates dating from future marriage and financial decisions, excludes transactional offers, and provides no forecast of acceptance or guaranteed legal benefits.
 
 The [Latin American social-context review](docs/ANNEX.md#29-latin-american-dating-vocabulary-and-social-contexts) adds a regional glossary, daytime and nightlife settings, and a proposed speed-dating workflow. It distinguishes dictionary-supported meanings from unverified local examples and avoids inferring romantic intent from profession or venue attendance.
+
+The [Lima conversation scenarios](docs/ANNEX.md#30-fictional-daytime-and-evening-conversations-in-lima) illustrate a daytime introduction in Miraflores and an independently agreed evening group meeting in Barranco. The English dialogues maintain consistent characters and include alternatives for declining, staying in place or ending the interaction.
 
 ## CAD spotlight: OpenTwin modular habitat and shared retreat
 

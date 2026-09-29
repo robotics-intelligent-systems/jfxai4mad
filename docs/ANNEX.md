@@ -45,6 +45,8 @@
 
 - [29. Latin American dating vocabulary and social contexts](#29-latin-american-dating-vocabulary-and-social-contexts)
 
+- [30. Fictional daytime and evening conversations in Lima](#30-fictional-daytime-and-evening-conversations-in-lima)
+
 ## 1. Executive summary
 
 This annex proposes an institutional extension for FOSS simulation, CAD and model-based design education, including potential cooperation with naval-aviation preparatory academies. The CAD portfolio in section 8 provides concept-study subjects for mobility and resilient infrastructure. Inclusion does not establish an open hardware license, an endorsed partnership or a certified training platform.
@@ -1750,3 +1752,116 @@ For a proposed speed-dating feature, expose only mutually authorised contact det
 | L7 | [ASALE — afilar](https://www.asale.org/damer/afilar) | Regional ambiguity and limits of the Peruvian attribution |
 
 These lexical references do not establish the popularity of PUA, current venue suitability, occupational demographics or a historical trend across Latin America. Unverified expressions and geographic examples are explicitly separated from dictionary-supported claims.
+
+
+## 30. Fictional daytime and evening conversations in Lima
+
+This English adaptation illustrates the vocabulary and social contexts in [section 29](#29-latin-american-dating-vocabulary-and-social-contexts). All four characters are fictional adults aged 18 or older. The scenes are authored examples, not transcripts, field observations or evidence that an approach produces a particular response.
+
+**Continuity:** Matías meets Sofía during the daytime scene. In the optional evening continuation, Matías arrives with his friend Franco, while Sofía arrives with her friend Lucía. Franco remains the friend throughout; Matías never introduces himself as Franco. The evening meeting occurs only after a separate invitation and explicit agreement.
+
+The Malecón de la Reserva, Parque del Amor, Larcomar and the Bajada de Baños serve as narrative references supplied for the scenario. The café and bar are unnamed and fictional; opening hours, routes, terrace availability and current local conditions have not been verified. This is not a venue recommendation.
+
+### 30.1 Scene one: a sunset introduction in Miraflores
+
+**Setting:** Sofía is looking at the Pacific near Parque del Amor, holding a coffee. Matías pauses at a comfortable distance to one side, leaving her route open. He does not follow her or interpret being alone as an invitation.
+
+**Matías:** Hi—sorry to interrupt. That sunset made me stop too. Would you mind a quick hello? I'm Matías.
+
+**Sofía:** Hi. I'm Sofía. I was just enjoying the view before the sun goes down.
+
+**Matías:** It is a good place to take a break. Do you live nearby, or are you visiting?
+
+**Sofía:** I'm visiting from Córdoba. I arrived three days ago.
+
+**Matías:** Welcome. How has the trip been so far?
+
+**Sofía:** Good! I've been walking around Miraflores, and I was thinking about seeing Barranco later.
+
+**Matías:** Nice. I was heading towards Larcomar for a coffee, although I see you already have one. Would you like to keep talking for ten minutes somewhere you choose, or would you rather enjoy the view on your own?
+
+**Sofía:** I can spare ten minutes. Let's sit here first; I still have half my coffee.
+
+**Matías:** Sounds good.
+
+*After a mutually enjoyable conversation:*
+
+**Matías:** My friend Franco and I were considering meeting in Barranco this evening. If you and a friend would like to join, we could choose a public place together. No need to decide now.
+
+**Sofía:** I may be going with Lucía. I'll ask her first. We can exchange contact details if that's okay.
+
+**Matías:** Sure—whichever contact method you are comfortable sharing.
+
+**Alternative — decline:** If Sofía says, “I'd rather be on my own,” Matías replies, “Of course. Enjoy the sunset,” and leaves without requesting a number or trying another opener.
+
+**Alternative — limited interest:** If Sofía wants a short conversation but no later meeting, that is the complete outcome. Sharing contact details is optional and does not create an obligation to reply.
+
+### 30.2 Scene two: an optional group conversation in Barranco
+
+**Setting:** Later, after Sofía and Lucía have both agreed to meet, the four adults gather at a fictional bar near the Bajada de Baños. Matías introduces Franco; Sofía introduces Lucía. They remain together and can choose alcoholic or non-alcoholic drinks.
+
+**Franco:** Can you help settle a very low-stakes debate? Matías would choose a chilcano and I'd choose a pisco sour. What would you pick—or neither?
+
+**Lucía:** Pisco sour for me, if we're choosing between those two.
+
+**Matías:** Fair enough. What about you, Sofía?
+
+**Sofía:** Probably a gin and tonic, but I might just have sparkling water tonight.
+
+**Matías:** Either sounds good. Have you found something on the menu you like?
+
+**Sofía:** I'm still looking. The lighting makes the small print a challenge.
+
+**Franco:** Same here. We can ask whether there's a clearer menu.
+
+**Lucía:** Good idea.
+
+**Matías:** It's a little noisy by the bar. Would everyone prefer to stay here, or ask whether there's a quieter table on the terrace?
+
+**Sofía:** I'd be happy with a quieter table, if Lucía is too.
+
+**Lucía:** Yes, let's check. I'd like us to sit together.
+
+**Franco:** Absolutely.
+
+*They ask the staff about seating before moving. Each person chooses their own drink; ordering or paying for a round creates no obligation.*
+
+**Matías:** Sofía, you mentioned you had only just arrived. What have you most enjoyed so far?
+
+**Sofía:** The coastal walks. I'm keeping the rest of the trip fairly flexible.
+
+**Matías:** That sounds like a good way to explore. We can keep tonight relaxed too.
+
+**Alternative — no transition:** If either friend prefers to stay at the bar, the group can stay or each person can choose their own plan. Nobody is pressured to move or separated from their companion.
+
+**Alternative — ending the evening:** If Sofía or Lucía wants to leave, the others accept that choice. There is no expectation of a kiss, another venue or a future date.
+
+### 30.3 Communication choices illustrated
+
+| Submitted tactic | Revised interpretation | What the scene does not establish |
+| --- | --- | --- |
+| Direct daytime opening | Brief environmental observation followed by a real opportunity to decline | A smile, polite response or public location does not prove attraction |
+| Guessing origin or preferences | Ask open questions and let the person disclose what they choose | Accent, appearance and nationality do not determine preferences |
+| Wingman support | Franco participates honestly and includes Lucía as a person in the conversation | Friends are not distractions or obstacles to isolate someone from |
+| Quick transition to a café or terrace | Offer a choice, check individual preferences and confirm the setting is available | Moving location is not a required progression or evidence of consent to anything else |
+| Humour and confidence | Light conversation without challenging someone's caution or making refusal embarrassing | A joke does not override a boundary |
+| Positive scripted response | One possible fictional branch alongside refusal and limited participation | No measured success rate or generalisable conversion claim |
+
+Alcohol, a purchase, tourism status or participation in a group does not establish consent. If someone cannot make a clear voluntary choice, do not escalate the interaction. Avoid covert recording, collecting identifying information for the annex or converting these scenes into automated outreach.
+
+### 30.4 Branching interaction workflow
+
+```mermaid
+flowchart TD
+    A["Brief introduction with room to leave"] --> B{"Wants to talk?"}
+    B -->|No or unclear| X["End without pressure"]
+    B -->|Yes| C["Mutual conversation"]
+    C --> D{"Both want another activity?"}
+    D -->|No| E["Finish at the current interaction"]
+    D -->|Yes| F["Offer place and timing choices"]
+    F --> G{"Each participant agrees?"}
+    G -->|No| H["Stay, revise or finish"]
+    G -->|Yes| I["Continue with an easy exit"]
+```
+
+These scenes can be reviewed for consistent names, clear invitations, conversational naturalness and respectful handling of refusal. They do not require a numerical score for attraction, a contact quota or a “close.” Keep them separate from the professional recruitment funnel and from the civil or financial questions in section 28.
