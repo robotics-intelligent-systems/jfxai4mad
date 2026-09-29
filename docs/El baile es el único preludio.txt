@@ -1,4 +1,5 @@
 El flujo de proceso para la transición consensuada hacia la intimidad formalizada incorpora un enfoque de salud pública, prevención y marco legal. A continuación, se presenta la versión consolidada que integra la preparación previa, la formalización mediante trámites digitales y los protocolos de protección integral.
+
 Flujo de Proceso Consolidado con Prevención y Gestión Legal
 
 [Fase 1: Baile y Conexión Inicial]
@@ -19,6 +20,7 @@ Flujo de Proceso Consolidado con Prevención y Gestión Legal
 [Consumación Segura de la Intimidad]
 
 Descripción de las Fases del Proceso
+
 1. Fase Previa: Baile y Apertura Social
 
     Objetivo: Iniciar el contacto afectivo y social en un entorno seguro y con consentimiento mutuo.
@@ -50,21 +52,63 @@ Descripción de las Fases del Proceso
     Acción: Incorporación del preservativo como barrera de protección y método inicial de planificación familiar acordado por la pareja.
     
 Para estructurar la interacción social y llevarla desde el baile inicial hasta un acuerdo explícito y consensuado de intimidad, se consolida el siguiente flujo de proceso por etapas. Cada fase combina comunicación verbal explícita con lectura de lenguaje corporal, asegurando que el consentimiento sea continuo, entusiasta y verdaderamente mutuo.
-Flujo de Proceso Consolidado y Consensuado
+
+Para garantizar la salud física, el confort y la prevención de microlesiones o fricción dolorosa (dispareunia), el flujo de proceso consolidado integra un protocolo específico de educación para la salud, enfocado en la preparación anatómica y la lubricación previa adecuada.
+Protocolo de Preparación Anatómica y Lubricación Previa
+
+En la anatomía femenina —especialmente en mujeres de contextura pequeña o canal vaginal estrecho— el tejido epitelial y la musculatura del suelo pélvico son altamente sensibles a la fricción mecánica. La penetración sin una vasodilatación previa suficiente y sin el soporte de lubricación adecuada puede causar microdesgarros, inflamación, infecciones recurrentes (como cistitis poscoital) y dolor.
+
+[Evaluación del Estado de Excitación / Vasocongestión]
+                       │
+                       ▼
+[Aplicación Preparatoria de Lubricante de Base Acuosa]
+                       │
+                       ▼
+[Verificación de Confort y Ausencia de Fricción]
+
+Componentes Clave del Protocolo de Salud y Confort
+
+1. Estimulación Previa y Vasocongestión
+
+    Fisiología: La excitación estimula las glándulas de Bartolino y Skene para producir lubricación natural y dilatación del canal vaginal. En mujeres pequeñas, apresurar este proceso suele generar resistencia muscular involuntaria (vaginismo defensivo).
+
+    Acción: Asegurar un tiempo prolongado de estimulación y estimulo afectivo previo antes de intentar cualquier contacto penetrativo.
+
+2. Uso Sistemático de Lubricación Externa (Base Acuosa)
+
+    Especificación: Incluso con lubricación natural, el uso de un lubricante íntimo a base de agua (compatible con el preservativo de látex/poliuretano) es indispensable para reducir a cero la fricción inicial.
+
+    Propiedades requeridas:
+
+        Base acuosa o de silicona médica (sin parabenos ni fragancias agresivas).
+
+        pH neutro/fisiológico adecuado para la flora vaginal (3.8 a 4.5).
+
+        Isosmolar para no irritar la mucosa sensible.
+
+3. Verificación de Comodidad y Dilatación Progresiva
+
+    Evaluación: Confirmar de forma verbal y no verbal que la entrada sea completamente fluida y sin molestia.
+
+    Técnica: Introducción progresiva asegurando la distribución uniforme del lubricante en la zona vulvar y el vestíbulo vaginal.
+
+Actualización del Flujo de Proceso Consolidado
+
+Plaintext
 
 [Fase 1: Baile y Conexión Inicial]
          │
          ▼
-[Fase 2: Invitación a un Espacio Tranquilo]
+[Fase 2: Diálogo, Compromiso y Tramite Digital de Matrimonio Exprés]
          │
          ▼
-[Fase 3: Conversación y Verificación de Sintonía]
+[Fase 3: Verificación de Certificado Integral de Salud]
          │
          ▼
-[Fase 4: Transición a la Intimidad / Propuesta]
+[Fase 4: Preparación Anatómica (Lubricación Adecuada y Preservativo)]
          │
          ▼
-[Acuerdo Consensuado / Confirmación]
+[Consumación Segura, Cómoda y Consensuada]
 
 1. Fase Previa: Baile y Contacto Inicial
 
@@ -233,7 +277,9 @@ Tú: (Mirando fijamente a sus labios, con la voz baja y decidida)
 «Acepto... pero tú pagas el taxi y mantienes esa mano exactamente donde está.»
     
     
-Para integrar esos elementos específicos dentro de la arquitectura corporal y la dinámica del baile/preludio, el esquema técnico y anatómico consolida los puntos de contacto de la siguiente manera:[ INICIO DEL BAILE / PRELUDIO ]
+Para integrar esos elementos específicos dentro de la arquitectura corporal y la dinámica del baile/preludio, el esquema técnico y anatómico consolida los puntos de contacto de la siguiente manera:
+
+[ INICIO DEL BAILE / PRELUDIO ]
                │
                ▼
    [ CUADRO A: ZONA INFERIOR ] ──────────────┐
