@@ -41,6 +41,8 @@
 
 - [27. Five-week professional collaboration pilot](#27-five-week-professional-collaboration-pilot)
 
+- [28. Fictional OkCupid dialogue and independent life planning](#28-fictional-okcupid-dialogue-and-independent-life-planning)
+
 ## 1. Executive summary
 
 This annex proposes an institutional extension for FOSS simulation, CAD and model-based design education, including potential cooperation with naval-aviation preparatory academies. The CAD portfolio in section 8 provides concept-study subjects for mobility and resilient infrastructure. Inclusion does not establish an open hardware license, an endorsed partnership or a certified training platform.
@@ -1553,3 +1555,97 @@ flowchart TD
 ```
 
 At the five-week checkpoint, report stage counts, unresolved decisions, staff hours and mentor load; retain pending outcomes separately. After the observation window closes, compare actual conversion and costs with the hypothetical inputs in section 26. Revise the opportunity, support or workload based on evidence. Do not infer a successful programme solely from signatures, connection counts or a small cohort meeting an aspirational percentage.
+
+
+## 28. Fictional OkCupid dialogue and independent life planning
+
+**Reviewed 29 September 2026.** This is an English educational dialogue between fictional adults aged 18 or older who have mutually matched and openly stated an interest in ethical non-monogamy (ENM). It is not a real transcript, a platform experiment or evidence of conversion. No account, message or meeting is created by this documentation.
+
+One character happens to study at or have graduated from the University of Buenos Aires (UBA). This background is fictional context, not evidence of pragmatism, financial need, relationship preferences or willingness to marry. UBA is not affiliated with or endorsing the project. A match permits neither assumptions about consent nor a bundled financial or civil proposal.
+
+### 28.1 Platform boundary and revision of the submitted scenario
+
+OkCupid's published guidelines allow non-monogamous dating with relationship disclosure and partner consent, while excluding joint accounts, commercial solicitation, money exchanges and transactional dating. They also require genuine relationship-seeking profiles rather than research accounts. Its terms restrict commercial opportunities and solicitation. [O1, O2]
+
+Accordingly, the submitted combination of a dating proposal, expedited wedding services and a financial incentive is **not adopted as an OkCupid outreach template**. Calling an incentive a family dowry does not establish platform acceptability. Do not redirect people elsewhere to evade these restrictions.
+
+| Submitted element | Treatment in this study |
+| --- | --- |
+| Three-month relationship agreement | Optional getting-to-know-each-other period with mutually chosen check-ins, not a binding trial, sexual obligation or marriage deadline |
+| Express marriage / wedding tourism | Separate future question only if both independently want marriage; no advertised service, guaranteed processing time or promised immigration/property advantage |
+| Family fund / dowry | Separate financial-planning question, not payment for dating, intimacy, exclusivity, marriage, pregnancy or continued participation |
+| University and analytical personality | Fictional personal context; no profiling rule or targeted recruitment criterion |
+| Positive final response | One invented possible response, accompanied by pause and decline branches; no predicted acceptance rate |
+
+### 28.2 Fictional conversation: expectations and autonomy
+
+**Person A:** Hi [Name]. Your profile mentions ethical non-monogamy and clear communication, which matter to me too. Would you be comfortable talking about what each of us wants before deciding whether to meet?
+
+**Person B:** Yes. I would like to understand your expectations, especially because my studies and professional plans are priorities.
+
+**Person A:** I am interested in getting to know someone gradually, with honest communication about existing relationships and mutually agreed boundaries. If we both want to continue, we could check in over the next three months. That would not commit either of us to living together, marriage or starting a family, and either person could stop earlier.
+
+**Person B:** How would that work in practice? I would not want a schedule or agreement to limit my independence.
+
+**Person A:** We would each explain our preferences and limits, including time together, privacy, other relationships and sexual-health communication. We would agree only on what works for both of us, and revisit it when needed. Neither a match nor a previous agreement replaces consent to a particular decision. A monthly conversation could be useful, but it is optional.
+
+**Person B:** What about marriage or money? I do not want financial support to become an expectation that I stay.
+
+**Person A:** I agree. I am not offering money or services in exchange for a relationship. I would keep dating separate from any future civil or financial decision. If we eventually both wanted marriage, we would first seek independent advice about the relevant jurisdictions and consequences. I cannot promise an expedited process, immigration benefits or a particular property arrangement. Your education and career would remain your own decisions.
+
+**Person B:** That is clearer. I would be comfortable meeting for coffee in a public place, without agreeing to anything beyond getting to know each other.
+
+**Person A:** That works for me. We can choose a time and place together, and either of us can change our mind.
+
+**Alternative — pause:** “I need more time and do not want to discuss marriage or finances.” The appropriate response is to respect that boundary without repeated persuasion.
+
+**Alternative — decline:** “This relationship structure is not what I want.” The appropriate response is to acknowledge the mismatch and close the conversation respectfully. A decline is a legitimate outcome, not a failed conversion to overcome.
+
+### 28.3 Separate future civil and financial questions
+
+The following is a **project review framework**, not a continuation of a financial solicitation on OkCupid and not an executable legal agreement. It applies only if an established relationship independently develops these questions. It must not become a pretext to move a prohibited offer off-platform.
+
+| Decision | Questions for independent review | No automatic conclusion |
+| --- | --- | --- |
+| Civil marriage | Do both want marriage for its actual obligations? What are their existing civil statuses, legal capacity, chosen jurisdiction and recognition requirements? | ENM does not itself determine eligibility for another civil marriage |
+| Wedding travel | What official documents, appointments, travel permissions, costs and cancellation conditions apply? | A tourism package does not establish marriage validity or a fixed completion date |
+| Property arrangements | What law applies to assets, debts, inheritance and any proposed agreement? Can each person obtain independent advice and understand the terms? | Separation of property or a premarital document is not assumed available, sufficient or enforceable everywhere |
+| Immigration | What current route, evidence and authority decision would apply to each person? | No residence, visa or citizenship promise; no sham arrangement or misrepresentation |
+| Education and voluntary support | Is any support independently chosen? What are its source, amount, duration, ownership, tax treatment and documented conditions? | A contribution does not buy consent or control studies, work, friendships or reproductive choices |
+| Separation or withdrawal | What housing, debt, property or other obligations already exist, and what independent assistance is available? | Ending a relationship does not automatically erase existing legal obligations |
+| Parenthood | Do both independently want to consider it, with appropriate care and practical planning? | No pregnancy quota, deadline or financial reward for conception |
+
+For this project's proposed safeguards, any genuine gift should be distinguished from a loan or shared expense, and no repayment penalty should be imposed merely for declining intimacy or ending a relationship. Do not describe support as unconditional if conditions exist. These are design requirements for review, not findings that a drafted clause is legally enforceable. No participant should surrender control of identity documents, personal accounts or academic decisions.
+
+A three-month check-in is not a requirement to formalise anything at its conclusion. It also cannot justify promising “no outstanding commitments” after separation without reviewing obligations that actually arose.
+
+### 28.4 Decision workflow and evaluation
+
+```mermaid
+flowchart TD
+    A["Fictional adult mutual match"] --> B{"Both want to discuss expectations?"}
+    B -->|No| X["Respect boundary and stop"]
+    B -->|Yes| C["Discuss ENM and autonomy"]
+    C --> D{"Mutual interest remains?"}
+    D -->|No| X
+    D -->|Yes| E["Optional meeting and check-ins"]
+    E --> F{"Later independent civil or financial question?"}
+    F -->|No| G["Continue only by mutual choice"]
+    F -->|Yes| H["Separate advice and informed decisions"]
+    H --> I{"Each freely agrees?"}
+    I -->|No| G
+    I -->|Yes| J["Proceed only within reviewed requirements"]
+```
+
+Evaluate the written simulation for clarity, independent choices, truthful disclosure and respectful handling of refusal. Do not score the fictional recipient's attractiveness, financial vulnerability or likelihood of accepting money. Do not apply the recruitment metrics in sections 25–27 to intimacy, marriage or pregnancy.
+
+No numerical simulation has been run here: the positive reply is authored dialogue, not an observed outcome. Any future research involving people would need a separate appropriate protocol and platform permission; this annex requires neither collecting dating messages nor creating fictitious profiles.
+
+### 28.5 Source register and evidence limits
+
+| ID | Source | Scope |
+| --- | --- | --- |
+| O1 | [OkCupid — Community Guidelines](https://okcupid-app.zendesk.com/hc/en-us/articles/22771537322011-Community-Guidelines) | Relationship disclosure, account authenticity, adult-only access and solicitation restrictions |
+| O2 | [OkCupid — Terms and Conditions](https://okcupid-app.zendesk.com/hc/en-us/articles/23941864418203-Terms-Conditions) | Published terms effective 22 September 2025; prohibited commercial content |
+
+Sources were checked on the review date above. They do not endorse this dialogue or determine a specific legal arrangement. Cross-border marriage and financial questions remain subject to current, individual professional review; the dialogue supplies no jurisdiction-specific legal opinion.
