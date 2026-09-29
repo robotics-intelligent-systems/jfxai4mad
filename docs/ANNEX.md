@@ -43,6 +43,8 @@
 
 - [28. Fictional OkCupid dialogue and independent life planning](#28-fictional-okcupid-dialogue-and-independent-life-planning)
 
+- [29. Latin American dating vocabulary and social contexts](#29-latin-american-dating-vocabulary-and-social-contexts)
+
 ## 1. Executive summary
 
 This annex proposes an institutional extension for FOSS simulation, CAD and model-based design education, including potential cooperation with naval-aviation preparatory academies. The CAD portfolio in section 8 provides concept-study subjects for mobility and resilient infrastructure. Inclusion does not establish an open hardware license, an endorsed partnership or a certified training platform.
@@ -1649,3 +1651,102 @@ No numerical simulation has been run here: the positive reply is authored dialog
 | O2 | [OkCupid — Terms and Conditions](https://okcupid-app.zendesk.com/hc/en-us/articles/23941864418203-Terms-Conditions) | Published terms effective 22 September 2025; prohibited commercial content |
 
 Sources were checked on the review date above. They do not endorse this dialogue or determine a specific legal arrangement. Cross-border marriage and financial questions remain subject to current, individual professional review; the dialogue supplies no jurisdiction-specific legal opinion.
+
+
+## 29. Latin American dating vocabulary and social contexts
+
+**Reviewed 29 September 2026.** This supplement provides a descriptive English glossary for the Spanish-language expressions submitted to the project. Pickup-artist (PUA) terminology, everyday flirting and organised speed dating are different subjects; their inclusion does not establish a scientifically validated seduction method or a uniform Latin American culture.
+
+Meanings vary by place, generation, speaker and situation. Dictionary labels document particular senses, not current usage rates or exclusive national ownership. This section complements [section 28](#28-fictional-okcupid-dialogue-and-independent-life-planning) and concerns interactions between adults.
+
+### 29.1 Submitted PUA terminology: descriptive glossary
+
+The following are working glosses of the submitted subculture vocabulary, not effectiveness claims or prescribed stages.
+
+| Term | Meaning in the submitted context | Neutral project wording |
+| --- | --- | --- |
+| Daygame | Attempting romantic introductions during daytime activities | Daytime social interaction |
+| Nightgame | Attempting romantic introductions in nightlife settings | Evening social interaction |
+| Approach / abordaje | Starting a conversation with someone not previously known | Introduction or invitation to talk |
+| Opener / apertura | Initial remark intended to start a conversation | Opening remark |
+| Wingman / ala | A friend who helps with introductions | Supportive friend; never someone tasked with isolating a person from friends or distracting supposed “obstacles” |
+| K-close / kiss close | Subculture shorthand for an interaction culminating in a kiss | Mutually wanted kiss, not an achievement metric |
+| Number close | Subculture shorthand for obtaining contact details | Voluntary exchange of contact information |
+
+A conversation, a number exchange and a kiss are separate choices. None implies consent to another step. The project should not use “closes” as personal-conversion KPIs or recommend persistence after disinterest.
+
+### 29.2 Regional expressions and verification status
+
+Spanish expressions are retained for localisation; the explanations are in English. Rows marked provisional preserve the submitted examples without claiming that their country attribution has been independently established.
+
+| Submitted regional association | Expression | Meaning and evidence qualification |
+| --- | --- | --- |
+| Mexico; also wider Spanish usage | Ligar / ligue | Flirting or forming a romantic/sexual connection in colloquial usage; not exclusively Mexican. The DLE documents the relevant sense of *ligar*. [L1] |
+| Mexico | Tirar el rollo / echar el perro | Submitted as expressions for making a romantic approach; local distribution and the singular/plural variants remain provisional |
+| Colombia | Echar los perros / caerle a alguien | Submitted as openly expressing romantic interest or approaching someone with that intention; retain as contextual examples, not a country-exclusive rule |
+| Colombia | Parchar / parche | Social gathering or spending time with friends in the intended example. ASALE documents *parcharse* as gathering with friends and other senses of *parchar*, including kissing; context matters and a social gathering need not be a date. [L2] |
+| Argentina / Uruguay | Chamuyo / chamuyar | Persuasive talk, particularly in romantic contexts; ASALE also records *chamuyar* for Peru and Bolivia, so the association is broader than the Río de la Plata. [L3] |
+| Argentina / Uruguay | Encarar; tirar los galgos; levantar | Submitted contextual glosses: initiating an approach or trying to attract someone. Their precise regional distribution is not verified here; *encarar* is the infinitive, whereas *encara* is an inflected form |
+| Peru | Floro / florear | Ornate or persuasive talk; ASALE verifies the Peruvian noun *floro*, which is not confined to flirting. The submitted verb should be interpreted in its local context. [L4] |
+| Peru | Lanzarse / encarar | Submitted as taking the initiative; these broad expressions do not establish permission to kiss or touch |
+| Chile | Jotear / jote | ASALE's entry for *jotear* includes insistent pursuit of a woman. This potentially unwelcome connotation should not be flattened into mutual flirting or treated as recommended behaviour. [L5] |
+| Chile, as submitted | Morder el anzuelo / enganchar | Broad figurative expressions; neither Chilean exclusivity nor mutual attraction is established by the phrase itself |
+
+**Corrections to the source list:** use *cortejo* for courtship, rather than the submitted *cotejo*. Do not present *fildeo* as an established Mexican courtship term: the consulted ASALE entry for *fildear* principally describes baseball, with other regional senses but no corroboration of that claim. Likewise, ASALE's *afilar* entry does not substantiate the submitted Peruvian flirting attribution; it records different meanings across countries, some explicitly sexual. These terms remain excluded from the verified regional dating glossary pending stronger local evidence. [L6, L7]
+
+The glossary is for understanding language, not generating unsolicited comments, deceptive scripts or stereotypes about speakers.
+
+### 29.3 Daytime, nightlife and organised introductions
+
+| Setting | Potential conversational context | Practical assessment |
+| --- | --- | --- |
+| Cafés and bookshops | Shared interests or an organised public activity | Respect reading, studying, work, staff duties and venue rules; attendance is not an invitation to be approached |
+| Shopping areas and pedestrian streets | Brief incidental interaction | Keep paths clear and allow an easy exit; do not follow someone who declines or continues walking |
+| Parks and waterfront promenades | Walking, exercise or community events | Avoid interrupting exercise or treating routine routes as prospecting locations |
+| Cocktail bars and speakeasy-style venues | Conversation where acoustics and layout permit it | Check actual noise, accessibility, transport and booking requirements; a venue label does not guarantee conditions |
+| Rooftops and other evening venues | Social events or informal gatherings | Do not infer availability from occupation, tourism status or attendance; intoxication is not a substitute for agreement |
+| Organised speed dating | Explicitly opted-in short introductions | Verify the organiser, adult eligibility, format, privacy controls, accessibility and how mutual matches are communicated |
+
+The submitted locations—Condesa/Roma and Parque México in Mexico City; Palermo and Bosques de Palermo in Buenos Aires; Miraflores/Barranco and Parque Kennedy in Lima; and El Poblado in Medellín—are retained as **illustrative geographic references**, not verified recommendations, rankings of preferred dating locations or findings about the people present. No venue or event availability has been checked.
+
+Eventbrite and Meetup were proposed as discovery channels, not verified organisers or endorsements. The submitted **three-to-five-minute** rotation can be a hypothetical event format; actual organisers set their own timings. Before publishing an event listing, record its official page, date, location, price, cancellation terms and matching procedure. No event is booked by this update.
+
+### 29.4 Professions: research hypotheses rather than social predictions
+
+| Submitted category | Appropriate treatment in the project |
+| --- | --- |
+| Marketing, advertising and creative work | Possible voluntary interest tags; communication-oriented work does not establish romantic confidence or interest |
+| Technology workers and digital nomads | Possible declared work arrangements; no verified claim of prevalence in the named neighbourhoods or events |
+| Finance and consulting | Possible occupational categories; the submitted 25–40 age range is not a verified participant distribution |
+| Public relations and hospitality | Work-related social contact must not be confused with personal availability; professional friendliness is not romantic consent |
+
+No representative attendance dataset was supplied. Claims that these professions dominate a dating scene would require dated, locality-specific data, a sampling method and denominators. Do not infer personality, wealth, relationship intent or ENM preferences from a job title. Keep employment sourcing in sections 25–27 separate from social discovery.
+
+### 29.5 Proposed event interaction workflow
+
+```mermaid
+flowchart TD
+    A["Check event details and rules"] --> B{"Voluntary adult participation?"}
+    B -->|No| X["Do not enrol"]
+    B -->|Yes| C["Optional brief introduction"]
+    C --> D{"Both want to continue?"}
+    D -->|No| E["End politely"]
+    D -->|Yes| F["Choose whether to share contact"]
+    F --> G["Follow up only as agreed"]
+```
+
+For a proposed speed-dating feature, expose only mutually authorised contact details and provide an easy decline or withdrawal path. Evaluate clarity, accessibility, participant feedback and handling of unwanted contact rather than counts of kisses or phone numbers. This is a design proposal, not a deployed service or a claim about event effectiveness.
+
+### 29.6 Lexical source register
+
+| ID | Source | What it supports |
+| --- | --- | --- |
+| L1 | [RAE/ASALE — ligar](https://dle.rae.es/ligar) | General Spanish lexical meaning |
+| L2 | [ASALE — parchar](https://www.asale.org/damer/parchar) | Distinct Colombian and other regional senses |
+| L3 | [ASALE — chamuyar](https://www.asale.org/damer/chamuyar) | Persuasive speech and regional labels |
+| L4 | [ASALE — floro](https://www.asale.org/damer/floro) | Peruvian persuasive or ornate speech |
+| L5 | [ASALE — jotear](https://www.asale.org/damer/jotear) | Chilean insistent-pursuit sense |
+| L6 | [ASALE — fildear](https://www.asale.org/damer/fildear) | Limits of the submitted courtship attribution |
+| L7 | [ASALE — afilar](https://www.asale.org/damer/afilar) | Regional ambiguity and limits of the Peruvian attribution |
+
+These lexical references do not establish the popularity of PUA, current venue suitability, occupational demographics or a historical trend across Latin America. Unverified expressions and geographic examples are explicitly separated from dictionary-supported claims.
