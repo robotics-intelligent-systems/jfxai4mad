@@ -23,6 +23,7 @@ The repository currently contains documentation, concept images and requirements
   - [Venezuelan and Ukrainian displacement](docs/ANNEX.md#24-venezuelan-and-ukrainian-displacement-comparative-review)
   - [Professional sourcing and GitHub review metrics](docs/ANNEX.md#25-professional-sourcing-channels-and-github-review-metrics)
   - [Hypothetical funnel and resource simulation](docs/ANNEX.md#26-hypothetical-conversion-funnel-and-resource-simulation)
+  - [Five-week professional collaboration pilot](docs/ANNEX.md#27-five-week-professional-collaboration-pilot)
   - [Professional collaboration](docs/ANNEX.md#9-professional-collaboration-and-ai-assisted-sourcing)
   - [Sperm transport and postcoital evidence](docs/ANNEX.md#16-sperm-transport-lubrication-and-postcoital-evidence)
   - [Lubricants and natural secretions](docs/ANNEX.md#17-lubricants-and-natural-secretions-when-trying-to-conceive)
@@ -177,6 +178,7 @@ The [strategic and institutional annex](docs/ANNEX.md) consolidates proposed FOS
 | Venezuelan and Ukrainian displacement | [Section 24: causes, demographics, protection systems and inclusion](docs/ANNEX.md#24-venezuelan-and-ukrainian-displacement-comparative-review) |
 | Professional sourcing channels and GitHub assessment | [Section 25: platform fit, verified availability and conversion measurement](docs/ANNEX.md#25-professional-sourcing-channels-and-github-review-metrics) |
 | Hypothetical funnel scenarios and resource costs | [Section 26: assumptions, expected counts, costs and sensitivity](docs/ANNEX.md#26-hypothetical-conversion-funnel-and-resource-simulation) |
+| Five-week professional collaboration plan | [Section 27: outreach, mutual fit, agreement, onboarding and measured outcomes](docs/ANNEX.md#27-five-week-professional-collaboration-pilot) |
 | Deliverables and acceptance criteria | [Section 13: implementation gates](docs/ANNEX.md#13-implementation-matrix-and-release-gates) |
 
 Vienna, Athens/Thessaloniki, Gothenburg and Ankara remain candidate hubs, not selected partners or a country ranking. Programme terms must be checked before applications; technology support is not automatically a housing or relocation grant.
@@ -198,6 +200,8 @@ The [displacement comparison](docs/ANNEX.md#24-venezuelan-and-ukrainian-displace
 The [professional-sourcing review](docs/ANNEX.md#25-professional-sourcing-channels-and-github-review-metrics) records Bumble Bizz's discontinuation and OkCupid's employment-solicitation restrictions, and defines a measurable professional outreach-to-GitHub-review-to-interview sequence. Submitted conversion percentages remain unverified and are not project forecasts.
 
 The [funnel simulation](docs/ANNEX.md#26-hypothetical-conversion-funnel-and-resource-simulation) supplies explicitly hypothetical scenarios for professional outreach, GitHub review and completed interviews. It calculates staff time, cost per interview and sensitivity, keeps personal discovery separate, and demonstrates why higher conversion alone does not establish better ROI.
+
+The [five-week collaboration pilot](docs/ANNEX.md#27-five-week-professional-collaboration-pilot) connects transparent professional outreach to mutual assessment, written terms and supported onboarding. It distinguishes outbound and inbound cohorts, defines active contribution beyond signing an agreement, and treats the submitted KPI percentages as unvalidated planning ambitions.
 
 ## CAD spotlight: OpenTwin modular habitat and shared retreat
 
