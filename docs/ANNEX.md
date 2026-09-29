@@ -39,6 +39,8 @@
 
 - [26. Hypothetical conversion funnel and resource simulation](#26-hypothetical-conversion-funnel-and-resource-simulation)
 
+- [27. Five-week professional collaboration pilot](#27-five-week-professional-collaboration-pilot)
+
 ## 1. Executive summary
 
 This annex proposes an institutional extension for FOSS simulation, CAD and model-based design education, including potential cooperation with naval-aviation preparatory academies. The CAD portfolio in section 8 provides concept-study subjects for mobility and resilient infrastructure. Inclusion does not establish an open hardware license, an endorsed partnership or a certified training platform.
@@ -1464,3 +1466,90 @@ flowchart TD
 Keep an input register with scenario ID, channel, role, cohort window, event definitions, conditional probabilities, minutes per activity, labour rate, fees and provenance. Mark each field as **assumed**, **observed** or **calculated**. Use deduplicated aggregate counts and the candidate-choice boundaries in section 25; do not infer intimate traits or collect personal-platform data for hiring.
 
 Before reporting results, check probabilities lie between zero and one, nested counts satisfy **0 ≤ I ≤ G ≤ R ≤ N**, costs are nonnegative, and zero denominators are handled explicitly. Record actual uncertainty from the collected sample rather than treating a deterministic spreadsheet as evidence. This documentation runs no outreach, swiping or automated contact campaign.
+
+
+## 27. Five-week professional collaboration pilot
+
+This proposed schedule translates [section 26's hypothetical resource model](#26-hypothetical-conversion-funnel-and-resource-simulation) into a small, human-led professional pilot. It is not a validated sales sequence or a promise of employment. Open to Work indicates interest in opportunities; it does not establish interest in unpaid work, availability or permission for repeated contact.
+
+Direct messages are **outbound outreach**. Public project documentation and voluntary applications support **inbound recruitment**. Record these channels separately rather than attributing all applicants to social selling. The five weeks are planning checkpoints, not a deadline imposed on candidates: people may accelerate, pause, decline or withdraw.
+
+### 27.1 Preparation and ownership
+
+Before week 1, the project owner publishes a short opportunity brief: purpose, accountable organisation/contact, paid or unpaid status, any expenses, expected hours, duration, mentoring capacity, technical prerequisites, selection steps and application route. State the actual project maturity and available resources.
+
+Assign a coordinator, technical mentor and agreement reviewer. Limit cohort size to their available review and onboarding hours using section 26's cost model. Keep all activity professional and separate from personal discovery, relationship records and migration assistance. This documentation authorises no messages or invitations.
+
+### 27.2 Weekly plan and deliverables
+
+| Week | Objective | Proposed actions | Deliverable and progression condition |
+| --- | --- | --- | --- |
+| 1 — Research and public evidence | Establish relevance and make the opportunity understandable | Review declared professional skills, such as SQL, BI, Excel and version control, against actual tasks. Publish a runnable project example and role brief. Engage with public posts only when there is a genuine relevant contribution, not to engineer notifications. Do not presume a university affiliation or current availability | Role brief, assessment rubric, mentor capacity and minimal professional relevance notes; proceed only with a suitable, transparently described opportunity |
+| 2 — Transparent first contact | Offer useful information and let the person choose | Send an individually relevant invitation through a permitted professional channel, clearly identifying the project and paid/unpaid status. Link the brief and offer documentation before requesting a call. Track voluntary inbound applications separately | Explicit interest in further discussion; a connection acceptance alone is insufficient |
+| 3 — Discovery and mutual fit | Understand goals, constraints and support needs | Offer an optional 15–20 minute conversation. Discuss desired skills, availability, compensation expectations, accessibility, mentoring and the repository architecture. Offer an asynchronous alternative and candidate-selected examples | Mutually agreed fit notes and a realistic learning/task outline; no confidential employer work requested |
+| 4 — Written collaboration proposal | Make obligations and benefits reviewable | Share the scope, hours, duration, compensation/expenses, mentor, issue examples, acceptance criteria, attribution, licensing, confidentiality and exit process. Allow questions and revisions before requesting acceptance | Reviewed proposal with explicit individual agreement; unresolved terms remain open |
+| 5 — Voluntary onboarding | Begin a bounded, supported first contribution | Confirm acceptance, provide least-privilege repository access and an agreed communication channel, explain contribution/security practices, and assign a small first issue with mentor support | Completed orientation and agreed first task; active-contributor status only after the separately defined contribution milestone |
+
+For this pilot, propose at most one brief follow-up after an unanswered invitation, with a clear option to decline; stop after a decline or no further response. This is an internal restraint, not a platform messaging allowance. Recheck platform rules before operational use, as required in [section 25](#25-professional-sourcing-channels-and-github-review-metrics).
+
+### 27.3 Example first-contact message
+
+Replace every bracketed field with verified details before use. Do not invent academic affiliations or imply a job offer where none exists.
+
+> Hi [Name], your public work on [specific relevant skill or project] caught my attention. I coordinate [project], which is building [concrete technical deliverable]. We are inviting collaborators for a [paid role / unpaid voluntary contribution — select the actual arrangement], approximately [hours] per week for [duration], with [available mentoring/support]. Here is the scope and participation information: [link]. If this fits your current goals, I would be happy to share the repository documentation or arrange a brief conversation. There is no obligation to participate.
+
+Portfolio development is a possible benefit, not guaranteed employability. Acknowledge if an unpaid opportunity does not meet the person's job-search needs. Avoid framing free labour as necessary to obtain a recommendation or future paid work.
+
+### 27.4 Agreement and onboarding requirements
+
+| Topic | Written term to resolve |
+| --- | --- |
+| Role and time | Specific responsibilities, realistic weekly hours, start/end dates and flexibility around studies or existing work |
+| Compensation | Paid/unpaid status, expenses, payment terms where applicable and whether any future paid role actually exists; the agreement label alone does not settle employment status |
+| Learning and supervision | Named mentor, review availability, technical prerequisites and achievable learning objectives |
+| Deliverables | Small scoped issues with review criteria; no open-ended production obligations disguised as a trial |
+| Code and publication | Applicable repository licence, ownership/contribution terms, attribution and the precise material that may be published or forked; no blanket permission to expose private code or data |
+| References and endorsements | Truthful references based on observed work, subject to the reference provider's agreement; no automatic endorsement or promised employment outcome |
+| Data and access | Minimal necessary account access, approved datasets, no secrets in commits, retention and access-removal process |
+| Withdrawal and publicity | Simple exit route, handover proportionate to the arrangement, and separate optional consent for any public welcome post or testimonial |
+
+Have the responsible reviewer confirm applicable local requirements before using an employment, internship or volunteer arrangement. Do not substitute a generic voluntary agreement for that review.
+
+A first task might document a synthetic SQL dataset, add validation queries or improve a reproducible dashboard example. Publish only material permitted by the licence and confidentiality terms. The mentor should review the contribution and feedback before increasing scope.
+
+### 27.5 Measurement definitions and proposed targets
+
+Record a campaign ID, observation window and deduplicated people at each stage. People merely researched in week 1 are **not contacted candidates**. Separate connection invitations from InMail/direct messages, and outbound recipients from inbound applicants.
+
+| KPI | Denominator and event | Treatment of submitted target |
+| --- | --- | --- |
+| Connection acceptance | Accepted connection invitations / valid invitations sent, within the declared window | Above 50% is an unvalidated planning ambition, not a LinkedIn benchmark |
+| Call acceptance | People explicitly accepting a call / interested people sent a call invitation | Above 25% is an unvalidated ambition; publish counts and also report completed calls separately |
+| Outbound active-contributor conversion | Unique outbound recipients who reach the active milestone / unique recipients of delivered initial professional outreach | 10–15% is an unvalidated ambition; do not use all researched profiles as the denominator |
+| Inbound active-contributor conversion | Active contributors from inbound applications / unique eligible inbound applicants | Separate cohort; no numerical target supplied |
+| Cost per active contributor | Attributable outreach, assessment, mentor and onboarding cost / active contributors | Undefined if no one reaches the milestone; no measured cost target exists |
+| Candidate experience and continuity | Optional feedback with response count; withdrawals, time to first contribution and a follow-up activity check | Report alongside conversion rather than optimising conversion alone |
+
+For this pilot, define **active contributor** as a person who has voluntarily accepted the terms, completed orientation and completed a first agreed contribution reviewed against its criteria. Signature, repository access or a welcome post alone does not qualify. Count this milestone within **30 days after individual onboarding**; the final conversion report may therefore occur after week 5. A subsequent 30-day check records continued voluntary participation, not an obligation to remain.
+
+The KPI denominators differ, so these percentages cannot simply be multiplied into final conversion. When comparing with section 26, add agreement, onboarding and first-contribution stages and their costs; a discovery conversation is not its completed technical-interview event.
+
+### 27.6 Decision workflow and pilot review
+
+```mermaid
+flowchart TD
+    A["Publish clear scope and terms"] --> B["Relevant outreach or inbound application"]
+    B --> C{"Explicit interest?"}
+    C -->|No| X["Close contact respectfully"]
+    C -->|Yes| D["Mutual fit discussion"]
+    D --> E{"Scope and support agreed?"}
+    E -->|No| R["Revise or close"]
+    R --> D
+    E -->|Yes| F["Review written proposal"]
+    F --> G{"Voluntary acceptance?"}
+    G -->|No| X
+    G -->|Yes| H["Onboard and support first task"]
+    H --> I["Review contribution and experience"]
+```
+
+At the five-week checkpoint, report stage counts, unresolved decisions, staff hours and mentor load; retain pending outcomes separately. After the observation window closes, compare actual conversion and costs with the hypothetical inputs in section 26. Revise the opportunity, support or workload based on evidence. Do not infer a successful programme solely from signatures, connection counts or a small cohort meeting an aspirational percentage.
