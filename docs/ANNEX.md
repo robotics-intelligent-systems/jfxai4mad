@@ -37,6 +37,8 @@
 - [24. Venezuelan and Ukrainian displacement: comparative review](#24-venezuelan-and-ukrainian-displacement-comparative-review)
 - [25. Professional sourcing channels and GitHub review metrics](#25-professional-sourcing-channels-and-github-review-metrics)
 
+- [26. Hypothetical conversion funnel and resource simulation](#26-hypothetical-conversion-funnel-and-resource-simulation)
+
 ## 1. Executive summary
 
 This annex proposes an institutional extension for FOSS simulation, CAD and model-based design education, including potential cooperation with naval-aviation preparatory academies. The CAD portfolio in section 8 provides concept-study subjects for mobility and resilient infrastructure. Inclusion does not establish an open hardware license, an endorsed partnership or a certified training platform.
@@ -1370,3 +1372,95 @@ No messages are sent by this documentation update. Any operational pilot require
 | P4 | [Bumble — Availability of Bumble Bizz](https://support.bumble.com/hc/en-us/articles/30208230972189-Availability-of-Bumble-Bizz) | Bizz no longer available; support article updated 7 September 2026 |
 
 The recommendation to use professional channels is based on purpose, availability and policy fit. It is not a validated claim about relative conversion rates.
+
+
+## 26. Hypothetical conversion funnel and resource simulation
+
+This worked example extends [section 25](#25-professional-sourcing-channels-and-github-review-metrics). **Every numerical input below is an invented teaching assumption, not campaign evidence, a platform benchmark or a project forecast.** The incomplete submitted table supplied no observations from which to estimate rates. Volume and conversion efficiency are not inherently inversely proportional; that relationship must be tested.
+
+### 26.1 Scenario definitions and separate outcomes
+
+| Scenario | Hypothetical approach | Resource trade-off |
+| --- | --- | --- |
+| A — Mass-volume baseline | Generic outreach with little screening | Low preparation time per contact; assumed low progression. A synthetic stress comparison, not a recommendation to deploy bulk messaging or automated swiping |
+| B — Targeted segmentation | Relevant professional profiles selected against a declared role | More preparation per contact and an intermediate assumed progression |
+| C — Highly personalised sourcing | Individual review of relevant portfolio evidence and a tailored message | Highest preparation time; higher assumed progression does not guarantee lowest cost |
+
+The worked calculation concerns **professional recruitment only**, with a completed technical interview as its endpoint. Hiring, an accepted volunteer role and a signed collaboration agreement require additional separately measured stages. Neither a GitHub review nor an interview is a closed agreement. Volunteer programmes should define their own suitability and voluntary acceptance events rather than reuse hiring rates.
+
+Personal discovery on OkCupid or Tinder is a separate possible modelling domain: eligible profiles viewed, reciprocal matches and mutually desired conversations have different denominators and meaning. A match is not professional interest; a compatibility score is not a calibrated probability of success. Do not transfer the rates below into dating forecasts, recruit through dating profiles, price people as acquisitions or combine personal and professional records. Platform eligibility and current rules precede any operational experiment.
+
+### 26.2 Professional funnel assumptions and expected counts
+
+Use the nested events from section 25: delivered unique initial messages **N**, positive responses **R**, completed role-relevant GitHub reviews **G**, and completed technical interviews **I**, all within the same defined observation window. For this simplified example, every assessment follows the GitHub route; real pilots must preserve alternative assessment routes.
+
+| Assumed input or calculated output | A — Mass volume | B — Targeted | C — Personalised |
+| --- | ---: | ---: | ---: |
+| Delivered contacts, N | 1,000 | 300 | 100 |
+| Positive response probability, pR | 5% | 20% | 40% |
+| Expected positive responses, R | 50 | 60 | 40 |
+| Review progression given response, pG | 30% | 50% | 75% |
+| Expected completed reviews, G | 15 | 30 | 30 |
+| Interview progression given review, pI | 40% | 50% | 60% |
+| Expected completed interviews, I | 6 | 15 | 18 |
+| Overall interview conversion, I / N | 0.6% | 5.0% | 18.0% |
+
+Reproduce the table with **R = N × pR**, **G = R × pG**, **I = G × pI** and **I/N = pR × pG × pI**. These are conditional stage probabilities, not an assumption of independent unconditional events. Expected counts may be fractional in other scenarios; keep full precision during calculations.
+
+The assumed C conversion is 30 times A's and 3.6 times B's, entirely by construction. These ratios provide no evidence that personalisation causes such improvements. The scenarios use different contact volumes and total budgets, so they are not a controlled comparison.
+
+### 26.3 Time, cost and break-even analysis
+
+Assume two setup hours per scenario, preparation of **1 / 5 / 30 minutes per initial contact** for A / B / C respectively, five minutes per positive response, 20 minutes per completed review and 60 minutes per completed interview. Use an illustrative labour rate of **30 currency units (CU) per hour** and zero tool fees for this example. Count pre-contact portfolio preparation separately from post-response technical review.
+
+For preparation time tN in minutes and tool cost F:
+
+- **Hours H = 2 + (N × tN + R × 5 + G × 20 + I × 60) / 60**
+- **Total cost C = 30 × H + F**
+- **Cost per completed interview = C / I**, undefined when I is zero.
+
+| Calculated resource measure | A | B | C |
+| --- | ---: | ---: | ---: |
+| Total staff hours | 33.83 | 57.00 | 83.33 |
+| Total cost, CU | 1,015.00 | 1,710.00 | 2,500.00 |
+| Cost per completed interview, CU | 169.17 | 114.00 | 138.89 |
+| Completed interviews per staff hour | 0.177 | 0.263 | 0.216 |
+
+**B has the lowest cost per interview in this example, while C has the highest contact conversion and interview count.** Thus “high quality” is not synonymous with maximum economic efficiency. This is cost per interview, not customer acquisition cost or cost per hire. Actual costing must include sourcing attempts that fail to deliver, tools, follow-ups, scheduling, no-shows, accessibility and other staff costs.
+
+ROI cannot be inferred from conversion alone. If an independently justified attributable net value V per completed interview existed, a simplified model would be **ROI = (I × V − C) / C**, with break-even V = C/I. No such value is established here, so no numerical ROI is claimed. A hiring model should instead include offer and acceptance probabilities, retention, downstream costs and realised value. Personal relationships have no monetary ROI in this framework.
+
+### 26.4 Sensitivity and fair comparison
+
+Holding the C probabilities and all other assumptions fixed:
+
+| C preparation time per contact | Total hours | Total cost, CU | Cost per interview, CU |
+| --- | ---: | ---: | ---: |
+| 20 minutes | 66.67 | 2,000.00 | 111.11 |
+| 30 minutes — base case | 83.33 | 2,500.00 | 138.89 |
+| 40 minutes | 100.00 | 3,000.00 | 166.67 |
+
+C overtakes B on cost per interview only below **21.04 minutes** of preparation per contact under these particular fixed assumptions. This threshold is arithmetic, not a measured behavioural effect. At 30 minutes, varying only C's response probability from 20% to 60% changes expected interviews from 9 to 27 and cost per interview from 225.56 to 110.00 CU; follow-on workload and cost must be recalculated with the counts.
+
+These are sensitivity cases, not confidence intervals. A fair pilot should compare equivalent roles, observation windows and a common staff-hour or monetary budget, report both expected and observed outcomes, and allow for capacity limits and delayed replies. Differences in candidate selection, role attractiveness and compensation can confound a personalisation comparison.
+
+### 26.5 Simulation-to-pilot workflow
+
+```mermaid
+flowchart TD
+    S["Define one channel and outcome"] --> P{"Eligible and permitted?"}
+    P -->|No| X["Exclude or redesign"]
+    P -->|Yes| A["Record assumptions and resource limits"]
+    A --> M["Calculate counts and total cost"]
+    M --> T["Vary rates and preparation time"]
+    T --> B{"Within budget and capacity?"}
+    B -->|No| A
+    B -->|Yes| H["Human review of pilot proposal"]
+    H --> O["Measure authorised pilot outcomes"]
+    O --> V["Compare results with assumptions"]
+    V --> A
+```
+
+Keep an input register with scenario ID, channel, role, cohort window, event definitions, conditional probabilities, minutes per activity, labour rate, fees and provenance. Mark each field as **assumed**, **observed** or **calculated**. Use deduplicated aggregate counts and the candidate-choice boundaries in section 25; do not infer intimate traits or collect personal-platform data for hiring.
+
+Before reporting results, check probabilities lie between zero and one, nested counts satisfy **0 ≤ I ≤ G ≤ R ≤ N**, costs are nonnegative, and zero denominators are handled explicitly. Record actual uncertainty from the collected sample rather than treating a deterministic spreadsheet as evidence. This documentation runs no outreach, swiping or automated contact campaign.
