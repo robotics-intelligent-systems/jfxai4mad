@@ -1,0 +1,20 @@
+Convenio Marco de Colaboración: Voluntariado Interuniversitario para el Desarrollo Rural de la Sierra1. Visión General y JustificaciónEl proyecto establece una alianza estratégica entre la Universidad Nacional de Colombia (UNAL), la Universidad Nacional de Cuyo (UNCUYO, Argentina) y la Universidad de Granada (UGR, España). El objetivo principal es articular un programa transdisciplinario de voluntariado universitario orientado al desarrollo sostenible, la soberanía alimentaria y el fortalecimiento socioeconómico de las comunidades de montaña y alta sierra.2. Mapa de Actores y Roles InstitucionalesUniversidadRol En el ProyectoFortalezas ClaveMecanismo de VinculaciónUNAL (Colombia)Anfitriona / Articuladora TerritorialPresencia en territorio rural, trabajo comunitario previo y experiencia en gestión de cuencas andinas.Programa de Extensión Solidaria y Prácticas Académicas.UNCUYO (Argentina)Socio Metodológico y TécnicoDominio de tecnologías en zonas áridas/alta montaña y metodologías de abordaje territorial.Prácticas Sociales Educativas (PSE) - Proyectos Mauricio López.UGR (España)Socio de Innovación y CofinanciaciónTransferencia tecnológica en agroecología de montaña y gestión hídrica tradicional.Centro de Iniciativas de Cooperación al Desarrollo (CICODE) y Fondos Erasmus+ Acción Clave 2.3. Ejes de Intervención en CampoSoberanía Alimentaria y Agroecología: Optimización de cultivos de altura, recuperación de semillas nativas y manejo sostenible de suelos de ladera.Gestión Eficiente del Agua: Recuperación y mantenimiento de infraestructuras de riego ancestrales/locales y gestión de microcuencas.Salud Comunitaria y Hábitat Rural: Jornadas de prevención en salud primaria, potabilización de agua en zonas aisladas y habitabilidad sostenible.Desarrollo Socioeconómico Local: Fortalecimiento de asociaciones campesinas, agroturismo comunitario y digitalización rural.4. Estructura Operativa del VoluntariadoRequisitos y Perfil del VoluntarioEstudiantes de grado (a partir del 60% de créditos completados) o posgrado en áreas de Agronomía, Ciencias Sociales, Ingeniería Ambiental, Ciencias de la Salud y Geografía.Compromiso con el trabajo comunitario de campo y adaptación a entornos de alta montaña.Esquema de Reconocimiento AcadémicoUNAL: Validación mediante el sistema de créditos de Extensión Solidaria o opción de grado en modalidad de Pasantía Social.UNCUYO: Acreditación de horas del trayecto de Prácticas Sociales Educativas (PSE).UGR: Reconocimiento de créditos ECTS por actividades de cooperación y voluntariado internacional a través del CICODE.5. Hoja de Ruta e ImplementaciónPlaintextFase 1: Diagnóstico y Convenio (Meses 1 - 3)
+├── Firma del Convenio Marco de Colaboración
+├── Mesas de trabajo con líderes comunitarios de la sierra
+└── Mapeo de necesidades prioritarias en terreno
+
+Fase 2: Convocatoria y Preparación (Meses 4 - 6)
+├── Convocatoria abierta en UNAL, UNCUYO y UGR
+├── Selección de perfiles multidisciplinarios
+└── Capacitación previa virtual sobre contexto socioterritorial
+
+Fase 3: Despliegue en Terreno (Meses 7 - 9)
+├── Llegada e integración de los equipos interuniversitarios
+├── Ejecución de talleres, obras de infraestructura blanda y asistencia técnica
+└── Monitoreo y evaluación continua de impacto
+
+Fase 4: Sistematización y Continuidad (Meses 10 - 12)
+├── Publicación del informe de resultados e impacto socioambiental
+├── Presentación de proyectos en jornadas académicas
+└── Renovación del programa para la siguiente cohorte
+6. Sostenibilidad FinancieraUGR (España): Financiamiento de movilidad internacional y bolsas de viaje vía programas de cooperación de la Unión Europea y fondos propios de extensión.UNAL (Colombia): Aporte de logística local, transporte en territorio, espacio físico de acopio y enlaces institucionales comunitarios.UNCUYO (Argentina): Aporte de personal docente supervisores de campo, material metodológico y cofinanciación por proyectos de extensión aprobados.
