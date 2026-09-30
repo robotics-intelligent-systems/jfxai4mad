@@ -47,7 +47,7 @@ By leveraging **GraalPy** and GraalVM’s AOT (Ahead-of-Time) execution environm
 
 ---
 
-## 🚀 Why Flectra on GraalVM?
+### 🚀 Why Flectra on GraalVM?
 
 The CPython-based core of Odoo/Flectra often faces bottlenecks under heavy loads due to the GIL (Global Interpreter Lock) and I/O overhead. By porting the runtime to GraalVM, we achieve:
 
@@ -56,7 +56,7 @@ The CPython-based core of Odoo/Flectra often faces bottlenecks under heavy loads
 3. **Seamless Polyglot Interop:** The ability to invoke Java, Kotlin, Scala, R, or Node.js code directly from Flectra modules without the overhead of RPC or REST serialization.
 4. **Resource Optimization:** Lower initial memory footprint and ultra-fast startup times through the generation of *Native Images* for background tasks or isolated microservices. ---
 
-## ⚙️ Key Fork Features
+### ⚙️ Key Fork Features
 
 - **GraalPy Compat Engine:** An optimized compatibility layer for key Flectra dependencies (`psycopg2`, `werkzeug`, `gevent/asyncio`, `lxml`) running on GraalPy.
 - **Polyglot ORM Extensions:** Extensions to the Flectra ORM enabling the execution of Machine Learning pipelines (Python/R) or intensive analytical calculations (Java/Scala) directly within the process memory.
@@ -64,31 +64,6 @@ The CPython-based core of Odoo/Flectra often faces bottlenecks under heavy loads
 - **Java/Enterprise Ecosystem Integration:** Native connectivity with enterprise messaging engines (Apache Kafka, RabbitMQ) and optimized JDBC connectors, eliminating intermediate layers.
 
 ---
-
-## 🛠️ Requirements and Installation
-
-### Prerequisites:
-- **GraalVM JDK 21+** with GraalPy support.
-- **PostgreSQL 14+** (with optimized vector search extensions).
-- **Node.js** (optional, for frontend asset compilation via the polyglot engine). ```bash
-# 1. Clone the repository
-git clone [https://github.com/tu-usuario/flectra-graal.git](https://github.com/tu-usuario/flectra-graal.git)
-cd flectra-graal
-
-# 2. Configure the GraalVM environment
-export JAVA_HOME=/path/to/graalvm-jdk-21
-export PATH=$JAVA_HOME/bin:$PATH
-
-# 3. Create a virtual environment using GraalPy
-graalpy -m venv venv-graal
-source venv-graal/bin/activate
-
-# 4. Install adapted dependencies
-pip install -r requirements-graal.txt
-
-# 5. Start the Flectra-Graal server
-./flectra-bin --config=flectra.conf
-```
 
 The proposed collaborative B2B/B2C model connects travelers and couples with accommodation providers, tour operators, authorized officiants and qualified advisers. Revenue would come from disclosed coordination fees, bookings and operator services. Demand, margins and repeat business remain hypotheses to validate through a controlled pilot.
 
