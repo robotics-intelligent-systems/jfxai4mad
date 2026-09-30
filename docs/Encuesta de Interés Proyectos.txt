@@ -1,0 +1,68 @@
+Encuesta de Interés: Proyectos Multipropósito y Modelo de Colaboración
+
+Esta encuesta está diseñada para conocer tus intereses técnicos, comerciales y de impacto social, e identificar en qué tipo de proyectos multipropósito te gustaría colaborar y bajo qué esquema de participación (Pro Bono o Comercial) te sientes más cómoda/o.
+Sección 1: Selección de Proyectos Multipropósito
+
+¿Cuál o cuáles de los siguientes proyectos multipropósito despiertan mayor interés en ti para colaborar, desarrollar o comercializar? (Puedes marcar varias opciones)
+
+    [ ] Vehículos Recreativos y Hábitat Móvil (Camper / Overlanding): Diseño, transformación y equipamiento de vehículos para estilo de vida nómada, turismo de aventura y habitabilidad autosustentable.
+
+    [ ] Simuladores de Entrenamiento y Tecnología Inmersiva: Desarrollo e implementación de hardware/software para simulación deportiva, táctica, de conducción o capacitación profesional.
+
+    [ ] Unidades Móviles de Impacto Social / Salud / Emergencias: Vehículos equipados como laboratorios, consultorios o centros de atención itinerantes para zonas rurales y comunidades vulnerables.
+
+    [ ] Espacios de Co-Working / Co-Living e Infraestructura Sostenible: Módulos habitacionales o de trabajo adaptables, enfocados en eficiencia energética y desarrollo territorial.
+
+    [ ] Aulas Móviles de Tecnología y Capacitación: Unidades equipadas con infraestructura de cómputo para alfabetización digital, enseñanza de código y talleres formativos.
+
+    [ ] Otro: (Especificar) __________________________________________
+
+Sección 2: Modelo de Sociedad y Dinámica Preferida
+
+¿Bajo qué esquema preferirías vincularte a la red de proyectos?
+
+    [ ] 100% Pro Bono / Voluntariado Puro: Aporte de tiempo, ideas o habilidades orientado exclusivamente al impacto social, experiencia práctica o desarrollo comunitario, sin expectativas de retorno económico.
+
+    [ ] Comercial / Ganancia Porcentual por Ventas: Participación enfocada en la captación de clientes, patrocinadores o convenios, recibiendo una comisión directa (10% al 25%) sobre el volumen de ventas/recursos generados.
+
+    [ ] Modelo Híbrido (Pro Bono + Comisión por Éxito): Aporte voluntario en tareas operativas/técnicas básicas + participación porcentual si tu gestión genera ingresos o ventas comerciales directas.
+
+    [ ] Socio Fundador / Co-Inversor: Interés en co-financiar o aportar capital inicial/equipamiento para participar del margen de ganancias netas del proyecto a largo plazo.
+
+Sección 3: Tipo de Participación y Áreas de Aporte
+
+1. ¿En qué área te gustaría aportar tu experiencia dentro del proyecto seleccionado?
+
+    [ ] Comercial y Ventas: Gestión de clientes, alianzas y cierre de acuerdos.
+
+    [ ] Desarrollo Técnico / Ingeniería / IT: Diseño de software, datos, integración de sistemas o QA.
+
+    [ ] Gestión Administrativa, Legal o Financiera: Estructuración de proyectos, costos, contratos o RRHH.
+
+    [ ] Operaciones, Logística y Atención al Cliente: Coordinación de campo, eventos o servicio directo.
+
+2. ¿Cuál es tu principal motivación para sumarte a este tipo de iniciativas?
+
+    [ ] Generar ingresos extra mediante un esquema claro de comisiones por resultados.
+
+    [ ] Sumar experiencia práctica y portafolio en proyectos de innovación y tecnología.
+
+    [ ] Generar impacto social positivo y apoyar el desarrollo comunitario.
+
+    [ ] Conectar con una red profesional de mentalidad abierta y colaborativa.
+
+Sección 4: Formato de Colaboración y Disponibilidad
+
+¿Con qué disponibilidad de tiempo te sentirías cómoda/o participando inicialmente?
+
+    [ ] Ocasional: Unas pocas horas a la semana / Gestión por resultados puntuales.
+
+    [ ] Parcial: 5 a 10 horas semanales enfocado/a en metas concretas.
+
+    [ ] Por Proyecto: Asignación específica durante el lanzamiento o venta de un proyecto determinado.
+
+Pregunta Abierta
+
+    Si tuvieras la oportunidad de co-crear o impulsar un proyecto multipropósito desde cero, ¿cuál sería tu idea principal y qué impacto te gustaría que genere?
+
+    _________________________________________________________________________________________
