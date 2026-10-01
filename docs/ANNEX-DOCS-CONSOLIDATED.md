@@ -21,7 +21,7 @@
 
 ## 1. Documentation migration
 
-All nineteen legacy `docs/*.txt` files have been removed from the working branch and replaced by corrected `*.md` documents. The migration applies:
+All twenty legacy `docs/*.txt` files have been removed and replaced by corrected `*.md` documents. The migration applies:
 
 - Markdown heading hierarchy;
 - tables for structured comparisons;
@@ -29,7 +29,7 @@ All nineteen legacy `docs/*.txt` files have been removed from the working branch
 - Mermaid or text diagrams for workflows;
 - explicit editorial/verification notes;
 - relative links to repository-local documents and images;
-- clearer separation of professional, legal, medical and relationship topics.
+- clearer separation of professional, legal, medical, relationship and public-policy topics.
 
 The image assets remain in JPG format and are documented below.
 
@@ -151,6 +151,12 @@ Adult consensual relationship framework based on explicit agreements, alternatio
 
 The former large plaintext note has been reorganized around adult-only consent, communication, sexual-health education, comfort, barrier methods and the separation of intimate, civil and financial decisions.
 
+### 5.3 Public-space sexual behavior at mass festivals
+
+[`El fenómeno del sexo en.md`](./El%20fen%C3%B3meno%20del%20sexo%20en.md)
+
+Refactored public-policy analysis of adult sexual behavior in public space during mass festivals. The Markdown version separates sociocultural context, harm reduction, consent and sexual-violence prevention, digital privacy, urban coexistence, legal/institutional responses and event-management workflows. Festival-specific laws, programs and public-health measures are explicitly marked for current-source verification.
+
 ---
 
 ## 6. Scheduling and Lima activity planning
@@ -210,20 +216,21 @@ The visual is educational and non-sexualized. Yoga movements should be adapted t
 | 3 | `Convenio Marco de Colaboración.txt` | [`Convenio Marco de Colaboración.md`](./Convenio%20Marco%20de%20Colaboraci%C3%B3n.md) | Migrated; TXT removed |
 | 4 | `El análisis de conversión.txt` | [`El análisis de conversión.md`](./El%20an%C3%A1lisis%20de%20conversi%C3%B3n.md) | Migrated; TXT removed |
 | 5 | `El baile es el único preludio.txt` | [`El baile es el único preludio.md`](./El%20baile%20es%20el%20%C3%BAnico%20preludio.md) | Migrated; TXT removed |
-| 6 | `Encuesta de Interés Proyectos.txt` | [`Encuesta de Interés Proyectos.md`](./Encuesta%20de%20Inter%C3%A9s%20Proyectos.md) | Migrated; TXT removed |
-| 7 | `Estrategia de Perfeccionamiento.txt` | [`Estrategia de Perfeccionamiento.md`](./Estrategia%20de%20Perfeccionamiento.md) | Migrated; TXT removed |
-| 8 | `La No Monogamia Ética.txt` | [`La No Monogamia Ética.md`](./La%20No%20Monogamia%20%C3%89tica.md) | Migrated; TXT removed |
-| 9 | `La cantidad de usuarios.txt` | [`La cantidad de usuarios.md`](./La%20cantidad%20de%20usuarios.md) | Migrated; TXT removed |
-| 10 | `LinkedIn no recopila ni.txt` | [`LinkedIn no recopila ni.md`](./LinkedIn%20no%20recopila%20ni.md) | Migrated; TXT removed |
-| 11 | `Los países europeos que.txt` | [`Los países europeos que.md`](./Los%20pa%C3%ADses%20europeos%20que.md) | Migrated; TXT removed |
-| 12 | `Los principales países.txt` | [`Los principales países.md`](./Los%20principales%20pa%C3%ADses.md) | Migrated; TXT removed |
-| 13 | `Mercado de novias por.txt` | [`Mercado de novias por.md`](./Mercado%20de%20novias%20por.md) | Migrated; TXT removed |
-| 14 | `OkCupid destaca por su.txt` | [`OkCupid destaca por su.md`](./OkCupid%20destaca%20por%20su.md) | Migrated; TXT removed |
-| 15 | `Para integrar sin problemas.txt` | [`Para integrar sin problemas.md`](./Para%20integrar%20sin%20problemas.md) | Migrated; TXT removed |
-| 16 | `Para organizar actividades.txt` | [`Para organizar actividades.md`](./Para%20organizar%20actividades.md) | Migrated; TXT removed |
-| 17 | `Plan de Estudios Ejecutiva.txt` | [`Plan de Estudios Ejecutiva.md`](./Plan%20de%20Estudios%20Ejecutiva.md) | Migrated; TXT removed |
-| 18 | `Proyecto Plataforma y.txt` | [`Proyecto Plataforma y.md`](./Proyecto%20Plataforma%20y.md) | Migrated; TXT removed |
-| 19 | `Región Jurisdicción Usuarios.txt` | [`Región Jurisdicción Usuarios.md`](./Regi%C3%B3n%20Jurisdicci%C3%B3n%20Usuarios.md) | Migrated; TXT removed |
+| 6 | `El fenómeno del sexo en.txt` | [`El fenómeno del sexo en.md`](./El%20fen%C3%B3meno%20del%20sexo%20en.md) | Migrated; TXT removed |
+| 7 | `Encuesta de Interés Proyectos.txt` | [`Encuesta de Interés Proyectos.md`](./Encuesta%20de%20Inter%C3%A9s%20Proyectos.md) | Migrated; TXT removed |
+| 8 | `Estrategia de Perfeccionamiento.txt` | [`Estrategia de Perfeccionamiento.md`](./Estrategia%20de%20Perfeccionamiento.md) | Migrated; TXT removed |
+| 9 | `La No Monogamia Ética.txt` | [`La No Monogamia Ética.md`](./La%20No%20Monogamia%20%C3%89tica.md) | Migrated; TXT removed |
+| 10 | `La cantidad de usuarios.txt` | [`La cantidad de usuarios.md`](./La%20cantidad%20de%20usuarios.md) | Migrated; TXT removed |
+| 11 | `LinkedIn no recopila ni.txt` | [`LinkedIn no recopila ni.md`](./LinkedIn%20no%20recopila%20ni.md) | Migrated; TXT removed |
+| 12 | `Los países europeos que.txt` | [`Los países europeos que.md`](./Los%20pa%C3%ADses%20europeos%20que.md) | Migrated; TXT removed |
+| 13 | `Los principales países.txt` | [`Los principales países.md`](./Los%20principales%20pa%C3%ADses.md) | Migrated; TXT removed |
+| 14 | `Mercado de novias por.txt` | [`Mercado de novias por.md`](./Mercado%20de%20novias%20por.md) | Migrated; TXT removed |
+| 15 | `OkCupid destaca por su.txt` | [`OkCupid destaca por su.md`](./OkCupid%20destaca%20por%20su.md) | Migrated; TXT removed |
+| 16 | `Para integrar sin problemas.txt` | [`Para integrar sin problemas.md`](./Para%20integrar%20sin%20problemas.md) | Migrated; TXT removed |
+| 17 | `Para organizar actividades.txt` | [`Para organizar actividades.md`](./Para%20organizar%20actividades.md) | Migrated; TXT removed |
+| 18 | `Plan de Estudios Ejecutiva.txt` | [`Plan de Estudios Ejecutiva.md`](./Plan%20de%20Estudios%20Ejecutiva.md) | Migrated; TXT removed |
+| 19 | `Proyecto Plataforma y.txt` | [`Proyecto Plataforma y.md`](./Proyecto%20Plataforma%20y.md) | Migrated; TXT removed |
+| 20 | `Región Jurisdicción Usuarios.txt` | [`Región Jurisdicción Usuarios.md`](./Regi%C3%B3n%20Jurisdicci%C3%B3n%20Usuarios.md) | Migrated; TXT removed |
 
 ### Reference policy
 
