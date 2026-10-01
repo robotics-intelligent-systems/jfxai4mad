@@ -1,0 +1,77 @@
+Plan de Estudios: Ejecutiva de Ventas Asistida por IA en la Nube y Lenguaje Natural
+Duración: 12 semanas (90 horas lectivas + proyectos prácticos)
+
+Modalidad: Teórico-práctica (Orientada a la empleabilidad y proyectos reales)
+
+Dirigido a: Estudiantes y técnicas que buscan especializarse en ventas B2B/B2C de alto impacto utilizando IA generativa, herramientas cloud y atención multilingüe.
+
+Estructura Modular del Programa
+Módulo 1: Fundamentos de Ventas Modernas y Ecosistema Cloud
+Semana 1: Introducción a las Ventas Consultivas y SaaS
+
+Metodologías clave: SPIN Selling, BANT y Challenger Sale.
+
+Conceptos de computación en la nube (AWS, Google Cloud, Azure) orientados al valor del negocio.
+
+Semana 2: Herramientas Cloud para la Gestión Comercial
+
+Configuración e integración de CRM en la nube (Salesforce, HubSpot).
+
+Automatización de flujos de trabajo iniciales y seguimiento de prospectos.
+
+Módulo 2: Inteligencia Artificial y Procesamiento de Lenguaje Natural (PLN)
+Semana 3: Fundamentos de IA Generativa y Prompts Comerciales
+
+Uso de LLMs para investigación de cuentas, personalización de correos e hiper-segmentación.
+
+Ingeniería de Prompts aplicada a la prospección comercial.
+
+Semana 4: Asistentes Virtuales y Lenguaje Natural (NL)
+
+Configuración de agentes de IA conversacionales para calificación de leads 24/7.
+
+Análisis de sentimiento en interacciones con clientes para ajustar el discurso de ventas.
+
+Módulo 3: Estrategia Políglota y Prospección Global
+Semana 5: Ventas Multilingües Asistidas por IA
+
+Uso de herramientas de traducción e interpretación en tiempo real (DeepL, IA conversacional de voz).
+
+Adaptación cultural de discursos de ventas para mercados internacionales.
+
+Semana 6: Prospección Multicanal e Inteligencia de Mercado
+
+Automatización de alcance vía LinkedIn, email y WhatsApp en múltiples idiomas.
+
+Scraping ético de datos e inteligencia de competencia potenciada por IA.
+
+Módulo 4: Argumentación, Manejo de Objeciones y Cierre
+Semana 7: Simulación de Llamadas y Demostraciones con IA
+
+Uso de bots de simulación para practicar negociación y cierre en tiempo real.
+
+Creación de presentaciones dinámicas y propuestas personalizadas generadas por IA.
+
+Semana 8: Analítica de Ventas e Inteligencia de Conversación
+
+Análisis de grabaciones comerciales mediante IA (Gong, Chorus) para identificar áreas de mejora.
+
+Métricas clave: CAC, LTV, conversion rate y pipeline velocity.
+
+Módulo 5: Proyecto Integrador y Marca Profesional
+Semanas 9-11: Proyecto Práctico Integrador
+
+Diseñar y ejecutar una campaña de ventas multilingüe completa utilizando un CRM cloud, un agente de IA conversacional y secuencias de correo automatizadas.
+
+Semana 12: Marca Personal y Empleabilidad
+
+Optimización del perfil de LinkedIn y preparación para entrevistas en empresas tech/SaaS.
+
+Presentación del proyecto integrador ante un panel evaluador.
+
+Perfil del Egresado y Competencias Clave
+Especialista en Herramientas: Dominio de CRM en la nube y suites de IA generativa.
+
+Competencia Políglota: Capacidad de prospectar y cerrar negocios en mercados internacionales apoyada en tecnología.
+
+Pensamiento Estratégico: Capacidad para automatizar tareas repetitivas y enfocar el tiempo en negociaciones complejas.
