@@ -18,8 +18,9 @@ All documentation filenames and prose in this directory are standardized in Engl
 - [Argentina inbound-tourism origin markets](./argentina-inbound-tourism-origin-markets.md)
 - [International dating agencies and LATAM remote work](./international-dating-agencies-and-latam-remote-work.md)
 
-### Collaboration, education and professional development
+### Destination weddings, education and professional development
 
+- [Destination-wedding academic partnership roadmap](./destination-wedding-academic-partnership-roadmap.md)
 - [Inter-university rural-development collaboration framework](./interuniversity-rural-development-collaboration-framework.md)
 - [Multipurpose-project interest survey](./multipurpose-project-interest-survey.md)
 - [Mutual-upskilling and talent-flow strategy](./mutual-upskilling-and-talent-flow-strategy.md)
@@ -41,12 +42,14 @@ All documentation filenames and prose in this directory are standardized in Engl
 - [Adult interaction, consent and sexual-health education](./adult-interaction-consent-and-sexual-health.md)
 - [Public-space sexual behavior at mass festivals](./public-space-sexual-behavior-mass-festivals.md)
 
-### Sex work, demography and legal context
+### Sex work, student welfare, demography and legal context
 
 - [Metropolitan sex-work distribution and comparative legal frameworks](./metropolitan-sex-work-distribution-and-legal-frameworks.md)
 - [Intersectional demographic analysis of sex work](./intersectional-demographic-analysis-sex-work.md)
+- [Student sex work and sugar dating: regional socioeconomic analysis](./student-sex-work-and-sugar-dating-regional-analysis.md)
+- [University sex-work estimates and platform integrity](./university-sex-work-estimates-and-platform-integrity.md)
 
-These two documents preserve the additional legacy research while explicitly separating consensual adult sex work from trafficking, coercion and exploitation. Their numerical and legal claims remain subject to current-source verification.
+These documents preserve legacy research while separating consensual adult sex work from trafficking, coercion and exploitation. Student-focused material is framed around socioeconomic analysis, welfare, safeguarding and research quality rather than solicitation or targeting. Numerical and legal claims remain subject to current-source verification.
 
 ### Scheduling and local activity planning
 
@@ -62,4 +65,6 @@ Descriptions and editorial context for both images are included in [the consolid
 
 ## Migration status
 
-All twenty-two former `docs/*.txt` files have now been migrated to corrected English Markdown documents and removed. Repository-local references should use the English `.md` paths listed above. The two JPG assets retain their English filenames. Numerical, legal, medical, demographic and platform-specific claims inherited from legacy notes remain subject to current-source verification before operational use.
+All twenty-five former `docs/*.txt` source notes processed to date have now been migrated to corrected English Markdown documents and removed from the current branch. Repository-local references should use the English `.md` paths listed above. The two JPG assets retain their English filenames.
+
+Numerical, legal, medical, demographic, platform-specific and institutional-interest claims inherited from legacy notes remain subject to current-source verification before operational use. Historical Spanish filenames are retained only in the migration register of the consolidated annex for traceability.
