@@ -17,6 +17,8 @@ The repository currently contains documentation, concept images and requirements
 - [5. Implementation and investment phases](#5-implementation-and-investment-phases)
 - [6. Global strategic annex](#6-global-strategic-annex)
   - [Detailed annex contents](docs/ANNEX.md#contents)
+  - [Documentation index](docs/README.md)
+  - [Consolidated documentation annex](docs/ANNEX-DOCS-CONSOLIDATED.md)
   - [Utah and comparative family-law review](docs/ANNEX.md#21-utah-and-comparative-family-law-review)
   - [European rural renewal and safeguarding](docs/ANNEX.md#22-european-rural-renewal-and-independent-safeguarding-review)
   - [Rural population decline and regional differences](docs/ANNEX.md#23-rural-population-decline-drivers-and-regional-differences)
@@ -181,6 +183,8 @@ The earlier satisfaction target above 90% remains a proposed pilot ambition, not
 
 The [strategic and institutional annex](docs/ANNEX.md) consolidates proposed FOSS simulation education, professional collaboration, technology-hub evaluation and commercial research. It is a planning document; it does not establish operational services, partnerships, funding awards or individual eligibility.
 
+For a file-by-file map of the supporting notes and infographics, use the [documentation index](docs/README.md). The [consolidated documentation annex](docs/ANNEX-DOCS-CONSOLIDATED.md) provides the editorial catalog, migration history and subject grouping for the English documentation set.
+
 | Annex topic | Detailed section |
 | --- | --- |
 | Legacy destination research and evidence rules | [Sections 2–3](docs/ANNEX.md#2-existing-destination-research-portfolio) |
@@ -253,6 +257,8 @@ The proposed open-source workflow uses FreeCAD/BIM and Blender for geometry and 
 
 ## Repository resources
 
+- [Documentation index](docs/README.md)
+- [Consolidated documentation annex](docs/ANNEX-DOCS-CONSOLIDATED.md)
 - [Strategic and institutional annex](docs/ANNEX.md)
 - [CAD concept illustrations](MBSE/CAD/)
 - [Requirements and architecture diagrams](MBSE/CAS/drawio/)
