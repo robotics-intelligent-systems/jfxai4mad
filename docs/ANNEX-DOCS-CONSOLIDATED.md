@@ -4,7 +4,7 @@
 **Scope:** indexed documentation annex for the English `docs/*.md` sources and supporting `docs/*.jpg` infographics  
 **Editorial revision:** 1 October 2026
 
-> **Editorial status.** The former loose Spanish `*.txt` notes have been migrated to structured English Markdown documents, and repository-local filenames have been standardized in English. Numerical, legal, medical, demographic and platform-specific claims inherited from legacy notes remain subject to current-source verification before operational use.
+> **Editorial status.** Twenty-two loose Spanish `*.txt` notes have now been migrated to structured English Markdown documents, and repository-local filenames have been standardized in English. Numerical, legal, medical, demographic and platform-specific claims inherited from legacy notes remain subject to current-source verification before operational use.
 
 ## Contents
 
@@ -14,14 +14,15 @@
 - [4. Platforms, audiences and market-analysis notes](#4-platforms-audiences-and-market-analysis-notes)
 - [5. Adult relationships, consent and sexual-health education](#5-adult-relationships-consent-and-sexual-health-education)
 - [6. Scheduling and Lima activity planning](#6-scheduling-and-lima-activity-planning)
-- [7. Infographic catalog](#7-infographic-catalog)
-- [8. Complete migration and translation register](#8-complete-migration-and-translation-register)
+- [7. Sex work, demography and legal context](#7-sex-work-demography-and-legal-context)
+- [8. Infographic catalog](#8-infographic-catalog)
+- [9. Complete migration and translation register](#9-complete-migration-and-translation-register)
 
 ---
 
 ## 1. Documentation migration and English normalization
 
-All twenty legacy `docs/*.txt` files have been removed and replaced by corrected English `*.md` documents. The migration applies:
+All twenty-two legacy `docs/*.txt` files have been removed and replaced by corrected English `*.md` documents. The migration applies:
 
 - English filenames and English document prose;
 - Markdown heading hierarchy;
@@ -30,9 +31,9 @@ All twenty legacy `docs/*.txt` files have been removed and replaced by corrected
 - Mermaid or text diagrams for workflows;
 - explicit editorial and verification notes;
 - relative links to repository-local documents and images;
-- clearer separation of professional, legal, medical, relationship and public-policy topics.
+- clearer separation of professional, legal, medical, relationship, demographic and public-policy topics.
 
-The image assets remain in JPG format but now use English filenames. Their visual artwork is retained as the existing source asset and is described below in English.
+The image assets remain in JPG format and use English filenames. Their visual artwork is retained as the existing source asset and is described below in English.
 
 ---
 
@@ -176,9 +177,29 @@ Structured list of Miraflores, Barranco, Lima historic-center locations and publ
 
 ---
 
-## 7. Infographic catalog
+## 7. Sex work, demography and legal context
 
-### 7.1 Physiological responses and interactions in adult sexuality
+### 7.1 Metropolitan distribution and comparative legal frameworks
+
+[`metropolitan-sex-work-distribution-and-legal-frameworks.md`](./metropolitan-sex-work-distribution-and-legal-frameworks.md)
+
+English refactor of the additional legacy note comparing selected metropolitan estimates and broad regulatory models across Europe and Latin America. The document preserves source claims while explicitly marking demographic figures, legal classifications, court references and enforcement descriptions for current-source verification.
+
+It distinguishes four broad policy categories used by the legacy source—regulation/legalization, demand-focused abolitionist models, decriminalization and partial prohibition/legal ambiguity—while warning that actual national and municipal rules are more complex than these ideal types.
+
+### 7.2 Intersectional demographic analysis
+
+[`intersectional-demographic-analysis-sex-work.md`](./intersectional-demographic-analysis-sex-work.md)
+
+English refactor of the additional demographic note covering age groups, socioeconomic precarity, housing, care responsibilities, migration and ethnicity. The revised document avoids treating demographic categories as predictors of individual conduct and explicitly separates consensual adult sex work from trafficking, coercion and sexual exploitation.
+
+Both documents require careful source validation before publication. Nationality, ethnicity, age, income, gender identity, migration status or family structure must not be used to infer that a particular person participates in sex work or is a trafficking victim.
+
+---
+
+## 8. Infographic catalog
+
+### 8.1 Physiological responses and interactions in adult sexuality
 
 **Asset:** [`adult-sexual-physiology-anime-infographic.jpg`](./adult-sexual-physiology-anime-infographic.jpg)
 
@@ -192,7 +213,7 @@ The horizontal educational infographic uses three panels to explain selected adu
 
 A common-response box summarizes increased arousal, heart-rate changes and neurochemical mediators. The visual should be treated as a simplified educational overview rather than an individualized clinical model.
 
-### 7.2 Yoga and external female anatomy
+### 8.2 Yoga and external female anatomy
 
 **Asset:** [`yoga-external-female-anatomy-anime-infographic.jpg`](./yoga-external-female-anatomy-anime-infographic.jpg)
 
@@ -208,7 +229,7 @@ The visual is educational and non-sexualized. Yoga movements should be adapted t
 
 ---
 
-## 8. Complete migration and translation register
+## 9. Complete migration and translation register
 
 | # | Legacy Spanish TXT path | English Markdown path | Status |
 | ---: | --- | --- | --- |
@@ -232,6 +253,8 @@ The visual is educational and non-sexualized. Yoga movements should be adapted t
 | 18 | `Plan de Estudios Ejecutiva.txt` | [`ai-cloud-sales-curriculum.md`](./ai-cloud-sales-curriculum.md) | Translated; legacy TXT removed |
 | 19 | `Proyecto Plataforma y.txt` | [`compatibility-platform-collaboration-concept.md`](./compatibility-platform-collaboration-concept.md) | Translated; legacy TXT removed |
 | 20 | `Región Jurisdicción Usuarios.txt` | [`regional-linkedin-unemployment-comparison.md`](./regional-linkedin-unemployment-comparison.md) | Translated; legacy TXT removed |
+| 21 | `A continuación se profundiza.txt` | [`metropolitan-sex-work-distribution-and-legal-frameworks.md`](./metropolitan-sex-work-distribution-and-legal-frameworks.md) | Translated and refactored; legacy TXT removed |
+| 22 | `Análisis Demográfico Interseccional.txt` | [`intersectional-demographic-analysis-sex-work.md`](./intersectional-demographic-analysis-sex-work.md) | Translated and refactored; legacy TXT removed |
 
 ### Reference policy
 

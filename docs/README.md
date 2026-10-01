@@ -2,7 +2,7 @@
 
 This directory contains the strategic annex, the consolidated documentation annex, refactored English Markdown source notes and supporting infographics for `jfxai4mad`.
 
-All documentation filenames and prose in this directory are standardized in English. The original Spanish plaintext filenames remain recorded only in the migration register for traceability.
+All documentation filenames and prose in this directory are standardized in English. Original Spanish plaintext filenames remain recorded only in the migration register for traceability.
 
 ## Annexes
 
@@ -41,6 +41,13 @@ All documentation filenames and prose in this directory are standardized in Engl
 - [Adult interaction, consent and sexual-health education](./adult-interaction-consent-and-sexual-health.md)
 - [Public-space sexual behavior at mass festivals](./public-space-sexual-behavior-mass-festivals.md)
 
+### Sex work, demography and legal context
+
+- [Metropolitan sex-work distribution and comparative legal frameworks](./metropolitan-sex-work-distribution-and-legal-frameworks.md)
+- [Intersectional demographic analysis of sex work](./intersectional-demographic-analysis-sex-work.md)
+
+These two documents preserve the additional legacy research while explicitly separating consensual adult sex work from trafficking, coercion and exploitation. Their numerical and legal claims remain subject to current-source verification.
+
 ### Scheduling and local activity planning
 
 - [Google Forms, Calendar and Meet workflow](./forms-calendar-meet-workflow.md)
@@ -51,8 +58,8 @@ All documentation filenames and prose in this directory are standardized in Engl
 - [Physiological responses and interactions in adult sexuality](./adult-sexual-physiology-anime-infographic.jpg)
 - [Yoga and external female anatomy](./yoga-external-female-anatomy-anime-infographic.jpg)
 
-Descriptions and editorial context for both images are included in [the consolidated documentation annex](./ANNEX-DOCS-CONSOLIDATED.md#7-infographic-catalog).
+Descriptions and editorial context for both images are included in [the consolidated documentation annex](./ANNEX-DOCS-CONSOLIDATED.md#8-infographic-catalog).
 
 ## Migration status
 
-All twenty former `docs/*.txt` files have been migrated to corrected English Markdown documents and removed. Repository-local references should use the English `.md` paths listed above. The two JPG assets have also been renamed with English filenames while retaining their existing binary artwork. Numerical, legal, medical, demographic and platform-specific claims inherited from legacy notes remain subject to current-source verification before operational use.
+All twenty-two former `docs/*.txt` files have now been migrated to corrected English Markdown documents and removed. Repository-local references should use the English `.md` paths listed above. The two JPG assets retain their English filenames. Numerical, legal, medical, demographic and platform-specific claims inherited from legacy notes remain subject to current-source verification before operational use.
