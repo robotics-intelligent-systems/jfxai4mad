@@ -27,6 +27,12 @@ All documentation filenames and prose in this directory are standardized in Engl
 - [AI-assisted cloud sales curriculum](./ai-cloud-sales-curriculum.md)
 - [Compatibility-platform collaboration concept](./compatibility-platform-collaboration-concept.md)
 
+### Legal hospitality, entertainment and service-cost planning
+
+- [Legal hospitality and entertainment service cost model](./legal-hospitality-entertainment-service-cost-model.md)
+
+This cost model covers lawful, non-sexual hospitality, protocol, wellness, entertainment and concierge services. It uses transparent professional cost drivers such as qualifications, languages, duration, logistics, staffing and event complexity and includes a progress-plan integration for supplier validation and quotation governance.
+
 ### Platforms and market analysis
 
 - [Ukraine conversion, collaboration and income analysis](./ukraine-conversion-collaboration-and-income-analysis.md)
@@ -48,8 +54,9 @@ All documentation filenames and prose in this directory are standardized in Engl
 - [Intersectional demographic analysis of sex work](./intersectional-demographic-analysis-sex-work.md)
 - [Student sex work and sugar dating: regional socioeconomic analysis](./student-sex-work-and-sugar-dating-regional-analysis.md)
 - [University sex-work estimates and platform integrity](./university-sex-work-estimates-and-platform-integrity.md)
+- [Informal sexual-services pricing: research and safeguarding note](./informal-sexual-services-pricing-research-note.md)
 
-These documents preserve legacy research while separating consensual adult sex work from trafficking, coercion and exploitation. Student-focused material is framed around socioeconomic analysis, welfare, safeguarding and research quality rather than solicitation or targeting. Numerical and legal claims remain subject to current-source verification.
+These documents preserve legacy research while separating consensual adult sex work from trafficking, coercion and exploitation. Student-focused material is framed around socioeconomic analysis, welfare, safeguarding and research quality rather than solicitation or targeting. The pricing note preserves structural market-analysis variables but does not reproduce an operational tariff for sexual acts. Numerical and legal claims remain subject to current-source verification.
 
 ### Scheduling and local activity planning
 
@@ -65,6 +72,6 @@ Descriptions and editorial context for both images are included in [the consolid
 
 ## Migration status
 
-All twenty-five former `docs/*.txt` source notes processed to date have now been migrated to corrected English Markdown documents and removed from the current branch. Repository-local references should use the English `.md` paths listed above. The two JPG assets retain their English filenames.
+All twenty-seven former `docs/*.txt` source notes processed to date have now been migrated to corrected English Markdown documents and removed from the current branch. Repository-local references should use the English `.md` paths listed above. The two JPG assets retain their English filenames.
 
-Numerical, legal, medical, demographic, platform-specific and institutional-interest claims inherited from legacy notes remain subject to current-source verification before operational use. Historical Spanish filenames are retained only in the migration register of the consolidated annex for traceability.
+Numerical, legal, medical, demographic, platform-specific, institutional-interest and market-price claims inherited from legacy notes remain subject to current-source verification before operational use. Historical Spanish filenames are retained only in the migration register of the consolidated annex for traceability.
