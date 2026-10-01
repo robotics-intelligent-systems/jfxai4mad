@@ -37,6 +37,7 @@ This directory contains the strategic annex, the consolidated documentation anne
 
 - [Ethical non-monogamy with quarterly reviews](./La%20No%20Monogamia%20%C3%89tica.md)
 - [Adult interaction, consent and sexual-health education](./El%20baile%20es%20el%20%C3%BAnico%20preludio.md)
+- [Public-space sexual behavior at mass festivals: social, health and urban-policy notes](./El%20fen%C3%B3meno%20del%20sexo%20en.md)
 
 ### Scheduling and local activity planning
 
@@ -52,4 +53,4 @@ Descriptions and editorial context for both images are included in [the consolid
 
 ## Migration status
 
-All former `docs/*.txt` files have been migrated to corrected Markdown documents and removed from this branch. Repository-local references should use the `.md` paths listed above. Numerical, legal, medical, demographic and platform-specific claims inherited from legacy notes remain subject to current-source verification before operational use.
+All former `docs/*.txt` files, including the additional public-space festival note, have been migrated to corrected Markdown documents and removed from this branch. Repository-local references should use the `.md` paths listed above. Numerical, legal, medical, demographic and platform-specific claims inherited from legacy notes remain subject to current-source verification before operational use.
