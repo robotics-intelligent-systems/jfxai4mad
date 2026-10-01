@@ -19,6 +19,7 @@ The repository currently contains documentation, concept images and requirements
   - [Detailed annex contents](docs/ANNEX.md#contents)
   - [Documentation index](docs/README.md)
   - [Consolidated documentation annex](docs/ANNEX-DOCS-CONSOLIDATED.md)
+  - [Sex-work demographic and legal-context notes](docs/README.md#sex-work-demography-and-legal-context)
   - [Utah and comparative family-law review](docs/ANNEX.md#21-utah-and-comparative-family-law-review)
   - [European rural renewal and safeguarding](docs/ANNEX.md#22-european-rural-renewal-and-independent-safeguarding-review)
   - [Rural population decline and regional differences](docs/ANNEX.md#23-rural-population-decline-drivers-and-regional-differences)
@@ -183,7 +184,7 @@ The earlier satisfaction target above 90% remains a proposed pilot ambition, not
 
 The [strategic and institutional annex](docs/ANNEX.md) consolidates proposed FOSS simulation education, professional collaboration, technology-hub evaluation and commercial research. It is a planning document; it does not establish operational services, partnerships, funding awards or individual eligibility.
 
-For a file-by-file map of the supporting notes and infographics, use the [documentation index](docs/README.md). The [consolidated documentation annex](docs/ANNEX-DOCS-CONSOLIDATED.md) provides the editorial catalog, migration history and subject grouping for the English documentation set.
+For a file-by-file map of the supporting notes and infographics, use the [documentation index](docs/README.md). The [consolidated documentation annex](docs/ANNEX-DOCS-CONSOLIDATED.md) provides the editorial catalog, migration history and subject grouping for the English documentation set. The additional demographic and comparative legal analysis is indexed under [sex work, demography and legal context](docs/README.md#sex-work-demography-and-legal-context).
 
 | Annex topic | Detailed section |
 | --- | --- |
