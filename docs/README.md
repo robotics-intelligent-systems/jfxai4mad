@@ -56,8 +56,9 @@ This cost model covers lawful, non-sexual hospitality, protocol, wellness, enter
 - [University sex-work estimates and platform integrity](./university-sex-work-estimates-and-platform-integrity.md)
 - [Informal sexual-services pricing: research and safeguarding note](./informal-sexual-services-pricing-research-note.md)
 - [Philippines, Türkiye and Mexico: comparative sex-work legal and socioeconomic analysis](./philippines-turkiye-mexico-sex-work-comparative-analysis.md)
+- [India: sex-work legal and socioeconomic case analysis](./india-sex-work-legal-socioeconomic-case-analysis.md)
 
-These documents preserve legacy research while separating consensual adult sex work from trafficking, coercion and exploitation. Student-focused material is framed around socioeconomic analysis, welfare, safeguarding and research quality rather than solicitation or targeting. The pricing note preserves structural market-analysis variables but does not reproduce an operational tariff for sexual acts. The Philippines–Türkiye–Mexico comparison separates national legal frameworks from city-level observations and treats all inherited legal classifications and prevalence figures as claims requiring current authoritative verification. Numerical and legal claims remain subject to current-source verification.
+These documents preserve legacy research while separating consensual adult sex work from trafficking, coercion and exploitation. Student-focused material is framed around socioeconomic analysis, welfare, safeguarding and research quality rather than solicitation or targeting. The pricing note preserves structural market-analysis variables but does not reproduce an operational tariff for sexual acts. The Philippines–Türkiye–Mexico comparison separates national legal frameworks from city-level observations, while the India case adds a fourth-country perspective covering national law, judicial protections, urban case studies and socioeconomic vulnerability. All inherited legal classifications, court interpretations and prevalence figures remain claims requiring current authoritative verification.
 
 ### Scheduling and local activity planning
 
@@ -73,6 +74,6 @@ Descriptions and editorial context for both images are included in [the consolid
 
 ## Migration status
 
-All twenty-eight former `docs/*.txt` source notes processed to date have now been migrated to corrected English Markdown documents and removed from the current branch. Repository-local references should use the English `.md` paths listed above. The two JPG assets retain their English filenames.
+All twenty-nine former `docs/*.txt` source notes processed to date have now been migrated to corrected English Markdown documents and removed from the current branch. Repository-local references should use the English `.md` paths listed above. The two JPG assets retain their English filenames.
 
 Numerical, legal, medical, demographic, platform-specific, institutional-interest and market-price claims inherited from legacy notes remain subject to current-source verification before operational use. Historical Spanish filenames are retained only in the migration register of the consolidated annex for traceability.
