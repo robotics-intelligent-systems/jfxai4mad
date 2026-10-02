@@ -93,9 +93,9 @@ For analytical accuracy, trafficking must remain conceptually separate from cons
 | Migrant vulnerability | Documentation, labor rights, discrimination, debt, housing and access to services |
 | Smuggling | Distinct migration offense that should not be conflated automatically with trafficking |
 
-## 7. Comparison with the Philippines, Türkiye and Mexico
+## 7. Comparison with the Philippines, Türkiye, Mexico and Israel
 
-The legacy note closes a four-case comparison. A more rigorous formulation is:
+The comparative frame now covers five jurisdictions. A more rigorous formulation is:
 
 | Jurisdiction | Legacy analytical emphasis | Verification focus |
 | --- | --- | --- |
@@ -103,8 +103,9 @@ The legacy note closes a four-case comparison. A more rigorous formulation is:
 | Türkiye | State-regulated licensed system alongside a large informal/unregistered sector | Current licensing rules, municipal implementation, closure trends, worker protections |
 | Mexico | Federal and local regulatory fragmentation with strong variation by state and municipality | Federal law, state/municipal rules, public-order enforcement, trafficking distinctions |
 | India | Private consensual adult activity distinguished from prohibited surrounding conduct, plus recent judicial dignity protections | ITPA, current criminal code, Supreme Court directives, state implementation |
+| Israel | Selling sexual services is not prohibited per se while purchasing is prohibited under the demand-side law that entered into force in 2020 | Current consolidated law, enforcement data, rehabilitation policy and updated prevalence research |
 
-This matrix is descriptive and should not be interpreted as ranking the jurisdictions.
+This matrix is descriptive and should not be interpreted as ranking the jurisdictions. The dedicated Israel case note provides the current-source verification workflow for the fifth jurisdiction.
 
 ## 8. Evidence-quality checklist
 
@@ -120,6 +121,8 @@ A publication-ready India case should verify at least the following:
 - police-enforcement and rights-protection evidence; and
 - credible civil-society or worker-organization research with transparent methods.
 
+For cross-country comparison, apply equivalent source-quality standards to the Philippines, Türkiye, Mexico and Israel rather than assuming that one jurisdiction's data are directly comparable with another's.
+
 ## 9. Recommended research workflow
 
 ```mermaid
@@ -131,7 +134,7 @@ flowchart LR
     C --> F[Current legal summary]
     D --> G[Methodologically qualified prevalence section]
     E --> H[Safeguarding and vulnerability section]
-    F --> I[Comparative four-country analysis]
+    F --> I[Five-jurisdiction comparative analysis]
     G --> I
     H --> I
 ```
