@@ -1,15 +1,42 @@
 # Documentation Index
 
-This directory contains the strategic annex, the consolidated documentation annex, refactored English Markdown source notes and supporting infographics for `jfxai4mad`.
+This directory is the documentation hub for `jfxai4mad`. The root project overview is intentionally concise; detailed material is organized by engineering, product, business, roadmap, strategy, MBSE and research domains.
 
-All documentation filenames and prose in this directory are standardized in English. Original Spanish plaintext filenames remain recorded only in the migration register for traceability.
+## Structured subdirectories
 
-## Annexes
+### `architecture/`
 
-- [Project Annex: Strategic Analysis and Institutional Framework](./ANNEX.md)
-- [Consolidated Documentation Annex](./ANNEX-DOCS-CONSOLIDATED.md)
+- [Odoo/Flectra to GraalPy migration](./architecture/odoo-graalpy-migration.md)
+- [Platform integration and AI architecture](./architecture/platform-integration-ai.md)
 
-## Refactored English Markdown sources
+### `product/`
+
+- [Consolidated project scope](./product/project-scope.md)
+- [Requirements and consent model](./product/requirements-and-consent.md)
+
+### `business/`
+
+- [Business model and performance indicators](./business/business-model-and-kpis.md)
+
+### `roadmap/`
+
+- [Implementation and investment roadmap](./roadmap/implementation-and-investment.md)
+
+### `strategy/`
+
+- [Strategy and institutional-analysis index](./strategy/README.md)
+- [Strategic and institutional annex](./ANNEX.md)
+- [Consolidated documentation annex](./ANNEX-DOCS-CONSOLIDATED.md)
+
+### `mbse/`
+
+- [OpenTwin modular habitat and shared-retreat work package](./mbse/opentwin-modular-habitat.md)
+- [CAD concepts](../MBSE/CAD/)
+- [Requirements and architecture diagrams](../MBSE/CAS/drawio/)
+
+## Research and historical source notes
+
+The following English Markdown files are retained at `docs/` root for traceability with the completed TXT-migration register. New material should preferably be placed in a thematic subdirectory.
 
 ### Tourism and mobility
 
@@ -31,8 +58,6 @@ All documentation filenames and prose in this directory are standardized in Engl
 
 - [Legal hospitality and entertainment service cost model](./legal-hospitality-entertainment-service-cost-model.md)
 
-This cost model covers lawful, non-sexual hospitality, protocol, wellness, entertainment and concierge services. It uses transparent professional cost drivers such as qualifications, languages, duration, logistics, staffing and event complexity and includes a progress-plan integration for supplier validation and quotation governance.
-
 ### Platforms and market analysis
 
 - [Ukraine conversion, collaboration and income analysis](./ukraine-conversion-collaboration-and-income-analysis.md)
@@ -48,26 +73,24 @@ This cost model covers lawful, non-sexual hospitality, protocol, wellness, enter
 - [Adult interaction, consent and sexual-health education](./adult-interaction-consent-and-sexual-health.md)
 - [Public-space sexual behavior at mass festivals](./public-space-sexual-behavior-mass-festivals.md)
 
-### Sex work, student welfare, demography and legal context
+### Adult sex-work, demography and legal context
 
 - [Metropolitan sex-work distribution and comparative legal frameworks](./metropolitan-sex-work-distribution-and-legal-frameworks.md)
 - [Intersectional demographic analysis of sex work](./intersectional-demographic-analysis-sex-work.md)
 - [Student sex work and sugar dating: regional socioeconomic analysis](./student-sex-work-and-sugar-dating-regional-analysis.md)
 - [University sex-work estimates and platform integrity](./university-sex-work-estimates-and-platform-integrity.md)
 - [Informal sexual-services pricing: research and safeguarding note](./informal-sexual-services-pricing-research-note.md)
-- [Philippines, Türkiye and Mexico: comparative sex-work legal and socioeconomic analysis](./philippines-turkiye-mexico-sex-work-comparative-analysis.md)
-- [India: sex-work legal and socioeconomic case analysis](./india-sex-work-legal-socioeconomic-case-analysis.md)
-- [Israel: sex-work legal and socioeconomic case analysis](./israel-sex-work-legal-socioeconomic-case-analysis.md)
-- [Thailand: sex-work, tourism and trafficking analysis](./thailand-sex-work-tourism-trafficking-analysis.md)
-- [Arabian Peninsula and Gulf: sex-work, trafficking and child-protection analysis](./arabian-peninsula-gulf-sex-work-trafficking-child-protection-analysis.md)
+- [Philippines, Türkiye and Mexico comparative analysis](./philippines-turkiye-mexico-sex-work-comparative-analysis.md)
+- [India case analysis](./india-sex-work-legal-socioeconomic-case-analysis.md)
+- [Israel case analysis](./israel-sex-work-legal-socioeconomic-case-analysis.md)
+- [Thailand analysis](./thailand-sex-work-tourism-trafficking-analysis.md)
+- [Arabian Peninsula / Gulf analysis](./arabian-peninsula-gulf-sex-work-trafficking-child-protection-analysis.md)
 
-These documents preserve legacy research while separating consensual adult sex work from trafficking, coercion and exploitation. Student-focused material is framed around socioeconomic analysis, welfare, safeguarding and research quality rather than solicitation or targeting. The pricing note preserves structural market-analysis variables but does not reproduce an operational tariff for sexual acts. The comparative framework now extends across the Philippines, Thailand, Türkiye, Mexico, India, Israel, the UAE, Qatar and Yemen without ranking jurisdictions. Thailand adds a Southeast Asian tourism, migration and entertainment-economy case, while the Arabian Peninsula/Gulf analysis separates high-income migrant-labor settings from Yemen's conflict-driven humanitarian conditions. All inherited legal classifications, reform claims, prevalence figures and regional generalizations remain subject to current authoritative verification.
-
-### Child protection and commercial sexual exploitation
+### Child protection
 
 - [Child commercial sexual exploitation: global legal and safeguarding analysis](./child-commercial-sexual-exploitation-global-analysis.md)
 
-This document is intentionally separated from the adult sex-work material. It treats any commercial sexual activity involving a person under 18 as a child-protection, exploitation and abuse issue, and organizes the legacy material around international legal instruments, measurement limits, trafficking, online exploitation, structural vulnerability, prevention and safeguarding. The Thailand and Arabian Peninsula/Gulf analyses link back to this child-protection framework rather than treating minors as participants in adult sex work.
+Child-protection material is deliberately separated from adult sex-work analysis. Any commercial sexual activity involving a person under 18 is treated as exploitation/abuse and safeguarding, not as adult consensual activity.
 
 ### Scheduling and local activity planning
 
@@ -79,10 +102,28 @@ This document is intentionally separated from the adult sex-work material. It tr
 - [Physiological responses and interactions in adult sexuality](./adult-sexual-physiology-anime-infographic.jpg)
 - [Yoga and external female anatomy](./yoga-external-female-anatomy-anime-infographic.jpg)
 
-Descriptions and editorial context for both images are included in [the consolidated documentation annex](./ANNEX-DOCS-CONSOLIDATED.md#9-infographic-catalog).
+Descriptions and editorial context are maintained in the [consolidated documentation annex](./ANNEX-DOCS-CONSOLIDATED.md).
 
-## Migration status
+## Organization policy
 
-All thirty-three former `docs/*.txt` source notes processed to date have now been migrated to corrected English Markdown documents and removed from the current branch. Repository-local references should use the English `.md` paths listed above. The two JPG assets retain their English filenames.
+New documentation should use descriptive English filenames and be placed in a domain subdirectory whenever possible. Recommended patterns include:
 
-Numerical, legal, medical, demographic, platform-specific, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before operational use. Historical Spanish filenames are retained only in the migration register of the consolidated annex for traceability.
+```text
+docs/architecture/<topic>.md
+docs/product/<topic>.md
+docs/business/<topic>.md
+docs/roadmap/<topic>.md
+docs/strategy/<topic>.md
+docs/mbse/<topic>.md
+docs/research/<topic>.md
+```
+
+For example, the Odoo/Flectra runtime-migration material now lives at:
+
+`docs/architecture/odoo-graalpy-migration.md`
+
+Historical Spanish TXT filenames remain only in the migration register of `ANNEX-DOCS-CONSOLIDATED.md` for traceability.
+
+## Editorial safeguards
+
+Numerical, legal, medical, demographic, platform-specific, institutional-interest, child-protection and market-price claims inherited from exploratory notes require current-source verification before publication or operational use. Professional data must not be repurposed to infer intimate traits, and child-exploitation material must remain separate from adult consensual activity.
