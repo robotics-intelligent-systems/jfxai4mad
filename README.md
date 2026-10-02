@@ -92,6 +92,30 @@ flowchart TD
     R --> Q
 ```
 
+## Technical Feasibility Analysis: 
+
+Replacing CPython with GraalPy in a dense monolithic system like Odoo involves overcoming significant architectural constraints: 
+
+### C-Extension Support
+
+Odoo relies intrinsically on C-compiled libraries (psycopg2, Pillow, lxml, xmlsec, gevent). Although GraalPy supports C extensions via its C-API emulation layer (Sulong), this introduces initial performance penalties during interop calls. Concurrency Model: Odoo traditionally uses a multi-process + gevent/eventlet model. GraalPy runs on the GraalVM runtime and handles the threading model and the GIL differently, requiring adjustments to the worker pool. 
+
+### AI Professional Account Requirements Estimate
+
+To execute this project with a development team of 6 engineers (1 Technical Lead, 3 Odoo/Python Developers, 1 JVM/GraalVM Specialist, 1 DevOps Engineer), the recommended AI tools are: AI Tool | License Type | Number of Accounts | Unit Cost / Month | Total Monthly Cost | Migration Function | GitHub Copilot Enterprise | Enterprise / Business | 6 accounts | $39 USD | $234 USD | Direct IDE refactoring of C extensions, CPython -> GraalPy API compatibility. | Gemini Advanced / Code Assist | Enterprise Tier | 2 accounts (Lead & DevOps) | $30 USD | $60 USD | Reasoning regarding memory architecture, JVM tuning, and profiling logs. | WorkGpt Astra Pro | Pro Tier | 2 accounts (Lead & Core Dev) | $25 USD | $50 USD | Open-source dependency auditing and GraalPy patch research. | TOTAL AI MENTORSHIP | — | 10 licenses | — | $344 USD / month | — 
+
+### Cost and Delivery Time Estimation: 
+
+The estimate is calculated based on a 5-month execution period with a specialized team. Deliverables Schedule (20-Week Timeline) 
+
+Phase 1: Dependency Audit (W1-W3) [AI: Astra Pro] 
+Phase 2: C-Extension Adaptation (W4-W9) [AI: Copilot Enterprise] 
+Phase 3: ORM & Gevent Refactoring (W10-W14) [AI: Gemini Advanced] 
+Phase 4: Testing & Profiling (W15-W18) [AI: Gemini / Copilot] 
+Phase 5: Staging/Prod Deployment (W19-W20) [AI: Gemini Code Assist] 
+Total Estimated Budget: Category | Description / Details | Time / Quantity | Estimated Cost (USD) | Human Resources | 6 Senior Software Engineers | 5 Months (800 hrs/eng) | $180,000 USD | AI Tool Licenses | Copilot + Gemini + Astra Pro Accounts | 5 Months | $1,720 USD | Cloud Staging Infrastructure | High-memory compute instances (Benchmarking) | 5 Months | $4,500 USD | Unforeseen Costs / Contingency | 10% of general operations | — | $18,600 USD | 
+*TOTAL ESTIMATED COST* | — | 5 Months | ~$204,820 USD
+
 ## 1. Consolidated project scope
 
 Five domains define the core platform and its data-access boundaries.
