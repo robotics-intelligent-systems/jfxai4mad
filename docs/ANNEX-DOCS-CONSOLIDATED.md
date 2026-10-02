@@ -2,9 +2,9 @@
 
 **Repository:** `robotics-intelligent-systems/jfxai4mad`  
 **Scope:** indexed documentation annex for the English `docs/*.md` sources and supporting `docs/*.jpg` infographics  
-**Editorial revision:** 1 October 2026
+**Editorial revision:** 2 October 2026
 
-> **Editorial status.** Thirty-one Spanish plaintext source notes processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
+> **Editorial status.** Thirty-three Spanish plaintext source notes processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
 
 ## Contents
 
@@ -109,6 +109,8 @@ It includes preliminary planning ranges, standardized billing units, measurable 
 - [`philippines-turkiye-mexico-sex-work-comparative-analysis.md`](./philippines-turkiye-mexico-sex-work-comparative-analysis.md) — translated and refactored comparison of the Philippines, Türkiye and Mexico covering inherited legal-framework descriptions, prevalence claims, socioeconomic context and safeguarding risks.
 - [`india-sex-work-legal-socioeconomic-case-analysis.md`](./india-sex-work-legal-socioeconomic-case-analysis.md) — translated and refactored India case analysis covering the inherited ITPA description, the referenced 2022 Supreme Court dignity/protection framework, broad prevalence estimates, urban case studies, socioeconomic vulnerability and trafficking distinctions.
 - [`israel-sex-work-legal-socioeconomic-case-analysis.md`](./israel-sex-work-legal-socioeconomic-case-analysis.md) — translated and refactored Israel case analysis, including a demand-side prohibition framework, enforcement references, historical prevalence estimates and trafficking distinctions.
+- [`thailand-sex-work-tourism-trafficking-analysis.md`](./thailand-sex-work-tourism-trafficking-analysis.md) — translated and refactored Thailand case covering the inherited prohibition framework, entertainment economy, tourism, regional migration, socioeconomic vulnerability and trafficking distinctions. Legacy prevalence figures and reform claims remain explicitly unverified.
+- [`arabian-peninsula-gulf-sex-work-trafficking-child-protection-analysis.md`](./arabian-peninsula-gulf-sex-work-trafficking-child-protection-analysis.md) — translated and refactored comparison of the UAE, Qatar and Yemen. It separates criminal-law, migrant-labor, trafficking, humanitarian and child-protection questions, and avoids treating the Arabian Peninsula as a single homogeneous legal or socioeconomic system.
 
 ### 8.1 Editorial safeguards for adult-focused analysis
 
@@ -137,7 +139,9 @@ This document translates and refactors the legacy note on the presence of minors
 - structural vulnerability factors;
 - ILO Convention No. 182, the Palermo Protocol and the Optional Protocol to the Convention on the Rights of the Child;
 - prevention, reporting, platform governance, victim support and safeguarding; and
-- a cross-cutting child-protection layer for the Philippines–Türkiye–Mexico–India–Israel comparison.
+- a cross-cutting child-protection layer for the expanded comparative framework.
+
+The Thailand analysis links tourism- and trafficking-related child-protection questions back to this framework. The Arabian Peninsula/Gulf document separately treats child sexual exploitation, forced/child marriage and conflict-related vulnerability in the UAE, Qatar and Yemen rather than combining these issues with adult sex work.
 
 All inherited quantitative claims must be revalidated before publication. Detected cases, modeled prevalence, forced-labor estimates and trafficking counts must not be treated as interchangeable metrics.
 
@@ -198,6 +202,8 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 | 29 | `El análisis del caso de.txt` | [`india-sex-work-legal-socioeconomic-case-analysis.md`](./india-sex-work-legal-socioeconomic-case-analysis.md) | Translated/refactored; TXT removed |
 | 30 | `Para integrar al Estado.txt` | [`israel-sex-work-legal-socioeconomic-case-analysis.md`](./israel-sex-work-legal-socioeconomic-case-analysis.md) | Translated/refactored with current official-source verification; TXT removed |
 | 31 | `La presencia de menores.txt` | [`child-commercial-sexual-exploitation-global-analysis.md`](./child-commercial-sexual-exploitation-global-analysis.md) | Translated/refactored as child-protection analysis; TXT removed |
+| 32 | `La inclusión de Tailandia.txt` | [`thailand-sex-work-tourism-trafficking-analysis.md`](./thailand-sex-work-tourism-trafficking-analysis.md) | Translated/refactored; TXT removed |
+| 33 | `La inclusión de la Península.txt` | [`arabian-peninsula-gulf-sex-work-trafficking-child-protection-analysis.md`](./arabian-peninsula-gulf-sex-work-trafficking-child-protection-analysis.md) | Translated/refactored with adult/child-protection separation; TXT removed |
 
 ### Reference policy
 
