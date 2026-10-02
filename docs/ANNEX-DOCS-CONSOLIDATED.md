@@ -4,7 +4,7 @@
 **Scope:** indexed documentation annex for the English `docs/*.md` sources and supporting `docs/*.jpg` infographics  
 **Editorial revision:** 1 October 2026
 
-> **Editorial status.** Twenty-seven Spanish plaintext source notes processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
+> **Editorial status.** Twenty-eight Spanish plaintext source notes processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
 
 ## Contents
 
@@ -66,19 +66,9 @@ All tourism totals, market shares, immigration figures and legal statements requ
 
 [`legal-hospitality-entertainment-service-cost-model.md`](./legal-hospitality-entertainment-service-cost-model.md)
 
-This document translates and refactors the additional legal-service planning note into a professional pricing model for **non-sexual** hospitality, protocol, wellness, entertainment and concierge services.
+This document translates and refactors the legal-service planning note into a professional pricing model for **non-sexual** hospitality, protocol, wellness, entertainment and concierge services.
 
-It includes:
-
-- preliminary planning ranges for Lima, metropolitan Europe and the United States;
-- hourly, session, event and package billing units;
-- measurable cost drivers such as qualifications, languages, staffing, travel, equipment and schedule;
-- a standard itemized quotation formula;
-- optional night, language, urgent-booking and peak-date adjustments;
-- procurement and cost-control rules;
-- a four-stage progress plan covering supplier validation, cost normalization, quotation-engine testing and commercial governance.
-
-The ranges are budgeting hypotheses rather than verified supplier quotations and must be refreshed before commercial deployment.
+It includes preliminary planning ranges, standardized billing units, measurable cost drivers, an itemized quotation formula, optional surcharges, procurement rules and a four-stage progress plan. The ranges remain budgeting hypotheses rather than verified supplier quotations and must be refreshed before commercial deployment.
 
 ---
 
@@ -115,17 +105,19 @@ The ranges are budgeting hypotheses rather than verified supplier quotations and
 - [`student-sex-work-and-sugar-dating-regional-analysis.md`](./student-sex-work-and-sugar-dating-regional-analysis.md) — regional socioeconomic and student-welfare analysis across North America, Europe and Latin America.
 - [`university-sex-work-estimates-and-platform-integrity.md`](./university-sex-work-estimates-and-platform-integrity.md) — Latin American prevalence hypotheses and platform-integrity discussion; coded solicitation material is not reproduced operationally.
 - [`informal-sexual-services-pricing-research-note.md`](./informal-sexual-services-pricing-research-note.md) — refactored research note preserving structural market variables while removing operational price guidance for sexual acts.
+- [`philippines-turkiye-mexico-sex-work-comparative-analysis.md`](./philippines-turkiye-mexico-sex-work-comparative-analysis.md) — translated and refactored comparison of the Philippines, Türkiye and Mexico covering inherited legal-framework descriptions, prevalence claims, socioeconomic context and safeguarding risks. The revised version treats Ankara as a city-level case note rather than a national proxy and requires current authoritative verification for every legal or numerical claim.
 
 ### 8.1 Editorial safeguards
 
 Across this section:
 
 - consensual adult sex work is not conflated with trafficking or coercion;
-- no person should be profiled as a sex worker or trafficking victim based on age, appearance, university, occupation, income, nationality, ethnicity or online-profile language;
+- no person should be profiled as a sex worker or trafficking victim based on age, appearance, university, occupation, income, nationality, ethnicity, migration status, gender identity or online-profile language;
 - prevalence and price estimates require identifiable source populations, dates, definitions and sampling methods;
+- national legal summaries must be verified separately from local enforcement or municipal rules;
 - professional platforms should not be used to conceal prohibited sexual-service solicitation;
 - market research should report aggregate distributions and uncertainty rather than prescribe a commercial tariff for sexual acts;
-- student support should prioritize financial aid, housing, digital safety, health, violence prevention and confidential referral pathways.
+- student and vulnerable-population support should prioritize financial aid, housing, digital safety, health, anti-discrimination measures, violence prevention and confidential referral pathways.
 
 ---
 
@@ -137,7 +129,7 @@ Across this section:
 
 ![Educational infographic about physiological responses and interactions in adult sexuality](./adult-sexual-physiology-anime-infographic.jpg)
 
-The horizontal educational infographic explains selected adult physiological and sensory responses, including nipple response, kissing and consensual touch, and simplified oral-sex physiology. It is an educational overview rather than an individualized clinical model.
+The horizontal educational infographic explains selected adult physiological and sensory responses. It is an educational overview rather than an individualized clinical model.
 
 ### 9.2 Yoga and external female anatomy
 
@@ -180,6 +172,7 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 | 25 | `Plan de Progreso Desarrollo.txt` | [`destination-wedding-academic-partnership-roadmap.md`](./destination-wedding-academic-partnership-roadmap.md) | Translated/refactored; TXT removed |
 | 26 | `El valor de los servicios.txt` | [`informal-sexual-services-pricing-research-note.md`](./informal-sexual-services-pricing-research-note.md) | Translated/refactored as research note; TXT removed |
 | 27 | `Es una propuesta completamente.txt` | [`legal-hospitality-entertainment-service-cost-model.md`](./legal-hospitality-entertainment-service-cost-model.md) | Translated/refactored; TXT removed |
+| 28 | `El análisis comparativo.txt` | [`philippines-turkiye-mexico-sex-work-comparative-analysis.md`](./philippines-turkiye-mexico-sex-work-comparative-analysis.md) | Translated/refactored; TXT removed |
 
 ### Reference policy
 
