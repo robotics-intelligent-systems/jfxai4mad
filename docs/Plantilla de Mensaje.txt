@@ -1,0 +1,19 @@
+Plantilla de Mensaje para Recruiter en [Empresa]
+
+    Asunto: Soluciones de Talento Senior e Impacto / Alianza de Reclutamiento LATAM
+
+    Hola [Nombre del Reclutador], un gusto saludarte.
+
+    Vi tu rol como Recruiter en [Empresa] y la excelente cobertura que hacen en servicios de desarrollo de software para mercados de EE.UU. y Europa.
+
+    Observé que están en la búsqueda activa de perfiles estratégicos como Senior React, Vue, Angular y Java + .NET Developers.
+
+    Actualmente coordino una red colaborativa e itinerante de profesionales y proyectos de tecnología que conecta talento de alto nivel en América Latina y Europa del Este. Contamos con un modelo de vinculación ágil por resultados y esquemas de co-creación/comisión que nos permite identificar y presentar talento Senior de forma acelerada.
+
+    Me encantaría agendar una breve llamada de 15 minutos para explorar cómo podemos colaborar como canal complementario para cubrir estas posiciones Senior en InventorSoft o evaluar sinergias comerciales/técnicas.
+
+    ¿Tendrías disponibilidad esta semana para una breve sesión por Google Meet?
+
+    Te dejo un enlace directo por si prefieres seleccionar el horario que mejor te convenga: [Link a Google Calendar / Meet]
+
+    ¡Un saludo cordial y quedo a disposición!
