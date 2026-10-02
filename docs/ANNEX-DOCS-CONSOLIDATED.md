@@ -4,7 +4,7 @@
 **Scope:** indexed documentation annex for the English `docs/*.md` sources and supporting `docs/*.jpg` infographics  
 **Editorial revision:** 1 October 2026
 
-> **Editorial status.** Thirty Spanish plaintext source notes processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
+> **Editorial status.** Thirty-one Spanish plaintext source notes processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
 
 ## Contents
 
@@ -32,7 +32,8 @@ The migration applies a consistent editorial policy across the `docs/` directory
 - explicit separation between inherited claims and verified facts;
 - separation of professional, legal, medical, adult-relationship, safeguarding and public-policy topics;
 - explicit distinction between consensual adult sex work and trafficking, coercion, exploitation or sexual violence;
-- no operational guidance for evading platform moderation, targeting individuals for compensated sexual arrangements or converting research notes into commercial sexual-service rate cards.
+- explicit separation of child sexual exploitation from all adult sex-work analysis;
+- no operational guidance for evading platform moderation, targeting individuals for compensated sexual arrangements or facilitating exploitation.
 
 The two JPG assets remain in image format and retain standardized English filenames.
 
@@ -105,13 +106,13 @@ It includes preliminary planning ranges, standardized billing units, measurable 
 - [`student-sex-work-and-sugar-dating-regional-analysis.md`](./student-sex-work-and-sugar-dating-regional-analysis.md) — regional socioeconomic and student-welfare analysis across North America, Europe and Latin America.
 - [`university-sex-work-estimates-and-platform-integrity.md`](./university-sex-work-estimates-and-platform-integrity.md) — Latin American prevalence hypotheses and platform-integrity discussion; coded solicitation material is not reproduced operationally.
 - [`informal-sexual-services-pricing-research-note.md`](./informal-sexual-services-pricing-research-note.md) — refactored research note preserving structural market variables while removing operational price guidance for sexual acts.
-- [`philippines-turkiye-mexico-sex-work-comparative-analysis.md`](./philippines-turkiye-mexico-sex-work-comparative-analysis.md) — translated and refactored comparison of the Philippines, Türkiye and Mexico covering inherited legal-framework descriptions, prevalence claims, socioeconomic context and safeguarding risks. The revised version treats Ankara as a city-level case note rather than a national proxy and requires current authoritative verification for every legal or numerical claim.
-- [`india-sex-work-legal-socioeconomic-case-analysis.md`](./india-sex-work-legal-socioeconomic-case-analysis.md) — translated and refactored India case analysis covering the inherited ITPA description, the referenced 2022 Supreme Court dignity/protection framework, broad prevalence estimates, urban red-light-district case studies, socioeconomic vulnerability and trafficking distinctions. The document now participates in a five-jurisdiction comparison without ranking legal models.
-- [`israel-sex-work-legal-socioeconomic-case-analysis.md`](./israel-sex-work-legal-socioeconomic-case-analysis.md) — translated and refactored Israel case analysis. It incorporates current official references for the demand-side prohibition that entered into force in July 2020, distinguishes enforcement data from prevalence, preserves historical national estimates with date and methodology caveats, separates consensual adult sex work from trafficking and child exploitation, and extends the comparative frame to Israel without ranking jurisdictions.
+- [`philippines-turkiye-mexico-sex-work-comparative-analysis.md`](./philippines-turkiye-mexico-sex-work-comparative-analysis.md) — translated and refactored comparison of the Philippines, Türkiye and Mexico covering inherited legal-framework descriptions, prevalence claims, socioeconomic context and safeguarding risks.
+- [`india-sex-work-legal-socioeconomic-case-analysis.md`](./india-sex-work-legal-socioeconomic-case-analysis.md) — translated and refactored India case analysis covering the inherited ITPA description, the referenced 2022 Supreme Court dignity/protection framework, broad prevalence estimates, urban case studies, socioeconomic vulnerability and trafficking distinctions.
+- [`israel-sex-work-legal-socioeconomic-case-analysis.md`](./israel-sex-work-legal-socioeconomic-case-analysis.md) — translated and refactored Israel case analysis, including a demand-side prohibition framework, enforcement references, historical prevalence estimates and trafficking distinctions.
 
-### 8.1 Editorial safeguards
+### 8.1 Editorial safeguards for adult-focused analysis
 
-Across this section:
+Across the adult-focused material:
 
 - consensual adult sex work is not conflated with trafficking or coercion;
 - no person should be profiled as a sex worker or trafficking victim based on age, appearance, university, occupation, income, nationality, ethnicity, caste, religion, migration status, gender identity or online-profile language;
@@ -119,9 +120,26 @@ Across this section:
 - national legal summaries must be verified separately from local enforcement or municipal rules;
 - court decisions, temporary legislation and constitutional-rights claims must be checked against authoritative texts and later legal developments;
 - enforcement counts should not be used as direct prevalence estimates;
-- professional platforms should not be used to conceal prohibited sexual-service solicitation;
-- market research should report aggregate distributions and uncertainty rather than prescribe a commercial tariff for sexual acts;
-- student and vulnerable-population support should prioritize financial aid, housing, digital safety, health, anti-discrimination measures, violence prevention and confidential referral pathways.
+- professional platforms should not be used to conceal prohibited sexual-service solicitation; and
+- market research should report aggregate distributions and uncertainty rather than prescribe a commercial tariff for sexual acts.
+
+### 8.2 Child protection and commercial sexual exploitation
+
+[`child-commercial-sexual-exploitation-global-analysis.md`](./child-commercial-sexual-exploitation-global-analysis.md)
+
+This document translates and refactors the legacy note on the presence of minors into a **separate child-protection analysis**. It does not classify minors as participants in adult sex work. Instead, it covers:
+
+- commercial sexual exploitation of children (CSEC/CSEA) terminology;
+- global measurement limits and inherited prevalence claims;
+- travel- and tourism-associated exploitation;
+- technology-facilitated exploitation and online grooming;
+- internal and cross-border trafficking;
+- structural vulnerability factors;
+- ILO Convention No. 182, the Palermo Protocol and the Optional Protocol to the Convention on the Rights of the Child;
+- prevention, reporting, platform governance, victim support and safeguarding; and
+- a cross-cutting child-protection layer for the Philippines–Türkiye–Mexico–India–Israel comparison.
+
+All inherited quantitative claims must be revalidated before publication. Detected cases, modeled prevalence, forced-labor estimates and trafficking counts must not be treated as interchangeable metrics.
 
 ---
 
@@ -179,6 +197,7 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 | 28 | `El análisis comparativo.txt` | [`philippines-turkiye-mexico-sex-work-comparative-analysis.md`](./philippines-turkiye-mexico-sex-work-comparative-analysis.md) | Translated/refactored; TXT removed |
 | 29 | `El análisis del caso de.txt` | [`india-sex-work-legal-socioeconomic-case-analysis.md`](./india-sex-work-legal-socioeconomic-case-analysis.md) | Translated/refactored; TXT removed |
 | 30 | `Para integrar al Estado.txt` | [`israel-sex-work-legal-socioeconomic-case-analysis.md`](./israel-sex-work-legal-socioeconomic-case-analysis.md) | Translated/refactored with current official-source verification; TXT removed |
+| 31 | `La presencia de menores.txt` | [`child-commercial-sexual-exploitation-global-analysis.md`](./child-commercial-sexual-exploitation-global-analysis.md) | Translated/refactored as child-protection analysis; TXT removed |
 
 ### Reference policy
 
