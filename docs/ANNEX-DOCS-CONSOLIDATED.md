@@ -18,6 +18,7 @@
 - [8. Sex work, student welfare, demography and legal context](#8-sex-work-student-welfare-demography-and-legal-context)
 - [9. Infographic catalog](#9-infographic-catalog)
 - [10. Complete migration and translation register](#10-complete-migration-and-translation-register)
+- [11. Additional strategy and tourism consolidation](#11-additional-strategy-and-tourism-consolidation)
 
 ---
 
@@ -204,7 +205,26 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 | 31 | `La presencia de menores.txt` | [`child-commercial-sexual-exploitation-global-analysis.md`](./child-commercial-sexual-exploitation-global-analysis.md) | Translated/refactored as child-protection analysis; TXT removed |
 | 32 | `La inclusión de Tailandia.txt` | [`thailand-sex-work-tourism-trafficking-analysis.md`](./thailand-sex-work-tourism-trafficking-analysis.md) | Translated/refactored; TXT removed |
 | 33 | `La inclusión de la Península.txt` | [`arabian-peninsula-gulf-sex-work-trafficking-child-protection-analysis.md`](./arabian-peninsula-gulf-sex-work-trafficking-child-protection-analysis.md) | Translated/refactored with adult/child-protection separation; TXT removed |
+| 34 | `Aquí tienes un Plan Estratégico.txt` | [Lean presales demonstrator plan](./strategy/lean-presales-demonstrator-plan.md) | Translated/refactored; TXT removed |
+| 35 | `Para optimizar la ejecución.txt` | [Portfolio prioritization and delivery plan](./strategy/portfolio-prioritization-and-delivery-plan.md) | Translated/refactored; TXT removed |
+| 36 | `Plantilla de Mensaje.txt` | [Recruiter partnership outreach template](./strategy/recruiter-partnership-outreach-template.md) | Translated with verified-fact placeholders; TXT removed |
+| 37 | `análisis detallado de.txt` | [Inbound tourism origin markets — Europe](./research/tourism/inbound-origin-market-research.md#europe) | Translated/consolidated as unverified research; TXT removed |
+| 38 | `principales países emisores.txt` | [Inbound tourism origin markets — Asia and the Middle East](./research/tourism/inbound-origin-market-research.md#asia-and-the-middle-east) | Translated/consolidated as unverified research; TXT removed |
+| 39 | `principales mercados emisores.txt` | [Inbound tourism origin markets — Americas](./research/tourism/inbound-origin-market-research.md#americas) | Translated/consolidated as unverified research; TXT removed |
 
 ### Reference policy
 
 Repository documentation should link to the English Markdown paths above. Historical Spanish filenames remain only in this migration table so Git history and earlier references can be traced. Any future plaintext source should be migrated to a descriptive English Markdown path and added to this register.
+
+## 11. Additional strategy and tourism consolidation
+
+Six additional drafts are now represented by four thematic English Markdown documents:
+
+- [Lean presales demonstrator plan](./strategy/lean-presales-demonstrator-plan.md) — preserves the stakeholder matrix, five-day assembly scenario, session agenda, reusable assets, cost controls and audience deliverables. Mermaid separates the delivery process from the mock-service architecture.
+- [Portfolio prioritization and delivery plan](./strategy/portfolio-prioritization-and-delivery-plan.md) — retains the P1/P2/P3 matrix, three two-month phases and five-person team scenario. Inherited 40–60% time-saving and approximately 50% cost-saving figures remain unverified hypotheses. Workflow and integration diagrams show explicit decision gates.
+- [Recruiter partnership outreach template](./strategy/recruiter-partnership-outreach-template.md) — translates the professional message, replaces an inconsistent hard-coded company with a single placeholder and makes hiring/network claims conditional on verification. No outreach is sent by this migration.
+- [Inbound tourism origin-market research](./research/tourism/inbound-origin-market-research.md) — consolidates six European, five Asian/Middle Eastern and three American destination notes. The original origin markets and travel themes remain traceable, while unsupported rankings, visa claims and current conflict/route assumptions are not presented as verified facts.
+
+The source drafts remain in Git history. Existing Markdown research and MBSE assets
+are preserved. The root documentation map, thematic indexes and entries 34–39 above
+provide the navigation and migration record for this addition.

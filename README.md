@@ -19,6 +19,10 @@ The root README is intentionally concise. Detailed material is organized by doma
 | Business | [Business model and KPIs](docs/business/business-model-and-kpis.md) | Revenue hypotheses, metrics and evaluation rules |
 | Roadmap | [Implementation and investment](docs/roadmap/implementation-and-investment.md) | Delivery phases, architecture-migration track and budgeting policy |
 | Strategy | [Strategy index](docs/strategy/README.md) | Navigation to long-form institutional and comparative analysis |
+| Strategy | [Lean presales demonstrator plan](docs/strategy/lean-presales-demonstrator-plan.md) | Stakeholder demos, mock-service architecture and cost controls |
+| Strategy | [Portfolio prioritization and delivery](docs/strategy/portfolio-prioritization-and-delivery-plan.md) | Low-code/robotics workstreams, six-month scenario and decision gates |
+| Collaboration | [Recruiter partnership template](docs/strategy/recruiter-partnership-outreach-template.md) | Adaptable English outreach draft with verified-fact placeholders |
+| Research | [Inbound tourism origin markets](docs/research/tourism/inbound-origin-market-research.md) | Consolidated exploratory notes for 14 destinations; rankings remain unverified |
 | MBSE | [OpenTwin modular habitat](docs/mbse/opentwin-modular-habitat.md) | CAD/simulation concept, validation work package and related assets |
 | Research | [Documentation index](docs/README.md) | Thematic index for migrated research notes and supporting material |
 
@@ -114,7 +118,13 @@ The visual assets are conceptual engineering studies; dimensions, structures, ac
 │   ├── roadmap/
 │   │   └── implementation-and-investment.md
 │   ├── strategy/
-│   │   └── README.md
+│   │   ├── README.md
+│   │   ├── lean-presales-demonstrator-plan.md
+│   │   ├── portfolio-prioritization-and-delivery-plan.md
+│   │   └── recruiter-partnership-outreach-template.md
+│   ├── research/
+│   │   ├── README.md
+│   │   └── tourism/inbound-origin-market-research.md
 │   ├── mbse/
 │   │   └── opentwin-modular-habitat.md
 │   ├── README.md
