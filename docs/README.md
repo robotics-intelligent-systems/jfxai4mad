@@ -25,6 +25,9 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 ### `strategy/`
 
 - [Strategy and institutional-analysis index](./strategy/README.md)
+- [Lean presales demonstrator plan](./strategy/lean-presales-demonstrator-plan.md)
+- [Portfolio prioritization and delivery plan](./strategy/portfolio-prioritization-and-delivery-plan.md)
+- [Recruiter partnership outreach template](./strategy/recruiter-partnership-outreach-template.md)
 - [Strategic and institutional annex](./ANNEX.md)
 - [Consolidated documentation annex](./ANNEX-DOCS-CONSOLIDATED.md)
 
@@ -36,9 +39,11 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ## Research and historical source notes
 
-The following English Markdown files are retained at `docs/` root for traceability with the completed TXT-migration register. New material should preferably be placed in a thematic subdirectory.
+The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 39 legacy TXT entries to their English destinations.
 
 ### Tourism and mobility
+
+- [Inbound tourism origin-market research: 14 destinations](./research/tourism/inbound-origin-market-research.md)
 
 - [U.S. tourism and international-marriage notes](./us-tourism-and-international-marriage-notes.md)
 - [Peru and Colombia inbound-tourism comparison](./peru-colombia-inbound-tourism-comparison.md)
