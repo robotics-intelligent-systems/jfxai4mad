@@ -15,6 +15,8 @@ The root README is intentionally concise. Detailed material is organized by doma
 | Architecture | [Odoo/Flectra → GraalPy migration](docs/architecture/odoo-graalpy-migration.md) | Runtime compatibility, C extensions, concurrency, polyglot services and migration gates |
 | Architecture | [Platform integration and AI](docs/architecture/platform-integration-ai.md) | Domain services, private AI gateway, retrieval, human review and provider adapters |
 | Product | [Consolidated project scope](docs/product/project-scope.md) | Platform domains, boundaries and implementation-status language |
+| Product | [Valles de Alborada hybrid residence](docs/product/valles-de-alborada-hybrid-residence.md) | Residential concept, shared infrastructure and optional rental operations |
+| Strategy | [Modern cooperative settlement evaluation](docs/strategy/modern-cooperative-settlement-evaluation.md) | Historical analogy, candidate regions, assumptions and evaluation gates |
 | Product | [Requirements and consent](docs/product/requirements-and-consent.md) | Evidence-to-requirement rules, granular consent and sensitive-inference restrictions |
 | Business | [Business model and KPIs](docs/business/business-model-and-kpis.md) | Revenue hypotheses, metrics and evaluation rules |
 | Roadmap | [Implementation and investment](docs/roadmap/implementation-and-investment.md) | Delivery phases, architecture-migration track and budgeting policy |
@@ -111,6 +113,7 @@ The visual assets are conceptual engineering studies; dimensions, structures, ac
 │   │   ├── odoo-graalpy-migration.md
 │   │   └── platform-integration-ai.md
 │   ├── product/
+│   │   ├── valles-de-alborada-hybrid-residence.md
 │   │   ├── project-scope.md
 │   │   └── requirements-and-consent.md
 │   ├── business/
@@ -119,6 +122,7 @@ The visual assets are conceptual engineering studies; dimensions, structures, ac
 │   │   └── implementation-and-investment.md
 │   ├── strategy/
 │   │   ├── README.md
+│   │   ├── modern-cooperative-settlement-evaluation.md
 │   │   ├── lean-presales-demonstrator-plan.md
 │   │   ├── portfolio-prioritization-and-delivery-plan.md
 │   │   └── recruiter-partnership-outreach-template.md

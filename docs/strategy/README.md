@@ -9,6 +9,8 @@ This directory is the navigation layer for long-form strategic, institutional an
 
 ## Additional planning and collaboration documents
 
+- [Modern cooperative settlement evaluation](modern-cooperative-settlement-evaluation.md) — structured historical analogy, regional hypotheses and Mermaid evaluation gates.
+
 - [Lean presales demonstrator plan](lean-presales-demonstrator-plan.md) — stakeholder value, a five-day demo scenario, Mermaid workflow/architecture and explicit cost assumptions.
 - [Portfolio prioritization and delivery plan](portfolio-prioritization-and-delivery-plan.md) — proposed low-code/robotics priorities, a six-month scenario and evidence-based gates.
 - [Recruiter partnership outreach template](recruiter-partnership-outreach-template.md) — an English draft with consistent company placeholders and verifiable professional claims.

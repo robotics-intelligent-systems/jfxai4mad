@@ -11,6 +11,8 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ### `product/`
 
+- [Valles de Alborada hybrid residence](./product/valles-de-alborada-hybrid-residence.md)
+
 - [Consolidated project scope](./product/project-scope.md)
 - [Requirements and consent model](./product/requirements-and-consent.md)
 
@@ -23,6 +25,8 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 - [Implementation and investment roadmap](./roadmap/implementation-and-investment.md)
 
 ### `strategy/`
+
+- [Modern cooperative settlement evaluation](./strategy/modern-cooperative-settlement-evaluation.md)
 
 - [Strategy and institutional-analysis index](./strategy/README.md)
 - [Lean presales demonstrator plan](./strategy/lean-presales-demonstrator-plan.md)
@@ -39,7 +43,7 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ## Research and historical source notes
 
-The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 39 legacy TXT entries to their English destinations.
+The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 41 legacy TXT entries to their English destinations.
 
 ### Tourism and mobility
 
