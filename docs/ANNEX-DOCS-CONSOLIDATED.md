@@ -2,9 +2,9 @@
 
 **Repository:** `robotics-intelligent-systems/jfxai4mad`  
 **Scope:** indexed documentation annex for the English `docs/*.md` sources and supporting `docs/*.jpg` infographics  
-**Editorial revision:** 2 October 2026
+**Editorial revision:** 5 October 2026
 
-> **Editorial status.** Thirty-three Spanish plaintext source notes processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
+> **Editorial status.** Forty-one plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
 
 ## Contents
 
@@ -21,6 +21,8 @@
 - [11. Additional strategy and tourism consolidation](#11-additional-strategy-and-tourism-consolidation)
 
 ---
+
+- [12. Residential and cooperative settlement concepts](#12-residential-and-cooperative-settlement-concepts)
 
 ## 1. Documentation migration and normalization
 
@@ -170,7 +172,7 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 
 ## 10. Complete migration and translation register
 
-| # | Legacy Spanish TXT path | English Markdown path | Status |
+| # | Legacy TXT path | English Markdown path | Status |
 | ---: | --- | --- | --- |
 | 1 | `A continuación se desglosan.txt` | [`us-tourism-and-international-marriage-notes.md`](./us-tourism-and-international-marriage-notes.md) | Translated; TXT removed |
 | 2 | `A continuación se presenta.txt` *(earlier tourism source)* | [`peru-colombia-inbound-tourism-comparison.md`](./peru-colombia-inbound-tourism-comparison.md) | Translated; TXT removed |
@@ -211,10 +213,12 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 | 37 | `análisis detallado de.txt` | [Inbound tourism origin markets — Europe](./research/tourism/inbound-origin-market-research.md#europe) | Translated/consolidated as unverified research; TXT removed |
 | 38 | `principales países emisores.txt` | [Inbound tourism origin markets — Asia and the Middle East](./research/tourism/inbound-origin-market-research.md#asia-and-the-middle-east) | Translated/consolidated as unverified research; TXT removed |
 | 39 | `principales mercados emisores.txt` | [Inbound tourism origin markets — Americas](./research/tourism/inbound-origin-market-research.md#americas) | Translated/consolidated as unverified research; TXT removed |
+| 40 | `Este concepto de proyecto.txt` | [Valles de Alborada hybrid residence](./product/valles-de-alborada-hybrid-residence.md) | Translated/refactored; TXT removed |
+| 41 | `Evaluating a modern pioneer.txt` | [Modern cooperative settlement evaluation](./strategy/modern-cooperative-settlement-evaluation.md) | English structured/refactored; TXT removed |
 
 ### Reference policy
 
-Repository documentation should link to the English Markdown paths above. Historical Spanish filenames remain only in this migration table so Git history and earlier references can be traced. Any future plaintext source should be migrated to a descriptive English Markdown path and added to this register.
+Repository documentation should link to the English Markdown paths above. Historical source filenames remain only in this migration table so Git history and earlier references can be traced. Any future plaintext source should be migrated to a descriptive English Markdown path and added to this register.
 
 ## 11. Additional strategy and tourism consolidation
 
@@ -228,3 +232,10 @@ Six additional drafts are now represented by four thematic English Markdown docu
 The source drafts remain in Git history. Existing Markdown research and MBSE assets
 are preserved. The root documentation map, thematic indexes and entries 34–39 above
 provide the navigation and migration record for this addition.
+
+## 12. Residential and cooperative settlement concepts
+
+- [Valles de Alborada hybrid residence](./product/valles-de-alborada-hybrid-residence.md) preserves candidate locations, dwelling and plot dimensions, landscape allocation, amenities, bioclimatic systems, rental-pool operations, security and concierge services. A Mermaid workflow organizes owner occupancy and optional rental operations.
+- [Modern cooperative settlement evaluation](./strategy/modern-cooperative-settlement-evaluation.md) structures the English source's historical analogy, three candidate-region groups and four risk dimensions. Original feasibility ratings remain attributed hypotheses; unsupported land-acquisition and sovereignty assertions become explicit verification questions. A Mermaid workflow adds evaluation gates.
+
+Entries 40–41 record the two sources, retained in Git history. This migration does not independently validate historical, geographic, commercial or regulatory claims.
