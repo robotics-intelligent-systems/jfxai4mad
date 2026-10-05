@@ -10,6 +10,10 @@ It retains the draft origin/driver pairs as hypotheses and includes a Mermaid
 validation workflow. No current tourism ranking or visa/route claim is verified
 by the documentation migration.
 
+## Sport fishing and hunting tourism
+
+[Sport fishing and hunting tourism](tourism/sport-fishing-and-hunting-tourism.md) consolidates three additional Spanish drafts. It retains four fishing and three hunting destination groups, distinguishes unverified spending and conservation claims, and replaces the plaintext comparison with a table and Mermaid research workflow.
+
 ## Marriage-conversion research
 
 [Match Group and peer marriage-conversion research](platforms/match-group-and-peer-marriage-conversion.md) translates the additional comparison of Tinder, Badoo, OkCupid and Mutual. It corrects corporate scope, preserves qualitative labels as unsupported source opinions, and adds cohort definitions and a Mermaid evidence workflow.
@@ -28,7 +32,8 @@ by the documentation migration.
 ```text
 docs/research/
 ├── tourism/
-│   └── inbound-origin-market-research.md
+│   ├── inbound-origin-market-research.md
+│   └── sport-fishing-and-hunting-tourism.md
 ├── platforms/
 │   └── match-group-and-peer-marriage-conversion.md
 ├── adult-relationships/

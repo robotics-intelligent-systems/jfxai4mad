@@ -25,6 +25,7 @@ The root README is intentionally concise. Detailed material is organized by doma
 | Strategy | [Portfolio prioritization and delivery](docs/strategy/portfolio-prioritization-and-delivery-plan.md) | Low-code/robotics workstreams, six-month scenario and decision gates |
 | Collaboration | [Recruiter partnership template](docs/strategy/recruiter-partnership-outreach-template.md) | Adaptable English outreach draft with verified-fact placeholders |
 | Research | [Match Group and peer marriage-conversion research](docs/research/platforms/match-group-and-peer-marriage-conversion.md) | Platform scope, unverified qualitative claims and cohort measurement framework |
+| Research | [Sport fishing and hunting tourism](docs/research/tourism/sport-fishing-and-hunting-tourism.md) | Regional source comparisons, operator models and evidence limitations |
 | Research | [Inbound tourism origin markets](docs/research/tourism/inbound-origin-market-research.md) | Consolidated exploratory notes for 14 destinations; rankings remain unverified |
 | MBSE | [OpenTwin modular habitat](docs/mbse/opentwin-modular-habitat.md) | CAD/simulation concept, validation work package and related assets |
 | Research | [Documentation index](docs/README.md) | Thematic index for migrated research notes and supporting material |
