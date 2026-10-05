@@ -4,7 +4,7 @@
 **Scope:** indexed documentation annex for the English `docs/*.md` sources and supporting `docs/*.jpg` infographics  
 **Editorial revision:** 5 October 2026
 
-> **Editorial status.** Forty-two plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
+> **Editorial status.** Forty-five plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
 
 ## Contents
 
@@ -23,6 +23,7 @@
 - [12. Residential and cooperative settlement concepts](#12-residential-and-cooperative-settlement-concepts)
 
 - [13. Marriage-conversion platform research](#13-marriage-conversion-platform-research)
+- [14. Sport fishing and hunting tourism](#14-sport-fishing-and-hunting-tourism)
 
 ---
 
@@ -218,6 +219,9 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 | 40 | `Este concepto de proyecto.txt` | [Valles de Alborada hybrid residence](./product/valles-de-alborada-hybrid-residence.md) | Translated/refactored; TXT removed |
 | 41 | `Evaluating a modern pioneer.txt` | [Modern cooperative settlement evaluation](./strategy/modern-cooperative-settlement-evaluation.md) | English structured/refactored; TXT removed |
 | 42 | `No existe una métrica.txt` | [Match Group and peer marriage-conversion research](./research/platforms/match-group-and-peer-marriage-conversion.md) | Translated/refactored; corporate scope checked; TXT removed |
+| 43 | `El turismo de caza cinegética.txt` | [Sport fishing and hunting tourism](./research/tourism/sport-fishing-and-hunting-tourism.md) | Translated/consolidated; TXT removed |
+| 44 | `América Latina es un referente.txt` | [Sport fishing and hunting tourism](./research/tourism/sport-fishing-and-hunting-tourism.md) | Translated/consolidated; TXT removed |
+| 45 | `2 Caza Deportiva Cinegetica.txt` | [Sport fishing and hunting tourism](./research/tourism/sport-fishing-and-hunting-tourism.md) | Translated/consolidated; TXT removed |
 
 ### Reference policy
 
@@ -246,3 +250,7 @@ Entries 40–41 record the two sources, retained in Git history. This migration 
 ## 13. Marriage-conversion platform research
 
 [Match Group and peer marriage-conversion research](./research/platforms/match-group-and-peer-marriage-conversion.md) preserves the four-platform comparison and its qualitative labels as unsupported source opinions. Official references clarify brand scope and Mutual's stated positioning; they do not validate marriage-conversion rankings. The document adds cohort-based measurement definitions, reporting limitations and a Mermaid evidence workflow. Entry 42 records the source retained in Git history.
+
+## 14. Sport fishing and hunting tourism
+
+[Sport fishing and hunting tourism](./research/tourism/sport-fishing-and-hunting-tourism.md) consolidates the three sources in entries 43–45. It preserves the four fishing and three hunting destination groups, named species, seasonal claims, lodge/outfitter model and spending hypothesis. The plaintext comparison becomes a table and Mermaid research workflow. Unsupported universal claims about mandatory release, zero impact, permit simplicity and conservation benefits remain explicitly qualified. Sources are retained in Git history; no current regulations or market estimates are certified by this migration.
