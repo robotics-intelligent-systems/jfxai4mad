@@ -10,6 +10,10 @@ It retains the draft origin/driver pairs as hypotheses and includes a Mermaid
 validation workflow. No current tourism ranking or visa/route claim is verified
 by the documentation migration.
 
+## Marriage-conversion research
+
+[Match Group and peer marriage-conversion research](platforms/match-group-and-peer-marriage-conversion.md) translates the additional comparison of Tinder, Badoo, OkCupid and Mutual. It corrects corporate scope, preserves qualitative labels as unsupported source opinions, and adds cohort definitions and a Mermaid evidence workflow.
+
 ## Current thematic groups
 
 - [Tourism and mobility](../README.md#tourism-and-mobility)
@@ -26,11 +30,12 @@ docs/research/
 ├── tourism/
 │   └── inbound-origin-market-research.md
 ├── platforms/
+│   └── match-group-and-peer-marriage-conversion.md
 ├── adult-relationships/
 ├── legal-socioeconomic/
 └── child-protection/
 ```
 
-Only `tourism/` is populated by this addition; the other thematic directories remain recommendations.
+`tourism/` and `platforms/` contain migrated research; the other thematic directories remain recommendations.
 
 When a future migration moves an existing research note into these subdirectories, update both `docs/README.md` and `docs/ANNEX-DOCS-CONSOLIDATED.md` in the same PR so no repository-local links are left stale.

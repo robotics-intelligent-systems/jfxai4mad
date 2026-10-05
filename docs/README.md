@@ -43,7 +43,7 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ## Research and historical source notes
 
-The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 41 legacy TXT entries to their English destinations.
+The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 42 legacy TXT entries to their English destinations.
 
 ### Tourism and mobility
 
@@ -68,6 +68,8 @@ The earlier English Markdown notes remain at `docs/` root for historical link st
 - [Legal hospitality and entertainment service cost model](./legal-hospitality-entertainment-service-cost-model.md)
 
 ### Platforms and market analysis
+
+- [Match Group and peer marriage-conversion research](./research/platforms/match-group-and-peer-marriage-conversion.md)
 
 - [Ukraine conversion, collaboration and income analysis](./ukraine-conversion-collaboration-and-income-analysis.md)
 - [LinkedIn regional user estimates](./linkedin-regional-user-estimates.md)

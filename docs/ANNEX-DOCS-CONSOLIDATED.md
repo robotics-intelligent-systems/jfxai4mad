@@ -4,7 +4,7 @@
 **Scope:** indexed documentation annex for the English `docs/*.md` sources and supporting `docs/*.jpg` infographics  
 **Editorial revision:** 5 October 2026
 
-> **Editorial status.** Forty-one plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
+> **Editorial status.** Forty-two plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
 
 ## Contents
 
@@ -20,9 +20,11 @@
 - [10. Complete migration and translation register](#10-complete-migration-and-translation-register)
 - [11. Additional strategy and tourism consolidation](#11-additional-strategy-and-tourism-consolidation)
 
----
-
 - [12. Residential and cooperative settlement concepts](#12-residential-and-cooperative-settlement-concepts)
+
+- [13. Marriage-conversion platform research](#13-marriage-conversion-platform-research)
+
+---
 
 ## 1. Documentation migration and normalization
 
@@ -215,6 +217,7 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 | 39 | `principales mercados emisores.txt` | [Inbound tourism origin markets — Americas](./research/tourism/inbound-origin-market-research.md#americas) | Translated/consolidated as unverified research; TXT removed |
 | 40 | `Este concepto de proyecto.txt` | [Valles de Alborada hybrid residence](./product/valles-de-alborada-hybrid-residence.md) | Translated/refactored; TXT removed |
 | 41 | `Evaluating a modern pioneer.txt` | [Modern cooperative settlement evaluation](./strategy/modern-cooperative-settlement-evaluation.md) | English structured/refactored; TXT removed |
+| 42 | `No existe una métrica.txt` | [Match Group and peer marriage-conversion research](./research/platforms/match-group-and-peer-marriage-conversion.md) | Translated/refactored; corporate scope checked; TXT removed |
 
 ### Reference policy
 
@@ -239,3 +242,7 @@ provide the navigation and migration record for this addition.
 - [Modern cooperative settlement evaluation](./strategy/modern-cooperative-settlement-evaluation.md) structures the English source's historical analogy, three candidate-region groups and four risk dimensions. Original feasibility ratings remain attributed hypotheses; unsupported land-acquisition and sovereignty assertions become explicit verification questions. A Mermaid workflow adds evaluation gates.
 
 Entries 40–41 record the two sources, retained in Git history. This migration does not independently validate historical, geographic, commercial or regulatory claims.
+
+## 13. Marriage-conversion platform research
+
+[Match Group and peer marriage-conversion research](./research/platforms/match-group-and-peer-marriage-conversion.md) preserves the four-platform comparison and its qualitative labels as unsupported source opinions. Official references clarify brand scope and Mutual's stated positioning; they do not validate marriage-conversion rankings. The document adds cohort-based measurement definitions, reporting limitations and a Mermaid evidence workflow. Entry 42 records the source retained in Git history.
