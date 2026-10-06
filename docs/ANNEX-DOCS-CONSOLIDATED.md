@@ -4,7 +4,7 @@
 **Scope:** indexed documentation annex for the English `docs/*.md` sources and supporting `docs/*.jpg` infographics  
 **Editorial revision:** 6 October 2026
 
-> **Editorial status.** Forty-six plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
+> **Editorial status.** Forty-seven plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
 
 ## Contents
 
@@ -25,6 +25,7 @@
 - [13. Marriage-conversion platform research](#13-marriage-conversion-platform-research)
 - [14. Sport fishing and hunting tourism](#14-sport-fishing-and-hunting-tourism)
 - [15. Colombian emigration destinations](#15-colombian-emigration-destinations)
+- [16. Uruguay, Paraguay and Bolivia tourism flows](#16-uruguay-paraguay-and-bolivia-tourism-flows)
 
 ---
 
@@ -224,6 +225,7 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 | 44 | `América Latina es un referente.txt` | [Sport fishing and hunting tourism](./research/tourism/sport-fishing-and-hunting-tourism.md) | Translated/consolidated; TXT removed |
 | 45 | `2 Caza Deportiva Cinegetica.txt` | [Sport fishing and hunting tourism](./research/tourism/sport-fishing-and-hunting-tourism.md) | Translated/consolidated; TXT removed |
 | 46 | `La emigración colombiana.txt` | [Colombian emigration destinations](./research/tourism/colombian-emigration-destinations.md) | Translated/refactored as unverified migration research; TXT removed |
+| 47 | `El análisis del flujo.txt` | [Uruguay, Paraguay and Bolivia tourism flows](./research/tourism/uruguay-paraguay-bolivia-tourism-flows.md) | Translated/refactored as unverified tourism research; TXT removed |
 
 ### Reference policy
 
@@ -260,3 +262,7 @@ Entries 40–41 record the two sources, retained in Git history. This migration 
 ## 15. Colombian emigration destinations
 
 [Colombian emigration destinations](./research/tourism/colombian-emigration-destinations.md) preserves six destination rows, the combined Chile/Ecuador estimate, the Venezuela range and the employment, education and support-network themes. It distinguishes migrant stocks from tourist flows, treats all figures as undated source claims and qualifies policy references, including the unverified Australian Working Holiday assertion. A Mermaid workflow organizes evidence collection. Entry 46 records the original retained in Git history.
+
+## 16. Uruguay, Paraguay and Bolivia tourism flows
+
+[Uruguay, Paraguay and Bolivia tourism flows](./research/tourism/uruguay-paraguay-bolivia-tourism-flows.md) preserves the three-country comparison and detailed inbound/outbound profiles. Source figures, market-share claims and economic explanations remain explicitly undated and unverified. The Bolivia outbound wording ambiguity is recorded, and a Mermaid evidence workflow separates direction, statistical units, spending and travel purposes. Entry 47 maps the source retained in Git history.
