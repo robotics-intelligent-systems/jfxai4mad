@@ -18,6 +18,10 @@ by the documentation migration.
 
 [Match Group and peer marriage-conversion research](platforms/match-group-and-peer-marriage-conversion.md) translates the additional comparison of Tinder, Badoo, OkCupid and Mutual. It corrects corporate scope, preserves qualitative labels as unsupported source opinions, and adds cohort definitions and a Mermaid evidence workflow.
 
+## Colombian emigration and diaspora
+
+[Colombian emigration destinations](tourism/colombian-emigration-destinations.md) translates the additional destination table and migration-driver notes. It distinguishes diaspora populations from tourist flows, preserves estimates as undated source claims and adds a Mermaid evidence workflow. Policy references are not verified eligibility guidance.
+
 ## Current thematic groups
 
 - [Tourism and mobility](../README.md#tourism-and-mobility)
@@ -32,6 +36,7 @@ by the documentation migration.
 ```text
 docs/research/
 ├── tourism/
+│   ├── colombian-emigration-destinations.md
 │   ├── inbound-origin-market-research.md
 │   └── sport-fishing-and-hunting-tourism.md
 ├── platforms/

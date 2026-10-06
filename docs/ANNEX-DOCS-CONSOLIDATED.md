@@ -2,9 +2,9 @@
 
 **Repository:** `robotics-intelligent-systems/jfxai4mad`  
 **Scope:** indexed documentation annex for the English `docs/*.md` sources and supporting `docs/*.jpg` infographics  
-**Editorial revision:** 5 October 2026
+**Editorial revision:** 6 October 2026
 
-> **Editorial status.** Forty-five plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
+> **Editorial status.** Forty-six plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
 
 ## Contents
 
@@ -24,6 +24,7 @@
 
 - [13. Marriage-conversion platform research](#13-marriage-conversion-platform-research)
 - [14. Sport fishing and hunting tourism](#14-sport-fishing-and-hunting-tourism)
+- [15. Colombian emigration destinations](#15-colombian-emigration-destinations)
 
 ---
 
@@ -222,6 +223,7 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 | 43 | `El turismo de caza cinegética.txt` | [Sport fishing and hunting tourism](./research/tourism/sport-fishing-and-hunting-tourism.md) | Translated/consolidated; TXT removed |
 | 44 | `América Latina es un referente.txt` | [Sport fishing and hunting tourism](./research/tourism/sport-fishing-and-hunting-tourism.md) | Translated/consolidated; TXT removed |
 | 45 | `2 Caza Deportiva Cinegetica.txt` | [Sport fishing and hunting tourism](./research/tourism/sport-fishing-and-hunting-tourism.md) | Translated/consolidated; TXT removed |
+| 46 | `La emigración colombiana.txt` | [Colombian emigration destinations](./research/tourism/colombian-emigration-destinations.md) | Translated/refactored as unverified migration research; TXT removed |
 
 ### Reference policy
 
@@ -254,3 +256,7 @@ Entries 40–41 record the two sources, retained in Git history. This migration 
 ## 14. Sport fishing and hunting tourism
 
 [Sport fishing and hunting tourism](./research/tourism/sport-fishing-and-hunting-tourism.md) consolidates the three sources in entries 43–45. It preserves the four fishing and three hunting destination groups, named species, seasonal claims, lodge/outfitter model and spending hypothesis. The plaintext comparison becomes a table and Mermaid research workflow. Unsupported universal claims about mandatory release, zero impact, permit simplicity and conservation benefits remain explicitly qualified. Sources are retained in Git history; no current regulations or market estimates are certified by this migration.
+
+## 15. Colombian emigration destinations
+
+[Colombian emigration destinations](./research/tourism/colombian-emigration-destinations.md) preserves six destination rows, the combined Chile/Ecuador estimate, the Venezuela range and the employment, education and support-network themes. It distinguishes migrant stocks from tourist flows, treats all figures as undated source claims and qualifies policy references, including the unverified Australian Working Holiday assertion. A Mermaid workflow organizes evidence collection. Entry 46 records the original retained in Git history.
