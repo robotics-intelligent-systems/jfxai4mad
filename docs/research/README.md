@@ -22,6 +22,10 @@ by the documentation migration.
 
 [Colombian emigration destinations](tourism/colombian-emigration-destinations.md) translates the additional destination table and migration-driver notes. It distinguishes diaspora populations from tourist flows, preserves estimates as undated source claims and adds a Mermaid evidence workflow. Policy references are not verified eligibility guidance.
 
+## Uruguay, Paraguay and Bolivia tourism flows
+
+[Uruguay, Paraguay and Bolivia tourism flows](tourism/uruguay-paraguay-bolivia-tourism-flows.md) translates the inbound/outbound comparison and detailed country notes. Undated figures remain source claims; a Mermaid workflow and measurement definitions support a future comparable update.
+
 ## Current thematic groups
 
 - [Tourism and mobility](../README.md#tourism-and-mobility)
@@ -36,6 +40,7 @@ by the documentation migration.
 ```text
 docs/research/
 ├── tourism/
+│   ├── uruguay-paraguay-bolivia-tourism-flows.md
 │   ├── colombian-emigration-destinations.md
 │   ├── inbound-origin-market-research.md
 │   └── sport-fishing-and-hunting-tourism.md
