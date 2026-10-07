@@ -34,6 +34,10 @@ by the documentation migration.
 
 [Integration corridors](tourism/peru-brazil-paraguay-integration-corridors.md) translates the five-criterion comparison, retains all six air-city pairs as unverified source claims, clarifies the two Brazil–Paraguay bridge endpoints and adds a Mermaid evidence workflow.
 
+## LGBT tourism demographic research
+
+[LGBT tourism demographic research](tourism/lgbt-tourism-demographic-research.md) preserves six age profiles and four regional comparisons as unverified source claims. It separates self-identification from tourism market share and adds aggregate evidence requirements.
+
 ## Current thematic groups
 
 - [Tourism and mobility](../README.md#tourism-and-mobility)
@@ -48,6 +52,7 @@ by the documentation migration.
 ```text
 docs/research/
 ├── tourism/
+│   ├── lgbt-tourism-demographic-research.md
 │   ├── peru-brazil-paraguay-integration-corridors.md
 │   ├── peru-paraguay-air-and-overland-routes.md
 │   ├── uruguay-paraguay-bolivia-tourism-flows.md

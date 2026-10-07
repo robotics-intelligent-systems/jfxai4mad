@@ -4,7 +4,7 @@
 **Scope:** indexed documentation annex for the English `docs/*.md` sources and supporting `docs/*.jpg` infographics  
 **Editorial revision:** 7 October 2026
 
-> **Editorial status.** Fifty plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
+> **Editorial status.** Fifty-three plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
 
 ## Contents
 
@@ -31,6 +31,8 @@
 - [19. Multisector territorial tourism development flow](#19-multisector-territorial-tourism-development-flow)
 
 ---
+
+- [20. Additional tourism policy, demographic and security concepts](#20-additional-tourism-policy-demographic-and-security-concepts)
 
 ## 1. Documentation migration and normalization
 
@@ -237,6 +239,10 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 | 49 | `rutas de integración Perú.txt` | [Peru–Brazil and Brazil–Paraguay integration corridors](./research/tourism/peru-brazil-paraguay-integration-corridors.md) | Translated/consolidated; geographic references checked; TXT removed |
 | 50 | `Un Flujo Integral de Desarrollo.txt` | [Multisector territorial tourism development flow](./strategy/multisector-territorial-tourism-development-flow.md) | Translated/consolidated; proposed impacts qualified; TXT removed |
 
+| 51 | `Bajo la premisa planteada.txt` | [Tourism and young-household incentives](./strategy/tourism-and-young-household-incentives.md) | Translated/consolidated; source claims qualified; TXT removed |
+| 52 | `El comportamiento del.txt` | [LGBT tourism demographic research](./research/tourism/lgbt-tourism-demographic-research.md) | Translated/consolidated; source claims qualified; TXT removed |
+| 53 | `La industria de Seguridad.txt` | [Tourism transport security concept](./architecture/tourism-transport-security-concept.md) | Translated/consolidated; source claims qualified; TXT removed |
+
 ### Reference policy
 
 Repository documentation should link to the English Markdown paths above. Historical source filenames remain only in this migration table so Git history and earlier references can be traced. Any future plaintext source should be migrated to a descriptive English Markdown path and added to this register.
@@ -288,3 +294,13 @@ Entries 40–41 record the two sources, retained in Git history. This migration 
 ## 19. Multisector territorial tourism development flow
 
 [Multisector territorial tourism development flow](./strategy/multisector-territorial-tourism-development-flow.md) translates the additional economic-development concept, preserving tourism as the proposed demand driver, agriculture, transport, accommodation, energy and health, four development phases, five innovation-matrix rows and four KPIs. Mermaid replaces the plaintext map. Editorial measurement definitions distinguish local procurement, renewable supply, direct spending retention and baseline-relative emissions. Circular-resource loops, carbon neutrality and health benefits remain proposals requiring evidence. Entry 50 records the source retained in Git history; links connect the business KPI framework, residence concept, rural collaboration, corridor research and implementation roadmap.
+
+## 20. Additional tourism policy, demographic and security concepts
+
+- [Tourism and young-household incentives](./strategy/tourism-and-young-household-incentives.md) — Proposed subsidies, housing savings, eligibility and fiscal evaluation.
+- [LGBT tourism demographic research](./research/tourism/lgbt-tourism-demographic-research.md) — Six age profiles and four regional comparisons retained as unverified research.
+- [Tourism transport security concept](./architecture/tourism-transport-security-concept.md) — Four security areas, three transport modes and proposed integration boundaries.
+
+Entries 51–53 preserve three additional sources in Git history. The household proposal retains its 40% subsidy, under-35 threshold, two-year window and zero-interest lending concept. The demographic note retains all six age profiles, four regions and three percentage ranges without validating stereotypes or inferring individual traits. The security concept retains all four functional areas, three mode rows and three future themes while distinguishing proposals from implemented or certified capabilities.
+
+The reintroduced plaintext source in entry 50 was reviewed against its existing English destination: the five sectors, four phases, five matrix rows and four KPIs remain covered. The duplicate TXT is removed again without adding another migration entry. No external factual validation was performed for this batch; editorial diagrams and evidence boundaries are identified in each note.

@@ -35,6 +35,10 @@ The root README is intentionally concise. Detailed material is organized by doma
 | MBSE | [OpenTwin modular habitat](docs/mbse/opentwin-modular-habitat.md) | CAD/simulation concept, validation work package and related assets |
 | Research | [Documentation index](docs/README.md) | Thematic index for migrated research notes and supporting material |
 
+- [Tourism and young-household incentives](docs/strategy/tourism-and-young-household-incentives.md) — Proposed subsidies, housing savings, eligibility and fiscal evaluation.
+- [LGBT tourism demographic research](docs/research/tourism/lgbt-tourism-demographic-research.md) — Six age profiles and four regional comparisons retained as unverified research.
+- [Tourism transport security concept](docs/architecture/tourism-transport-security-concept.md) — Four security areas, three transport modes and proposed integration boundaries.
+
 ## Architecture overview
 
 The proposed platform separates identity/consent, domain services, AI processing, provider adapters and auditable persistence.
