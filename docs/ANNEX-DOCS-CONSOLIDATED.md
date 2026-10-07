@@ -4,7 +4,7 @@
 **Scope:** indexed documentation annex for the English `docs/*.md` sources and supporting `docs/*.jpg` infographics  
 **Editorial revision:** 6 October 2026
 
-> **Editorial status.** Forty-seven plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
+> **Editorial status.** Forty-eight plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
 
 ## Contents
 
@@ -26,6 +26,7 @@
 - [14. Sport fishing and hunting tourism](#14-sport-fishing-and-hunting-tourism)
 - [15. Colombian emigration destinations](#15-colombian-emigration-destinations)
 - [16. Uruguay, Paraguay and Bolivia tourism flows](#16-uruguay-paraguay-and-bolivia-tourism-flows)
+- [17. Peru–Paraguay air and overland routes](#17-peruparaguay-air-and-overland-routes)
 
 ---
 
@@ -48,6 +49,8 @@ The two JPG assets remain in image format and retain standardized English filena
 ---
 
 ## 2. Tourism and international mobility
+
+- [Peru–Paraguay air and overland routes](./research/tourism/peru-paraguay-air-and-overland-routes.md) — route alternatives, geographic corrections and selected entry/health source checks.
 
 - [`us-tourism-and-international-marriage-notes.md`](./us-tourism-and-international-marriage-notes.md) — U.S. tourism destinations, origin markets and a separately qualified legacy section on international-marriage agencies and K-1 fiancé(e) visas.
 - [`peru-colombia-inbound-tourism-comparison.md`](./peru-colombia-inbound-tourism-comparison.md) — side-by-side comparison of inbound tourism patterns in Peru and Colombia.
@@ -226,6 +229,7 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 | 45 | `2 Caza Deportiva Cinegetica.txt` | [Sport fishing and hunting tourism](./research/tourism/sport-fishing-and-hunting-tourism.md) | Translated/consolidated; TXT removed |
 | 46 | `La emigración colombiana.txt` | [Colombian emigration destinations](./research/tourism/colombian-emigration-destinations.md) | Translated/refactored as unverified migration research; TXT removed |
 | 47 | `El análisis del flujo.txt` | [Uruguay, Paraguay and Bolivia tourism flows](./research/tourism/uruguay-paraguay-bolivia-tourism-flows.md) | Translated/refactored as unverified tourism research; TXT removed |
+| 48 | `Las principales rutas.txt` | [Peru–Paraguay air and overland routes](./research/tourism/peru-paraguay-air-and-overland-routes.md) | Translated/consolidated; selected official-source checks; TXT removed |
 
 ### Reference policy
 
@@ -266,3 +270,7 @@ Entries 40–41 record the two sources, retained in Git history. This migration 
 ## 16. Uruguay, Paraguay and Bolivia tourism flows
 
 [Uruguay, Paraguay and Bolivia tourism flows](./research/tourism/uruguay-paraguay-bolivia-tourism-flows.md) preserves the three-country comparison and detailed inbound/outbound profiles. Source figures, market-share claims and economic explanations remain explicitly undated and unverified. The Bolivia outbound wording ambiguity is recorded, and a Mermaid evidence workflow separates direction, statistical units, spending and travel purposes. Entry 47 maps the source retained in Git history.
+
+## 17. Peru–Paraguay air and overland routes
+
+[Peru–Paraguay air and overland routes](./research/tourism/peru-paraguay-air-and-overland-routes.md) consolidates the additional source in entry 48. It preserves the nonstop, three connecting-airport, Iguazú, Bolivia and northern-Argentina alternatives, named operators and source timing estimates. Service and cost claims remain unverified. Official references distinguish the two Iguazú bridges, identify Jama as a Chile–Argentina crossing, support the qualified Paraguayan document/visa summary, and replace the blanket yellow-fever statement with a dated, route-dependent account. The original remains in Git history. The note includes a Mermaid validation workflow and links to the existing regional tourism research.

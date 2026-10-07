@@ -43,9 +43,11 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ## Research and historical source notes
 
-The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 47 legacy TXT entries to their English destinations.
+The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 48 legacy TXT entries to their English destinations.
 
 ### Tourism and mobility
+
+- [Peru–Paraguay air and overland routes](./research/tourism/peru-paraguay-air-and-overland-routes.md)
 
 - [Uruguay, Paraguay and Bolivia tourism flows](./research/tourism/uruguay-paraguay-bolivia-tourism-flows.md)
 
