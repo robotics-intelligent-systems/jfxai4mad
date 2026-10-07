@@ -28,6 +28,7 @@ The root README is intentionally concise. Detailed material is organized by doma
 | Research | [Sport fishing and hunting tourism](docs/research/tourism/sport-fishing-and-hunting-tourism.md) | Regional source comparisons, operator models and evidence limitations |
 | Research | [Colombian emigration destinations](docs/research/tourism/colombian-emigration-destinations.md) | Diaspora estimates, migration motives and separation from tourist flows |
 | Research | [Uruguay, Paraguay and Bolivia tourism flows](docs/research/tourism/uruguay-paraguay-bolivia-tourism-flows.md) | Inbound/outbound comparison, source estimates and measurement limits |
+| Research | [Peru–Paraguay air and overland routes](docs/research/tourism/peru-paraguay-air-and-overland-routes.md) | Route alternatives, geographic corrections and selected entry/health source checks |
 | Research | [Inbound tourism origin markets](docs/research/tourism/inbound-origin-market-research.md) | Consolidated exploratory notes for 14 destinations; rankings remain unverified |
 | MBSE | [OpenTwin modular habitat](docs/mbse/opentwin-modular-habitat.md) | CAD/simulation concept, validation work package and related assets |
 | Research | [Documentation index](docs/README.md) | Thematic index for migrated research notes and supporting material |

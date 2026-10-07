@@ -26,6 +26,10 @@ by the documentation migration.
 
 [Uruguay, Paraguay and Bolivia tourism flows](tourism/uruguay-paraguay-bolivia-tourism-flows.md) translates the inbound/outbound comparison and detailed country notes. Undated figures remain source claims; a Mermaid workflow and measurement definitions support a future comparable update.
 
+## Peru–Paraguay air and overland routes
+
+[Peru–Paraguay air and overland routes](tourism/peru-paraguay-air-and-overland-routes.md) translates the additional route draft, preserves operator and timing claims as unverified, corrects the Iguazú and Jama connections, and adds dated official-source checks for entry documents and yellow-fever requirements. A Mermaid workflow organizes route validation.
+
 ## Current thematic groups
 
 - [Tourism and mobility](../README.md#tourism-and-mobility)
@@ -40,6 +44,7 @@ by the documentation migration.
 ```text
 docs/research/
 ├── tourism/
+│   ├── peru-paraguay-air-and-overland-routes.md
 │   ├── uruguay-paraguay-bolivia-tourism-flows.md
 │   ├── colombian-emigration-destinations.md
 │   ├── inbound-origin-market-research.md
