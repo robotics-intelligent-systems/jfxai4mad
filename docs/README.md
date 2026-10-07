@@ -6,6 +6,8 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ### `architecture/`
 
+- [Tourism transport security concept](./architecture/tourism-transport-security-concept.md)
+
 - [Odoo/Flectra to GraalPy migration](./architecture/odoo-graalpy-migration.md)
 - [Platform integration and AI architecture](./architecture/platform-integration-ai.md)
 
@@ -26,6 +28,8 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ### `strategy/`
 
+- [Tourism and young-household incentives](./strategy/tourism-and-young-household-incentives.md)
+
 - [Multisector territorial tourism development flow](./strategy/multisector-territorial-tourism-development-flow.md)
 
 - [Modern cooperative settlement evaluation](./strategy/modern-cooperative-settlement-evaluation.md)
@@ -45,9 +49,11 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ## Research and historical source notes
 
-The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 50 legacy TXT entries to their English destinations.
+The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 53 legacy TXT entries to their English destinations.
 
 ### Tourism and mobility
+
+- [LGBT tourism demographic research](./research/tourism/lgbt-tourism-demographic-research.md)
 
 - [Peru–Brazil and Brazil–Paraguay integration corridors](./research/tourism/peru-brazil-paraguay-integration-corridors.md)
 
