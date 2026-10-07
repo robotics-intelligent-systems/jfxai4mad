@@ -9,6 +9,8 @@ This directory is the navigation layer for long-form strategic, institutional an
 
 ## Additional planning and collaboration documents
 
+- [Multisector territorial tourism development flow](multisector-territorial-tourism-development-flow.md) — tourism-led demand, five sectors, four development phases, Mermaid resource flows and four operationalized territorial KPIs.
+
 - [Modern cooperative settlement evaluation](modern-cooperative-settlement-evaluation.md) — structured historical analogy, regional hypotheses and Mermaid evaluation gates.
 
 - [Lean presales demonstrator plan](lean-presales-demonstrator-plan.md) — stakeholder value, a five-day demo scenario, Mermaid workflow/architecture and explicit cost assumptions.
