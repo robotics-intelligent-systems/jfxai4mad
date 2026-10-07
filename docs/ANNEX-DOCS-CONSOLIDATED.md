@@ -2,9 +2,9 @@
 
 **Repository:** `robotics-intelligent-systems/jfxai4mad`  
 **Scope:** indexed documentation annex for the English `docs/*.md` sources and supporting `docs/*.jpg` infographics  
-**Editorial revision:** 6 October 2026
+**Editorial revision:** 7 October 2026
 
-> **Editorial status.** Forty-nine plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
+> **Editorial status.** Fifty plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
 
 ## Contents
 
@@ -28,6 +28,7 @@
 - [16. Uruguay, Paraguay and Bolivia tourism flows](#16-uruguay-paraguay-and-bolivia-tourism-flows)
 - [17. Peru–Paraguay air and overland routes](#17-peruparaguay-air-and-overland-routes)
 - [18. Peru–Brazil and Brazil–Paraguay integration corridors](#18-perubrazil-and-brazilparaguay-integration-corridors)
+- [19. Multisector territorial tourism development flow](#19-multisector-territorial-tourism-development-flow)
 
 ---
 
@@ -234,6 +235,7 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 | 47 | `El análisis del flujo.txt` | [Uruguay, Paraguay and Bolivia tourism flows](./research/tourism/uruguay-paraguay-bolivia-tourism-flows.md) | Translated/refactored as unverified tourism research; TXT removed |
 | 48 | `Las principales rutas.txt` | [Peru–Paraguay air and overland routes](./research/tourism/peru-paraguay-air-and-overland-routes.md) | Translated/consolidated; selected official-source checks; TXT removed |
 | 49 | `rutas de integración Perú.txt` | [Peru–Brazil and Brazil–Paraguay integration corridors](./research/tourism/peru-brazil-paraguay-integration-corridors.md) | Translated/consolidated; geographic references checked; TXT removed |
+| 50 | `Un Flujo Integral de Desarrollo.txt` | [Multisector territorial tourism development flow](./strategy/multisector-territorial-tourism-development-flow.md) | Translated/consolidated; proposed impacts qualified; TXT removed |
 
 ### Reference policy
 
@@ -282,3 +284,7 @@ Entries 40–41 record the two sources, retained in Git history. This migration 
 ## 18. Peru–Brazil and Brazil–Paraguay integration corridors
 
 [Integration corridors](./research/tourism/peru-brazil-paraguay-integration-corridors.md) restores and translates the five-row source comparison, retaining its border crossings, infrastructure, traffic labels, six air-city pairs and economic themes. Official geographic references clarify Iñapari–Assis Brasil and distinguish the Friendship Bridge to Ciudad del Este from the Integration Bridge to Presidente Franco. Traffic, service availability and economic rankings remain unverified source claims. A Mermaid workflow defines comparable evidence; reciprocal links connect the existing Peru–Paraguay route note. Entry 49 records the original retained in Git history.
+
+## 19. Multisector territorial tourism development flow
+
+[Multisector territorial tourism development flow](./strategy/multisector-territorial-tourism-development-flow.md) translates the additional economic-development concept, preserving tourism as the proposed demand driver, agriculture, transport, accommodation, energy and health, four development phases, five innovation-matrix rows and four KPIs. Mermaid replaces the plaintext map. Editorial measurement definitions distinguish local procurement, renewable supply, direct spending retention and baseline-relative emissions. Circular-resource loops, carbon neutrality and health benefits remain proposals requiring evidence. Entry 50 records the source retained in Git history; links connect the business KPI framework, residence concept, rural collaboration, corridor research and implementation roadmap.

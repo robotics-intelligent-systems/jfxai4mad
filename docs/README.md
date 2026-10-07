@@ -26,6 +26,8 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ### `strategy/`
 
+- [Multisector territorial tourism development flow](./strategy/multisector-territorial-tourism-development-flow.md)
+
 - [Modern cooperative settlement evaluation](./strategy/modern-cooperative-settlement-evaluation.md)
 
 - [Strategy and institutional-analysis index](./strategy/README.md)
@@ -43,7 +45,7 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ## Research and historical source notes
 
-The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 49 legacy TXT entries to their English destinations.
+The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 50 legacy TXT entries to their English destinations.
 
 ### Tourism and mobility
 

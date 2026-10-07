@@ -20,6 +20,7 @@ The root README is intentionally concise. Detailed material is organized by doma
 | Product | [Requirements and consent](docs/product/requirements-and-consent.md) | Evidence-to-requirement rules, granular consent and sensitive-inference restrictions |
 | Business | [Business model and KPIs](docs/business/business-model-and-kpis.md) | Revenue hypotheses, metrics and evaluation rules |
 | Roadmap | [Implementation and investment](docs/roadmap/implementation-and-investment.md) | Delivery phases, architecture-migration track and budgeting policy |
+| Strategy | [Multisector territorial tourism development](docs/strategy/multisector-territorial-tourism-development-flow.md) | Five-sector economic flow, circular-resource proposals and four measurable territorial KPIs |
 | Strategy | [Strategy index](docs/strategy/README.md) | Navigation to long-form institutional and comparative analysis |
 | Strategy | [Lean presales demonstrator plan](docs/strategy/lean-presales-demonstrator-plan.md) | Stakeholder demos, mock-service architecture and cost controls |
 | Strategy | [Portfolio prioritization and delivery](docs/strategy/portfolio-prioritization-and-delivery-plan.md) | Low-code/robotics workstreams, six-month scenario and decision gates |
