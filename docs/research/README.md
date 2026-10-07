@@ -30,6 +30,10 @@ by the documentation migration.
 
 [Peru–Paraguay air and overland routes](tourism/peru-paraguay-air-and-overland-routes.md) translates the additional route draft, preserves operator and timing claims as unverified, corrects the Iguazú and Jama connections, and adds dated official-source checks for entry documents and yellow-fever requirements. A Mermaid workflow organizes route validation.
 
+## Peru–Brazil and Brazil–Paraguay integration corridors
+
+[Integration corridors](tourism/peru-brazil-paraguay-integration-corridors.md) translates the five-criterion comparison, retains all six air-city pairs as unverified source claims, clarifies the two Brazil–Paraguay bridge endpoints and adds a Mermaid evidence workflow.
+
 ## Current thematic groups
 
 - [Tourism and mobility](../README.md#tourism-and-mobility)
@@ -44,6 +48,7 @@ by the documentation migration.
 ```text
 docs/research/
 ├── tourism/
+│   ├── peru-brazil-paraguay-integration-corridors.md
 │   ├── peru-paraguay-air-and-overland-routes.md
 │   ├── uruguay-paraguay-bolivia-tourism-flows.md
 │   ├── colombian-emigration-destinations.md
