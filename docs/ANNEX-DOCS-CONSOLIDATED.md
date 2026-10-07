@@ -4,7 +4,7 @@
 **Scope:** indexed documentation annex for the English `docs/*.md` sources and supporting `docs/*.jpg` infographics  
 **Editorial revision:** 6 October 2026
 
-> **Editorial status.** Forty-eight plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
+> **Editorial status.** Forty-nine plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
 
 ## Contents
 
@@ -27,6 +27,7 @@
 - [15. Colombian emigration destinations](#15-colombian-emigration-destinations)
 - [16. Uruguay, Paraguay and Bolivia tourism flows](#16-uruguay-paraguay-and-bolivia-tourism-flows)
 - [17. Peru–Paraguay air and overland routes](#17-peruparaguay-air-and-overland-routes)
+- [18. Peru–Brazil and Brazil–Paraguay integration corridors](#18-perubrazil-and-brazilparaguay-integration-corridors)
 
 ---
 
@@ -49,6 +50,8 @@ The two JPG assets remain in image format and retain standardized English filena
 ---
 
 ## 2. Tourism and international mobility
+
+- [Peru–Brazil and Brazil–Paraguay integration corridors](./research/tourism/peru-brazil-paraguay-integration-corridors.md) — comparative infrastructure, traffic, air-service claims and economic themes.
 
 - [Peru–Paraguay air and overland routes](./research/tourism/peru-paraguay-air-and-overland-routes.md) — route alternatives, geographic corrections and selected entry/health source checks.
 
@@ -230,6 +233,7 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 | 46 | `La emigración colombiana.txt` | [Colombian emigration destinations](./research/tourism/colombian-emigration-destinations.md) | Translated/refactored as unverified migration research; TXT removed |
 | 47 | `El análisis del flujo.txt` | [Uruguay, Paraguay and Bolivia tourism flows](./research/tourism/uruguay-paraguay-bolivia-tourism-flows.md) | Translated/refactored as unverified tourism research; TXT removed |
 | 48 | `Las principales rutas.txt` | [Peru–Paraguay air and overland routes](./research/tourism/peru-paraguay-air-and-overland-routes.md) | Translated/consolidated; selected official-source checks; TXT removed |
+| 49 | `rutas de integración Perú.txt` | [Peru–Brazil and Brazil–Paraguay integration corridors](./research/tourism/peru-brazil-paraguay-integration-corridors.md) | Translated/consolidated; geographic references checked; TXT removed |
 
 ### Reference policy
 
@@ -274,3 +278,7 @@ Entries 40–41 record the two sources, retained in Git history. This migration 
 ## 17. Peru–Paraguay air and overland routes
 
 [Peru–Paraguay air and overland routes](./research/tourism/peru-paraguay-air-and-overland-routes.md) consolidates the additional source in entry 48. It preserves the nonstop, three connecting-airport, Iguazú, Bolivia and northern-Argentina alternatives, named operators and source timing estimates. Service and cost claims remain unverified. Official references distinguish the two Iguazú bridges, identify Jama as a Chile–Argentina crossing, support the qualified Paraguayan document/visa summary, and replace the blanket yellow-fever statement with a dated, route-dependent account. The original remains in Git history. The note includes a Mermaid validation workflow and links to the existing regional tourism research.
+
+## 18. Peru–Brazil and Brazil–Paraguay integration corridors
+
+[Integration corridors](./research/tourism/peru-brazil-paraguay-integration-corridors.md) restores and translates the five-row source comparison, retaining its border crossings, infrastructure, traffic labels, six air-city pairs and economic themes. Official geographic references clarify Iñapari–Assis Brasil and distinguish the Friendship Bridge to Ciudad del Este from the Integration Bridge to Presidente Franco. Traffic, service availability and economic rankings remain unverified source claims. A Mermaid workflow defines comparable evidence; reciprocal links connect the existing Peru–Paraguay route note. Entry 49 records the original retained in Git history.

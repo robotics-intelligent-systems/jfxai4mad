@@ -72,6 +72,7 @@ flowchart TD
 
 This is a route-level companion to [Uruguay, Paraguay and Bolivia tourism flows](uruguay-paraguay-bolivia-tourism-flows.md), which covers aggregate inbound/outbound research. It does not turn aggregate tourism estimates into transport schedules.
 
+- [Peru–Brazil and Brazil–Paraguay integration corridors](peru-brazil-paraguay-integration-corridors.md)
 - [Inbound origin-market research](inbound-origin-market-research.md)
 - [Research index](../README.md)
 - [Documentation index](../../README.md)
