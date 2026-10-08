@@ -69,3 +69,7 @@ docs/research/
 `tourism/` and `platforms/` contain migrated research; the other thematic directories remain recommendations.
 
 When a future migration moves an existing research note into these subdirectories, update both `docs/README.md` and `docs/ANNEX-DOCS-CONSOLIDATED.md` in the same PR so no repository-local links are left stale.
+
+## Marriage in Djibouti for foreign nationals
+
+[Djibouti marriage research](legal/djibouti-marriage-for-foreign-nationals.md) preserves the additional source's two routes, four eligibility statements, six document groups and four procedural steps. Separate notes compare the Family Code and qualify authentication, recognition and unverified administrative requirements. Migration entry 54 records the original.

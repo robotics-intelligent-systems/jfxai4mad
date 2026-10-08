@@ -242,6 +242,7 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 | 51 | `Bajo la premisa planteada.txt` | [Tourism and young-household incentives](./strategy/tourism-and-young-household-incentives.md) | Translated/consolidated; source claims qualified; TXT removed |
 | 52 | `El comportamiento del.txt` | [LGBT tourism demographic research](./research/tourism/lgbt-tourism-demographic-research.md) | Translated/consolidated; source claims qualified; TXT removed |
 | 53 | `La industria de Seguridad.txt` | [Tourism transport security concept](./architecture/tourism-transport-security-concept.md) | Translated/consolidated; source claims qualified; TXT removed |
+| 54 | `En Yibuti Djibouti el.txt` | [Marriage in Djibouti for foreign nationals](./research/legal/djibouti-marriage-for-foreign-nationals.md) | Translated/consolidated; legal claims qualified; TXT retained in Git history |
 
 ### Reference policy
 
@@ -304,3 +305,11 @@ Entries 40–41 record the two sources, retained in Git history. This migration 
 Entries 51–53 preserve three additional sources in Git history. The household proposal retains its 40% subsidy, under-35 threshold, two-year window and zero-interest lending concept. The demographic note retains all six age profiles, four regions and three percentage ranges without validating stereotypes or inferring individual traits. The security concept retains all four functional areas, three mode rows and three future themes while distinguishing proposals from implemented or certified capabilities.
 
 The reintroduced plaintext source in entry 50 was reviewed against its existing English destination: the five sectors, four phases, five matrix rows and four KPIs remain covered. The duplicate TXT is removed again without adding another migration entry. No external factual validation was performed for this batch; editorial diagrams and evidence boundaries are identified in each note.
+
+## 21. Marriage in Djibouti for foreign nationals
+
+[Marriage in Djibouti](./research/legal/djibouti-marriage-for-foreign-nationals.md) translates the mixed-law introduction, two proposed marriage routes and interfaith note, four eligibility statements, six document groups (including divorce and widowhood branches) and four administrative steps. The source's 18-year threshold, two-witness claim and 10–15-day banns period remain traceable.
+
+Source commit: `36ba3b0ba351bf4456351b6ad3475abce09bf390`; source blob: `8d5776a5333ca7b7fb19a03077bb149a4420c0e0`. Entry 54 records the only additional TXT in this snapshot. The original remains in Git history.
+
+Separate editorial notes compare the official 2002 Family Code regarding formalities, age exceptions, representation, polygamy and religious impediments. They distinguish authentication from recognition abroad and leave the apostille route, banns and current foreign-national checklist unresolved. This is a limited source check, not a complete current-law determination. The project remains adult-only. Section/table coverage, source hashes and newly added relative links were checked; no authority was contacted and no application submitted.
