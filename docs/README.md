@@ -49,7 +49,7 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ## Research and historical source notes
 
-The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 53 legacy TXT entries to their English destinations.
+The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 54 legacy TXT entries to their English destinations.
 
 ### Tourism and mobility
 
@@ -73,6 +73,8 @@ The earlier English Markdown notes remain at `docs/` root for historical link st
 - [International dating agencies and LATAM remote work](./international-dating-agencies-and-latam-remote-work.md)
 
 ### Destination weddings, education and professional development
+
+- [Marriage in Djibouti for foreign nationals](./research/legal/djibouti-marriage-for-foreign-nationals.md)
 
 - [Destination-wedding academic partnership roadmap](./destination-wedding-academic-partnership-roadmap.md)
 - [Inter-university rural-development collaboration framework](./interuniversity-rural-development-collaboration-framework.md)
