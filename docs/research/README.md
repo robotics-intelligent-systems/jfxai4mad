@@ -72,4 +72,4 @@ When a future migration moves an existing research note into these subdirectorie
 
 ## Marriage in Djibouti for foreign nationals
 
-[Djibouti marriage research](legal/djibouti-marriage-for-foreign-nationals.md) preserves the additional source's two routes, four eligibility statements, six document groups and four procedural steps. Separate notes compare the Family Code and qualify authentication, recognition and unverified administrative requirements. Migration entry 54 records the original.
+[Djibouti marriage research](legal/djibouti-marriage-for-foreign-nationals.md) preserves the additional source's two routes, four eligibility statements, six document groups and four procedural steps. Separate notes compare the Family Code and qualify authentication, recognition and unverified administrative requirements. Migration entries 54–55 record both originals. The additional four-section age, guardianship, consent and registration draft is translated within the same note, with a separate statutory comparison.

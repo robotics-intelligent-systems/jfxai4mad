@@ -2,9 +2,9 @@
 
 **Repository:** `robotics-intelligent-systems/jfxai4mad`  
 **Scope:** indexed documentation annex for the English `docs/*.md` sources and supporting `docs/*.jpg` infographics  
-**Editorial revision:** 7 October 2026
+**Editorial revision:** 9 October 2026
 
-> **Editorial status.** Fifty-three plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
+> **Editorial status.** Fifty-five plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
 
 ## Contents
 
@@ -33,6 +33,7 @@
 ---
 
 - [20. Additional tourism policy, demographic and security concepts](#20-additional-tourism-policy-demographic-and-security-concepts)
+- [21. Marriage in Djibouti for foreign nationals](#21-marriage-in-djibouti-for-foreign-nationals)
 
 ## 1. Documentation migration and normalization
 
@@ -243,6 +244,7 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 | 52 | `El comportamiento del.txt` | [LGBT tourism demographic research](./research/tourism/lgbt-tourism-demographic-research.md) | Translated/consolidated; source claims qualified; TXT removed |
 | 53 | `La industria de Seguridad.txt` | [Tourism transport security concept](./architecture/tourism-transport-security-concept.md) | Translated/consolidated; source claims qualified; TXT removed |
 | 54 | `En Yibuti Djibouti el.txt` | [Marriage in Djibouti for foreign nationals](./research/legal/djibouti-marriage-for-foreign-nationals.md) | Translated/consolidated; legal claims qualified; TXT retained in Git history |
+| 55 | `En la República de Yibuti.txt` | [Marriage in Djibouti: age, guardianship and consent](./research/legal/djibouti-marriage-for-foreign-nationals.md#additional-source-translation-age-guardianship-and-consent) | Translated into existing note; statutory comparison separated; TXT retained in Git history |
 
 ### Reference policy
 
@@ -313,3 +315,7 @@ The reintroduced plaintext source in entry 50 was reviewed against its existing 
 Source commit: `36ba3b0ba351bf4456351b6ad3475abce09bf390`; source blob: `8d5776a5333ca7b7fb19a03077bb149a4420c0e0`. Entry 54 records the only additional TXT in this snapshot. The original remains in Git history.
 
 Separate editorial notes compare the official 2002 Family Code regarding formalities, age exceptions, representation, polygamy and religious impediments. They distinguish authentication from recognition abroad and leave the apostille route, banns and current foreign-national checklist unresolved. This is a limited source check, not a complete current-law determination. The project remains adult-only. Section/table coverage, source hashes and newly added relative links were checked; no authority was contacted and no application submitted.
+
+### Additional consolidation — 9 October 2026
+
+Entry 55 consolidates the additional age, guardianship, consent, judicial-refusal and registration draft into the existing Djibouti note. All four source sections are translated, with a separate article-level comparison identifying unsupported wording and distinctions. The original is retained at commit `30ccfeb4ee29c9cb5695d2f42d470a6e1ae6a5af`; SHA-256: `bdb2e75f289c31d0f01560160756dc6b09965726f252927fec5bdae28c4cfc0c`. The source TXT is removed after consolidation. Both source entries now share one thematic destination; no new marriage procedure is certified.
