@@ -33,7 +33,7 @@ The root README is intentionally concise. Detailed material is organized by doma
 | Research | [Peru–Paraguay air and overland routes](docs/research/tourism/peru-paraguay-air-and-overland-routes.md) | Route alternatives, geographic corrections and selected entry/health source checks |
 | Research | [Inbound tourism origin markets](docs/research/tourism/inbound-origin-market-research.md) | Consolidated exploratory notes for 14 destinations; rankings remain unverified |
 | MBSE | [OpenTwin modular habitat](docs/mbse/opentwin-modular-habitat.md) | CAD/simulation concept, validation work package and related assets |
-| Research | [Marriage in Djibouti](docs/research/legal/djibouti-marriage-for-foreign-nationals.md) | Foreign-national marriage source, legal qualifications and verification limits |
+| Research | [Marriage in Djibouti](docs/research/legal/djibouti-marriage-for-foreign-nationals.md) | Consolidated foreign-national, age, guardianship and consent sources; legal qualifications and verification limits |
 | Research | [Documentation index](docs/README.md) | Thematic index for migrated research notes and supporting material |
 
 - [Tourism and young-household incentives](docs/strategy/tourism-and-young-household-incentives.md) — Proposed subsidies, housing savings, eligibility and fiscal evaluation.
