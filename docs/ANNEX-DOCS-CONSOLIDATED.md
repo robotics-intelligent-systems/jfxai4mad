@@ -250,6 +250,8 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 
 | 58 | `docs/Esta estrategia plantea.txt` | [Student volunteer and SME open-source adoption strategy](./strategy/student-volunteer-sme-open-source-adoption.md) | Translated/renamed; full dialogues and success factors retained; TXT retained in Git history |
 
+| 59 | `docs/Para viajar desde Ankara.txt` | [Ankara–Djibouti air travel](./research/tourism/ankara-djibouti-air-travel.md) | Translated/renamed; route/fare claims qualified and selected visa/health checks; TXT retained in Git history |
+
 ### Reference policy
 
 Repository documentation should link to the English Markdown paths above. Historical source filenames remain only in this migration table so Git history and earlier references can be traced. Any future plaintext source should be migrated to a descriptive English Markdown path and added to this register.
