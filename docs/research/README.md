@@ -81,3 +81,7 @@ When a future migration moves an existing research note into these subdirectorie
 ## French Guiana access and entry documentation
 
 [Air and overland access](tourism/french-guiana-air-and-overland-access.md) translates source entry 56, retaining air candidates and both border corridors. [Peruvian/Argentine passport entry](legal/french-guiana-entry-peruvian-argentine-passports.md) translates entry 57 and consolidates the repeated visa, passport and yellow-fever discussion. The [shared register](legal/french-guiana-entry-peruvian-argentine-passports.md#shared-reference-register) indexes seven primary references. Source claims and selected checks are separate; schedules and individual admission remain unverified.
+
+## Ankara–Djibouti air travel
+
+[Ankara–Djibouti air travel](tourism/ankara-djibouti-air-travel.md) translates the additional three-section note, retaining four route candidates, four fare ranges and three travel factors. Airline availability and prices remain unverified; visa scope and the conditional yellow-fever certificate requirement are documented separately with sources.

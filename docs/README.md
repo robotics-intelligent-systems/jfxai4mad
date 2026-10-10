@@ -51,9 +51,11 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ## Research and historical source notes
 
-The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 58 legacy TXT entries to their English destinations.
+The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 59 legacy TXT entries to their English destinations.
 
 ### Tourism and mobility
+
+- [Ankara–Djibouti air travel](./research/tourism/ankara-djibouti-air-travel.md) — Translated route and cost claims; selected visa/health checks.
 
 - [French Guiana air and overland access](./research/tourism/french-guiana-air-and-overland-access.md) — Air, Brazil/Oyapock and Suriname/Maroni candidates; transport claims qualified.
 - [French Guiana entry: Peruvian and Argentine passports](./research/legal/french-guiana-entry-peruvian-argentine-passports.md) — Visa/health source checks and [shared reference register](./research/legal/french-guiana-entry-peruvian-argentine-passports.md#shared-reference-register).

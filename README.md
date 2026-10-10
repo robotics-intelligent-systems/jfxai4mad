@@ -37,6 +37,7 @@ The root README is intentionally concise. Detailed material is organized by doma
 | Research | [Marriage in Djibouti](docs/research/legal/djibouti-marriage-for-foreign-nationals.md) | Consolidated foreign-national, age, guardianship and consent sources; legal qualifications and verification limits |
 | Research | [French Guiana air and overland access](docs/research/tourism/french-guiana-air-and-overland-access.md) | Translated route candidates, border-control distinctions and unverified transport claims |
 | Research | [French Guiana entry: Peruvian/Argentine passports](docs/research/legal/french-guiana-entry-peruvian-argentine-passports.md) | Selected visa/health checks, dual-nationality source qualifications and shared reference register |
+| Research | [Ankara–Djibouti air travel](docs/research/tourism/ankara-djibouti-air-travel.md) | Four source route candidates, fare ranges and qualified visa/health checks |
 | Research | [Documentation index](docs/README.md) | Thematic index for migrated research notes and supporting material |
 
 - [Tourism and young-household incentives](docs/strategy/tourism-and-young-household-incentives.md) — Proposed subsidies, housing savings, eligibility and fiscal evaluation.
