@@ -1,0 +1,301 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="app.diagrams.net" type="device" version="24.7.17">
+  <diagram id="1" name="01 · Contexto y alcance">
+    <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" page="1" pageScale="1" pageWidth="1600" pageHeight="1000">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="01 · Contexto y alcance" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2ff;strokeColor=#4276b8;fontColor=#172d46;fontSize=25;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="25" width="1520" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="subtitle" value="PROPUESTA PRELIMINAR · 09/10/2026 · Migración del runtime Odoo/Flectra a GraalPy sobre GraalVM según docs/architecture/odoo-graalpy-migration.md. Compatibilidad pendiente de pruebas." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff5dd;strokeColor=#b78220;fontColor=#172d46;fontSize=15;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="1520" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="actors" value="PARTES INTERESADAS&lt;br&gt;Patrocinador · responsables de procesos&lt;br&gt;Usuarios clave · TI · seguridad · QA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2ff;strokeColor=#4276b8;fontColor=#172d46;fontSize=17;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="350" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="req" value="INGENIERÍA DE REQUISITOS&lt;br&gt;Objetivos → procesos → requisitos&lt;br&gt;Prioridad, responsable, fuente y criterio&lt;br&gt;Línea base y control de cambios" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f2ecff;strokeColor=#8060b0;fontColor=#172d46;fontSize=17;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="610" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="gov" value="GOBIERNO&lt;br&gt;Validar alcance y brechas&lt;br&gt;Aprobar requisitos y evidencias&lt;br&gt;Resolver cambios y excepciones" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf7f0;strokeColor=#388563;fontColor=#172d46;fontSize=17;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="200" width="420" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="source" value="ORIGEN · ODOO / FLECTRA&lt;br&gt;Código Python · vistas XML · módulos&lt;br&gt;Datos, adjuntos, reglas e interfaces&lt;br&gt;Inventario de versiones y licencias" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2ff;strokeColor=#4276b8;fontColor=#172d46;fontSize=17;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="450" width="350" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="rascal" value="RASCAL MPL · CADENA EASY&lt;br&gt;Extraer → analizar → sintetizar&lt;br&gt;Modelo canónico y grafo de dependencias&lt;br&gt;Brechas, reglas de transformación&lt;br&gt;Trazabilidad al archivo y ubicación" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f2ecff;strokeColor=#8060b0;fontColor=#172d46;fontSize=17;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="460" y="450" width="610" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="target" value="DESTINO PROPUESTO&lt;br&gt;ERP Odoo/Flectra sobre GraalPy&lt;br&gt;Modelo de dominio y PostgreSQL preservados&lt;br&gt;Servicios JVM e interfaces explícitas&lt;br&gt;CPython como alternativa para reversión" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf7f0;strokeColor=#388563;fontColor=#172d46;fontSize=17;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="450" width="420" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="scope" value="ALCANCE PROPUESTO&lt;br&gt;Migrar el runtime seleccionado de Odoo/Flectra a GraalPy, preservar ORM, transacciones, módulos y PostgreSQL. Rascal se incorpora como herramienta propuesta de análisis y transformación; no como requisito ya documentado." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f4f8;strokeColor=#7b8899;fontColor=#172d46;fontSize=17;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="750" width="1000" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="repo" value="BASE DOCUMENTAL&lt;br&gt;docs/architecture/odoo-graalpy-migration.md y diagrama existente odoo-graalpy-migration.drawio. Rascal amplía la propuesta para ingeniería de requisitos." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff5dd;strokeColor=#b78220;fontColor=#172d46;fontSize=15;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="750" width="480" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" value="necesidades" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#63778e;fontSize=14;" edge="1" parent="1" source="actors" target="req">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" value="línea base" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#63778e;fontSize=14;" edge="1" parent="1" source="req" target="gov">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" value="artefactos" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#63778e;fontSize=14;" edge="1" parent="1" source="source" target="rascal">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" value="plan + artefactos validados" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#63778e;fontSize=14;" edge="1" parent="1" source="rascal" target="target">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" value="restricciones y reglas" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#63778e;fontSize=14;" edge="1" parent="1" source="req" target="rascal">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2" name="02 · Arquitectura de migración">
+    <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" page="1" pageScale="1" pageWidth="1600" pageHeight="1000">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="02 · Arquitectura de migración" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2ff;strokeColor=#4276b8;fontColor=#172d46;fontSize=25;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="25" width="1520" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="subtitle" value="Diseño propuesto: separar herramientas de transformación, ejecución del ERP y servicios de integración. Todas las compatibilidades deben demostrarse en el piloto." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff5dd;strokeColor=#b78220;fontColor=#172d46;fontSize=15;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="1520" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="inventory" value="1 · INVENTARIO Y EXTRACCIÓN&lt;br&gt;Módulos, manifiestos y dependencias&lt;br&gt;Modelos ORM, vistas y permisos&lt;br&gt;psycopg2, lxml, Pillow, xmlsec&lt;br&gt;gevent / pila asíncrona&lt;br&gt;Adaptadores/parsers por desarrollar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2ff;strokeColor=#4276b8;fontColor=#172d46;fontSize=17;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="330" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="model" value="2 · RASCAL MPL&lt;br&gt;Modelo intermedio tipado&lt;br&gt;Análisis de dependencias y brechas&lt;br&gt;Reglas versionadas y diagnósticos&lt;br&gt;Generación de mapeos, adaptadores&lt;br&gt;y casos de verificación propuestos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f2ecff;strokeColor=#8060b0;fontColor=#172d46;fontSize=17;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="420" y="220" width="350" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="assets" value="3 · ARTEFACTOS REVISADOS&lt;br&gt;Catálogo de requisitos y matriz&lt;br&gt;Mapeos origen–destino&lt;br&gt;Scripts y contratos de integración&lt;br&gt;Plan de pruebas y excepciones&lt;br&gt;Revisión antes de ejecución" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f2ecff;strokeColor=#8060b0;fontColor=#172d46;fontSize=17;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="820" y="220" width="330" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="exec" value="4 · ORQUESTACIÓN / ENSAYO&lt;br&gt;Entorno aislado y carga representativa&lt;br&gt;Arranque y transacciones básicas&lt;br&gt;Validación ORM y concurrencia&lt;br&gt;Conciliación si hay cambios de datos&lt;br&gt;Registro de ejecuciones" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf7f0;strokeColor=#388563;fontColor=#172d46;fontSize=17;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="220" width="360" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="legacy" value="ERP ORIGEN&lt;br&gt;Runtime existente + BD + adjuntos&lt;br&gt;Respaldo consistente; extracción&lt;br&gt;controlada y corte de escrituras" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2ff;strokeColor=#4276b8;fontColor=#172d46;fontSize=17;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="330" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="java" value="SERVICIOS JVM / POLÍGLOTAS&lt;br&gt;Java, Kotlin o Scala mediante contratos&lt;br&gt;Mensajería y analítica / IA opcionales&lt;br&gt;Rascal en JVM: compatibilidad a probar&lt;br&gt;Native Image: solo trabajadores aislados" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf7f0;strokeColor=#388563;fontColor=#172d46;fontSize=17;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="420" y="600" width="730" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="erp" value="ERP DESTINO · ODOO/FLECTRA&lt;br&gt;Runtime GraalPy sujeto al piloto&lt;br&gt;ORM + PostgreSQL + adjuntos&lt;br&gt;Preservar módulos y transacciones&lt;br&gt;CPython disponible para reversión" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf7f0;strokeColor=#388563;fontColor=#172d46;fontSize=17;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="600" width="360" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="cross" value="CONTROLES TRANSVERSALES · Identidad y permisos · secretos · auditoría · observabilidad · copias de seguridad · versiones y licencias&lt;br&gt;Rascal no se presupone lenguaje Truffle. La Polyglot API no implica compatibilidad automática con el ERP ni conversión automática de Python a Java." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff5dd;strokeColor=#b78220;fontColor=#172d46;fontSize=16;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="850" width="1520" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="a1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#63778e;fontSize=14;" edge="1" parent="1" source="inventory" target="model">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#63778e;fontSize=14;" edge="1" parent="1" source="model" target="assets">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#63778e;fontSize=14;" edge="1" parent="1" source="assets" target="exec">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a4" value="extracción" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#63778e;fontSize=14;" edge="1" parent="1" source="legacy" target="inventory">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a5" value="carga validada" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#63778e;fontSize=14;" edge="1" parent="1" source="exec" target="erp">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a6" value="coordina" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#63778e;fontSize=14;" edge="1" parent="1" source="java" target="exec">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a7" value="API según versión" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#63778e;fontSize=14;dashed=1;" edge="1" parent="1" source="java" target="erp">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3" name="03 · Requisitos de alto nivel">
+    <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" page="1" pageScale="1" pageWidth="1600" pageHeight="1000">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="03 · Requisitos de alto nivel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2ff;strokeColor=#4276b8;fontColor=#172d46;fontSize=25;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="25" width="1520" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="subtitle" value="Todos los requisitos son propuestos y pendientes de validación. Cada registro final deberá incluir fuente, prioridad, responsable, versión y evidencia de aceptación." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff5dd;strokeColor=#b78220;fontColor=#172d46;fontSize=15;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="1520" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="r0" value="RF-01 · Inventario y alcance&lt;br&gt;Identificar versión ERP, dependencias Python/nativas, módulos e interfaces." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2ff;strokeColor=#4276b8;fontColor=#172d46;fontSize=12;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="180" width="750" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="v0" value="Responsable: TI + negocio · Aceptación: 100 % de componentes en alcance registrados; exclusiones aprobadas." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf7f0;strokeColor=#388563;fontColor=#172d46;fontSize=12;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="810" y="180" width="750" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="r1" value="RF-02 · Equivalencia funcional&lt;br&gt;Preservar procesos y reglas seleccionados en el destino." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2ff;strokeColor=#4276b8;fontColor=#172d46;fontSize=12;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="750" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="v1" value="Responsable: Dueños de proceso · Aceptación: Todos los escenarios críticos aprobados por usuarios clave." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf7f0;strokeColor=#388563;fontColor=#172d46;fontSize=12;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="810" y="240" width="750" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="r2" value="RF-03 · Análisis con Rascal&lt;br&gt;Extraer modelos y detectar dependencias, brechas y ubicaciones." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2ff;strokeColor=#4276b8;fontColor=#172d46;fontSize=12;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="750" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="v2" value="Responsable: Arquitectura · Aceptación: Cada módulo en alcance tiene análisis o excepción documentada." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf7f0;strokeColor=#388563;fontColor=#172d46;fontSize=12;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="810" y="300" width="750" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="r3" value="RF-04 · Transformación revisable&lt;br&gt;Versionar reglas y mapeos; emitir diagnósticos y artefactos." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2ff;strokeColor=#4276b8;fontColor=#172d46;fontSize=12;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="750" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="v3" value="Responsable: Equipo de migración · Aceptación: Transformaciones reproducibles; revisión y pruebas sin fallos críticos." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf7f0;strokeColor=#388563;fontColor=#172d46;fontSize=12;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="810" y="360" width="750" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="r4" value="RF-05 · Integridad de datos&lt;br&gt;Preservar relaciones, saldos, identificadores y adjuntos." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2ff;strokeColor=#4276b8;fontColor=#172d46;fontSize=12;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="420" width="750" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="v4" value="Responsable: Datos + negocio · Aceptación: Conteos y totales conciliados; tolerancias aprobadas antes del piloto." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf7f0;strokeColor=#388563;fontColor=#172d46;fontSize=12;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="810" y="420" width="750" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="r5" value="RF-06 · Interoperabilidad&lt;br&gt;Adaptar contratos y autenticación a las versiones reales." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2ff;strokeColor=#4276b8;fontColor=#172d46;fontSize=12;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="480" width="750" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="v5" value="Responsable: Integraciones · Aceptación: Contratos críticos validados; reintentos sin duplicar operaciones." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf7f0;strokeColor=#388563;fontColor=#172d46;fontSize=12;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="810" y="480" width="750" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="r6" value="RNF-01 · Seguridad&lt;br&gt;Preservar permisos; proteger secretos y datos durante la migración." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f2ecff;strokeColor=#8060b0;fontColor=#172d46;fontSize=12;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="540" width="750" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="v6" value="Responsable: Seguridad · Aceptación: Pruebas positivas y negativas de acceso; hallazgos críticos resueltos." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf7f0;strokeColor=#388563;fontColor=#172d46;fontSize=12;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="810" y="540" width="750" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="r7" value="RNF-02 · Continuidad&lt;br&gt;Planificar corte, respaldo, restauración y reversión." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f2ecff;strokeColor=#8060b0;fontColor=#172d46;fontSize=12;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="750" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="v7" value="Responsable: Operaciones · Aceptación: Ensayo de restauración/reversión; RTO, RPO y ventana aprobados." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf7f0;strokeColor=#388563;fontColor=#172d46;fontSize=12;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="810" y="600" width="750" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="r8" value="RNF-03 · Rendimiento&lt;br&gt;Medir carga, latencia y capacidad contra una línea base." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f2ecff;strokeColor=#8060b0;fontColor=#172d46;fontSize=12;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="660" width="750" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="v8" value="Responsable: Operaciones + QA · Aceptación: Umbrales acordados y cumplidos en pruebas representativas." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf7f0;strokeColor=#388563;fontColor=#172d46;fontSize=12;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="810" y="660" width="750" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="r9" value="RNF-04 · Plataforma&lt;br&gt;Demostrar compatibilidad de JVM, Rascal y servicios GraalVM." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f2ecff;strokeColor=#8060b0;fontColor=#172d46;fontSize=12;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="720" width="750" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="v9" value="Responsable: Arquitectura · Aceptación: Piloto reproducible; GraalPy/Native Image autorizados solo con evidencia." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf7f0;strokeColor=#388563;fontColor=#172d46;fontSize=12;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="810" y="720" width="750" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="r10" value="RNF-05 · Trazabilidad&lt;br&gt;Relacionar fuente → requisito → componente → prueba → evidencia." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f2ecff;strokeColor=#8060b0;fontColor=#172d46;fontSize=12;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="780" width="750" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="v10" value="Responsable: Requisitos + QA · Aceptación: 100 % de requisitos aprobados con evidencia o excepción aceptada." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf7f0;strokeColor=#388563;fontColor=#172d46;fontSize=12;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="810" y="780" width="750" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="r11" value="RNF-06 · Mantenibilidad&lt;br&gt;Versionar entregables, dependencias, licencias y guía operativa." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f2ecff;strokeColor=#8060b0;fontColor=#172d46;fontSize=12;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="840" width="750" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="v11" value="Responsable: TI · Aceptación: Construcción reproducible y transferencia operativa aceptada." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf7f0;strokeColor=#388563;fontColor=#172d46;fontSize=12;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="810" y="840" width="750" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="trace" value="TRAZABILIDAD · DOC-xx → RF/RNF-xx → ADR-xx / componente → TC-xx → EV-xx → aprobación&lt;br&gt;Conformidad = cobertura de requisitos + pruebas aceptadas + excepciones explícitas; el diagrama por sí solo no la demuestra." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff5dd;strokeColor=#b78220;fontColor=#172d46;fontSize=14;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="915" width="1520" height="65" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4" name="04 · Etapas, decisiones y fuentes">
+    <mxGraphModel dx="1600" dy="1000" grid="1" gridSize="10" page="1" pageScale="1" pageWidth="1600" pageHeight="1000">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="04 · Etapas, decisiones y fuentes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2ff;strokeColor=#4276b8;fontColor=#172d46;fontSize=25;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="25" width="1520" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="subtitle" value="Las puertas de avance requieren evidencia y aceptación de los responsables. Umbrales y fechas se fijarán después del inventario." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff5dd;strokeColor=#b78220;fontColor=#172d46;fontSize=15;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="1520" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="g1" value="G1 · LÍNEA BASE&lt;br&gt;Inventario y alcance&lt;br&gt;Requisitos y prioridades&lt;br&gt;Dirección y versiones" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf7f0;strokeColor=#388563;fontColor=#172d46;fontSize=16;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="g2" value="G2 · VIABILIDAD&lt;br&gt;Piloto Rascal + JVM&lt;br&gt;API y dependencias ERP&lt;br&gt;Decisión GraalPy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf7f0;strokeColor=#388563;fontColor=#172d46;fontSize=16;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="350" y="220" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="g3" value="G3 · ENSAYO&lt;br&gt;Transformar y cargar&lt;br&gt;Conciliar datos&lt;br&gt;Probar procesos y reversión" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf7f0;strokeColor=#388563;fontColor=#172d46;fontSize=16;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="660" y="220" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="g4" value="G4 · CORTE&lt;br&gt;Respaldo y delta final&lt;br&gt;Validación y go/no-go&lt;br&gt;Revertir si falla" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf7f0;strokeColor=#388563;fontColor=#172d46;fontSize=16;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="970" y="220" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="g5" value="G5 · ACEPTACIÓN&lt;br&gt;Usuarios y operación&lt;br&gt;Monitoreo y soporte&lt;br&gt;Cierre con evidencias" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf7f0;strokeColor=#388563;fontColor=#172d46;fontSize=16;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="220" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="g1e" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#63778e;fontSize=14;" edge="1" parent="1" source="g1" target="g2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g2e" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#63778e;fontSize=14;" edge="1" parent="1" source="g2" target="g3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g3e" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#63778e;fontSize=14;" edge="1" parent="1" source="g3" target="g4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g4e" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;strokeColor=#63778e;fontSize=14;" edge="1" parent="1" source="g4" target="g5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dec" value="DECISIONES ABIERTAS&lt;br&gt;ADR-01: seleccionar versión/edición de Odoo o Flectra y entorno GraalPy.&lt;br&gt;ADR-02: cerrar inventario Python, extensiones C y bibliotecas del sistema.&lt;br&gt;ADR-03: resolver gevent/async; comparar aislamiento por procesos y workers.&lt;br&gt;ADR-04: demostrar Rascal sobre JVM y definir parsers/reglas de transformación.&lt;br&gt;ADR-05: contratos políglotas y trabajadores Native Image aislados.&lt;br&gt;ADR-06: umbrales de latencia, throughput, memoria, recuperación y contención BD." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff5dd;strokeColor=#b78220;fontColor=#172d46;fontSize=16;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="450" width="910" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="evidence" value="EXPEDIENTE DE CONFORMIDAD&lt;br&gt;Línea base aprobada y cambios&lt;br&gt;Matriz de cobertura RF/RNF&lt;br&gt;Resultados de pruebas y conciliación&lt;br&gt;Excepciones y decisiones ADR&lt;br&gt;Acta de aceptación y guía operativa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f2ecff;strokeColor=#8060b0;fontColor=#172d46;fontSize=17;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="450" width="560" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="s0" value="S1 · Repositorio jfxai4mad — contexto MBSE; propuesta ERP no verificada" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f4f8;strokeColor=#7b8899;fontColor=#172d46;fontSize=13;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1" link="https://github.com/robotics-intelligent-systems/jfxai4mad">
+          <mxGeometry x="40" y="750" width="1520" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="s1" value="S1 · Propuesta base — Odoo/Flectra to GraalPy Migration Architecture" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f4f8;strokeColor=#7b8899;fontColor=#172d46;fontSize=13;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1" link="https://github.com/robotics-intelligent-systems/jfxai4mad/blob/main/docs/architecture/odoo-graalpy-migration.md">
+          <mxGeometry x="40" y="792" width="1520" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="s2" value="S3 · GraalVM — integración de lenguajes mediante Polyglot API" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f4f8;strokeColor=#7b8899;fontColor=#172d46;fontSize=13;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1" link="https://www.graalvm.org/latest/reference-manual/embed-languages/">
+          <mxGeometry x="40" y="834" width="1520" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="s3" value="S4 · Odoo — API externa dependiente de versión y modalidad" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f4f8;strokeColor=#7b8899;fontColor=#172d46;fontSize=13;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1" link="https://www.odoo.com/documentation/19.0/developer/reference/external_api.html">
+          <mxGeometry x="40" y="876" width="1520" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="s4" value="S5 · Flectra — documentación funcional y técnica" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1f4f8;strokeColor=#7b8899;fontColor=#172d46;fontSize=13;align=left;verticalAlign=middle;spacing=16;" vertex="1" parent="1" link="https://doc.flectrahq.com/">
+          <mxGeometry x="40" y="918" width="1520" height="36" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5" name="05 · Conformidad con propuesta GraalPy">
+    <mxGraphModel page="1" pageWidth="1600" pageHeight="1000">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="05 · Cobertura de la propuesta de migración GraalPy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2ff;strokeColor=#4276b8;fontSize=17;align=left;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="25" width="1520" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p0" value="1 · Auditoría de dependencias&lt;br&gt;RF-01 / RF-03 · Evidencia: Matriz Python, extensiones C y sistema completa." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2ff;strokeColor=#4276b8;fontSize=17;align=left;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="125" width="1520" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="p1" value="2 · Prototipo del runtime&lt;br&gt;RNF-04 / RF-02 · Evidencia: Arranque del ERP y transacciones básicas correctas." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2ff;strokeColor=#4276b8;fontSize=17;align=left;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="225" width="1520" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="p2" value="3 · Adaptación de extensiones C&lt;br&gt;RF-04 / RNF-04 · Evidencia: Módulos críticos pasan pruebas automatizadas." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2ff;strokeColor=#4276b8;fontSize=17;align=left;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="325" width="1520" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="p3" value="4 · ORM y concurrencia&lt;br&gt;RF-02 / RF-05 / RNF-03 · Evidencia: Sin regresión funcional; comparar CPython, procesos GraalPy y workers." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2ff;strokeColor=#4276b8;fontSize=17;align=left;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="425" width="1520" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="p4" value="5 · Integración políglota&lt;br&gt;RF-06 / RNF-04 · Evidencia: Contratos y recuperación ante fallos validados." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2ff;strokeColor=#4276b8;fontSize=17;align=left;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="525" width="1520" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="p5" value="6 · Rendimiento y seguridad&lt;br&gt;RNF-01 / RNF-02 / RNF-03 · Evidencia: Umbrales de carga, memoria, seguridad y reversión cumplidos." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2ff;strokeColor=#4276b8;fontSize=17;align=left;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="625" width="1520" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="p6" value="7 · Despliegue staging&lt;br&gt;RNF-02 / RNF-05 / RNF-06 · Evidencia: Ensayo de producción, observabilidad y reversión verificados." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2ff;strokeColor=#4276b8;fontSize=17;align=left;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="725" width="1520" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="note" value="Rascal: ampliación propuesta para inventario, análisis, transformación y trazabilidad. Los parsers, reglas e integración requieren implementación y validación. Plazos y equipo se estiman después del inventario; no se asume la estimación histórica de cinco meses." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eaf2ff;strokeColor=#4276b8;fontSize=17;align=left;spacing=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="845" width="1520" height="125" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
