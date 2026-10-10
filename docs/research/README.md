@@ -51,7 +51,11 @@ by the documentation migration.
 
 ```text
 docs/research/
+├── legal/
+│   ├── french-guiana-entry-peruvian-argentine-passports.md
+│   └── djibouti-marriage-for-foreign-nationals.md
 ├── tourism/
+│   ├── french-guiana-air-and-overland-access.md
 │   ├── lgbt-tourism-demographic-research.md
 │   ├── peru-brazil-paraguay-integration-corridors.md
 │   ├── peru-paraguay-air-and-overland-routes.md
@@ -66,10 +70,14 @@ docs/research/
 └── child-protection/
 ```
 
-`tourism/` and `platforms/` contain migrated research; the other thematic directories remain recommendations.
+`tourism/`, `legal/` and `platforms/` contain migrated research; the other thematic directories remain recommendations.
 
 When a future migration moves an existing research note into these subdirectories, update both `docs/README.md` and `docs/ANNEX-DOCS-CONSOLIDATED.md` in the same PR so no repository-local links are left stale.
 
 ## Marriage in Djibouti for foreign nationals
 
 [Djibouti marriage research](legal/djibouti-marriage-for-foreign-nationals.md) preserves the additional source's two routes, four eligibility statements, six document groups and four procedural steps. Separate notes compare the Family Code and qualify authentication, recognition and unverified administrative requirements. Migration entries 54–55 record both originals. The additional four-section age, guardianship, consent and registration draft is translated within the same note, with a separate statutory comparison.
+
+## French Guiana access and entry documentation
+
+[Air and overland access](tourism/french-guiana-air-and-overland-access.md) translates source entry 56, retaining air candidates and both border corridors. [Peruvian/Argentine passport entry](legal/french-guiana-entry-peruvian-argentine-passports.md) translates entry 57 and consolidates the repeated visa, passport and yellow-fever discussion. The [shared register](legal/french-guiana-entry-peruvian-argentine-passports.md#shared-reference-register) indexes seven primary references. Source claims and selected checks are separate; schedules and individual admission remain unverified.
