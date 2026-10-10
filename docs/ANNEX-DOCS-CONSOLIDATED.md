@@ -4,7 +4,7 @@
 **Scope:** indexed documentation annex for the English `docs/*.md` sources and supporting `docs/*.jpg` infographics  
 **Editorial revision:** 9 October 2026
 
-> **Editorial status.** Fifty-five plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
+> **Editorial status.** Fifty-seven plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
 
 ## Contents
 
@@ -34,6 +34,7 @@
 
 - [20. Additional tourism policy, demographic and security concepts](#20-additional-tourism-policy-demographic-and-security-concepts)
 - [21. Marriage in Djibouti for foreign nationals](#21-marriage-in-djibouti-for-foreign-nationals)
+- [22. French Guiana access and dual-nationality entry research](#22-french-guiana-access-and-dual-nationality-entry-research)
 
 ## 1. Documentation migration and normalization
 
@@ -239,12 +240,13 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 | 48 | `Las principales rutas.txt` | [Peru–Paraguay air and overland routes](./research/tourism/peru-paraguay-air-and-overland-routes.md) | Translated/consolidated; selected official-source checks; TXT removed |
 | 49 | `rutas de integración Perú.txt` | [Peru–Brazil and Brazil–Paraguay integration corridors](./research/tourism/peru-brazil-paraguay-integration-corridors.md) | Translated/consolidated; geographic references checked; TXT removed |
 | 50 | `Un Flujo Integral de Desarrollo.txt` | [Multisector territorial tourism development flow](./strategy/multisector-territorial-tourism-development-flow.md) | Translated/consolidated; proposed impacts qualified; TXT removed |
-
 | 51 | `Bajo la premisa planteada.txt` | [Tourism and young-household incentives](./strategy/tourism-and-young-household-incentives.md) | Translated/consolidated; source claims qualified; TXT removed |
 | 52 | `El comportamiento del.txt` | [LGBT tourism demographic research](./research/tourism/lgbt-tourism-demographic-research.md) | Translated/consolidated; source claims qualified; TXT removed |
 | 53 | `La industria de Seguridad.txt` | [Tourism transport security concept](./architecture/tourism-transport-security-concept.md) | Translated/consolidated; source claims qualified; TXT removed |
 | 54 | `En Yibuti Djibouti el.txt` | [Marriage in Djibouti for foreign nationals](./research/legal/djibouti-marriage-for-foreign-nationals.md) | Translated/consolidated; legal claims qualified; TXT retained in Git history |
 | 55 | `En la República de Yibuti.txt` | [Marriage in Djibouti: age, guardianship and consent](./research/legal/djibouti-marriage-for-foreign-nationals.md#additional-source-translation-age-guardianship-and-consent) | Translated into existing note; statutory comparison separated; TXT retained in Git history |
+| 56 | `docs/A continuación se amplían.txt` | [French Guiana air and overland access](./research/tourism/french-guiana-air-and-overland-access.md) | Translated/renamed; route claims qualified; TXT retained in Git history |
+| 57 | `docs/El concepto de compatibilidad.txt` | [French Guiana entry: Peruvian and Argentine passports](./research/legal/french-guiana-entry-peruvian-argentine-passports.md) | Translated/renamed; selected visa/health checks and shared references; TXT retained in Git history |
 
 ### Reference policy
 
@@ -319,3 +321,24 @@ Separate editorial notes compare the official 2002 Family Code regarding formali
 ### Additional consolidation — 9 October 2026
 
 Entry 55 consolidates the additional age, guardianship, consent, judicial-refusal and registration draft into the existing Djibouti note. All four source sections are translated, with a separate article-level comparison identifying unsupported wording and distinctions. The original is retained at commit `30ccfeb4ee29c9cb5695d2f42d470a6e1ae6a5af`; SHA-256: `bdb2e75f289c31d0f01560160756dc6b09965726f252927fec5bdae28c4cfc0c`. The source TXT is removed after consolidation. Both source entries now share one thematic destination; no new marriage procedure is certified.
+
+
+## 22. French Guiana access and dual-nationality entry research
+
+Two additional Spanish TXT drafts are migrated to thematic English Markdown:
+
+- [Air and overland access](./research/tourism/french-guiana-air-and-overland-access.md) — all three source sections: CAY air candidates, Brazil/Oyapock and Suriname/Maroni corridors, and four border-document considerations.
+- [Peruvian and Argentine passport entry](./research/legal/french-guiana-entry-peruvian-argentine-passports.md) — all four source sections: territorial status, nationality exemptions, five document groups and dual-nationality handling.
+
+The [shared reference register](./research/legal/french-guiana-entry-peruvian-argentine-passports.md#shared-reference-register) consolidates seven primary references as FG-01…07. Repeated visa/health material has one canonical legal note; route research links to it. The airport location is corrected to Matoury. Blanket boarding, physical-certificate, passport-validity and passport-switching claims remain translated source assertions with explicit limits. The consolidated decree is distinguished from its original 2011 publication. No flight schedule, current river-service availability, individual admission or medical exemption is certified.
+
+### Provenance and coverage
+
+Originals retained at commit `f9386a4316eeb837574cdb4fdd9d430ac5b22373`. Migration entries 56–57 record the renamed destinations; the working TXT copies are removed only after translation and indexing.
+
+| Entry | Original source | SHA-256 | Coverage |
+|---:|---|---|---|
+| 56 | `docs/A continuación se amplían.txt` | `321884eb8e41e627d5f7b64ae657f0ec89af417c5102a4f5ed673a33f26472d1` | Three sections; air candidates, two border corridors and four document rows |
+| 57 | `docs/El concepto de compatibilidad.txt` | `79cc932f8a6c22e67cd2cc3f5fc8afc1ca3bd7cedddc7dca50e605ab9e9c7492` | Four sections; two nationality rows and five document groups |
+
+Validation covers source inventory/hashes, section/table coverage, new relative links and index entries. Official-source checks are limited to the claims identified in the notes; no authority was contacted and no application or booking submitted.
