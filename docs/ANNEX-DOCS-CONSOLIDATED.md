@@ -248,6 +248,8 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 | 56 | `docs/A continuación se amplían.txt` | [French Guiana air and overland access](./research/tourism/french-guiana-air-and-overland-access.md) | Translated/renamed; route claims qualified; TXT retained in Git history |
 | 57 | `docs/El concepto de compatibilidad.txt` | [French Guiana entry: Peruvian and Argentine passports](./research/legal/french-guiana-entry-peruvian-argentine-passports.md) | Translated/renamed; selected visa/health checks and shared references; TXT retained in Git history |
 
+| 58 | `docs/Esta estrategia plantea.txt` | [Student volunteer and SME open-source adoption strategy](./strategy/student-volunteer-sme-open-source-adoption.md) | Translated/renamed; full dialogues and success factors retained; TXT retained in Git history |
+
 ### Reference policy
 
 Repository documentation should link to the English Markdown paths above. Historical source filenames remain only in this migration table so Git history and earlier references can be traced. Any future plaintext source should be migrated to a descriptive English Markdown path and added to this register.

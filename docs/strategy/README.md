@@ -9,6 +9,8 @@ This directory is the navigation layer for long-form strategic, institutional an
 
 ## Additional planning and collaboration documents
 
+- [Student volunteer and SME open-source adoption strategy](student-volunteer-sme-open-source-adoption.md) — three-way benefit model, two recruitment dialogues, mentored migration workflow and four success factors.
+
 - [Tourism and young-household incentives](tourism-and-young-household-incentives.md) — proposed vouchers, savings, tax relief and staged support; funding and impact remain unverified.
 
 - [Multisector territorial tourism development flow](multisector-territorial-tourism-development-flow.md) — tourism-led demand, five sectors, four development phases, Mermaid resource flows and four operationalized territorial KPIs.
