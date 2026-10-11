@@ -128,3 +128,7 @@ The original is retained in Git history. `public-policy/` now contains the model
 ## UAE age-13 family law and child travel
 
 [UAE source review](child-protection/uae-age-13-family-law-and-travel-review.md) processes entry 66. It covers the marriage and travel sections, corrects universal UM-service assertions and separates legal-regime, notarisation and court-restriction questions. Carrier sources were checked; statutory retrieval limitations are explicit.
+
+## Ergonomics and family-care furnishing
+
+[Ergonomic recliners and support wedges](ergonomics/ergonomic-recliners-and-support-wedges-source-review.md) processes entry 68, preserving all recliner, wedge, pregnancy/feeding and cleaning themes. Clinical/product benefits remain hypotheses; selected NHS checks distinguish supported posture from product validation and infant sleep. MAD-ERG-001 proposes an adult-rest configuration with traceable engineering evidence.

@@ -4,9 +4,11 @@
 **Scope:** indexed documentation annex for the English `docs/*.md` sources and supporting `docs/*.jpg` infographics  
 **Editorial revision:** 11 October 2026
 
-> **Editorial status.** Sixty-seven plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
+> **Editorial status.** Sixty-eight plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
 
 ## Contents
+
+- [31. Ergonomic recliners and support wedges](#31-ergonomic-recliners-and-support-wedges)
 
 - [30. Female athlete anthropometry](#30-female-athlete-anthropometry)
 - [29. UAE age-13 family law and child travel](#29-uae-age-13-family-law-and-child-travel)
@@ -271,6 +273,7 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 | 65 | `docs/Ambas celebraciones corresponden.txt` | [Tucumán Carnival and Medellín festivals](./research/tourism/tucuman-carnival-and-medellin-festivals.md) | Four subsections and comparison normalized to English; cultural claims qualified; selected programme checks; original retained in Git history |
 | 66 | `docs/Para una menor de 13 años.txt` | [UAE age-13 source review](./research/child-protection/uae-age-13-family-law-and-travel-review.md) | Both sections processed; carrier rules corrected; legal conclusions qualified; original retained in Git history |
 | 67 | `docs/Distribución Geográfica.txt` | [Female athlete anthropometry source review](./research/sports-science/female-athlete-anthropometry-source-review.md) | Introduction, three themes, five geographic examples and three summary rows normalized to English; unsupported regional/genetic claims qualified; three primary references; original retained in Git history |
+| 68 | `docs/El uso de mobiliario de.txt` | [Ergonomic recliners and support wedges source review](./research/ergonomics/ergonomic-recliners-and-support-wedges-source-review.md) | Introduction, three recliner features, two wedge-use groups and three summary rows; selected NHS checks; six proposed requirements; original retained in Git history |
 
 ### Reference policy
 
@@ -404,3 +407,7 @@ Entry 66 covers every marriage claim and both travel subsections, including UM a
 Entry 67 translates the introductory claim, three numbered themes, all five geographic examples and the original three-row summary into [a sports-science source review](./research/sports-science/female-athlete-anthropometry-source-review.md). It retains the 1.80 m assertion as unsupported regional prevalence and separates source claims from selected sport-specific evidence. Hip circumference, skeletal breadth, muscle development, chest dimensions and breast measurements are distinguished rather than treated as interchangeable.
 
 Original commit: `79dfc73d8c9f02fc0bfb413e5fbd1cf708411b45`; Git blob: `720db3ca05afde6ade131eff575b7a2b7cfa80b4`; SHA-256: `6d54c532a14493713d7368d8f1b8214ce9bfe8923eb1f3d0526bc32307fae4c9`. The working TXT is removed after normalization and the original remains in Git history. Three primary references support bounded measurement and sample-context checks; global rankings and genetic causation remain unresolved. MAD-ANTH-001 proposes a human-reviewed aggregate evidence matrix. No athlete data was collected, model fitted or product feature implemented.
+
+## 31. Ergonomic recliners and support wedges
+
+Entry 68 normalizes the recliner/wedge note into [an ergonomics source review](./research/ergonomics/ergonomic-recliners-and-support-wedges-source-review.md). It preserves every source topic and summary row, qualifies absolute foam and clinical benefit claims, separates supervised feeding from infant sleep, and proposes MAD-ERG-001 through MAD-ERG-006 with unresolved quantitative thresholds. Three NHS references support bounded contextual checks. Original source commit: `ec3016b913f6fa4099eb7e2c218ab286b19536d6`; Git blob: `23dfc4023332ee4239a18d47ff83ed169c07befb`. The working TXT is removed after normalization; its immutable source link is retained. No prototype, clinical evaluation or implementation is claimed.
