@@ -20,6 +20,8 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ### `business/`
 
+- [Value architecture, financing and sustainable logistics](./business/value-architecture-and-financing.md) — additional TXT; open engineering, proposed trading/open-banking funding, B2B subscriptions and regional logistics.
+
 - [Business model and performance indicators](./business/business-model-and-kpis.md)
 
 ### `roadmap/`
@@ -55,7 +57,7 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ## Research and historical source notes
 
-The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 68 processed TXT entries to their English destinations.
+The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps the earlier 68 processed TXT entries and the additional value-architecture note to their English destinations.
 
 ### Tourism and mobility
 
