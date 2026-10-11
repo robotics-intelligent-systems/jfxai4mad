@@ -113,3 +113,7 @@ Migration entry 64 processes `docs/Para estructurar un enfoque.txt` into two lin
 - [Age 13: Djibouti, GitHub, Discord and travel authorization](child-protection/age-13-djibouti-github-discord-and-travel-review.md) — source travel claims plus the user's explicit age-13 focus and platform additions; verified account minima and the narrowly identified Djiboutian legal boundary remain distinct from travel permission.
 
 The original is retained in Git history. `public-policy/` now contains the model research proposal; no model was fitted and no travel/account service was activated.
+
+## Tucumán and Medellín cultural festivals
+
+[Tucumán Carnival and Medellín festivals](tourism/tucuman-carnival-and-medellin-festivals.md) processes entry 65, covering four source subsections and the comparison. Selected official checks distinguish the Pachamama festival, local Carnival proposals and Medellín's Feria de las Flores. February shows remain unverified.

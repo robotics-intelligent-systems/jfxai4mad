@@ -267,6 +267,8 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 | 63 | `docs/Desde el punto de vista.txt` | [Djibouti child-marriage source review](./research/child-protection/djibouti-child-marriage-source-review.md) | English normalization; three source themes and conclusion covered; legal assertions qualified; original retained in Git history |
 | 64 | `docs/Para estructurar un enfoque.txt` | [Natality model](./research/public-policy/natality-incentive-probability-model.md) + [Age-13 framework](./research/child-protection/age-13-djibouti-github-discord-and-travel-review.md) | Both components normalized to English; layout/code preserved; user-requested Djibouti/GitHub/Discord focus explicit; legal and statistical claims qualified; TXT retained in Git history |
 
+| 65 | `docs/Ambas celebraciones corresponden.txt` | [Tucumán Carnival and Medellín festivals](./research/tourism/tucuman-carnival-and-medellin-festivals.md) | Four subsections and comparison normalized to English; cultural claims qualified; selected programme checks; original retained in Git history |
+
 ### Reference policy
 
 Repository documentation should link to the English Markdown paths above. Historical source filenames remain only in this migration table so Git history and earlier references can be traced. Any future plaintext source should be migrated to a descriptive English Markdown path and added to this register.
@@ -385,3 +387,7 @@ Entry 64 preserves both components of the source: the proposed GitHub layout and
 The [age-13 review](./research/child-protection/age-13-djibouti-github-discord-and-travel-review.md) incorporates the user's request to highlight Djibouti, GitHub and Discord. Primary references support thirteen as the platforms' baseline minimum and as a specific Djiboutian juvenile-procedure boundary; they do not establish a universal travel minimum. Carrier bands differ. The historical 2007 travel law is explicitly distinguished from its 2016 repeal. No account, booking or legal procedure was initiated.
 
 Original source commit: `ea27e17f52d592ebc55f4ce41bf2384be5a4e752`; Git blob: `ccad8cebc3554d83831cb158f11c696e4559ea73`; SHA-256: `5b7a2ed4de4aa8ef347a5a4975ffc3557d2526a5dbccfa6d73059582084a4aa6`. Coverage includes both numbered components, all proposed file paths, the function/constants and each travel assertion; platform/legal additions are identified as later clarification. The TXT is removed from the working tree after migration and retained in Git history.
+
+## 28. Tucumán Carnival and Medellín cultural festivals
+
+Entry 65 preserves both regional sections, all four subsections, cultural figures, games, music and itinerary candidates. The English note separates source claims from selected official checks and corrects the conflation of Medellín's flower festival with Carnival and national holidays. Original Git blob: `0fdd2dd7e757d7021d84ed96d272c01e80ffadae`. No annual programme or booking is inferred from the undated draft.
