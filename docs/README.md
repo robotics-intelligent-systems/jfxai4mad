@@ -51,9 +51,11 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ## Research and historical source notes
 
-The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 64 processed TXT entries to their English destinations.
+The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 65 processed TXT entries to their English destinations.
 
 ### Tourism and mobility
+
+- [Tucumán Carnival and Medellín cultural festivals](./research/tourism/tucuman-carnival-and-medellin-festivals.md) — Entry 65; regional comparison, programme checks and holiday/calendar distinctions.
 
 - [Lima–Rio flight and five-night stay](./research/tourism/lima-rio-flight-and-five-night-stay.md) — Six-day scenario, package arithmetic and qualified airport, baggage and occupancy assumptions.
 
