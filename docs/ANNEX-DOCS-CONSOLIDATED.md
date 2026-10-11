@@ -4,9 +4,11 @@
 **Scope:** indexed documentation annex for the English `docs/*.md` sources and supporting `docs/*.jpg` infographics  
 **Editorial revision:** 10 October 2026
 
-> **Editorial status.** Sixty-three plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
+> **Editorial status.** Sixty-four plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
 
 ## Contents
+
+- [27. Natality model and age-13 legal/platform framework](#27-natality-model-and-age-13-legalplatform-framework)
 
 - [26. Djibouti child-marriage source review](#26-djibouti-child-marriage-source-review)
 
@@ -263,6 +265,7 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 | 61 | `docs/El viaje en autobús de.txt` | [Lima–Rio bus travel](./research/tourism/lima-rio-de-janeiro-bus-travel.md) | Translated/renamed; fares retained as estimates; route/document claims qualified; linked to Carnival; TXT retained in Git history |
 | 62 | `docs/Para planificar una escapada.txt` | [Lima–Rio flight and five-night stay](./research/tourism/lima-rio-flight-and-five-night-stay.md) | Translated/renamed; package estimates and itinerary preserved; occupancy, baggage, airport and currency claims qualified; TXT retained in Git history |
 | 63 | `docs/Desde el punto de vista.txt` | [Djibouti child-marriage source review](./research/child-protection/djibouti-child-marriage-source-review.md) | English normalization; three source themes and conclusion covered; legal assertions qualified; original retained in Git history |
+| 64 | `docs/Para estructurar un enfoque.txt` | [Natality model](./research/public-policy/natality-incentive-probability-model.md) + [Age-13 framework](./research/child-protection/age-13-djibouti-github-discord-and-travel-review.md) | Both components normalized to English; layout/code preserved; user-requested Djibouti/GitHub/Discord focus explicit; legal and statistical claims qualified; TXT retained in Git history |
 
 ### Reference policy
 
@@ -374,3 +377,11 @@ Validation covers source inventory/hashes, section/table coverage, new relative 
 ## 26. Djibouti child-marriage source review
 
 [Source review](./research/child-protection/djibouti-child-marriage-source-review.md) processes entry 63: the opening/conclusion, positive family law, capacity/criminal-protection claims and international commitments. Primary-source checks correct the law identifier and consent article and support selected treaty references. The under-thirteen criminal threshold, age-specific incapacity test, current-law application and automatic nullity remain unverified. The original is preserved at commit `da0901788f0df3ea8f73f6cc97055245dd3c77c8`; SHA-256: `70b73cf90fd7d877dabe54ae1889880b7582b5d096b6721af5fbed81a9e953d8`. The working TXT is removed after migration, with links in the documentation/research indexes and adult Djibouti note. No case or application is processed.
+
+## 27. Natality model and age-13 legal/platform framework
+
+Entry 64 preserves both components of the source: the proposed GitHub layout and Bayesian function, and the intercontinental parental-authorization discussion focused on thirteen-year-olds. The [model proposal](./research/public-policy/natality-incentive-probability-model.md) distinguishes TFR from probability, hypothetical priors from calibration and a constant-exposure likelihood from an identified policy effect. No MCMC or demographic analysis was run.
+
+The [age-13 review](./research/child-protection/age-13-djibouti-github-discord-and-travel-review.md) incorporates the user's request to highlight Djibouti, GitHub and Discord. Primary references support thirteen as the platforms' baseline minimum and as a specific Djiboutian juvenile-procedure boundary; they do not establish a universal travel minimum. Carrier bands differ. The historical 2007 travel law is explicitly distinguished from its 2016 repeal. No account, booking or legal procedure was initiated.
+
+Original source commit: `ea27e17f52d592ebc55f4ce41bf2384be5a4e752`; Git blob: `ccad8cebc3554d83831cb158f11c696e4559ea73`; SHA-256: `5b7a2ed4de4aa8ef347a5a4975ffc3557d2526a5dbccfa6d73059582084a4aa6`. Coverage includes both numbered components, all proposed file paths, the function/constants and each travel assertion; platform/legal additions are identified as later clarification. The TXT is removed from the working tree after migration and retained in Git history.

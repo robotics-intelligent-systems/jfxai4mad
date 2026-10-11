@@ -51,7 +51,7 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ## Research and historical source notes
 
-The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 63 processed TXT entries to their English destinations.
+The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 64 processed TXT entries to their English destinations.
 
 ### Tourism and mobility
 
@@ -132,6 +132,8 @@ The earlier English Markdown notes remain at `docs/` root for historical link st
 
 ### Child protection
 
+- [Age 13: Djibouti, GitHub, Discord and travel authorization](./research/child-protection/age-13-djibouti-github-discord-and-travel-review.md) — Explicit age-13 focus; platform minima, specific Djiboutian legal boundary and itinerary-dependent permissions.
+
 - [Djibouti child-marriage source review](./research/child-protection/djibouti-child-marriage-source-review.md) — Entry 63; source claims, statutory corrections, treaty references and unresolved legal conclusions.
 
 - [Child commercial sexual exploitation: global legal and safeguarding analysis](./child-commercial-sexual-exploitation-global-analysis.md)
@@ -142,6 +144,10 @@ Child-protection material is deliberately separated from adult sex-work analysis
 
 - [Google Forms, Calendar and Meet workflow](./forms-calendar-meet-workflow.md)
 - [Lima public spaces and libraries](./lima-public-spaces-and-libraries.md)
+
+### Public-policy modeling
+
+- [Natality-incentive probability model](./research/public-policy/natality-incentive-probability-model.md) — Entry 64, component 1; proposed layout and Bayesian sketch retained with calibration and causal-inference limits.
 
 ## Infographics
 

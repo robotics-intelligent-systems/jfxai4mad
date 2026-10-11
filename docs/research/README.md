@@ -104,3 +104,12 @@ When a future migration moves an existing research note into these subdirectorie
 ## Djibouti child-marriage source review
 
 [Child-protection source review](child-protection/djibouti-child-marriage-source-review.md) processes entry 63, covering the opening conclusion and all three legal themes. It corrects the statute identifier and consent article, distinguishes verified treaty references from unverified criminal-law and automatic-nullity claims, and links to the adult foreign-national note. The original TXT remains in Git history.
+
+## Natality modeling and the age-13 framework
+
+Migration entry 64 processes `docs/Para estructurar un enfoque.txt` into two linked English notes:
+
+- [Natality-incentive probability model](public-policy/natality-incentive-probability-model.md) — proposed repository layout and original Bayesian sketch, with outcome, calibration, identifiability and causal-inference limitations.
+- [Age 13: Djibouti, GitHub, Discord and travel authorization](child-protection/age-13-djibouti-github-discord-and-travel-review.md) — source travel claims plus the user's explicit age-13 focus and platform additions; verified account minima and the narrowly identified Djiboutian legal boundary remain distinct from travel permission.
+
+The original is retained in Git history. `public-policy/` now contains the model research proposal; no model was fitted and no travel/account service was activated.
