@@ -1,0 +1,35 @@
+Para estructurar un enfoque técnico y normativo que combine un modelo de probabilidad de incentivos a la natalidad alojado en GitHub con el marco de autorización parental para viajes intercontinentales (con enfoque en el umbral de los 13 años), se presenta la siguiente propuesta integral dividida en dos componentes:1. Modelo de Probabilidad de Arreglo para Incentivos a la Natalidad (GitHub)Este modelo simula el impacto probabilístico de políticas de incentivo a la natalidad (como subsidios fiscales, licencias parentales y ayudas directas) utilizando programación probabilística.Estructura sugerida del Repositorio en GitHubPlaintext/natality-incentive-model
+│
+├── README.md                 # Documentación del proyecto y supuestos demográficos
+├── requirements.txt          # Dependencias (pandas, numpy, pymc, scikit-learn)
+├── data/
+│   ├── historical_births.csv # Datos demográficos base por cohorte
+│   └── policy_costs.csv      # Costes asociados a incentivos fiscales/sociales
+├── models/
+│   ├── bayesian_inference.py # Modelo probabilístico de respuesta a incentivos
+│   └── simulation.py         # Simulación de Monte Carlo para tasas de fertilidad
+└── outputs/
+    └── probability_curves.png# Gráficas de probabilidad de éxito de la política
+Fragmento conceptual del modelo probabilístico (models/bayesian_inference.py)Pythonimport numpy as np
+import pymc as pm
+
+# Modelo de probabilidad bayesiana para estimar el cambio en la tasa de fertilidad (TFR)
+# en función de la intensidad del incentivo económico aplicado.
+
+def run_natality_simulation(incentive_budget_per_capita, historical_data):
+    with pm.Model() as model:
+        # Priores para los parámetros de elasticidad e impacto base
+        alpha = pm.Normal('alpha', mu=1.2, sigma=0.3)
+        beta = pm.Normal('beta', mu=0.05, sigma=0.01)
+        
+        # Probabilidad esperada de incremento en la tasa de natalidad
+        expected_tfr = alpha + beta * incentive_budget_per_capita
+        
+        # Likelihood (Distribución Normal observada frente al histórico)
+        obs = pm.Normal('obs', mu=expected_tfr, sigma=0.1, observed=historical_data)
+        
+        # Muestreo MCMC
+        trace = pm.sample(2000, return_inferencedata=False, target_accept=0.9)
+        
+    return trace
+2. Marco Normativo: Autorización Parental de Viaje Intercontinental (Umbral de 13 Años)En el marco del derecho internacional privado, el derecho de familia y las normativas de aviación civil, la gestión de la movilidad de menores de edad (especialmente en trayectos intercontinentales) está sujeta a rigurosos controles de patria potestad.Criterios Legales y Operativos para el Trámite a los 13 AñosEjercicio Conjunto de la Patria Potestad: Ningún menor de edad puede realizar viajes internacionales o intercontinentales sin el consentimiento expreso, por escrito y con validez legal (notarial, consular o judicial) de los padres o tutores legales que ejerzan la patria potestad.El umbral de los 13 a 14 años en aerolíneas: Desde el punto de vista operativo de las aerolíneas internacionales, los menores de 13 años entran en categorías críticas de asistencia. Aunque muchas compañías permiten el servicio de Menor No Acompañado (UM - Unaccompanied Minor) hasta los 14 o 17 años, la franja de los 13 años exige obligatoriamente:   Permiso de salida del país emitido ante notario o autoridad migratoria competente, firmado por ambos padres (o por el progenitor ausente).Datos de contacto y responsabilidades legales del adulto receptor en el país de destino.Armonización con Tratados Internacionales: La Convención sobre los Derechos del Niño protege al menor frente al traslado ilícito internacional, exigiendo que las políticas de viaje refuercen los mecanismos de control fronterizo para prevenir sustracciones parentales, un estándar aplicable de manera estricta a adolescentes de 13 años.
