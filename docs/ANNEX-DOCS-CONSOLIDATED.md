@@ -4,9 +4,11 @@
 **Scope:** indexed documentation annex for the English `docs/*.md` sources and supporting `docs/*.jpg` infographics  
 **Editorial revision:** 10 October 2026
 
-> **Editorial status.** Sixty plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
+> **Editorial status.** Sixty-one plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
 
 ## Contents
+
+- [24. Lima–Rio bus travel and Carnival planning](#24-limario-bus-travel-and-carnival-planning)
 
 - [23. Rio Carnival calendar](#23-rio-carnival-calendar)
 
@@ -254,6 +256,7 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 
 | 59 | `docs/Para viajar desde Ankara.txt` | [Ankara–Djibouti air travel](./research/tourism/ankara-djibouti-air-travel.md) | Translated/renamed; route/fare claims qualified and selected visa/health checks; TXT retained in Git history |
 | 60 | `docs/El Carnaval de Río no.txt` | [Rio Carnival calendar](./research/tourism/rio-carnival-calendar.md) | Translated/renamed; selected 2027 dates checked; 2028–2030 calendar projections distinguished; TXT retained in Git history |
+| 61 | `docs/El viaje en autobús de.txt` | [Lima–Rio bus travel](./research/tourism/lima-rio-de-janeiro-bus-travel.md) | Translated/renamed; fares retained as estimates; route/document claims qualified; linked to Carnival; TXT retained in Git history |
 
 ### Reference policy
 
@@ -353,3 +356,7 @@ Validation covers source inventory/hashes, section/table coverage, new relative 
 ## 23. Rio Carnival calendar
 
 [Rio Carnival calendar](./research/tourism/rio-carnival-calendar.md) consolidates entry 60: calendar explanation, seven itinerary entries, four annual windows and the street-party note. The blanket Ash Wednesday end-date claim is qualified; organizer announcements support selected 2027 parades, while future dates remain projections. The note records the original commit and SHA-256, and indexes two primary references.
+
+## 24. Lima–Rio bus travel and Carnival planning
+
+[Lima–Rio bus travel](./research/tourism/lima-rio-de-janeiro-bus-travel.md) translates entry 61 and retains the summary, five route stages, amenities and three advice groups. It corrects the duration conversion, distinguishes the operator itinerary from the draft, and qualifies currency and document claims. Reciprocal links connect the transport note and [Carnival calendar](./research/tourism/rio-carnival-calendar.md). The source commit and SHA-256 are recorded in the note.

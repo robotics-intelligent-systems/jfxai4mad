@@ -55,6 +55,7 @@ docs/research/
 │   ├── french-guiana-entry-peruvian-argentine-passports.md
 │   └── djibouti-marriage-for-foreign-nationals.md
 ├── tourism/
+│   ├── lima-rio-de-janeiro-bus-travel.md
 │   ├── rio-carnival-calendar.md
 │   ├── french-guiana-air-and-overland-access.md
 │   ├── lgbt-tourism-demographic-research.md
@@ -90,3 +91,7 @@ When a future migration moves an existing research note into these subdirectorie
 ## Rio Carnival calendar
 
 [Rio Carnival calendar](tourism/rio-carnival-calendar.md) translates entry 60, preserves the seven-day itinerary and four-year table, separates organizer-confirmed 2027 parade dates from calendar projections, and qualifies the street-party window. Two primary references support the selected checks.
+
+## Lima–Rio bus travel
+
+[Lima–Rio bus travel](tourism/lima-rio-de-janeiro-bus-travel.md) translates entry 61, preserving all fare ranges, five itinerary stages, onboard-service claims and three practical-advice groups. Selected operator and bilateral-document checks qualify the draft. Reciprocal links connect it with the Rio Carnival calendar.

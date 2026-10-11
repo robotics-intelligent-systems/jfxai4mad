@@ -51,9 +51,11 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ## Research and historical source notes
 
-The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 60 legacy TXT entries to their English destinations.
+The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 61 legacy TXT entries to their English destinations.
 
 ### Tourism and mobility
+
+- [Lima–Rio bus travel](./research/tourism/lima-rio-de-janeiro-bus-travel.md) — Source fare ranges, itinerary qualifications and selected operator/document checks; linked to the Carnival calendar.
 
 - [Rio Carnival calendar](./research/tourism/rio-carnival-calendar.md) — Translated 2027 itinerary, official-source checks and 2028–2030 projections.
 
