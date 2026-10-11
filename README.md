@@ -44,6 +44,7 @@ The root README is intentionally concise. Detailed material is organized by doma
 | Research | [Age 13: Djibouti, GitHub and Discord](docs/research/child-protection/age-13-djibouti-github-discord-and-travel-review.md) | Platform minima, specific legal threshold and travel-authorization review |
 | Research | [Natality-incentive model proposal](docs/research/public-policy/natality-incentive-probability-model.md) | Source Bayesian sketch, aggregate policy modeling and validation limits |
 | Research | [Female athlete anthropometry](docs/research/sports-science/female-athlete-anthropometry-source-review.md) | Regional source claims, sport-specific evidence, measurement distinctions and proposed aggregate review |
+| Research | [Ergonomic recliners and support wedges](docs/research/ergonomics/ergonomic-recliners-and-support-wedges-source-review.md) | Entry 68; source review, six proposed requirements and adult-rest verification task |
 | Research | [Documentation index](docs/README.md) | Thematic index for migrated research notes and supporting material |
 
 - [Tourism and young-household incentives](docs/strategy/tourism-and-young-household-incentives.md) — Proposed subsidies, housing savings, eligibility and fiscal evaluation.

@@ -49,9 +49,13 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 - [CAD concepts](../MBSE/CAD/)
 - [Requirements and architecture diagrams](../MBSE/CAS/drawio/)
 
+### Ergonomics and family-care furnishing
+
+- [Ergonomic recliners and support wedges](./research/ergonomics/ergonomic-recliners-and-support-wedges-source-review.md) — Entry 68; source claims, selected evidence checks, six proposed requirements and next AI-assisted task.
+
 ## Research and historical source notes
 
-The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 67 processed TXT entries to their English destinations.
+The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 68 processed TXT entries to their English destinations.
 
 ### Tourism and mobility
 
