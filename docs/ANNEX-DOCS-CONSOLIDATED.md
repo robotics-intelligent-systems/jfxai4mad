@@ -269,6 +269,8 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 
 | 65 | `docs/Ambas celebraciones corresponden.txt` | [Tucumán Carnival and Medellín festivals](./research/tourism/tucuman-carnival-and-medellin-festivals.md) | Four subsections and comparison normalized to English; cultural claims qualified; selected programme checks; original retained in Git history |
 
+| 66 | `docs/Para una menor de 13 años.txt` | [UAE age-13 source review](./research/child-protection/uae-age-13-family-law-and-travel-review.md) | Both sections processed; carrier rules corrected; legal conclusions qualified; original retained in Git history |
+
 ### Reference policy
 
 Repository documentation should link to the English Markdown paths above. Historical source filenames remain only in this migration table so Git history and earlier references can be traced. Any future plaintext source should be migrated to a descriptive English Markdown path and added to this register.
@@ -391,3 +393,7 @@ Original source commit: `ea27e17f52d592ebc55f4ce41bf2384be5a4e752`; Git blob: `c
 ## 28. Tucumán Carnival and Medellín cultural festivals
 
 Entry 65 preserves both regional sections, all four subsections, cultural figures, games, music and itinerary candidates. The English note separates source claims from selected official checks and corrects the conflation of Medellín's flower festival with Carnival and national holidays. Original Git blob: `0fdd2dd7e757d7021d84ed96d272c01e80ffadae`. No annual programme or booking is inferred from the undated draft.
+
+## 29. UAE age-13 family law and child travel
+
+Entry 66 covers every marriage claim and both travel subsections, including UM assistance, paternal NOC, mother/divorce and border-ban assertions. Primary carrier policies contradict mandatory UM at thirteen. The note distinguishes marriage regimes and court applications from automatic authorisation; direct statutory retrieval failures limit legal checks. Original Git blob: `2bf888d78c05d2fa392940778c656dcd041de7d7`. No individual eligibility, document or booking was processed.
