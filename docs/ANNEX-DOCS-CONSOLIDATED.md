@@ -4,9 +4,11 @@
 **Scope:** indexed documentation annex for the English `docs/*.md` sources and supporting `docs/*.jpg` infographics  
 **Editorial revision:** 10 October 2026
 
-> **Editorial status.** Sixty-two plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
+> **Editorial status.** Sixty-three plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
 
 ## Contents
+
+- [26. Djibouti child-marriage source review](#26-djibouti-child-marriage-source-review)
 
 - [25. Lima–Rio flight and five-night stay](#25-limario-flight-and-five-night-stay)
 
@@ -260,6 +262,7 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 | 60 | `docs/El Carnaval de Río no.txt` | [Rio Carnival calendar](./research/tourism/rio-carnival-calendar.md) | Translated/renamed; selected 2027 dates checked; 2028–2030 calendar projections distinguished; TXT retained in Git history |
 | 61 | `docs/El viaje en autobús de.txt` | [Lima–Rio bus travel](./research/tourism/lima-rio-de-janeiro-bus-travel.md) | Translated/renamed; fares retained as estimates; route/document claims qualified; linked to Carnival; TXT retained in Git history |
 | 62 | `docs/Para planificar una escapada.txt` | [Lima–Rio flight and five-night stay](./research/tourism/lima-rio-flight-and-five-night-stay.md) | Translated/renamed; package estimates and itinerary preserved; occupancy, baggage, airport and currency claims qualified; TXT retained in Git history |
+| 63 | `docs/Desde el punto de vista.txt` | [Djibouti child-marriage source review](./research/child-protection/djibouti-child-marriage-source-review.md) | English normalization; three source themes and conclusion covered; legal assertions qualified; original retained in Git history |
 
 ### Reference policy
 
@@ -367,3 +370,7 @@ Validation covers source inventory/hashes, section/table coverage, new relative 
 ## 25. Lima–Rio flight and five-night stay
 
 [Flight and five-night stay](./research/tourism/lima-rio-flight-and-five-night-stay.md) translates entry 62: the flight section, three hotel categories, four budget rows in two currencies and six itinerary days. Source totals are arithmetically consistent, but currency conversions and per-person occupancy assumptions remain unresolved. Selected primary checks qualify baggage, GIG/SDU and the ambiguous beach name. Four references, source commit and SHA-256 are indexed in the note; links connect bus and Carnival research.
+
+## 26. Djibouti child-marriage source review
+
+[Source review](./research/child-protection/djibouti-child-marriage-source-review.md) processes entry 63: the opening/conclusion, positive family law, capacity/criminal-protection claims and international commitments. Primary-source checks correct the law identifier and consent article and support selected treaty references. The under-thirteen criminal threshold, age-specific incapacity test, current-law application and automatic nullity remain unverified. The original is preserved at commit `da0901788f0df3ea8f73f6cc97055245dd3c77c8`; SHA-256: `70b73cf90fd7d877dabe54ae1889880b7582b5d096b6721af5fbed81a9e953d8`. The working TXT is removed after migration, with links in the documentation/research indexes and adult Djibouti note. No case or application is processed.

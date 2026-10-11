@@ -116,3 +116,8 @@ The claimed 10–15-day banns period, filing lead time, immigration/residence re
 This note supports destination-wedding and LegalTech research. It does not establish that Djibouti is a suitable destination for a particular couple or that a proposed platform can issue or validate marriage documentation.
 
 [Research index](../README.md) · [Documentation index](../../README.md) · [Destination-wedding roadmap](../../destination-wedding-academic-partnership-roadmap.md)
+
+## Related child-protection source review
+
+The later draft on under-ten marriage claims is processed separately in the
+[Djibouti child-marriage source review](../child-protection/djibouti-child-marriage-source-review.md), migration entry 63. Its categorical criminal-law and nullity conclusions are not verified eligibility rules. The separation keeps child protection distinct from adult destination-wedding coordination.

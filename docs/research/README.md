@@ -73,7 +73,7 @@ docs/research/
 └── child-protection/
 ```
 
-`tourism/`, `legal/` and `platforms/` contain migrated research; the other thematic directories remain recommendations.
+`tourism/`, `legal/` and `platforms/` contain migrated research; `child-protection/` now contains the Djibouti source review; the other thematic directories remain recommendations.
 
 When a future migration moves an existing research note into these subdirectories, update both `docs/README.md` and `docs/ANNEX-DOCS-CONSOLIDATED.md` in the same PR so no repository-local links are left stale.
 
@@ -100,3 +100,7 @@ When a future migration moves an existing research note into these subdirectorie
 ## Lima–Rio flight and five-night stay
 
 [Flight and five-night stay](tourism/lima-rio-flight-and-five-night-stay.md) translates entry 62, preserving flight estimates, three hotel categories, both currency budget columns and all six itinerary days. It distinguishes quote assumptions from selected primary-source checks and links to bus and Carnival research.
+
+## Djibouti child-marriage source review
+
+[Child-protection source review](child-protection/djibouti-child-marriage-source-review.md) processes entry 63, covering the opening conclusion and all three legal themes. It corrects the statute identifier and consent article, distinguishes verified treaty references from unverified criminal-law and automatic-nullity claims, and links to the adult foreign-national note. The original TXT remains in Git history.

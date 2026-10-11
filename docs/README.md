@@ -51,7 +51,7 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ## Research and historical source notes
 
-The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 62 legacy TXT entries to their English destinations.
+The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 63 processed TXT entries to their English destinations.
 
 ### Tourism and mobility
 
@@ -131,6 +131,8 @@ The earlier English Markdown notes remain at `docs/` root for historical link st
 - [Arabian Peninsula / Gulf analysis](./arabian-peninsula-gulf-sex-work-trafficking-child-protection-analysis.md)
 
 ### Child protection
+
+- [Djibouti child-marriage source review](./research/child-protection/djibouti-child-marriage-source-review.md) — Entry 63; source claims, statutory corrections, treaty references and unresolved legal conclusions.
 
 - [Child commercial sexual exploitation: global legal and safeguarding analysis](./child-commercial-sexual-exploitation-global-analysis.md)
 
