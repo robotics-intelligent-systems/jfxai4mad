@@ -4,9 +4,11 @@
 **Scope:** indexed documentation annex for the English `docs/*.md` sources and supporting `docs/*.jpg` infographics  
 **Editorial revision:** 10 October 2026
 
-> **Editorial status.** Sixty-one plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
+> **Editorial status.** Sixty-two plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
 
 ## Contents
+
+- [25. Lima–Rio flight and five-night stay](#25-limario-flight-and-five-night-stay)
 
 - [24. Lima–Rio bus travel and Carnival planning](#24-limario-bus-travel-and-carnival-planning)
 
@@ -257,6 +259,7 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 | 59 | `docs/Para viajar desde Ankara.txt` | [Ankara–Djibouti air travel](./research/tourism/ankara-djibouti-air-travel.md) | Translated/renamed; route/fare claims qualified and selected visa/health checks; TXT retained in Git history |
 | 60 | `docs/El Carnaval de Río no.txt` | [Rio Carnival calendar](./research/tourism/rio-carnival-calendar.md) | Translated/renamed; selected 2027 dates checked; 2028–2030 calendar projections distinguished; TXT retained in Git history |
 | 61 | `docs/El viaje en autobús de.txt` | [Lima–Rio bus travel](./research/tourism/lima-rio-de-janeiro-bus-travel.md) | Translated/renamed; fares retained as estimates; route/document claims qualified; linked to Carnival; TXT retained in Git history |
+| 62 | `docs/Para planificar una escapada.txt` | [Lima–Rio flight and five-night stay](./research/tourism/lima-rio-flight-and-five-night-stay.md) | Translated/renamed; package estimates and itinerary preserved; occupancy, baggage, airport and currency claims qualified; TXT retained in Git history |
 
 ### Reference policy
 
@@ -360,3 +363,7 @@ Validation covers source inventory/hashes, section/table coverage, new relative 
 ## 24. Lima–Rio bus travel and Carnival planning
 
 [Lima–Rio bus travel](./research/tourism/lima-rio-de-janeiro-bus-travel.md) translates entry 61 and retains the summary, five route stages, amenities and three advice groups. It corrects the duration conversion, distinguishes the operator itinerary from the draft, and qualifies currency and document claims. Reciprocal links connect the transport note and [Carnival calendar](./research/tourism/rio-carnival-calendar.md). The source commit and SHA-256 are recorded in the note.
+
+## 25. Lima–Rio flight and five-night stay
+
+[Flight and five-night stay](./research/tourism/lima-rio-flight-and-five-night-stay.md) translates entry 62: the flight section, three hotel categories, four budget rows in two currencies and six itinerary days. Source totals are arithmetically consistent, but currency conversions and per-person occupancy assumptions remain unresolved. Selected primary checks qualify baggage, GIG/SDU and the ambiguous beach name. Four references, source commit and SHA-256 are indexed in the note; links connect bus and Carnival research.

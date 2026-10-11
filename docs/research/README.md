@@ -55,6 +55,7 @@ docs/research/
 │   ├── french-guiana-entry-peruvian-argentine-passports.md
 │   └── djibouti-marriage-for-foreign-nationals.md
 ├── tourism/
+│   ├── lima-rio-flight-and-five-night-stay.md
 │   ├── lima-rio-de-janeiro-bus-travel.md
 │   ├── rio-carnival-calendar.md
 │   ├── french-guiana-air-and-overland-access.md
@@ -95,3 +96,7 @@ When a future migration moves an existing research note into these subdirectorie
 ## Lima–Rio bus travel
 
 [Lima–Rio bus travel](tourism/lima-rio-de-janeiro-bus-travel.md) translates entry 61, preserving all fare ranges, five itinerary stages, onboard-service claims and three practical-advice groups. Selected operator and bilateral-document checks qualify the draft. Reciprocal links connect it with the Rio Carnival calendar.
+
+## Lima–Rio flight and five-night stay
+
+[Flight and five-night stay](tourism/lima-rio-flight-and-five-night-stay.md) translates entry 62, preserving flight estimates, three hotel categories, both currency budget columns and all six itinerary days. It distinguishes quote assumptions from selected primary-source checks and links to bus and Carnival research.
