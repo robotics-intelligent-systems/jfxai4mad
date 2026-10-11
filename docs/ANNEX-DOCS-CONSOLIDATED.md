@@ -2,11 +2,13 @@
 
 **Repository:** `robotics-intelligent-systems/jfxai4mad`  
 **Scope:** indexed documentation annex for the English `docs/*.md` sources and supporting `docs/*.jpg` infographics  
-**Editorial revision:** 9 October 2026
+**Editorial revision:** 10 October 2026
 
-> **Editorial status.** Fifty-seven plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
+> **Editorial status.** Sixty plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
 
 ## Contents
+
+- [23. Rio Carnival calendar](#23-rio-carnival-calendar)
 
 - [1. Documentation migration and normalization](#1-documentation-migration-and-normalization)
 - [2. Tourism and international mobility](#2-tourism-and-international-mobility)
@@ -251,6 +253,7 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 | 58 | `docs/Esta estrategia plantea.txt` | [Student volunteer and SME open-source adoption strategy](./strategy/student-volunteer-sme-open-source-adoption.md) | Translated/renamed; full dialogues and success factors retained; TXT retained in Git history |
 
 | 59 | `docs/Para viajar desde Ankara.txt` | [Ankara–Djibouti air travel](./research/tourism/ankara-djibouti-air-travel.md) | Translated/renamed; route/fare claims qualified and selected visa/health checks; TXT retained in Git history |
+| 60 | `docs/El Carnaval de Río no.txt` | [Rio Carnival calendar](./research/tourism/rio-carnival-calendar.md) | Translated/renamed; selected 2027 dates checked; 2028–2030 calendar projections distinguished; TXT retained in Git history |
 
 ### Reference policy
 
@@ -346,3 +349,7 @@ Originals retained at commit `f9386a4316eeb837574cdb4fdd9d430ac5b22373`. Migrati
 | 57 | `docs/El concepto de compatibilidad.txt` | `79cc932f8a6c22e67cd2cc3f5fc8afc1ca3bd7cedddc7dca50e605ab9e9c7492` | Four sections; two nationality rows and five document groups |
 
 Validation covers source inventory/hashes, section/table coverage, new relative links and index entries. Official-source checks are limited to the claims identified in the notes; no authority was contacted and no application or booking submitted.
+
+## 23. Rio Carnival calendar
+
+[Rio Carnival calendar](./research/tourism/rio-carnival-calendar.md) consolidates entry 60: calendar explanation, seven itinerary entries, four annual windows and the street-party note. The blanket Ash Wednesday end-date claim is qualified; organizer announcements support selected 2027 parades, while future dates remain projections. The note records the original commit and SHA-256, and indexes two primary references.

@@ -55,6 +55,7 @@ docs/research/
 │   ├── french-guiana-entry-peruvian-argentine-passports.md
 │   └── djibouti-marriage-for-foreign-nationals.md
 ├── tourism/
+│   ├── rio-carnival-calendar.md
 │   ├── french-guiana-air-and-overland-access.md
 │   ├── lgbt-tourism-demographic-research.md
 │   ├── peru-brazil-paraguay-integration-corridors.md
@@ -85,3 +86,7 @@ When a future migration moves an existing research note into these subdirectorie
 ## Ankara–Djibouti air travel
 
 [Ankara–Djibouti air travel](tourism/ankara-djibouti-air-travel.md) translates the additional three-section note, retaining four route candidates, four fare ranges and three travel factors. Airline availability and prices remain unverified; visa scope and the conditional yellow-fever certificate requirement are documented separately with sources.
+
+## Rio Carnival calendar
+
+[Rio Carnival calendar](tourism/rio-carnival-calendar.md) translates entry 60, preserves the seven-day itinerary and four-year table, separates organizer-confirmed 2027 parade dates from calendar projections, and qualifies the street-party window. Two primary references support the selected checks.
