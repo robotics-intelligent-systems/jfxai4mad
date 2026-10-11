@@ -61,3 +61,7 @@ flowchart LR
 ## Source preservation
 
 The original TXT is retained in Git at commit `a5513bff72f4059ecdd9d2d06c57bf1d34720bee`; SHA-256: `c47b6a80b0bad1e27d6fa951e1bb179d9e22b5833980477ef458eb1a2f6f4ad8`. Removed from the working tree after translation and indexing.
+
+## Related flight and accommodation scenario
+
+The [six-day flight and five-night stay](lima-rio-flight-and-five-night-stay.md) provides an alternative planning scenario with source estimates, occupancy assumptions and airport/baggage qualifications. Compare actual dated quotes before selecting a mode or pairing the stay with Carnival.
