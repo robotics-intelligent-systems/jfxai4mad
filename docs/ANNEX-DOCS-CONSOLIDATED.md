@@ -411,3 +411,11 @@ Original commit: `79dfc73d8c9f02fc0bfb413e5fbd1cf708411b45`; Git blob: `720db3ca
 ## 31. Ergonomic recliners and support wedges
 
 Entry 68 normalizes the recliner/wedge note into [an ergonomics source review](./research/ergonomics/ergonomic-recliners-and-support-wedges-source-review.md). It preserves every source topic and summary row, qualifies absolute foam and clinical benefit claims, separates supervised feeding from infant sleep, and proposes MAD-ERG-001 through MAD-ERG-006 with unresolved quantitative thresholds. Three NHS references support bounded contextual checks. Original source commit: `ec3016b913f6fa4099eb7e2c218ab286b19536d6`; Git blob: `23dfc4023332ee4239a18d47ff83ed169c07befb`. The working TXT is removed after normalization; its immutable source link is retained. No prototype, clinical evaluation or implementation is claimed.
+
+## 32. Value architecture, financing and sustainable logistics
+
+The additional `docs/1 Arquitectura de Valor.txt` is translated and consolidated into [an English business note](./business/value-architecture-and-financing.md). All four numbered sections are retained: value/ecosystem, financing/monetization, sustainable infrastructure/logistics, and strategic autonomy. The note connects these topics to the existing business KPIs, investment roadmap and collaboration/territorial-development documents.
+
+Original baseline commit: `fc60f3e11e842d719169b69a0cc3e49ad1bd8c40`; Git blob: `796aea5facfaadf710e1749527b3e45b00d565af`. [Immutable original](https://github.com/robotics-intelligent-systems/jfxai4mad/blob/fc60f3e11e842d719169b69a0cc3e49ad1bd8c40/docs/1%20Arquitectura%20de%20Valor.txt). The working TXT is replaced by descriptive English Markdown and remains recoverable in Git history. This supplemental migration does not renumber the earlier 68 entries.
+
+Claims about certified machines, trading-funded capital, guaranteed recurring revenue, exclusive renewable energy, composite-material benefits and elimination of venture-capital dependence are recorded as source proposals with evidence limits. No trading, funding, recruitment or transport action was performed. The documentation and strategy indexes and business-model cross-references include the new destination.

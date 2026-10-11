@@ -34,6 +34,7 @@ These are proposed measurements, not published performance results.
 
 ## Related documents
 
+- [Value architecture, financing and sustainable logistics](value-architecture-and-financing.md) — supplemental ecosystem and funding hypotheses.
 - [Project scope](../product/project-scope.md)
 - [Implementation and investment roadmap](../roadmap/implementation-and-investment.md)
 - [Strategic annex](../ANNEX.md)

@@ -9,6 +9,8 @@ This directory is the navigation layer for long-form strategic, institutional an
 
 ## Additional planning and collaboration documents
 
+- [Value architecture, financing and sustainable logistics](../business/value-architecture-and-financing.md) — translated supplemental note; connects collaboration, monetization and logistics hypotheses to existing planning documents.
+
 - [Student volunteer and SME open-source adoption strategy](student-volunteer-sme-open-source-adoption.md) — three-way benefit model, two recruitment dialogues, mentored migration workflow and four success factors.
 
 - [Tourism and young-household incentives](tourism-and-young-household-incentives.md) — proposed vouchers, savings, tax relief and staged support; funding and impact remain unverified.
