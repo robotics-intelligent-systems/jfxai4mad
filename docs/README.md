@@ -51,7 +51,7 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ## Research and historical source notes
 
-The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 65 processed TXT entries to their English destinations.
+The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 66 processed TXT entries to their English destinations.
 
 ### Tourism and mobility
 
@@ -133,6 +133,8 @@ The earlier English Markdown notes remain at `docs/` root for historical link st
 - [Arabian Peninsula / Gulf analysis](./arabian-peninsula-gulf-sex-work-trafficking-child-protection-analysis.md)
 
 ### Child protection
+
+- [UAE age-13 family-law and travel source review](./research/child-protection/uae-age-13-family-law-and-travel-review.md) — Entry 66; distinguishes carrier policies, custody consent, marriage regimes and unresolved legal claims.
 
 - [Age 13: Djibouti, GitHub, Discord and travel authorization](./research/child-protection/age-13-djibouti-github-discord-and-travel-review.md) — Explicit age-13 focus; platform minima, specific Djiboutian legal boundary and itinerary-dependent permissions.
 

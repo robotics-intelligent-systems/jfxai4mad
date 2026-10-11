@@ -117,3 +117,7 @@ The original is retained in Git history. `public-policy/` now contains the model
 ## Tucumán and Medellín cultural festivals
 
 [Tucumán Carnival and Medellín festivals](tourism/tucuman-carnival-and-medellin-festivals.md) processes entry 65, covering four source subsections and the comparison. Selected official checks distinguish the Pachamama festival, local Carnival proposals and Medellín's Feria de las Flores. February shows remain unverified.
+
+## UAE age-13 family law and child travel
+
+[UAE source review](child-protection/uae-age-13-family-law-and-travel-review.md) processes entry 66. It covers the marriage and travel sections, corrects universal UM-service assertions and separates legal-regime, notarisation and court-restriction questions. Carrier sources were checked; statutory retrieval limitations are explicit.
