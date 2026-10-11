@@ -51,7 +51,7 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ## Research and historical source notes
 
-The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 66 processed TXT entries to their English destinations.
+The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps all 67 processed TXT entries to their English destinations.
 
 ### Tourism and mobility
 
@@ -86,6 +86,10 @@ The earlier English Markdown notes remain at `docs/` root for historical link st
 - [Peru and Colombia inbound-tourism comparison](./peru-colombia-inbound-tourism-comparison.md)
 - [Argentina inbound-tourism origin markets](./argentina-inbound-tourism-origin-markets.md)
 - [International dating agencies and LATAM remote work](./international-dating-agencies-and-latam-remote-work.md)
+
+### Sports science and anthropometry
+
+- [Female athlete anthropometry: geographic claims and measurement review](./research/sports-science/female-athlete-anthropometry-source-review.md) — Entry 67; complete source coverage, regional-claim qualifications, measurement distinctions and three primary references.
 
 ### Destination weddings, education and professional development
 

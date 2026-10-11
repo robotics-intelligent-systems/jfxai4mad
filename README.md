@@ -43,6 +43,7 @@ The root README is intentionally concise. Detailed material is organized by doma
 | Research | [Rio Carnival calendar](docs/research/tourism/rio-carnival-calendar.md) | Selected 2027 organizer checks and clearly marked 2028–2030 calendar projections |
 | Research | [Age 13: Djibouti, GitHub and Discord](docs/research/child-protection/age-13-djibouti-github-discord-and-travel-review.md) | Platform minima, specific legal threshold and travel-authorization review |
 | Research | [Natality-incentive model proposal](docs/research/public-policy/natality-incentive-probability-model.md) | Source Bayesian sketch, aggregate policy modeling and validation limits |
+| Research | [Female athlete anthropometry](docs/research/sports-science/female-athlete-anthropometry-source-review.md) | Regional source claims, sport-specific evidence, measurement distinctions and proposed aggregate review |
 | Research | [Documentation index](docs/README.md) | Thematic index for migrated research notes and supporting material |
 
 - [Tourism and young-household incentives](docs/strategy/tourism-and-young-household-incentives.md) — Proposed subsidies, housing savings, eligibility and fiscal evaluation.
