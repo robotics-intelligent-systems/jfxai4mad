@@ -38,8 +38,13 @@ by the documentation migration.
 
 [LGBT tourism demographic research](tourism/lgbt-tourism-demographic-research.md) preserves six age profiles and four regional comparisons as unverified source claims. It separates self-identification from tourism market share and adds aggregate evidence requirements.
 
+## Sports science and anthropometry
+
+[Female athlete anthropometry source review](sports-science/female-athlete-anthropometry-source-review.md) processes entry 67: the introduction, three numbered themes, five geographic examples and three summary rows. Regional rankings and genetic explanations remain unsupported. Selected primary checks distinguish measured sport samples, breast/torso dimensions and assessment quality. MAD-ANTH-001 proposes an aggregate evidence matrix; no dataset or measurement service is implemented.
+
 ## Current thematic groups
 
+- [Sports science and anthropometry](../README.md#sports-science-and-anthropometry)
 - [Tourism and mobility](../README.md#tourism-and-mobility)
 - [Destination weddings, education and professional development](../README.md#destination-weddings-education-and-professional-development)
 - [Platforms and market analysis](../README.md#platforms-and-market-analysis)
@@ -66,6 +71,8 @@ docs/research/
 │   ├── colombian-emigration-destinations.md
 │   ├── inbound-origin-market-research.md
 │   └── sport-fishing-and-hunting-tourism.md
+├── sports-science/
+│   └── female-athlete-anthropometry-source-review.md
 ├── platforms/
 │   └── match-group-and-peer-marriage-conversion.md
 ├── adult-relationships/
