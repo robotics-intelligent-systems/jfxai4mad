@@ -273,7 +273,6 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 | 65 | `docs/Ambas celebraciones corresponden.txt` | [Tucumán Carnival and Medellín festivals](./research/tourism/tucuman-carnival-and-medellin-festivals.md) | Four subsections and comparison normalized to English; cultural claims qualified; selected programme checks; original retained in Git history |
 | 66 | `docs/Para una menor de 13 años.txt` | [UAE age-13 source review](./research/child-protection/uae-age-13-family-law-and-travel-review.md) | Both sections processed; carrier rules corrected; legal conclusions qualified; original retained in Git history |
 | 67 | `docs/Distribución Geográfica.txt` | [Female athlete anthropometry source review](./research/sports-science/female-athlete-anthropometry-source-review.md) | Introduction, three themes, five geographic examples and three summary rows normalized to English; unsupported regional/genetic claims qualified; three primary references; original retained in Git history |
-
 | 68 | `docs/El uso de mobiliario de.txt` | [Ergonomic recliners and support wedges source review](./research/ergonomics/ergonomic-recliners-and-support-wedges-source-review.md) | Introduction, three recliner features, two wedge-use groups and three summary rows; selected NHS checks; six proposed requirements; original retained in Git history |
 
 ### Reference policy
