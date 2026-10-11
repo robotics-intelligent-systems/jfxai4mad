@@ -33,6 +33,10 @@ The draft labels these as “official” Friday-to-Ash-Wednesday periods. Here t
 
 Dates use the Gregorian Easter calculation: Ash Wednesday = Easter − 46 days; Friday = Ash Wednesday − 5 days; following Saturday = Ash Wednesday + 3 days. These offsets reproduce all four rows in the draft.
 
+## Related Lima–Rio travel research
+
+The [Lima–Rio bus travel note](lima-rio-de-janeiro-bus-travel.md) preserves the additional route and fare draft, qualifies its estimates and links event selection to a dated transport quote. Confirm arrival time before pairing a ticket with the 2027 parade dates; future calendar projections do not confirm a transport departure.
+
 ## Street Carnival and project use
 
 The draft says street parties (*blocos*) formally start two to three weeks before the main window and continue until the following weekend. Retain this as an approximate source claim: individual routes, dates and permits require the municipal programme. The Sambódromo programme and street Carnival have separate schedules.
