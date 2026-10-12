@@ -25,7 +25,7 @@ flowchart TD
     F --> H[50 percent engineering and prototyping]
 ```
 
-The flow is a proposal, not a implemented contact database, recruitment campaign or capacity model. “50%” needs a declared denominator—participant allocation, hours or budget—before use.
+The flow is a proposal, not an implemented contact database, recruitment campaign or capacity model. “50%” needs a declared denominator—participant allocation, hours or budget—before use.
 
 ### Source contact allocation
 
