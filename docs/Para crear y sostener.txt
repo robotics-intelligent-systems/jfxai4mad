@@ -1,0 +1,22 @@
+Para crear y sostener 10 empleos de alta cualificación (ingeniería de software, MLOps, ventas B2B o soporte de infraestructura) en Argentina o California, primero debemos calcular la capacidad financiera requerida basada en los costos laborales de cada mercado y, a partir de ahí, estructurar un embudo de conversión sobre la base de 30,000 contactos en LinkedIn.1. Requerimiento Financiero Anual (Meta de Ingresos)Los costos varían drásticamente según la ubicación del equipo:IndicadorEscenario A: 10 Empleos en ArgentinaEscenario B: 10 Empleos en CaliforniaCosto Medio por Empleado (Bruto + Cargas)$30,000 USD / año$180,000 USD / añoMasa Salarial Anual (10 Empleados)$300,000 USD / año$1,800,000 USD / añoTicket Promedio SaaS Cloud/IA (PyME)$300 USD / mes ($3,600/año)$300 USD / mes ($3,600/año)Clientes Activos Necesarios (ARR)~84 Clientes~500 Clientes2. Conversión del Embudo: De 30,000 Contactos a Clientes PagoPara los mercados emergentes de Brasil e India, donde la propuesta de valor es alta integridad y bajo costo, aplicamos tasas de conversión estándar de ventas B2B outbound/LinkedIn:Universo LinkedIn (100%): 30,000 contactos
+├── Aceptan Conexión / Respuesta Inicial (15%): 4,500
+├── Leads Calificados (MQL/SQL - 10% de respuestas): 450
+├── Pruebas de Concepto / Demos (PoC - 25% de SQLs): 112
+└── Clientes Cerrados (ACV - 20% al 30% de Demos): 22 a 34 Clientes
+Resultado del Embudo Base: Con 30,000 contactos iniciales, un pipeline outbound directo genera entre 22 y 34 clientes de pago.3. Distribución de la "Torta" (Estrategia por Mercado)Dado que 30,000 contactos directos generan alrededor de 30 clientes (~$108,000 ARR) y para financiar Argentina se requieren 84 clientes (o 500 para California), la distribución de los 30,000 contactos debe ser estratégica para maximizar el volumen y los ingresos recurrentes:           [ 30,000 Contactos en LinkedIn ]
+                         │
+        ┌────────────────┴────────────────┐
+        ▼                                 ▼
+   Brasil (40%)                      India (60%)
+ 12,000 Contactos                  18,000 Contactos
+A. India (60% = 18,000 Contactos) — Estrategia de Volumen masivoPor qué: India cuenta con el mayor ecosistema de PyMEs tecnológicas y startups de IA buscando alternativas económicas a AWS/GCP.Segmentación: CTOs, DevOps Leads y Founders de startups en Bangalore, Hyderabad y Pune.Conversión esperada: ~20 clientes pagadores (~$72,000 USD/año ARR).B. Brasil (40% = 12,000 Contactos) — Estrategia de Mayor ARPU (Ingreso Medio)Por qué: Menor fricción horaria/cultural con las Américas y mayor disposición a pagar tickets ligeramente superiores ($400 - $600 USD/mes).Segmentación: Heads de TI y Fintechs en São Paulo, Rio de Janeiro y Florianópolis.Conversión esperada: ~12 clientes pagadores (~$43,200 USD/año ARR).4. Cobertura de Nómina y Brecha Estratégica              ┌─────────────────────────────────────────┐
+              │  Ingreso Generado en LinkedIn Directo  │
+              │         ~$115,200 USD / año             │
+              └────────────────────┬────────────────────┘
+                                   │
+         ┌─────────────────────────┴─────────────────────────┐
+         ▼                                                   ▼
+ 🟨 Escenario Argentina ($300k/año)                  🟥 Escenario California ($1.8M/año)
+ Cubre ~38% de la nómina (3-4 empleos).              Cubre ~6% de la nómina (<1 empleo).
+ Requiere expansión PLG o 2do embudo.               Requiere canal enterprise o capital.
+5. Plan de Acción ReorganizadoApalancar el Trading Algorítmico y Banca Abierta:Usa los excedentes de financiamiento descritos en el modelo de negocio para subvencionar la brecha financiera inicial (cubrir del 38% al 100% de la nómina en Argentina durante el año 1).Transformar Outbound en Producto (PLG):Utiliza los 30,000 contactos no solo para venta directa, sino para invitar a la comunidad de código abierto / GitHub. Un convertidor freemium aumentará la conversión global del 0.1% al 0.3%, alcanzando la meta de los 84 clientes.Optimización de Contratación:Iniciar contratando los 10 puestos en Argentina (o formato remoto LatAm). Una vez escalado el volumen en India/Brasil hacia los 500 clientes, migrar progresivamente roles de liderazgo/ventas a California.
