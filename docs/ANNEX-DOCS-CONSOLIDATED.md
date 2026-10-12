@@ -284,12 +284,13 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 
 ### Supplemental migrations
 
-The supplemental business register now covers three notes.
+The supplemental business register now covers four notes.
 
 | Source | English destination | Treatment |
 | --- | --- | --- |
 | `docs/1 Arquitectura de Valor.txt` | [Value architecture and financing](./business/value-architecture-and-financing.md) | Four sections; original retained in Git history; see section 32 |
 | `docs/Para crear y sostener.txt` | [Ten skilled jobs: payroll and B2B conversion](./business/ten-skilled-jobs-payroll-and-b2b-conversion.md) | Five sections; arithmetic reconciled; original retained in Git history; see section 33 |
+| `docs/1 Reestructuración del.txt` | [Regional hiring hubs and market distribution](./business/regional-hiring-hubs-and-market-distribution.md) | Four sections, six country allocations and funding-gap reconciliation; see section 35 |
 | `docs/Para alcanzar los 30 000.txt` | [LinkedIn contact acquisition and lead velocity](./business/linkedin-contact-acquisition-and-lead-velocity.md) | Opening calculation, four scenarios and scaling channels; official policy checks; see section 34 |
 
 Repository documentation should link to the English Markdown paths above. Historical source filenames remain only in this migration table so Git history and earlier references can be traced. Any future plaintext source should be migrated to a descriptive English Markdown path and added to this register.
@@ -448,3 +449,11 @@ Arithmetic distinguishes 112.5 expected demos from the source's 112, reconciles 
 The [newest supplemental business note](./business/linkedin-contact-acquisition-and-lead-velocity.md) translates the opening calculation, all four capacity scenarios and both platform/scaling considerations. The arithmetic is retained while invitations, accepted connections, prospect inventories and qualified leads are distinguished. Selected LinkedIn Help checks qualify the claimed weekly allowance and automation proposal. The note links acquisition time to the earlier payroll scenario and funding runway.
 
 Source commit: `e649b2d925db4d17208385c9e2bcbc5d52e35566`; Git blob: `969ce803ee404b9217bc3765795626307da36a14`. The immutable original is recorded in the destination; the working TXT is replaced while Git history preserves it. This is a supplemental migration, with no outreach or account action performed.
+
+## 35. Regional hiring hubs and market distribution
+
+The [regional-hub revision](./business/regional-hiring-hubs-and-market-distribution.md) translates all four sections of `docs/1 Reestructuración del.txt`: twenty proposed jobs, Argentina/Türkiye hubs, six country allocations, customer/ARR ranges and two funding phases. Mermaid replaces the plaintext staffing map. It links the previous ten-job scenario and acquisition timeline without combining incompatible staffing alternatives.
+
+Source commit: `6c9daaeaf5f97d7592a16532982b693578cba2b1`; Git blob: `7e81f4ef997e320076fdf33498877078954d1395`. The destination retains the immutable original. The working TXT is replaced; Git history preserves it without renumbering the earlier 68 entries.
+
+Arithmetic separates the USD 600,000 midpoint from the USD 580,000–620,000 range, 167 pooled versus 168 separately allocated payroll-equivalent subscriptions, and USD 108,000–133,200 ARR from the rounded USD 133,000 source projection. Gross coverage is 18–22.2%, with an annual USD 466,800–492,000 gap before other costs. Salary, market and financing claims remain source assumptions; no external validation or operational action is claimed.
