@@ -20,6 +20,10 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ### `business/`
 
+- [LinkedIn contact acquisition and lead velocity](./business/linkedin-contact-acquisition-and-lead-velocity.md) — newest supplemental TXT; four capacity scenarios, net-contact distinctions and official platform-policy checks.
+
+- [Ten skilled jobs: payroll funding and B2B conversion](./business/ten-skilled-jobs-payroll-and-b2b-conversion.md) — supplemental planning scenario; all five source sections, corrected arithmetic and funding limits.
+
 - [Value architecture, financing and sustainable logistics](./business/value-architecture-and-financing.md) — additional TXT; open engineering, proposed trading/open-banking funding, B2B subscriptions and regional logistics.
 
 - [Business model and performance indicators](./business/business-model-and-kpis.md)
@@ -57,7 +61,7 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ## Research and historical source notes
 
-The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps the earlier 68 processed TXT entries and the additional value-architecture note to their English destinations.
+The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps the earlier 68 processed TXT entries and the three additional business-planning notes to their English destinations.
 
 ### Tourism and mobility
 

@@ -35,6 +35,8 @@ It envisages closing a productive cycle that connects open-source technology, ag
 
 ## Consolidation with existing project documentation
 
+The [ten-skilled-jobs scenario](ten-skilled-jobs-payroll-and-b2b-conversion.md) applies this funding proposal to payroll and B2B conversion; it does not demonstrate trading surpluses or funded runway.
+
 | Source theme | Existing documentation | How to use it |
 | --- | --- | --- |
 | Volunteer engineering and shared development | [Student volunteer and SME adoption](../strategy/student-volunteer-sme-open-source-adoption.md) | Review the collaboration model and delivery responsibilities |

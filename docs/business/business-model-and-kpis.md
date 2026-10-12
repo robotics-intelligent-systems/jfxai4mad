@@ -34,6 +34,10 @@ These are proposed measurements, not published performance results.
 
 ## Related documents
 
+- [LinkedIn contact acquisition and lead velocity](linkedin-contact-acquisition-and-lead-velocity.md) — separates channel activity, net contacts and qualified leads.
+
+- [Ten skilled jobs: payroll funding and B2B conversion](ten-skilled-jobs-payroll-and-b2b-conversion.md) — supplemental scenario separating ARR, margin and payroll funding.
+
 - [Value architecture, financing and sustainable logistics](value-architecture-and-financing.md) — supplemental ecosystem and funding hypotheses.
 - [Project scope](../product/project-scope.md)
 - [Implementation and investment roadmap](../roadmap/implementation-and-investment.md)
