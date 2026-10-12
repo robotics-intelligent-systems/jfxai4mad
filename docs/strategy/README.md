@@ -9,6 +9,8 @@ This directory is the navigation layer for long-form strategic, institutional an
 
 ## Additional planning and collaboration documents
 
+- [Regional hiring hubs and market distribution](../business/regional-hiring-hubs-and-market-distribution.md) — Argentina/Türkiye staffing revision and six-country sales allocation.
+
 - [LinkedIn contact acquisition and lead velocity](../business/linkedin-contact-acquisition-and-lead-velocity.md) — contact-building time and its relationship to sales and funding runway.
 
 - [Ten skilled jobs: payroll funding and B2B conversion](../business/ten-skilled-jobs-payroll-and-b2b-conversion.md) — Argentina/California payroll scenarios, India/Brazil allocation and proposed funding/hiring sequence.
