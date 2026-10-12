@@ -8,6 +8,8 @@
 
 ## Contents
 
+- [36. Open-minded destinations and group hospitality](#36-open-minded-destinations-and-group-hospitality)
+
 - [34. LinkedIn contact acquisition and lead velocity](#34-linkedin-contact-acquisition-and-lead-velocity)
 
 - [33. Ten skilled jobs: payroll and B2B conversion](#33-ten-skilled-jobs-payroll-and-b2b-conversion)
@@ -284,13 +286,14 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 
 ### Supplemental migrations
 
-The supplemental business register now covers four notes.
+The supplemental register covers four business notes and one tourism source review.
 
 | Source | English destination | Treatment |
 | --- | --- | --- |
 | `docs/1 Arquitectura de Valor.txt` | [Value architecture and financing](./business/value-architecture-and-financing.md) | Four sections; original retained in Git history; see section 32 |
 | `docs/Para crear y sostener.txt` | [Ten skilled jobs: payroll and B2B conversion](./business/ten-skilled-jobs-payroll-and-b2b-conversion.md) | Five sections; arithmetic reconciled; original retained in Git history; see section 33 |
 | `docs/1 Reestructuración del.txt` | [Regional hiring hubs and market distribution](./business/regional-hiring-hubs-and-market-distribution.md) | Four sections, six country allocations and funding-gap reconciliation; see section 35 |
+| `docs/Cuando se evalúan destinos.txt` | [Open-minded destinations and group hospitality](./research/tourism/open-minded-destinations-and-group-hospitality.md) | Four destination groups (six cities), all legal/hospitality/consent/family themes and three selected primary checks; see section 36 |
 | `docs/Para alcanzar los 30 000.txt` | [LinkedIn contact acquisition and lead velocity](./business/linkedin-contact-acquisition-and-lead-velocity.md) | Opening calculation, four scenarios and scaling channels; official policy checks; see section 34 |
 
 Repository documentation should link to the English Markdown paths above. Historical source filenames remain only in this migration table so Git history and earlier references can be traced. Any future plaintext source should be migrated to a descriptive English Markdown path and added to this register.
@@ -457,3 +460,9 @@ The [regional-hub revision](./business/regional-hiring-hubs-and-market-distribut
 Source commit: `6c9daaeaf5f97d7592a16532982b693578cba2b1`; Git blob: `7e81f4ef997e320076fdf33498877078954d1395`. The destination retains the immutable original. The working TXT is replaced; Git history preserves it without renumbering the earlier 68 entries.
 
 Arithmetic separates the USD 600,000 midpoint from the USD 580,000–620,000 range, 167 pooled versus 168 separately allocated payroll-equivalent subscriptions, and USD 108,000–133,200 ARR from the rounded USD 133,000 source projection. Gross coverage is 18–22.2%, with an annual USD 466,800–492,000 gap before other costs. Salary, market and financing claims remain source assumptions; no external validation or operational action is claimed.
+
+## 36. Open-minded destinations and group hospitality
+
+The [English tourism review](./research/tourism/open-minded-destinations-and-group-hospitality.md) translates the introduction, four destination groups (Amsterdam, Berlin, Tulum, Puerto Escondido, San Francisco and Portland; six cities) and all culture/law, accommodation/privacy, adulthood/consent and child-travel themes. It separates LGBTQ+ tourism evidence from ENM acceptance and qualifies universal marriage and hospitality assertions.
+
+Source commit: `ac50264ac4ec1090a4f64442a34fcbe81f74ad97`; Git blob: `2ef55606e1804fa72007616e7408ffef6f56bb7f`. The destination retains an immutable original link. The working TXT is replaced while Git history preserves it. Documentation and research indexes link the destination; the previous 68 entries are not renumbered. No travel, booking or relationship data collection was performed.

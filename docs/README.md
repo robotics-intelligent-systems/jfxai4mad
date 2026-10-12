@@ -67,6 +67,8 @@ The earlier English Markdown notes remain at `docs/` root for historical link st
 
 ### Tourism and mobility
 
+- [Open-minded destinations and group hospitality](./research/tourism/open-minded-destinations-and-group-hospitality.md) — supplemental source translation; six destinations, hospitality terms and qualified legal claims.
+
 - [Tucumán Carnival and Medellín cultural festivals](./research/tourism/tucuman-carnival-and-medellin-festivals.md) — Entry 65; regional comparison, programme checks and holiday/calendar distinctions.
 
 - [Lima–Rio flight and five-night stay](./research/tourism/lima-rio-flight-and-five-night-stay.md) — Six-day scenario, package arithmetic and qualified airport, baggage and occupancy assumptions.

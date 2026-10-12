@@ -132,3 +132,7 @@ The original is retained in Git history. `public-policy/` now contains the model
 ## Ergonomics and family-care furnishing
 
 [Ergonomic recliners and support wedges](ergonomics/ergonomic-recliners-and-support-wedges-source-review.md) processes entry 68, preserving all recliner, wedge, pregnancy/feeding and cleaning themes. Clinical/product benefits remain hypotheses; selected NHS checks distinguish supported posture from product validation and infant sleep. MAD-ERG-001 proposes an adult-rest configuration with traceable engineering evidence.
+
+## Open-minded destinations and group hospitality
+
+[Destination and hospitality source review](tourism/open-minded-destinations-and-group-hospitality.md) translates all four destination groups (six cities) and the culture/law, accommodation/privacy, adult-consent and child-travel themes. Three primary checks qualify the source; ENM rankings, universal marriage claims and provider-specific terms remain unresolved. The original is retained in Git history.
