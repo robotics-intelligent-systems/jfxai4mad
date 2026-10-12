@@ -2,11 +2,14 @@
 
 **Repository:** `robotics-intelligent-systems/jfxai4mad`  
 **Scope:** indexed documentation annex for the English `docs/*.md` sources and supporting `docs/*.jpg` infographics  
-**Editorial revision:** 11 October 2026
+**Editorial revision:** 12 October 2026
 
 > **Editorial status.** Sixty-eight plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
 
 ## Contents
+
+- [33. Ten skilled jobs: payroll and B2B conversion](#33-ten-skilled-jobs-payroll-and-b2b-conversion)
+- [32. Value architecture, financing and sustainable logistics](#32-value-architecture-financing-and-sustainable-logistics)
 
 - [31. Ergonomic recliners and support wedges](#31-ergonomic-recliners-and-support-wedges)
 
@@ -277,6 +280,13 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 
 ### Reference policy
 
+### Supplemental migrations
+
+| Source | English destination | Treatment |
+| --- | --- | --- |
+| `docs/1 Arquitectura de Valor.txt` | [Value architecture and financing](./business/value-architecture-and-financing.md) | Four sections; original retained in Git history; see section 32 |
+| `docs/Para crear y sostener.txt` | [Ten skilled jobs: payroll and B2B conversion](./business/ten-skilled-jobs-payroll-and-b2b-conversion.md) | Five sections; arithmetic reconciled; original retained in Git history; see section 33 |
+
 Repository documentation should link to the English Markdown paths above. Historical source filenames remain only in this migration table so Git history and earlier references can be traced. Any future plaintext source should be migrated to a descriptive English Markdown path and added to this register.
 
 ## 11. Additional strategy and tourism consolidation
@@ -419,3 +429,11 @@ The additional `docs/1 Arquitectura de Valor.txt` is translated and consolidated
 Original baseline commit: `fc60f3e11e842d719169b69a0cc3e49ad1bd8c40`; Git blob: `796aea5facfaadf710e1749527b3e45b00d565af`. [Immutable original](https://github.com/robotics-intelligent-systems/jfxai4mad/blob/fc60f3e11e842d719169b69a0cc3e49ad1bd8c40/docs/1%20Arquitectura%20de%20Valor.txt). The working TXT is replaced by descriptive English Markdown and remains recoverable in Git history. This supplemental migration does not renumber the earlier 68 entries.
 
 Claims about certified machines, trading-funded capital, guaranteed recurring revenue, exclusive renewable energy, composite-material benefits and elimination of venture-capital dependence are recorded as source proposals with evidence limits. No trading, funding, recruitment or transport action was performed. The documentation and strategy indexes and business-model cross-references include the new destination.
+
+## 33. Ten skilled jobs: payroll and B2B conversion
+
+The supplemental source is translated into [an English business scenario](./business/ten-skilled-jobs-payroll-and-b2b-conversion.md). Coverage includes the opening premise and all five sections: annual employee/payroll costs, the 30,000-contact funnel, India/Brazil allocation and prospect segments, payroll coverage, and the three funding/PLG/hiring proposals.
+
+Baseline commit: `cee7212d561648ab5a4dd010754eae3025c0d6c9`; original Git blob: `dee57e1ca7572fbf09060028a1485ea456545559`. The destination records an immutable original link. The TXT is replaced after translation and indexing, preserving the original in Git history without renumbering the earlier 68 entries.
+
+Arithmetic distinguishes 112.5 expected demos from the source's 112, reconciles 30 versus 32 customer scenarios, flags Brazil's base-price/higher-ARPU mismatch, and corrects 0.3% conversion to 90 customers (84 requires 0.28%). USD 115,200 ARR equals 38.4%/6.4% of the assumed payrolls before operating costs. Salary, conversion, network, market and trading-surplus assertions remain unverified. Documentation, strategy and root indexes and both related business notes link the destination. No outreach, trading, financing or hiring is performed.
