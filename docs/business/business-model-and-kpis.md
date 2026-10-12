@@ -34,6 +34,8 @@ These are proposed measurements, not published performance results.
 
 ## Related documents
 
+- [Ten skilled jobs: payroll funding and B2B conversion](ten-skilled-jobs-payroll-and-b2b-conversion.md) — supplemental scenario separating ARR, margin and payroll funding.
+
 - [Value architecture, financing and sustainable logistics](value-architecture-and-financing.md) — supplemental ecosystem and funding hypotheses.
 - [Project scope](../product/project-scope.md)
 - [Implementation and investment roadmap](../roadmap/implementation-and-investment.md)
