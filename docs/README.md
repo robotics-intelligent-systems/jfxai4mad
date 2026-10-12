@@ -36,6 +36,8 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ### `strategy/`
 
+- [TravelGirls and Worldpackers volunteer collaboration](./strategy/travelgirls-worldpackers-volunteer-collaboration.md) — supplemental proposal, corrected corporate attribution and qualified recruitment/certification claims.
+
 - [Student volunteer and SME open-source adoption strategy](./strategy/student-volunteer-sme-open-source-adoption.md)
 
 - [Tourism and young-household incentives](./strategy/tourism-and-young-household-incentives.md)

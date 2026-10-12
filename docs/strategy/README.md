@@ -9,6 +9,8 @@ This directory is the navigation layer for long-form strategic, institutional an
 
 ## Additional planning and collaboration documents
 
+- [TravelGirls and Worldpackers volunteer collaboration](travelgirls-worldpackers-volunteer-collaboration.md) — two proposed channels, four comparison criteria and selected primary-source checks; no integration implemented.
+
 - [Regional hiring hubs and market distribution](../business/regional-hiring-hubs-and-market-distribution.md) — Argentina/Türkiye staffing revision and six-country sales allocation.
 
 - [LinkedIn contact acquisition and lead velocity](../business/linkedin-contact-acquisition-and-lead-velocity.md) — contact-building time and its relationship to sales and funding runway.
