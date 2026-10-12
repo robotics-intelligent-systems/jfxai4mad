@@ -66,6 +66,8 @@ These are gross revenue comparisons. Funding coverage requires cash timing and c
 
 ## Consolidation and proposed measurements
 
+The [contact-acquisition timeline](linkedin-contact-acquisition-and-lead-velocity.md) adds the time needed to build the 30,000-contact universe. Include that acquisition period and the sales cycle in payroll runway; invitations are not net accepted contacts.
+
 Use the [business model and KPI framework](business-model-and-kpis.md) for contribution margin, the [implementation and investment roadmap](../roadmap/implementation-and-investment.md) for delivery/funding gates, and the [lean presales plan](../strategy/lean-presales-demonstrator-plan.md) for demonstrations.
 
 | Proposed measure | Definition |

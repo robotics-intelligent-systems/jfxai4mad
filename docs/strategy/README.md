@@ -9,6 +9,8 @@ This directory is the navigation layer for long-form strategic, institutional an
 
 ## Additional planning and collaboration documents
 
+- [LinkedIn contact acquisition and lead velocity](../business/linkedin-contact-acquisition-and-lead-velocity.md) — contact-building time and its relationship to sales and funding runway.
+
 - [Ten skilled jobs: payroll funding and B2B conversion](../business/ten-skilled-jobs-payroll-and-b2b-conversion.md) — Argentina/California payroll scenarios, India/Brazil allocation and proposed funding/hiring sequence.
 
 - [Value architecture, financing and sustainable logistics](../business/value-architecture-and-financing.md) — translated supplemental note; connects collaboration, monetization and logistics hypotheses to existing planning documents.
