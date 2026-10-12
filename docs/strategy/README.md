@@ -9,6 +9,8 @@ This directory is the navigation layer for long-form strategic, institutional an
 
 ## Additional planning and collaboration documents
 
+- [Barranco residential training hub](barranco-residential-training-hub-operating-model.md) — four source sections, six market allocations and explicit funding/capacity assumptions.
+
 - [TravelGirls and Worldpackers volunteer collaboration](travelgirls-worldpackers-volunteer-collaboration.md) — two proposed channels, four comparison criteria and selected primary-source checks; no integration implemented.
 
 - [Regional hiring hubs and market distribution](../business/regional-hiring-hubs-and-market-distribution.md) — Argentina/Türkiye staffing revision and six-country sales allocation.

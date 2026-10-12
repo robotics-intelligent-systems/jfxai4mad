@@ -8,6 +8,8 @@
 
 ## Contents
 
+- [38. Barranco residential training hub](#38-barranco-residential-training-hub)
+
 - [37. TravelGirls and Worldpackers volunteer collaboration](#37-travelgirls-and-worldpackers-volunteer-collaboration)
 
 - [36. Open-minded destinations and group hospitality](#36-open-minded-destinations-and-group-hospitality)
@@ -288,7 +290,7 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 
 ### Supplemental migrations
 
-The supplemental register covers four business notes, one tourism source review and one volunteer-collaboration proposal.
+The supplemental register covers four business notes, one tourism source review and two collaboration/residential-training proposals.
 
 | Source | English destination | Treatment |
 | --- | --- | --- |
@@ -297,6 +299,7 @@ The supplemental register covers four business notes, one tourism source review 
 | `docs/1 Reestructuración del.txt` | [Regional hiring hubs and market distribution](./business/regional-hiring-hubs-and-market-distribution.md) | Four sections, six country allocations and funding-gap reconciliation; see section 35 |
 | `docs/Cuando se evalúan destinos.txt` | [Open-minded destinations and group hospitality](./research/tourism/open-minded-destinations-and-group-hospitality.md) | Four destination groups (six cities), all legal/hospitality/consent/family themes and three selected primary checks; see section 36 |
 | `docs/Integración de TravelGirls.txt` | [TravelGirls and Worldpackers volunteer collaboration](./strategy/travelgirls-worldpackers-volunteer-collaboration.md) | Opening premise, full two-channel flow, both platform roles and four comparison rows; selected primary checks; see section 37 |
+| `docs/1 Modelo Operativo del.txt` | [Barranco residential training hub](./strategy/barranco-residential-training-hub-operating-model.md) | Four numbered sections, full source flow, six market/place allocations, five funnel stages and three value claims; arithmetic and primary-source qualifications; see section 38 |
 | `docs/Para alcanzar los 30 000.txt` | [LinkedIn contact acquisition and lead velocity](./business/linkedin-contact-acquisition-and-lead-velocity.md) | Opening calculation, four scenarios and scaling channels; official policy checks; see section 34 |
 
 Repository documentation should link to the English Markdown paths above. Historical source filenames remain only in this migration table so Git history and earlier references can be traced. Any future plaintext source should be migrated to a descriptive English Markdown path and added to this register.
@@ -475,3 +478,11 @@ Source commit: `ac50264ac4ec1090a4f64442a34fcbe81f74ad97`; Git blob: `2ef55606e1
 The [English strategy note](./strategy/travelgirls-worldpackers-volunteer-collaboration.md) processes the opening premise, both channel branches, GitHub/open hardware, seasonal trials and Argentina/Türkiye hubs, both role/mechanism sections and all four comparison rows. It corrects Bumble's corporate attribution, distinguishes Worldpackers membership and exchange conditions from employment, and records TravelGirls retrieval limitations. Cost, alignment, recruitment and certification claims remain hypotheses.
 
 Baseline commit: `2c107eef04c3a03d3139575fa82d3a129a80e0ec`; Git blob: `0d127101279fc1ad08fb400e77fc78629794bd95`. The destination retains an immutable source link. The working TXT is replaced while Git history preserves it, without renumbering the previous 68 entries. Documentation and strategy indexes link the destination. No outreach, integration, hosting, recruitment or machine test is performed.
+
+## 38. Barranco residential training hub
+
+The [English operating-model note](./strategy/barranco-residential-training-hub-operating-model.md) processes the property-inspired hub, all contact/activity branches, five recruitment stages, six scholarship allocations and three cost/value claims. It distinguishes contacts from applicants, beds from conversion stages and lodging/meals from complete operating cost.
+
+Source baseline: `9ccb70e2096d0a62aef6991fdfcf88192606b923`; Git blob: `a5b4cd0071ad15904ac667c17a8eaa58510e1f47`. The immutable original is linked in the destination. The working TXT is replaced while Git history preserves it, without renumbering the earlier 68 entries.
+
+450 × 66% is 297 rather than 300; a four-month cohort yields 99 average occupants at 297 annual arrivals. Exact full occupancy requires 300 four-month arrivals under no-gap steady-state assumptions. The USD 420,000–540,000 annual lodging/meal scenario is arithmetically consistent; complete funding, staffing, facility eligibility and 70% R&D savings remain unverified. Documentation/strategy indexes include the note. No recruitment, scholarship, residence or engineering operation was performed.
