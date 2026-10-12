@@ -9,6 +9,8 @@ This directory is the navigation layer for long-form strategic, institutional an
 
 ## Additional planning and collaboration documents
 
+- [Ten skilled jobs: payroll funding and B2B conversion](../business/ten-skilled-jobs-payroll-and-b2b-conversion.md) — Argentina/California payroll scenarios, India/Brazil allocation and proposed funding/hiring sequence.
+
 - [Value architecture, financing and sustainable logistics](../business/value-architecture-and-financing.md) — translated supplemental note; connects collaboration, monetization and logistics hypotheses to existing planning documents.
 
 - [Student volunteer and SME open-source adoption strategy](student-volunteer-sme-open-source-adoption.md) — three-way benefit model, two recruitment dialogues, mentored migration workflow and four success factors.
