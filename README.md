@@ -12,6 +12,7 @@ The root README is intentionally concise. Detailed material is organized by doma
 
 | Area | Primary document | Purpose |
 | --- | --- | --- |
+| Strategy | [Digital software and tourism market asymmetry](docs/strategy/digital-software-and-tourism-market-asymmetry.md) | Remote software versus physical travel, qualified regional claims and evidence-matrix task |
 | Architecture | [Odoo/Flectra → GraalPy migration](docs/architecture/odoo-graalpy-migration.md) | Runtime compatibility, C extensions, concurrency, polyglot services and migration gates |
 | Architecture | [KVM demo sandbox hosting](docs/architecture/kvm-hosting-ephemeral-demo-sandbox.md) | VPS sizing, session lifecycle, provider terms and benchmark gates |
 | Architecture | [Platform integration and AI](docs/architecture/platform-integration-ai.md) | Domain services, private AI gateway, retrieval, human review and provider adapters |
