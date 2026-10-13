@@ -78,3 +78,5 @@ Original: [Impacto de una Demo en.txt](https://github.com/robotics-intelligent-s
 Baseline commit: `08f1cd6b989865b15d7e64310c2b27ed1b96ab77`; Git blob: `e600997072eacb2d2206e2be434262558a8c94e1`.
 
 Coverage includes the opening PLG premise, both funnels, every comparison-table row, all three proposed mechanisms and all three implementation components. Arithmetic corrections and evaluation requirements are editorial additions. The descriptive English Markdown replaces the working TXT; the original remains in Git history.
+
+Hosting follow-up: [KVM infrastructure and ephemeral sandbox plan](../architecture/kvm-hosting-ephemeral-demo-sandbox.md).

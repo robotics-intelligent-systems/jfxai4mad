@@ -6,6 +6,8 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ### `architecture/`
 
+- [KVM hosting for ephemeral demo sandboxes](./architecture/kvm-hosting-ephemeral-demo-sandbox.md) — translated hosting proposal, provider checks and capacity-validation requirements.
+
 - [Tourism transport security concept](./architecture/tourism-transport-security-concept.md)
 
 - [Odoo/Flectra to GraalPy migration](./architecture/odoo-graalpy-migration.md)
