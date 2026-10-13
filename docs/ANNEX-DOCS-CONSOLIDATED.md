@@ -8,6 +8,8 @@
 
 ## Contents
 
+- [41. Italy logistics and cultural node](#41-italy-logistics-and-cultural-node)
+
 - [40. KVM hosting for ephemeral demo sandboxes](#40-kvm-hosting-for-ephemeral-demo-sandboxes)
 - [39. Interactive demo and B2B conversion](#39-interactive-demo-and-b2b-conversion)
 
@@ -503,3 +505,9 @@ Sequential conversion products are 0.02–0.075% and 1.875–3.0%; the stated 15
 The [English architecture note](./architecture/kvm-hosting-ephemeral-demo-sandbox.md) translates the opening rationale, all three KVM advantages, four sizing rows, two-sandbox source flow and Compose/Nginx/cost proposals. Selected official Hostinger, KVM and Docker checks qualify physical-resource exclusivity, finite traffic allowances, dated pricing and session-lifecycle assumptions. Concurrency and total-cost claims remain untested.
 
 Baseline commit: `acdd6e145492db744ac69c14e9f23a6704d6c864`; Git blob: `436abb436c1c3374ecdf50fac7c9da5a77d2e987`. The destination retains an immutable source link. The working TXT is replaced while Git history preserves it, without renumbering the earlier 68 entries. Root/documentation indexes and the preceding demo note link the destination. No purchase, hosting deployment or benchmark was performed.
+
+## 41. Italy logistics and cultural node
+
+The [English strategy note](./strategy/italy-logistics-cultural-node-turkiye-argentina.md) translates the opening premise, both numbered sections, the corridor/training flow and all transport, hardware, talent, seasonal-test and open-engineering proposals. Selected DFDS, Ports of Genoa and Italian foreign-ministry references qualify route and mobility claims. “Axis–Node Treaty,” “perfect bridge” and “free zone” are identified as proposal language without a demonstrated treaty, optimal route or exemption.
+
+Baseline commit: `fd30992ed3476b270fe8c04674bd7433a4a951b7`; original Git blob: `c6140f2110735083c504c0a026cb531d1a01173d`. The destination retains an immutable original link. Root, documentation and strategy indexes link the note. The working TXT is replaced while Git history preserves it, without renumbering earlier entries. No shipment, travel, partnership, recruitment or pilot was performed.
