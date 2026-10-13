@@ -20,6 +20,8 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ### `business/`
 
+- [Interactive demo, B2B conversion and sandbox plan](./business/interactive-demo-b2b-conversion-and-sandbox-plan.md) — supplemental PLG note, corrected funnel arithmetic and proposed evaluation.
+
 - [Regional hiring hubs and market distribution](./business/regional-hiring-hubs-and-market-distribution.md) — twenty-job revision, six markets and reconciled funding gap.
 
 - [LinkedIn contact acquisition and lead velocity](./business/linkedin-contact-acquisition-and-lead-velocity.md) — newest supplemental TXT; four capacity scenarios, net-contact distinctions and official platform-policy checks.

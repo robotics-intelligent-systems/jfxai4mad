@@ -9,6 +9,8 @@ This directory is the navigation layer for long-form strategic, institutional an
 
 ## Additional planning and collaboration documents
 
+- [Interactive demo, B2B conversion and sandbox plan](../business/interactive-demo-b2b-conversion-and-sandbox-plan.md) — source scenarios, arithmetic reconciliation and separate commercial/scholarship funnels.
+
 - [Barranco residential training hub](barranco-residential-training-hub-operating-model.md) — four source sections, six market allocations and explicit funding/capacity assumptions.
 
 - [TravelGirls and Worldpackers volunteer collaboration](travelgirls-worldpackers-volunteer-collaboration.md) — two proposed channels, four comparison criteria and selected primary-source checks; no integration implemented.

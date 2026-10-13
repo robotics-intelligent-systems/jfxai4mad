@@ -21,6 +21,7 @@ The root README is intentionally concise. Detailed material is organized by doma
 | Business | [Regional hiring hubs and market distribution](docs/business/regional-hiring-hubs-and-market-distribution.md) | Twenty-job Argentina/Türkiye revision, six-country allocation and payroll funding gap |
 | Business | [LinkedIn contact acquisition and lead velocity](docs/business/linkedin-contact-acquisition-and-lead-velocity.md) | Contact-building timeline, capacity scenarios and platform-policy qualifications |
 | Business | [Ten skilled jobs: payroll and B2B conversion](docs/business/ten-skilled-jobs-payroll-and-b2b-conversion.md) | Supplemental payroll, sales-funnel and funding scenario with arithmetic corrections |
+| Business | [Interactive demo and B2B conversion](docs/business/interactive-demo-b2b-conversion-and-sandbox-plan.md) | PLG hypotheses, corrected funnel arithmetic and synthetic sandbox evaluation |
 | Business | [Business model and KPIs](docs/business/business-model-and-kpis.md) | Revenue hypotheses, metrics and evaluation rules |
 | Roadmap | [Implementation and investment](docs/roadmap/implementation-and-investment.md) | Delivery phases, architecture-migration track and budgeting policy |
 | Strategy | [Multisector territorial tourism development](docs/strategy/multisector-territorial-tourism-development-flow.md) | Five-sector economic flow, circular-resource proposals and four measurable territorial KPIs |

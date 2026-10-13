@@ -486,3 +486,11 @@ The [English operating-model note](./strategy/barranco-residential-training-hub-
 Source baseline: `9ccb70e2096d0a62aef6991fdfcf88192606b923`; Git blob: `a5b4cd0071ad15904ac667c17a8eaa58510e1f47`. The immutable original is linked in the destination. The working TXT is replaced while Git history preserves it, without renumbering the earlier 68 entries.
 
 450 × 66% is 297 rather than 300; a four-month cohort yields 99 average occupants at 297 annual arrivals. Exact full occupancy requires 300 four-month arrivals under no-gap steady-state assumptions. The USD 420,000–540,000 annual lodging/meal scenario is arithmetically consistent; complete funding, staffing, facility eligibility and 70% R&D savings remain unverified. Documentation/strategy indexes include the note. No recruitment, scholarship, residence or engineering operation was performed.
+
+## 39. Interactive demo and B2B conversion
+
+The [English business note](./business/interactive-demo-b2b-conversion-and-sandbox-plan.md) covers the opening PLG premise, both sequential funnels, all four metric rows, three ecosystem mechanisms and three implementation components. It distinguishes customers, activation and scholarship acceptance and identifies every performance figure as an unverified source scenario.
+
+Baseline commit: `08f1cd6b989865b15d7e64310c2b27ed1b96ab77`; original Git blob: `e600997072eacb2d2206e2be434262558a8c94e1`. The destination retains an immutable original link. The working TXT is replaced while Git history preserves it, without renumbering the earlier 68 entries.
+
+Sequential conversion products are 0.02–0.075% and 1.875–3.0%; the stated 15–30× ratio belongs to a different rounded summary scenario. Response-rate and time-reduction arithmetic is qualified. Root, documentation and strategy indexes and the presales note link the destination. No experiment, outreach, recruitment or sandbox deployment was performed.
