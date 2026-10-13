@@ -40,6 +40,8 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ### `strategy/`
 
+- [Italy logistics and cultural node](./strategy/italy-logistics-cultural-node-turkiye-argentina.md) — translated Türkiye–Argentina corridor proposal, selected route checks and pilot evaluation.
+
 - [Barranco residential training hub](./strategy/barranco-residential-training-hub-operating-model.md) — 100-place source scenario, corrected conversion/occupancy arithmetic and qualified cost/value claims.
 
 - [TravelGirls and Worldpackers volunteer collaboration](./strategy/travelgirls-worldpackers-volunteer-collaboration.md) — supplemental proposal, corrected corporate attribution and qualified recruitment/certification claims.
