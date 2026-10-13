@@ -42,6 +42,8 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ### `strategy/`
 
+- [Digital software and tourism market asymmetry](./strategy/digital-software-and-tourism-market-asymmetry.md) - supplemental comparative note; FOSS costs, digital regulation, mobility and air-service distinctions.
+
 - [Italy logistics and cultural node](./strategy/italy-logistics-cultural-node-turkiye-argentina.md) — translated Türkiye–Argentina corridor proposal, selected route checks and pilot evaluation.
 
 - [Barranco residential training hub](./strategy/barranco-residential-training-hub-operating-model.md) — 100-place source scenario, corrected conversion/occupancy arithmetic and qualified cost/value claims.

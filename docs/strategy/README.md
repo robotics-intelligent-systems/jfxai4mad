@@ -9,6 +9,8 @@ This directory is the navigation layer for long-form strategic, institutional an
 
 ## Additional planning and collaboration documents
 
+- [Digital software and tourism market asymmetry](digital-software-and-tourism-market-asymmetry.md) - five source sections, qualified regional hypotheses and selected primary-source checks.
+
 - [Italy logistics and cultural node](italy-logistics-cultural-node-turkiye-argentina.md) — Türkiye–Italy–Argentina concept, freight/mobility distinctions and seasonal open-engineering pilots.
 
 - [Interactive demo, B2B conversion and sandbox plan](../business/interactive-demo-b2b-conversion-and-sandbox-plan.md) — source scenarios, arithmetic reconciliation and separate commercial/scholarship funnels.
