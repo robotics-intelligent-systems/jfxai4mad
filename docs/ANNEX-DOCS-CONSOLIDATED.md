@@ -8,6 +8,9 @@
 
 ## Contents
 
+- [40. KVM hosting for ephemeral demo sandboxes](#40-kvm-hosting-for-ephemeral-demo-sandboxes)
+- [39. Interactive demo and B2B conversion](#39-interactive-demo-and-b2b-conversion)
+
 - [38. Barranco residential training hub](#38-barranco-residential-training-hub)
 
 - [37. TravelGirls and Worldpackers volunteer collaboration](#37-travelgirls-and-worldpackers-volunteer-collaboration)
@@ -494,3 +497,9 @@ The [English business note](./business/interactive-demo-b2b-conversion-and-sandb
 Baseline commit: `08f1cd6b989865b15d7e64310c2b27ed1b96ab77`; original Git blob: `e600997072eacb2d2206e2be434262558a8c94e1`. The destination retains an immutable original link. The working TXT is replaced while Git history preserves it, without renumbering the earlier 68 entries.
 
 Sequential conversion products are 0.02–0.075% and 1.875–3.0%; the stated 15–30× ratio belongs to a different rounded summary scenario. Response-rate and time-reduction arithmetic is qualified. Root, documentation and strategy indexes and the presales note link the destination. No experiment, outreach, recruitment or sandbox deployment was performed.
+
+## 40. KVM hosting for ephemeral demo sandboxes
+
+The [English architecture note](./architecture/kvm-hosting-ephemeral-demo-sandbox.md) translates the opening rationale, all three KVM advantages, four sizing rows, two-sandbox source flow and Compose/Nginx/cost proposals. Selected official Hostinger, KVM and Docker checks qualify physical-resource exclusivity, finite traffic allowances, dated pricing and session-lifecycle assumptions. Concurrency and total-cost claims remain untested.
+
+Baseline commit: `acdd6e145492db744ac69c14e9f23a6704d6c864`; Git blob: `436abb436c1c3374ecdf50fac7c9da5a77d2e987`. The destination retains an immutable source link. The working TXT is replaced while Git history preserves it, without renumbering the earlier 68 entries. Root/documentation indexes and the preceding demo note link the destination. No purchase, hosting deployment or benchmark was performed.
