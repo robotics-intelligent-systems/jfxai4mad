@@ -146,3 +146,5 @@ Related planning: [portfolio prioritization and delivery](portfolio-prioritizati
 and [business metrics](../business/business-model-and-kpis.md).
 
 Source mapping is recorded in the [migration register](../ANNEX-DOCS-CONSOLIDATED.md#10-complete-migration-and-translation-register).
+
+Related supplemental analysis: [interactive demo conversion and sandbox plan](../business/interactive-demo-b2b-conversion-and-sandbox-plan.md).
