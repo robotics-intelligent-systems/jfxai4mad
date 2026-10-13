@@ -19,6 +19,7 @@ The root README is intentionally concise. Detailed material is organized by doma
 | Product | [Valles de Alborada hybrid residence](docs/product/valles-de-alborada-hybrid-residence.md) | Residential concept, shared infrastructure and optional rental operations |
 | Strategy | [Modern cooperative settlement evaluation](docs/strategy/modern-cooperative-settlement-evaluation.md) | Historical analogy, candidate regions, assumptions and evaluation gates |
 | Product | [Requirements and consent](docs/product/requirements-and-consent.md) | Evidence-to-requirement rules, granular consent and sensitive-inference restrictions |
+| Business | [LATAM opportunity segmentation and conversion](docs/business/latam-opportunity-segmentation-and-conversion-scenario.md) | 30,000-opportunity scenario, corrected N-11 terminology and weighted CVR |
 | Business | [Regional hiring hubs and market distribution](docs/business/regional-hiring-hubs-and-market-distribution.md) | Twenty-job Argentina/Türkiye revision, six-country allocation and payroll funding gap |
 | Business | [LinkedIn contact acquisition and lead velocity](docs/business/linkedin-contact-acquisition-and-lead-velocity.md) | Contact-building timeline, capacity scenarios and platform-policy qualifications |
 | Business | [Ten skilled jobs: payroll and B2B conversion](docs/business/ten-skilled-jobs-payroll-and-b2b-conversion.md) | Supplemental payroll, sales-funnel and funding scenario with arithmetic corrections |

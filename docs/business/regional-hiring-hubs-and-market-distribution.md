@@ -94,3 +94,7 @@ Use the [business KPI framework](business-model-and-kpis.md) to measure unique c
 The working TXT is replaced with English Markdown; Git history preserves the original. No hiring, outreach, trading or financing is performed.
 
 [Documentation index](../README.md) · [Consolidated annex](../ANNEX-DOCS-CONSOLIDATED.md#35-regional-hiring-hubs-and-market-distribution)
+
+## Separate LATAM-only scenario
+
+The later [30,000-opportunity LATAM segmentation note](latam-opportunity-segmentation-and-conversion-scenario.md) uses a different geographic universe and an undefined conversion event. Its modeled 6.725% weighted CVR must not replace this note’s contact-to-paid assumptions or be used directly for payroll/ARR projections.

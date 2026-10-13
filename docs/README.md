@@ -22,6 +22,8 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ### `business/`
 
+- [LATAM opportunity segmentation and conversion](./business/latam-opportunity-segmentation-and-conversion-scenario.md) — supplemental scenario; country-group correction, exact weighted arithmetic and measurement gates.
+
 - [Interactive demo, B2B conversion and sandbox plan](./business/interactive-demo-b2b-conversion-and-sandbox-plan.md) — supplemental PLG note, corrected funnel arithmetic and proposed evaluation.
 
 - [Regional hiring hubs and market distribution](./business/regional-hiring-hubs-and-market-distribution.md) — twenty-job revision, six markets and reconciled funding gap.
