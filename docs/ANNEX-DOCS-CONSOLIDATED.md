@@ -2,11 +2,14 @@
 
 **Repository:** `robotics-intelligent-systems/jfxai4mad`  
 **Scope:** indexed documentation annex for the English `docs/*.md` sources and supporting `docs/*.jpg` infographics  
-**Editorial revision:** 12 October 2026
+**Editorial revision:** 14 October 2026
 
 > **Editorial status.** Sixty-eight plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
 
 ## Contents
+
+- [45. Country workforce profiles for women in STEM](#45-country-workforce-profiles-for-women-in-stem)
+- [44. Women in the STEM education-to-career pipeline](#44-women-in-the-stem-education-to-career-pipeline)
 
 - [41. Italy logistics and cultural node](#41-italy-logistics-and-cultural-node)
 
@@ -295,7 +298,7 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 
 ### Supplemental migrations
 
-The supplemental register covers four business notes, one tourism source review and two collaboration/residential-training proposals.
+The supplemental register covers business, tourism, collaboration, workforce and other additional source notes.
 
 | Source | English destination | Treatment |
 | --- | --- | --- |
@@ -306,6 +309,8 @@ The supplemental register covers four business notes, one tourism source review 
 | `docs/Integración de TravelGirls.txt` | [TravelGirls and Worldpackers volunteer collaboration](./strategy/travelgirls-worldpackers-volunteer-collaboration.md) | Opening premise, full two-channel flow, both platform roles and four comparison rows; selected primary checks; see section 37 |
 | `docs/1 Modelo Operativo del.txt` | [Barranco residential training hub](./strategy/barranco-residential-training-hub-operating-model.md) | Four numbered sections, full source flow, six market/place allocations, five funnel stages and three value claims; arithmetic and primary-source qualifications; see section 38 |
 | `docs/Para alcanzar los 30 000.txt` | [LinkedIn contact acquisition and lead velocity](./business/linkedin-contact-acquisition-and-lead-velocity.md) | Opening calculation, four scenarios and scaling channels; official policy checks; see section 34 |
+| `docs/El análisis de mujeres.txt` | [Women in the STEM education-to-career pipeline](./research/workforce/women-in-stem-pipeline-and-interventions.md) | Global indicators, all inherited figures and intervention proposals; unsupported claims qualified; see section 44 |
+| `docs/El universo de recursos.txt` | [Country workforce profiles for women in STEM](./research/workforce/country-workforce-profiles-women-stem.md) | Seven country profiles and all specialty/age claims retained as hypotheses; comparable-data plan; see section 45 |
 
 Repository documentation should link to the English Markdown paths above. Historical source filenames remain only in this migration table so Git history and earlier references can be traced. Any future plaintext source should be migrated to a descriptive English Markdown path and added to this register.
 
@@ -523,3 +528,16 @@ Baseline: `88545f7bce1541d3c39be54d23f88e34ffb0adbc`; original blob: `72f350986a
 The [English strategy note](./strategy/digital-software-and-tourism-market-asymmetry.md) processes the introduction, all five source sections, both diagram branches, three software and three tourism mechanisms, four comparison dimensions and three strategic conclusions. Mermaid replaces the plaintext diagram. GNU, WTO, EU Council, U.S. State Department and DOT references qualify zero-cost FOSS, almost absent digital regulation, unrestricted mobility and conflation of trade, aviation, visa and payment arrangements. Regional dominance and spending concentration remain unverified source hypotheses.
 
 Baseline: `ce5c79cebb0b7d1945cd4a34c9c9f28e32b6d28c`; original blob: `c6a02c08f359a8ae90fa7471e39cbb0797b8b987`. The destination preserves an immutable original link. The working TXT is replaced while Git history preserves it, without renumbering earlier entries. Root, documentation and strategy indexes link the note. MAD-ASYM-001 defines a country/corridor evidence matrix; no hiring, outreach, negotiation, booking or travel is performed.
+
+
+## 44. Women in the STEM education-to-career pipeline
+
+The [English evidence note](./research/workforce/women-in-stem-pipeline-and-interventions.md) translates the opening, global participation figures, retention themes and all three intervention recommendations. UNESCO supports the 35% STEM-graduate figure and the cited 26% data/AI workforce figure, but those have different denominators. The 79% interest, 16% degree-choice, 30% economic-impact and 12%/27.5% leadership comparisons lack traceable definitions or sources and remain unverified. The 25–35 age threshold is not established. MAD-STEM-001 defines a dated, denominator-aware evidence matrix.
+
+Baseline commit: `6554f480e71e24d96edd11e1bc76454480bda520`; original Git blob: `6ffcc8636e3d009ddc9af7f95f07b38ba73717f5`. The immutable original is linked in the destination; the working TXT is removed while Git history preserves it. No personal data, recruitment or intervention evaluation was performed.
+
+## 45. Country workforce profiles for women in STEM
+
+The [English research note](./research/workforce/country-workforce-profiles-women-stem.md) translates the seven-country specialty table, country rankings, claimed enrollment/employment percentages and three age bands. Because the source supplies no citations, years, occupational definitions or denominators, every country-specific ranking and figure is marked unverified. UNESCO UIS and ILOSTAT are identified as starting points for a comparable-data matrix; their education, research and employment indicators are kept separate. MAD-STEM-002 proposes the seven-country evidence task. No country-level hiring or sourcing decision was made.
+
+Baseline commit: `6554f480e71e24d96edd11e1bc76454480bda520`; original Git blob: `334d9e7d1bbaa1f77ad826d8cf50ce718ed24bb3`. The immutable original is linked in the destination; the working TXT is removed while Git history preserves it.

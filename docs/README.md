@@ -77,7 +77,7 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 ## Research and historical source notes
 
-The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps the earlier 68 processed TXT entries and the four additional business-planning notes to their English destinations.
+The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps the earlier 68 processed TXT entries and supplemental migrations to their English destinations.
 
 ### Tourism and mobility
 
@@ -114,6 +114,11 @@ The earlier English Markdown notes remain at `docs/` root for historical link st
 - [Peru and Colombia inbound-tourism comparison](./peru-colombia-inbound-tourism-comparison.md)
 - [Argentina inbound-tourism origin markets](./argentina-inbound-tourism-origin-markets.md)
 - [International dating agencies and LATAM remote work](./international-dating-agencies-and-latam-remote-work.md)
+
+### STEM education and workforce research
+
+- [Women in the STEM education-to-career pipeline](./research/workforce/women-in-stem-pipeline-and-interventions.md) — global indicators, source-claim qualifications and proposed interventions.
+- [Country workforce profiles for women in STEM](./research/workforce/country-workforce-profiles-women-stem.md) — seven-country claims preserved as hypotheses with a comparable-data plan.
 
 ### Sports science and anthropometry
 
