@@ -15,6 +15,7 @@ The root README is intentionally concise. Detailed material is organized by doma
 | Strategy | [Digital software and tourism market asymmetry](docs/strategy/digital-software-and-tourism-market-asymmetry.md) | Remote software versus physical travel, qualified regional claims and evidence-matrix task |
 | Architecture | [Odoo/Flectra → GraalPy migration](docs/architecture/odoo-graalpy-migration.md) | Runtime compatibility, C extensions, concurrency, polyglot services and migration gates |
 | Architecture | [KVM demo sandbox hosting](docs/architecture/kvm-hosting-ephemeral-demo-sandbox.md) | VPS sizing, session lifecycle, provider terms and benchmark gates |
+| Architecture | [Local Docker demo workflow](docs/architecture/github-docker-local-demo-workflow.md) | GitHub checkout, Compose/Dockerfile startup, development sync and local safeguards |
 | Architecture | [Platform integration and AI](docs/architecture/platform-integration-ai.md) | Domain services, private AI gateway, retrieval, human review and provider adapters |
 | Product | [Consolidated project scope](docs/product/project-scope.md) | Platform domains, boundaries and implementation-status language |
 | Product | [Valles de Alborada hybrid residence](docs/product/valles-de-alborada-hybrid-residence.md) | Residential concept, shared infrastructure and optional rental operations |

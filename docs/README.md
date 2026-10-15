@@ -7,6 +7,7 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 ### `architecture/`
 
 - [KVM hosting for ephemeral demo sandboxes](./architecture/kvm-hosting-ephemeral-demo-sandbox.md) — translated hosting proposal, provider checks and capacity-validation requirements.
+- [Running a GitHub application demo locally with Docker](./architecture/github-docker-local-demo-workflow.md) — Compose and Dockerfile workflows, development sync and local security checks.
 
 - [Tourism transport security concept](./architecture/tourism-transport-security-concept.md)
 
