@@ -1,0 +1,52 @@
+El estudio grupal en Discord se ha posicionado como un estándar para estudiantes y equipos de trabajo gracias a la combinación de comunicación en vivo, canales estructurados y herramientas de automatización.
+
+🛠️ Ventajas Principales de Usar Discord para Estudiar
+Comunidad y Accountability (Responsabilidad mutua): Saber que hay otras personas conectadas estudiando al mismo tiempo aumenta la motivación y reduce la procrastinación.
+
+Flexibilidad de formatos: Combina texto, notas de voz, videoconferencia, pantalla compartida y transmisión de aplicaciones en un solo lugar.
+
+Separación de ambientes: Permite estructurar un servidor con áreas de silencio absoluto, áreas de debate y zonas de descanso.
+
+📐 Estructura Recomendada para un Servidor de Estudio
+Para que un servidor sea funcional y no caiga en el desorden, se suele organizar en las siguientes categorías y canales:
+
+📁 INFORMACIÓN Y NORMAS
+ ├── 📜 #reglas
+ ├── 📢 #anuncios
+ └── 📑 #recursos-y-apuntes
+
+📁 ESTUDIO EN SILENCIO (BIBLIOTECA VIRTUAL)
+ ├── 🔇 Salón en Silencio (Cámara On / Mute)
+ └── ⏱️ Pomodoro 25/5 (Con bot de audio)
+
+📁 SALAS DE TRABAJO ACTIVO
+ ├── 🗣️ Mesa de Debate 1 (Voz)
+ ├── 🗣️ Mesa de Debate 2 (Voz)
+ └── ❓ #dudas-y-ejercicios (Texto)
+
+📁 DESCANSO Y SOCIAL
+ ├── ☕ Cafetería (Voz libre)
+ └── 💬 #chat-general
+🤖 Bots Esenciales para Grupos de Estudio
+Bots de Pomodoro y Productividad (ej. StudyLymics, Study Bot):
+
+Automatizan intervalos de trabajo (25 min) y descanso (5 min).
+
+Llevan un registro del tiempo total estudiado por cada miembro y generan estadísticas.
+
+Forest Bot:
+
+Se integra con la aplicación Forest. Permite iniciar sesiones conjuntas donde los miembros "plantan árboles virtuales" que crecen mientras no usan el teléfono ni se distraen.
+
+Bots de Organización de Roles (ej. Carl-bot, Reaction Roles):
+
+Permiten que los usuarios elijan sus materias, cursos o carreras para recibir notificaciones específicas o acceder a canales temáticos ocultos.
+
+👥 Opciones para Unirse a Servidores Existentes
+Si prefieres unirte a comunidades globales ya establecidas en lugar de crear la tuya:
+
+Study Together: Es la comunidad pública de estudio más grande del mundo en Discord, con salas 24/7, temporizadores y eventos comunitarios.
+
+StudyStream: Centrado principalmente en salas de videoconferencia con enfoque en "Estudia Conmigo" (Study With Me).
+
+Servidores temáticos en español: Existen comunidades hispanohablantes dedicadas a áreas específicas como programación, medicina, idiomas (inglés, francés, etc.) o preparación preuniversitaria.
