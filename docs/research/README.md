@@ -42,6 +42,10 @@ by the documentation migration.
 
 [Female athlete anthropometry source review](sports-science/female-athlete-anthropometry-source-review.md) processes entry 67: the introduction, three numbered themes, five geographic examples and three summary rows. Regional rankings and genetic explanations remain unsupported. Selected primary checks distinguish measured sport samples, breast/torso dimensions and assessment quality. MAD-ANTH-001 proposes an aggregate evidence matrix; no dataset or measurement service is implemented.
 
+## Online study communities
+
+[Discord study groups](education/discord-study-groups-and-server-design.md) consolidates two overlapping Spanish source notes into a proposed channel layout and moderation/privacy checklist. Provider and bot capabilities are bounded to selected official-page checks; popularity, learning-effect and third-party integration claims remain unverified. MAD-DISC-001 defines a possible minimal, voluntary pilot.
+
 ## Current thematic groups
 
 - [Sports science and anthropometry](../README.md#sports-science-and-anthropometry)
