@@ -42,6 +42,8 @@ by the documentation migration.
 
 [Female athlete anthropometry source review](sports-science/female-athlete-anthropometry-source-review.md) processes entry 67: the introduction, three numbered themes, five geographic examples and three summary rows. Regional rankings and genetic explanations remain unsupported. Selected primary checks distinguish measured sport samples, breast/torso dimensions and assessment quality. MAD-ANTH-001 proposes an aggregate evidence matrix; no dataset or measurement service is implemented.
 
+[Male strength-athlete nutrition and hormones over 40](sports-science/male-strength-athlete-nutrition-and-hormones-over-40.md) reviews the supplemental source on protein, micronutrients, herbal products, DHEA, TRT, anabolic steroids/SARMs, creatine, omega-3, collagen and testing. Fixed doses and broad age-related claims are qualified against selected clinical and nutrition references; this is general education, not a treatment plan.
+
 ## Online study communities
 
 [Discord study groups](education/discord-study-groups-and-server-design.md) consolidates two overlapping Spanish source notes into a proposed channel layout and moderation/privacy checklist. Provider and bot capabilities are bounded to selected official-page checks; popularity, learning-effect and third-party integration claims remain unverified. MAD-DISC-001 defines a possible minimal, voluntary pilot.
@@ -76,7 +78,8 @@ docs/research/
 │   ├── inbound-origin-market-research.md
 │   └── sport-fishing-and-hunting-tourism.md
 ├── sports-science/
-│   └── female-athlete-anthropometry-source-review.md
+│   ├── female-athlete-anthropometry-source-review.md
+│   └── male-strength-athlete-nutrition-and-hormones-over-40.md
 ├── platforms/
 │   └── match-group-and-peer-marriage-conversion.md
 ├── adult-relationships/
