@@ -124,6 +124,10 @@ The earlier English Markdown notes remain at `docs/` root for historical link st
 
 - [Discord study groups: server design and community resources](./research/education/discord-study-groups-and-server-design.md) — consolidated two-source guide; suggested channel layout, optional participation, moderation and unverified bot/community claims.
 
+### Software communities and distribution
+
+- [Publishing an open-source game engine through Discord](./research/software/open-source-game-engine-discord-publishing.md) — consolidated translation of two supplemental TXT drafts; community and Activity routes, with selected official platform checks.
+
 ### Sports science and anthropometry
 
 - [Female athlete anthropometry: geographic claims and measurement review](./research/sports-science/female-athlete-anthropometry-source-review.md) — Entry 67; complete source coverage, regional-claim qualifications, measurement distinctions and three primary references.
