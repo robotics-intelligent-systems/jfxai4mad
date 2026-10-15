@@ -128,6 +128,8 @@ The earlier English Markdown notes remain at `docs/` root for historical link st
 
 - [Publishing an open-source game engine through Discord](./research/software/open-source-game-engine-discord-publishing.md) — consolidated translation of two supplemental TXT drafts; community and Activity routes, with selected official platform checks.
 
+- [Interactive scientific simulations in WebGL](./research/software/interactive-scientific-simulations-webgl.md) — supplemental source review; scientific-model, performance, precision, compatibility and WebGPU claims qualified.
+
 ### Sports science and anthropometry
 
 - [Female athlete anthropometry: geographic claims and measurement review](./research/sports-science/female-athlete-anthropometry-source-review.md) — Entry 67; complete source coverage, regional-claim qualifications, measurement distinctions and three primary references.

@@ -557,3 +557,10 @@ Discord's official documentation supports the bounded checks for category/channe
 The two additional source files, `docs/Publicar un motor de videojuegos.txt` and `docs/estrategias principales.txt`, are consolidated into [an English software-community and distribution note](./research/software/open-source-game-engine-discord-publishing.md). Coverage includes the community-server route, recommended channels, repository event notifications, the web-application prerequisite for Activities, Developer Portal setup, SDK integration, testing and publication. Selected official Discord and GitHub references qualify platform-specific claims; no server, webhook, application or integration was created.
 
 Both originals were added in source commit `7a98dc96b0c9b7f11d19f08c6c62d1d888265d45` and remain in Git history. Their working TXT copies are removed after consolidation. This supplemental migration does not renumber the earlier 68 entries.
+
+
+## 48. Interactive scientific simulations in WebGL
+
+The supplemental source `docs/Las simulaciones científicas.txt` is consolidated into [an English WebGL and scientific-visualization note](./research/software/interactive-scientific-simulations-webgl.md). It covers browser rendering, the proposed libraries and examples, precision, hardware variability, and the distinction between visual output and scientific computation. Unsupported guarantees about particle counts, frame rate, universal access and learning impact are qualified. The PhET example is corrected: PhET documents its simulations as HTML5; that does not establish that they use WebGL.
+
+MDN references support the bounded WebGL/WebGPU and precision claims; NGL Viewer documents its molecular-visualization use case. The source was added in commit `21ae9fadeaf372def3f6f80f6a60ef4489f31eec` (blob `0a203b1fe333cf77754ec9b4bcfc289ddfb43fc9`) and remains in Git history. The working TXT is removed after consolidation. No simulation or performance/learning evaluation was conducted. This supplemental migration does not renumber the earlier 68 entries.
