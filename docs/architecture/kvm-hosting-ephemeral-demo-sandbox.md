@@ -58,7 +58,7 @@ Measure one representative session's peak memory, CPU, disk growth and network t
 
 Test session separation, queue behavior, restart/orphan recovery and data reset using synthetic inputs. Report the tested capacity and total monthly cost before adopting “dozens of users” or a savings claim. Define browser/device coverage and client-side versus server-side rendering explicitly.
 
-Related planning: [interactive demo conversion](../business/interactive-demo-b2b-conversion-and-sandbox-plan.md) and [lean presales demonstrator](../strategy/lean-presales-demonstrator-plan.md).
+Related planning: [interactive demo conversion](../business/interactive-demo-b2b-conversion-and-sandbox-plan.md) and [lean presales demonstrator](../strategy/lean-presales-demonstrator-plan.md). For scientific visualization specifically, see the [WebGL source review](../research/software/interactive-scientific-simulations-webgl.md).
 
 ## Source and coverage
 
