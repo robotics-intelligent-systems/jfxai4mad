@@ -54,6 +54,7 @@ The root README is intentionally concise. Detailed material is organized by doma
 | Research | [Natality-incentive model proposal](docs/research/public-policy/natality-incentive-probability-model.md) | Source Bayesian sketch, aggregate policy modeling and validation limits |
 | Research | [Female athlete anthropometry](docs/research/sports-science/female-athlete-anthropometry-source-review.md) | Regional source claims, sport-specific evidence, measurement distinctions and proposed aggregate review |
 | Research | [Male strength-athlete nutrition and hormones over 40](docs/research/sports-science/male-strength-athlete-nutrition-and-hormones-over-40.md) | Evidence review of protein, supplements, TRT and unsupported age-related claims |
+| Reference | [Extended family relationships by marriage](docs/family-kinship-terms.md) | Descriptive glossary of extended in-law relationships; terminology varies by language and context |
 | Research | [Ergonomic recliners and support wedges](docs/research/ergonomics/ergonomic-recliners-and-support-wedges-source-review.md) | Entry 68; source review, six proposed requirements and adult-rest verification task |
 | Research | [Women in the STEM education-to-career pipeline](docs/research/workforce/women-in-stem-pipeline-and-interventions.md) | UNESCO indicators, qualified inherited claims and proposed interventions |
 | Research | [Country workforce profiles for women in STEM](docs/research/workforce/country-workforce-profiles-women-stem.md) | Seven-country hypotheses and comparable-data plan; rankings remain unverified |
