@@ -134,6 +134,7 @@ The earlier English Markdown notes remain at `docs/` root for historical link st
 ### Sports science and anthropometry
 
 - [Female athlete anthropometry: geographic claims and measurement review](./research/sports-science/female-athlete-anthropometry-source-review.md) — Entry 67; complete source coverage, regional-claim qualifications, measurement distinctions and three primary references.
+- [Male strength-athlete nutrition and hormones over 40](./research/sports-science/male-strength-athlete-nutrition-and-hormones-over-40.md) — supplemental TXT review; protein and supplement claims, TRT diagnosis and safety evidence qualified.
 
 ### Destination weddings, education and professional development
 
