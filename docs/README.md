@@ -80,6 +80,10 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 The earlier English Markdown notes remain at `docs/` root for historical link stability. Additional tourism research is consolidated under `research/tourism/`; new material belongs in thematic subdirectories. The migration register maps the earlier 68 processed TXT entries and supplemental migrations to their English destinations.
 
+### Family terminology
+
+- [Extended family relationships by marriage](./family-kinship-terms.md) — descriptive examples of extended in-law relationships, with usage and legal scope qualified.
+
 ### Tourism and mobility
 
 - [Open-minded destinations and group hospitality](./research/tourism/open-minded-destinations-and-group-hospitality.md) — supplemental source translation; six destinations, hospitality terms and qualified legal claims.
