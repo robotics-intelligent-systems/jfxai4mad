@@ -8,6 +8,7 @@
 
 ## Contents
 
+- [50. Male strength-athlete nutrition and hormones over 40](#50-male-strength-athlete-nutrition-and-hormones-over-40)
 - [49. Local Docker demo workflow](#49-local-docker-demo-workflow)
 - [45. Country workforce profiles for women in STEM](#45-country-workforce-profiles-for-women-in-stem)
 - [44. Women in the STEM education-to-career pipeline](#44-women-in-the-stem-education-to-career-pipeline)
@@ -299,10 +300,11 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 
 ### Supplemental migrations
 
-The supplemental register covers business, tourism, collaboration, workforce and other additional source notes.
+The supplemental register covers business, tourism, collaboration, workforce, sports nutrition and other additional source notes.
 
 | Source | English destination | Treatment |
 | --- | --- | --- |
+| `docs/A partir de los 40 años.txt` | [Male strength-athlete nutrition and hormones over 40](./research/sports-science/male-strength-athlete-nutrition-and-hormones-over-40.md) | Protein, micronutrient, herb, hormone, TRT and ergogenic-aid claims reviewed; fixed doses and clinical assertions qualified; immutable original retained in Git history; see section 50 |
 | `docs/1 Arquitectura de Valor.txt` | [Value architecture and financing](./business/value-architecture-and-financing.md) | Four sections; original retained in Git history; see section 32 |
 | `docs/Para crear y sostener.txt` | [Ten skilled jobs: payroll and B2B conversion](./business/ten-skilled-jobs-payroll-and-b2b-conversion.md) | Five sections; arithmetic reconciled; original retained in Git history; see section 33 |
 | `docs/1 Reestructuración del.txt` | [Regional hiring hubs and market distribution](./business/regional-hiring-hubs-and-market-distribution.md) | Four sections, six country allocations and funding-gap reconciliation; see section 35 |
@@ -571,3 +573,10 @@ MDN references support the bounded WebGL/WebGPU and precision claims; NGL Viewer
 The [English architecture note](./architecture/github-docker-local-demo-workflow.md) translates the additional guide's clone/build/run flow, Compose and single-Dockerfile routes, bind-mount/live-reload discussion, and isolation/consistency/quick-evaluation benefits. It clarifies that building an image does not retrieve newer Git source, uses loopback-bound port publishing in the example, qualifies broad bind mounts, and adds Compose Watch, secret handling and configuration-inspection guidance from Docker's official documentation.
 
 Baseline commit: `408891777007f61adc69af6e857fa5f70c4107c1`; original Git blob: `a5b4cd0071ad15904ac667c17a8eaa58510e1f47`. The destination links the immutable original; the working TXT is removed while Git history preserves it. Root and documentation indexes link the note. No application was cloned, built or run. This supplemental migration does not renumber the earlier 68 entries.
+
+
+## 50. Male strength-athlete nutrition and hormones over 40
+
+The [English source review](./research/sports-science/male-strength-athlete-nutrition-and-hormones-over-40.md) processes the additional note on protein, vitamins/minerals, ashwagandha, tongkat ali, boron, DHEA, TRT, anabolic steroids/SARMs, creatine, omega-3, collagen, testing, sleep and stress. The source has no citations or product specifications. Its fixed doses and broad promises about aging, testosterone, SHBG, arterial calcium, joints and cognitive benefits are qualified against selected clinical and sports-nutrition references. The note distinguishes prescribed TRT for diagnosed hypogonadism from supraphysiologic AAS/SARMs and does not offer a personal regimen.
+
+Original source commit: `858490eb8a92516783428507d01e5cbf16d13c4a`; Git blob: `7c2368b50d3f2fd43863fbb2309076bc607eefa5`; SHA-256: `4a22942570fe8cc2e5ca34ba766d09ad340ff66b6cd075d7f583158ded6771ac`. The destination links the immutable original; the working TXT is removed while Git history preserves it. Root, documentation and research indexes link the note. This supplemental migration does not renumber the earlier 68 entries.
