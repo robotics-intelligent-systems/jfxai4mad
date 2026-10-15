@@ -581,7 +581,6 @@ The [English source review](./research/sports-science/male-strength-athlete-nutr
 
 Original source commit: `858490eb8a92516783428507d01e5cbf16d13c4a`; Git blob: `7c2368b50d3f2fd43863fbb2309076bc607eefa5`; SHA-256: `4a22942570fe8cc2e5ca34ba766d09ad340ff66b6cd075d7f583158ded6771ac`. The destination links the immutable original; the working TXT is removed while Git history preserves it. Root, documentation and research indexes link the note. This supplemental migration does not renumber the earlier 68 entries.
 
-
 ## 51. Extended family relationships by marriage
 
 The [English terminology note](./family-kinship-terms.md) reorganizes the Spanish source's examples of a spouse's aunts/uncles, cousins, nieces/nephews and grandparents, plus relatives of siblings' spouses. Because the source provides no linguistic, genealogical or legal references, labels such as “cousin-in-law” are marked as usage-dependent and relationships should be described precisely when needed. This is an informal vocabulary aid, not a legal definition.
