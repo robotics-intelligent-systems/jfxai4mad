@@ -120,6 +120,10 @@ The earlier English Markdown notes remain at `docs/` root for historical link st
 - [Women in the STEM education-to-career pipeline](./research/workforce/women-in-stem-pipeline-and-interventions.md) — global indicators, source-claim qualifications and proposed interventions.
 - [Country workforce profiles for women in STEM](./research/workforce/country-workforce-profiles-women-stem.md) — seven-country claims preserved as hypotheses with a comparable-data plan.
 
+### Online study communities
+
+- [Discord study groups: server design and community resources](./research/education/discord-study-groups-and-server-design.md) — consolidated two-source guide; suggested channel layout, optional participation, moderation and unverified bot/community claims.
+
 ### Sports science and anthropometry
 
 - [Female athlete anthropometry: geographic claims and measurement review](./research/sports-science/female-athlete-anthropometry-source-review.md) — Entry 67; complete source coverage, regional-claim qualifications, measurement distinctions and three primary references.
