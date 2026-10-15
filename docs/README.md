@@ -126,7 +126,10 @@ The earlier English Markdown notes remain at `docs/` root for historical link st
 
 ### Software communities and distribution
 
-- [Publishing an open-source game engine through Discord](./research/software/open-source-game-engine-discord-publishing.md) — consolidated translation of two supplemental TXT drafts; community and Activity routes, with selected official platform checks.\n- [Interactive scientific simulations in WebGL](./research/software/interactive-scientific-simulations-webgl.md) — supplemental source review; scientific-model, performance, precision, compatibility and WebGPU claims qualified.\n
+- [Publishing an open-source game engine through Discord](./research/software/open-source-game-engine-discord-publishing.md) — consolidated translation of two supplemental TXT drafts; community and Activity routes, with selected official platform checks.
+
+- [Interactive scientific simulations in WebGL](./research/software/interactive-scientific-simulations-webgl.md) — supplemental source review; scientific-model, performance, precision, compatibility and WebGPU claims qualified.
+
 
 ### Sports science and anthropometry
 
