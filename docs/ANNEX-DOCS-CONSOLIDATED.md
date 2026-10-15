@@ -8,6 +8,7 @@
 
 ## Contents
 
+- [49. Local Docker demo workflow](#49-local-docker-demo-workflow)
 - [45. Country workforce profiles for women in STEM](#45-country-workforce-profiles-for-women-in-stem)
 - [44. Women in the STEM education-to-career pipeline](#44-women-in-the-stem-education-to-career-pipeline)
 
@@ -564,3 +565,9 @@ Both originals were added in source commit `7a98dc96b0c9b7f11d19f08c6c62d1d88826
 The supplemental source `docs/Las simulaciones científicas.txt` is consolidated into [an English WebGL and scientific-visualization note](./research/software/interactive-scientific-simulations-webgl.md). It covers browser rendering, the proposed libraries and examples, precision, hardware variability, and the distinction between visual output and scientific computation. Unsupported guarantees about particle counts, frame rate, universal access and learning impact are qualified. The PhET example is corrected: PhET documents its simulations as HTML5; that does not establish that they use WebGL.
 
 MDN references support the bounded WebGL/WebGPU and precision claims; NGL Viewer documents its molecular-visualization use case. The source was added in commit `21ae9fadeaf372def3f6f80f6a60ef4489f31eec` (blob `0a203b1fe333cf77754ec9b4bcfc289ddfb43fc9`) and remains in Git history. The working TXT is removed after consolidation. No simulation or performance/learning evaluation was conducted. This supplemental migration does not renumber the earlier 68 entries.
+
+## 49. Local Docker demo workflow
+
+The [English architecture note](./architecture/github-docker-local-demo-workflow.md) translates the additional guide's clone/build/run flow, Compose and single-Dockerfile routes, bind-mount/live-reload discussion, and isolation/consistency/quick-evaluation benefits. It clarifies that building an image does not retrieve newer Git source, uses loopback-bound port publishing in the example, qualifies broad bind mounts, and adds Compose Watch, secret handling and configuration-inspection guidance from Docker's official documentation.
+
+Baseline commit: `408891777007f61adc69af6e857fa5f70c4107c1`; original Git blob: `a5b4cd0071ad15904ac667c17a8eaa58510e1f47`. The destination links the immutable original; the working TXT is removed while Git history preserves it. Root and documentation indexes link the note. No application was cloned, built or run. This supplemental migration does not renumber the earlier 68 entries.
