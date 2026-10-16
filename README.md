@@ -23,6 +23,7 @@ The root README is intentionally concise. Detailed material is organized by doma
 | Product | [Requirements and consent](docs/product/requirements-and-consent.md) | Evidence-to-requirement rules, granular consent and sensitive-inference restrictions |
 | Business | [LATAM opportunity segmentation and conversion](docs/business/latam-opportunity-segmentation-and-conversion-scenario.md) | 30,000-opportunity scenario, corrected N-11 terminology and weighted CVR |
 | Business | [Regional hiring hubs and market distribution](docs/business/regional-hiring-hubs-and-market-distribution.md) | Twenty-job Argentina/Türkiye revision, six-country allocation and payroll funding gap |
+| Business | [Online-marriage market distribution scenario](docs/business/online-marriage-market-distribution-scenario.md) | 30,000-record allocation hypothesis, unverified conversion estimates and legal/platform validation gates |
 | Business | [LinkedIn contact acquisition and lead velocity](docs/business/linkedin-contact-acquisition-and-lead-velocity.md) | Contact-building timeline, capacity scenarios and platform-policy qualifications |
 | Business | [Ten skilled jobs: payroll and B2B conversion](docs/business/ten-skilled-jobs-payroll-and-b2b-conversion.md) | Supplemental payroll, sales-funnel and funding scenario with arithmetic corrections |
 | Business | [Interactive demo and B2B conversion](docs/business/interactive-demo-b2b-conversion-and-sandbox-plan.md) | PLG hypotheses, corrected funnel arithmetic and synthetic sandbox evaluation |

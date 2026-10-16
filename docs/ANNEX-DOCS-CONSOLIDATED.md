@@ -8,6 +8,7 @@
 
 ## Contents
 
+- [52. Online-marriage market distribution scenario](#52-online-marriage-market-distribution-scenario)
 - [50. Male strength-athlete nutrition and hormones over 40](#50-male-strength-athlete-nutrition-and-hormones-over-40)
 - [49. Local Docker demo workflow](#49-local-docker-demo-workflow)
 - [45. Country workforce profiles for women in STEM](#45-country-workforce-profiles-for-women-in-stem)
@@ -304,6 +305,7 @@ The supplemental register covers business, tourism, collaboration, workforce, sp
 
 | Source | English destination | Treatment |
 | --- | --- | --- |
+| `docs/Para expandir la distribución.txt` | [Online-marriage market distribution scenario](./business/online-marriage-market-distribution-scenario.md) | All 14 listed allocations and conversion estimates preserved as hypotheses; arithmetic reconciled, 13/14 destination mismatch and unsupported rate bands identified, LinkedIn and Utah remote-ceremony claims qualified; immutable original retained in Git history; see section 52 |
 | `docs/A partir de los 40 años.txt` | [Male strength-athlete nutrition and hormones over 40](./research/sports-science/male-strength-athlete-nutrition-and-hormones-over-40.md) | Protein, micronutrient, herb, hormone, TRT and ergogenic-aid claims reviewed; fixed doses and clinical assertions qualified; immutable original retained in Git history; see section 50 |
 | `docs/1 Arquitectura de Valor.txt` | [Value architecture and financing](./business/value-architecture-and-financing.md) | Four sections; original retained in Git history; see section 32 |
 | `docs/Para crear y sostener.txt` | [Ten skilled jobs: payroll and B2B conversion](./business/ten-skilled-jobs-payroll-and-b2b-conversion.md) | Five sections; arithmetic reconciled; original retained in Git history; see section 33 |
@@ -580,6 +582,14 @@ Baseline commit: `408891777007f61adc69af6e857fa5f70c4107c1`; original Git blob: 
 The [English source review](./research/sports-science/male-strength-athlete-nutrition-and-hormones-over-40.md) processes the additional note on protein, vitamins/minerals, ashwagandha, tongkat ali, boron, DHEA, TRT, anabolic steroids/SARMs, creatine, omega-3, collagen, testing, sleep and stress. The source has no citations or product specifications. Its fixed doses and broad promises about aging, testosterone, SHBG, arterial calcium, joints and cognitive benefits are qualified against selected clinical and sports-nutrition references. The note distinguishes prescribed TRT for diagnosed hypogonadism from supraphysiologic AAS/SARMs and does not offer a personal regimen.
 
 Original source commit: `858490eb8a92516783428507d01e5cbf16d13c4a`; Git blob: `7c2368b50d3f2fd43863fbb2309076bc607eefa5`; SHA-256: `4a22942570fe8cc2e5ca34ba766d09ad340ff66b6cd075d7f583158ded6771ac`. The destination links the immutable original; the working TXT is removed while Git history preserves it. Root, documentation and research indexes link the note. This supplemental migration does not renumber the earlier 68 entries.
+
+## 52. Online-marriage market distribution scenario
+
+The [English business note](./business/online-marriage-market-distribution-scenario.md) consolidates the additional Spanish proposal for allocating 30,000 LinkedIn targeting records across U.S. states, the Philippines, India, Israel and Hong Kong. It preserves all 14 detailed allocations and source conversion estimates as unvalidated hypotheses. The allocation arithmetic reconciles to 30,000 and 100%, while the source's “13 destinations” label and several category-level conversion ranges conflict with the detailed rows.
+
+LinkedIn's current invitation guidance and Utah County's remote-ceremony information are used only for bounded platform and jurisdiction checks. The note also includes Courtly as a provider example based on its own description of online license coordination, video ceremony, and document handling, while retaining its disclaimer that it is not a law firm and cannot guarantee foreign recognition. It warns that a member network cap is not a prospect-acquisition quota, and that remote-marriage validity may vary where the parties reside. It adds privacy, outreach, and evidence gates; no contacts were collected and no outreach was sent.
+
+Original source commit: `00c5a47d0d50d1a9b71ac4c18ee860691cc0772f`; Git blob: `6c109a0e7410aed458a8fd99be3dce4c8f367cb6`; SHA-256: `74edc591fba85aff7c0d05f8476fa678f12a2c60d732cb5aa0360e77494aa9d9`. The destination links to the immutable source; the working TXT is removed while Git history preserves it. This supplemental migration does not renumber the earlier 68 entries.
 
 ## 51. Extended family relationships by marriage
 
