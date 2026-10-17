@@ -1,6 +1,3 @@
-Warning: truncated output (original token count: 20904)
-Total output lines: 615
-
 # Consolidated Documentation Annex
 
 **Repository:** `robotics-intelligent-systems/jfxai4mad`  
@@ -297,7 +294,132 @@ The vertical infographic combines seven gentle yoga poses, labeled external fema
 | 62 | `docs/Para planificar una escapada.txt` | [Lima–Rio flight and five-night stay](./research/tourism/lima-rio-flight-and-five-night-stay.md) | Translated/renamed; package estimates and itinerary preserved; occupancy, baggage, airport and currency claims qualified; TXT retained in Git history |
 | 63 | `docs/Desde el punto de vista.txt` | [Djibouti child-marriage source review](./research/child-protection/djibouti-child-marriage-source-review.md) | English normalization; three source themes and conclusion covered; legal assertions qualified; original retained in Git history |
 | 64 | `docs/Para estructurar un enfoque.txt` | [Natality model](./research/public-policy/natality-incentive-probability-model.md) + [Age-13 framework](./research/child-protection/age-13-djibouti-github-discord-and-travel-review.md) | Both components normalized to English; layout/code preserved; user-requested Djibouti/GitHub/Discord focus explicit; legal and statistical claims qualified; TXT retained in Git history |
-| 65 | `docs/Ambas celebraciones corresponden.txt` | [Tucumán Carnival and Medellín…4904 tokens truncated… claim is qualified; organizer announcements support selected 2027 parades, while future dates remain projections. The note records the original commit and SHA-256, and indexes two primary references.
+| 65 | `docs/Ambas celebraciones corresponden.txt` | [Tucumán Carnival and Medellín festivals](./research/tourism/tucuman-carnival-and-medellin-festivals.md) | Four subsections and comparison normalized to English; cultural claims qualified; selected programme checks; original retained in Git history |
+| 66 | `docs/Para una menor de 13 años.txt` | [UAE age-13 source review](./research/child-protection/uae-age-13-family-law-and-travel-review.md) | Both sections processed; carrier rules corrected; legal conclusions qualified; original retained in Git history |
+| 67 | `docs/Distribución Geográfica.txt` | [Female athlete anthropometry source review](./research/sports-science/female-athlete-anthropometry-source-review.md) | Introduction, three themes, five geographic examples and three summary rows normalized to English; unsupported regional/genetic claims qualified; three primary references; original retained in Git history |
+| 68 | `docs/El uso de mobiliario de.txt` | [Ergonomic recliners and support wedges source review](./research/ergonomics/ergonomic-recliners-and-support-wedges-source-review.md) | Introduction, three recliner features, two wedge-use groups and three summary rows; selected NHS checks; six proposed requirements; original retained in Git history |
+
+### Reference policy
+
+### Supplemental migrations
+
+The supplemental register covers business, tourism, collaboration, workforce, sports nutrition and other additional source notes.
+
+| Source | English destination | Treatment |
+| --- | --- | --- |
+| `docs/Para expandir la distribución.txt` | [Online-marriage market distribution scenario](./business/online-marriage-market-distribution-scenario.md) | All 14 listed allocations and conversion estimates preserved as hypotheses; arithmetic reconciled, 13/14 destination mismatch and unsupported rate bands identified, LinkedIn and Utah remote-ceremony claims qualified; immutable original retained in Git history; see section 52 |
+| `docs/A partir de los 40 años.txt` | [Male strength-athlete nutrition and hormones over 40](./research/sports-science/male-strength-athlete-nutrition-and-hormones-over-40.md) | Protein, micronutrient, herb, hormone, TRT and ergogenic-aid claims reviewed; fixed doses and clinical assertions qualified; immutable original retained in Git history; see section 50 |
+| `docs/1 Arquitectura de Valor.txt` | [Value architecture and financing](./business/value-architecture-and-financing.md) | Four sections; original retained in Git history; see section 32 |
+| `docs/Para crear y sostener.txt` | [Ten skilled jobs: payroll and B2B conversion](./business/ten-skilled-jobs-payroll-and-b2b-conversion.md) | Five sections; arithmetic reconciled; original retained in Git history; see section 33 |
+| `docs/1 Reestructuración del.txt` | [Regional hiring hubs and market distribution](./business/regional-hiring-hubs-and-market-distribution.md) | Four sections, six country allocations and funding-gap reconciliation; see section 35 |
+| `docs/Cuando se evalúan destinos.txt` | [Open-minded destinations and group hospitality](./research/tourism/open-minded-destinations-and-group-hospitality.md) | Four destination groups (six cities), all legal/hospitality/consent/family themes and three selected primary checks; see section 36 |
+| `docs/Integración de TravelGirls.txt` | [TravelGirls and Worldpackers volunteer collaboration](./strategy/travelgirls-worldpackers-volunteer-collaboration.md) | Opening premise, full two-channel flow, both platform roles and four comparison rows; selected primary checks; see section 37 |
+| `docs/1 Modelo Operativo del.txt` | [Barranco residential training hub](./strategy/barranco-residential-training-hub-operating-model.md) | Four numbered sections, full source flow, six market/place allocations, five funnel stages and three value claims; arithmetic and primary-source qualifications; see section 38 |
+| `docs/Para alcanzar los 30 000.txt` | [LinkedIn contact acquisition and lead velocity](./business/linkedin-contact-acquisition-and-lead-velocity.md) | Opening calculation, four scenarios and scaling channels; official policy checks; see section 34 |
+| `docs/El análisis de mujeres.txt` | [Women in the STEM education-to-career pipeline](./research/workforce/women-in-stem-pipeline-and-interventions.md) | Global indicators, all inherited figures and intervention proposals; unsupported claims qualified; see section 44 |
+| `docs/El universo de recursos.txt` | [Country workforce profiles for women in STEM](./research/workforce/country-workforce-profiles-women-stem.md) | Seven country profiles and all specialty/age claims retained as hypotheses; comparable-data plan; see section 45 |
+| `docs/El estudio grupal en Discord.txt` | [Discord study groups: server design and community resources](./research/education/discord-study-groups-and-server-design.md) | Motivation, channel layout, timers, bots and Study Together/StudyStream claims consolidated; unsupported claims qualified; see section 46 |
+| `docs/Los canales y servidores.txt` | [Discord study groups: server design and community resources](./research/education/discord-study-groups-and-server-design.md) | Community, bot, role, moderation and privacy themes consolidated; unverified recommendations explicitly bounded; see section 46 |
+| `docs/Para estructurar una estrategia.txt` | [Aeronautical academy outreach and community funnel](./strategy/aeronautical-academy-outreach-and-community-funnel.md) | Full source proposal translated; social/dating-app, GitHub, Discord and Slack ideas qualified; transparent, consent-based participation emphasized; source retained in Git history; see section 53 |
+| `docs/Para sdk2035 y la organización.txt` | [GitHub open-source B2B market sizing and ROI](./business/github-open-source-market-sizing-and-roi.md) | Platform-scale figures distinguished from buyers; unsupported market percentages and conversion assumptions excluded; see section 54 |
+| `docs/Para estimar el potencial.txt` | [GitHub open-source B2B market sizing and ROI](./business/github-open-source-market-sizing-and-roi.md) | Plus throughput and funnel claims qualified; ROI equation retained as a labeled arithmetic illustration; see section 54 |
+
+Repository documentation should link to the English Markdown paths above. Historical source filenames remain only in this migration table so Git history and earlier references can be traced. Any future plaintext source should be migrated to a descriptive English Markdown path and added to this register.
+
+## 11. Additional strategy and tourism consolidation
+
+Six additional drafts are now represented by four thematic English Markdown documents:
+
+- [Lean presales demonstrator plan](./strategy/lean-presales-demonstrator-plan.md) — preserves the stakeholder matrix, five-day assembly scenario, session agenda, reusable assets, cost controls and audience deliverables. Mermaid separates the delivery process from the mock-service architecture.
+- [Portfolio prioritization and delivery plan](./strategy/portfolio-prioritization-and-delivery-plan.md) — retains the P1/P2/P3 matrix, three two-month phases and five-person team scenario. Inherited 40–60% time-saving and approximately 50% cost-saving figures remain unverified hypotheses. Workflow and integration diagrams show explicit decision gates.
+- [Recruiter partnership outreach template](./strategy/recruiter-partnership-outreach-template.md) — translates the professional message, replaces an inconsistent hard-coded company with a single placeholder and makes hiring/network claims conditional on verification. No outreach is sent by this migration.
+- [Inbound tourism origin-market research](./research/tourism/inbound-origin-market-research.md) — consolidates six European, five Asian/Middle Eastern and three American destination notes. The original origin markets and travel themes remain traceable, while unsupported rankings, visa claims and current conflict/route assumptions are not presented as verified facts.
+
+The source drafts remain in Git history. Existing Markdown research and MBSE assets
+are preserved. The root documentation map, thematic indexes and entries 34–39 above
+provide the navigation and migration record for this addition.
+
+## 12. Residential and cooperative settlement concepts
+
+- [Valles de Alborada hybrid residence](./product/valles-de-alborada-hybrid-residence.md) preserves candidate locations, dwelling and plot dimensions, landscape allocation, amenities, bioclimatic systems, rental-pool operations, security and concierge services. A Mermaid workflow organizes owner occupancy and optional rental operations.
+- [Modern cooperative settlement evaluation](./strategy/modern-cooperative-settlement-evaluation.md) structures the English source's historical analogy, three candidate-region groups and four risk dimensions. Original feasibility ratings remain attributed hypotheses; unsupported land-acquisition and sovereignty assertions become explicit verification questions. A Mermaid workflow adds evaluation gates.
+
+Entries 40–41 record the two sources, retained in Git history. This migration does not independently validate historical, geographic, commercial or regulatory claims.
+
+## 13. Marriage-conversion platform research
+
+[Match Group and peer marriage-conversion research](./research/platforms/match-group-and-peer-marriage-conversion.md) preserves the four-platform comparison and its qualitative labels as unsupported source opinions. Official references clarify brand scope and Mutual's stated positioning; they do not validate marriage-conversion rankings. The document adds cohort-based measurement definitions, reporting limitations and a Mermaid evidence workflow. Entry 42 records the source retained in Git history.
+
+## 14. Sport fishing and hunting tourism
+
+[Sport fishing and hunting tourism](./research/tourism/sport-fishing-and-hunting-tourism.md) consolidates the three sources in entries 43–45. It preserves the four fishing and three hunting destination groups, named species, seasonal claims, lodge/outfitter model and spending hypothesis. The plaintext comparison becomes a table and Mermaid research workflow. Unsupported universal claims about mandatory release, zero impact, permit simplicity and conservation benefits remain explicitly qualified. Sources are retained in Git history; no current regulations or market estimates are certified by this migration.
+
+## 15. Colombian emigration destinations
+
+[Colombian emigration destinations](./research/tourism/colombian-emigration-destinations.md) preserves six destination rows, the combined Chile/Ecuador estimate, the Venezuela range and the employment, education and support-network themes. It distinguishes migrant stocks from tourist flows, treats all figures as undated source claims and qualifies policy references, including the unverified Australian Working Holiday assertion. A Mermaid workflow organizes evidence collection. Entry 46 records the original retained in Git history.
+
+## 16. Uruguay, Paraguay and Bolivia tourism flows
+
+[Uruguay, Paraguay and Bolivia tourism flows](./research/tourism/uruguay-paraguay-bolivia-tourism-flows.md) preserves the three-country comparison and detailed inbound/outbound profiles. Source figures, market-share claims and economic explanations remain explicitly undated and unverified. The Bolivia outbound wording ambiguity is recorded, and a Mermaid evidence workflow separates direction, statistical units, spending and travel purposes. Entry 47 maps the source retained in Git history.
+
+## 17. Peru–Paraguay air and overland routes
+
+[Peru–Paraguay air and overland routes](./research/tourism/peru-paraguay-air-and-overland-routes.md) consolidates the additional source in entry 48. It preserves the nonstop, three connecting-airport, Iguazú, Bolivia and northern-Argentina alternatives, named operators and source timing estimates. Service and cost claims remain unverified. Official references distinguish the two Iguazú bridges, identify Jama as a Chile–Argentina crossing, support the qualified Paraguayan document/visa summary, and replace the blanket yellow-fever statement with a dated, route-dependent account. The original remains in Git history. The note includes a Mermaid validation workflow and links to the existing regional tourism research.
+
+## 18. Peru–Brazil and Brazil–Paraguay integration corridors
+
+[Integration corridors](./research/tourism/peru-brazil-paraguay-integration-corridors.md) restores and translates the five-row source comparison, retaining its border crossings, infrastructure, traffic labels, six air-city pairs and economic themes. Official geographic references clarify Iñapari–Assis Brasil and distinguish the Friendship Bridge to Ciudad del Este from the Integration Bridge to Presidente Franco. Traffic, service availability and economic rankings remain unverified source claims. A Mermaid workflow defines comparable evidence; reciprocal links connect the existing Peru–Paraguay route note. Entry 49 records the original retained in Git history.
+
+## 19. Multisector territorial tourism development flow
+
+[Multisector territorial tourism development flow](./strategy/multisector-territorial-tourism-development-flow.md) translates the additional economic-development concept, preserving tourism as the proposed demand driver, agriculture, transport, accommodation, energy and health, four development phases, five innovation-matrix rows and four KPIs. Mermaid replaces the plaintext map. Editorial measurement definitions distinguish local procurement, renewable supply, direct spending retention and baseline-relative emissions. Circular-resource loops, carbon neutrality and health benefits remain proposals requiring evidence. Entry 50 records the source retained in Git history; links connect the business KPI framework, residence concept, rural collaboration, corridor research and implementation roadmap.
+
+## 20. Additional tourism policy, demographic and security concepts
+
+- [Tourism and young-household incentives](./strategy/tourism-and-young-household-incentives.md) — Proposed subsidies, housing savings, eligibility and fiscal evaluation.
+- [LGBT tourism demographic research](./research/tourism/lgbt-tourism-demographic-research.md) — Six age profiles and four regional comparisons retained as unverified research.
+- [Tourism transport security concept](./architecture/tourism-transport-security-concept.md) — Four security areas, three transport modes and proposed integration boundaries.
+
+Entries 51–53 preserve three additional sources in Git history. The household proposal retains its 40% subsidy, under-35 threshold, two-year window and zero-interest lending concept. The demographic note retains all six age profiles, four regions and three percentage ranges without validating stereotypes or inferring individual traits. The security concept retains all four functional areas, three mode rows and three future themes while distinguishing proposals from implemented or certified capabilities.
+
+The reintroduced plaintext source in entry 50 was reviewed against its existing English destination: the five sectors, four phases, five matrix rows and four KPIs remain covered. The duplicate TXT is removed again without adding another migration entry. No external factual validation was performed for this batch; editorial diagrams and evidence boundaries are identified in each note.
+
+## 21. Marriage in Djibouti for foreign nationals
+
+[Marriage in Djibouti](./research/legal/djibouti-marriage-for-foreign-nationals.md) translates the mixed-law introduction, two proposed marriage routes and interfaith note, four eligibility statements, six document groups (including divorce and widowhood branches) and four administrative steps. The source's 18-year threshold, two-witness claim and 10–15-day banns period remain traceable.
+
+Source commit: `36ba3b0ba351bf4456351b6ad3475abce09bf390`; source blob: `8d5776a5333ca7b7fb19a03077bb149a4420c0e0`. Entry 54 records the only additional TXT in this snapshot. The original remains in Git history.
+
+Separate editorial notes compare the official 2002 Family Code regarding formalities, age exceptions, representation, polygamy and religious impediments. They distinguish authentication from recognition abroad and leave the apostille route, banns and current foreign-national checklist unresolved. This is a limited source check, not a complete current-law determination. The project remains adult-only. Section/table coverage, source hashes and newly added relative links were checked; no authority was contacted and no application submitted.
+
+### Additional consolidation — 9 October 2026
+
+Entry 55 consolidates the additional age, guardianship, consent, judicial-refusal and registration draft into the existing Djibouti note. All four source sections are translated, with a separate article-level comparison identifying unsupported wording and distinctions. The original is retained at commit `30ccfeb4ee29c9cb5695d2f42d470a6e1ae6a5af`; SHA-256: `bdb2e75f289c31d0f01560160756dc6b09965726f252927fec5bdae28c4cfc0c`. The source TXT is removed after consolidation. Both source entries now share one thematic destination; no new marriage procedure is certified.
+
+
+## 22. French Guiana access and dual-nationality entry research
+
+Two additional Spanish TXT drafts are migrated to thematic English Markdown:
+
+- [Air and overland access](./research/tourism/french-guiana-air-and-overland-access.md) — all three source sections: CAY air candidates, Brazil/Oyapock and Suriname/Maroni corridors, and four border-document considerations.
+- [Peruvian and Argentine passport entry](./research/legal/french-guiana-entry-peruvian-argentine-passports.md) — all four source sections: territorial status, nationality exemptions, five document groups and dual-nationality handling.
+
+The [shared reference register](./research/legal/french-guiana-entry-peruvian-argentine-passports.md#shared-reference-register) consolidates seven primary references as FG-01…07. Repeated visa/health material has one canonical legal note; route research links to it. The airport location is corrected to Matoury. Blanket boarding, physical-certificate, passport-validity and passport-switching claims remain translated source assertions with explicit limits. The consolidated decree is distinguished from its original 2011 publication. No flight schedule, current river-service availability, individual admission or medical exemption is certified.
+
+### Provenance and coverage
+
+Originals retained at commit `f9386a4316eeb837574cdb4fdd9d430ac5b22373`. Migration entries 56–57 record the renamed destinations; the working TXT copies are removed only after translation and indexing.
+
+| Entry | Original source | SHA-256 | Coverage |
+|---:|---|---|---|
+| 56 | `docs/A continuación se amplían.txt` | `321884eb8e41e627d5f7b64ae657f0ec89af417c5102a4f5ed673a33f26472d1` | Three sections; air candidates, two border corridors and four document rows |
+| 57 | `docs/El concepto de compatibilidad.txt` | `79cc932f8a6c22e67cd2cc3f5fc8afc1ca3bd7cedddc7dca50e605ab9e9c7492` | Four sections; two nationality rows and five document groups |
+
+Validation covers source inventory/hashes, section/table coverage, new relative links and index entries. Official-source checks are limited to the claims identified in the notes; no authority was contacted and no application or booking submitted.
+
+## 23. Rio Carnival calendar
+
+[Rio Carnival calendar](./research/tourism/rio-carnival-calendar.md) consolidates entry 60: calendar explanation, seven itinerary entries, four annual windows and the street-party note. The blanket Ash Wednesday end-date claim is qualified; organizer announcements support selected 2027 parades, while future dates remain projections. The note records the original commit and SHA-256, and indexes two primary references.
 
 ## 24. Lima–Rio bus travel and Carnival planning
 
