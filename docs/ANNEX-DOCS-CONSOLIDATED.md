@@ -2,12 +2,13 @@
 
 **Repository:** `robotics-intelligent-systems/jfxai4mad`  
 **Scope:** indexed documentation annex for the English `docs/*.md` sources and supporting `docs/*.jpg` infographics  
-**Editorial revision:** 14 October 2026
+**Editorial revision:** 17 October 2026
 
 > **Editorial status.** Sixty-eight plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
 
 ## Contents
 
+- [53. Aeronautical academy outreach and community funnel](#53-aeronautical-academy-outreach-and-community-funnel)
 - [52. Online-marriage market distribution scenario](#52-online-marriage-market-distribution-scenario)
 - [50. Male strength-athlete nutrition and hormones over 40](#50-male-strength-athlete-nutrition-and-hormones-over-40)
 - [49. Local Docker demo workflow](#49-local-docker-demo-workflow)
@@ -318,6 +319,7 @@ The supplemental register covers business, tourism, collaboration, workforce, sp
 | `docs/El universo de recursos.txt` | [Country workforce profiles for women in STEM](./research/workforce/country-workforce-profiles-women-stem.md) | Seven country profiles and all specialty/age claims retained as hypotheses; comparable-data plan; see section 45 |
 | `docs/El estudio grupal en Discord.txt` | [Discord study groups: server design and community resources](./research/education/discord-study-groups-and-server-design.md) | Motivation, channel layout, timers, bots and Study Together/StudyStream claims consolidated; unsupported claims qualified; see section 46 |
 | `docs/Los canales y servidores.txt` | [Discord study groups: server design and community resources](./research/education/discord-study-groups-and-server-design.md) | Community, bot, role, moderation and privacy themes consolidated; unverified recommendations explicitly bounded; see section 46 |
+| `docs/Para estructurar una estrategia.txt` | [Aeronautical academy outreach and community funnel](./strategy/aeronautical-academy-outreach-and-community-funnel.md) | Full source proposal translated; social/dating-app, GitHub, Discord and Slack ideas qualified; transparent, consent-based participation emphasized; source retained in Git history; see section 53 |
 
 Repository documentation should link to the English Markdown paths above. Historical source filenames remain only in this migration table so Git history and earlier references can be traced. Any future plaintext source should be migrated to a descriptive English Markdown path and added to this register.
 
@@ -596,3 +598,9 @@ Original source commit: `00c5a47d0d50d1a9b71ac4c18ee860691cc0772f`; Git blob: `6
 The [English terminology note](./family-kinship-terms.md) reorganizes the Spanish source's examples of a spouse's aunts/uncles, cousins, nieces/nephews and grandparents, plus relatives of siblings' spouses. Because the source provides no linguistic, genealogical or legal references, labels such as “cousin-in-law” are marked as usage-dependent and relationships should be described precisely when needed. This is an informal vocabulary aid, not a legal definition.
 
 Original source commit: `8837322225803b0cfab1e4ba0dad376b0033b7b7`; Git blob: `8add58ec821c7aa8cc50d7ce5f4cf3ce429ebb35`; SHA-256: `b8c928ef55d63eb640f87833eeeee546eb9ec378f2007281cae02d782442ae11`. The destination links the immutable original; the working TXT is replaced while Git history preserves it. Root and documentation indexes link the note.
+
+## 53. Aeronautical academy outreach and community funnel
+
+The [English strategy note](./strategy/aeronautical-academy-outreach-and-community-funnel.md) translates and organizes the source's alternative-to-LinkedIn premise, dating/social profile example, GitHub educational-project ideas, Discord study channels, Slack volunteer channels and transparency, consent and value-first principles. It distinguishes a proposed contact path from permission to join a group or an established recruitment funnel. The social/dating-app examples and any claimed audience reach, platform fit, academy offerings, commission terms or conversion outcomes are unverified. The note links the existing volunteer, Discord study-group and recruiter-template documents, and is indexed in the root README, documentation index and strategy index.
+
+Original source commit: `bef726ea4f282b7703f9a1a4892b35aa3fb9abc3`; Git blob: `e1f1de33fab3b744a1059ebceaa9299cbf84dfb3`; SHA-256: `79c5274a0c60f2dcfd9b2baed3f2fb917525c4e44cfd3f86cb956e4e5761f780`. The immutable source is linked from the destination; its working TXT is removed while Git history preserves it. This supplemental migration does not renumber the earlier 68 entries. No outreach, recruitment, community deployment or outcome evaluation was performed.

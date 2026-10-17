@@ -48,6 +48,8 @@ The source also names StudyStream, FreeCodeCamp, Learn AI Together, Biocord and 
 
 If the project later pilots a study community, first define its intended age range, learning purpose, moderator coverage, privacy notice, reporting/escalation process and acceptable third-party apps. Then test a minimal layout with voluntary participation and a short feedback form that does not collect sensitive personal data. Evaluate usability and perceived usefulness separately from grades, hours online or camera presence. No bot, attendance collection or public server is part of this documentation proposal.
 
+Related proposal: [Aeronautical academy outreach and community funnel](../../strategy/aeronautical-academy-outreach-and-community-funnel.md) describes a separate, unverified route for inviting interested people into study and volunteer communities.
+
 ## Source coverage and provenance
 
 Coverage combines both drafts: motivation/accountability and flexibility claims; quiet, Pomodoro, discussion, project, resource, Q&A, goals and social channels; subject roles and notification access; the named communities and claimed service features; the proposed bot categories, Forest integration, time statistics, quizzes and AI helpers; and camera/mute/privacy recommendations. Repeated content is consolidated. Unsupported popularity, size, always-on availability, effectiveness and bot-feature assertions are explicitly qualified.

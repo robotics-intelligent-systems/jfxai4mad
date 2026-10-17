@@ -54,6 +54,7 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 - [TravelGirls and Worldpackers volunteer collaboration](./strategy/travelgirls-worldpackers-volunteer-collaboration.md) — supplemental proposal, corrected corporate attribution and qualified recruitment/certification claims.
 
 - [Student volunteer and SME open-source adoption strategy](./strategy/student-volunteer-sme-open-source-adoption.md)
+- [Aeronautical academy outreach and community funnel](./strategy/aeronautical-academy-outreach-and-community-funnel.md) — translated proposal for transparent, opt-in outreach and study/volunteer communities; not an implemented programme.
 
 - [Tourism and young-household incentives](./strategy/tourism-and-young-household-incentives.md)
 
