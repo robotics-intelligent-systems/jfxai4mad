@@ -31,7 +31,9 @@ This directory is the documentation hub for `jfxai4mad`. The root project overvi
 
 - [Online-marriage market distribution scenario](./business/online-marriage-market-distribution-scenario.md) — 30,000-record allocation hypothesis; conversion estimates are unverified and jurisdiction/platform claims are qualified.
 
-- [LinkedIn contact acquisition and lead velocity](./business/linkedin-contact-acquisition-and-lead-velocity.md) — newest supplemental TXT; four capacity scenarios, net-contact distinctions and official platform-policy checks.
+- [LinkedIn contact acquisition and lead velocity](./business/linkedin-contact-acquisition-and-lead-velocity.md) — supplemental TXT migration; four capacity scenarios, net-contact distinctions and official platform-policy checks.
+
+- [GitHub open-source B2B market sizing and ROI](./business/github-open-source-market-sizing-and-roi.md) — two supplemental TXT sources consolidated; organization-level sizing, a measurable pilot and qualified Plus/API assumptions.
 
 - [Ten skilled jobs: payroll funding and B2B conversion](./business/ten-skilled-jobs-payroll-and-b2b-conversion.md) — supplemental planning scenario; all five source sections, corrected arithmetic and funding limits.
 
