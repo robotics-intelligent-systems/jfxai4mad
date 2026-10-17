@@ -4,11 +4,12 @@
 **Scope:** indexed documentation annex for the English `docs/*.md` sources and supporting `docs/*.jpg` infographics  
 **Editorial revision:** 17 October 2026
 
-> **Editorial status.** Sixty-eight plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
+> **Editorial status.** Seventy plaintext source entries processed to date have been migrated to structured English Markdown documents with standardized English filenames. Numerical, legal, medical, demographic, platform-specific, prevalence, institutional-interest, child-protection and market-price claims inherited from legacy notes remain subject to current-source verification before publication or operational use.
 
 ## Contents
 
 - [53. Aeronautical academy outreach and community funnel](#53-aeronautical-academy-outreach-and-community-funnel)
+- [54. GitHub open-source B2B market sizing and ROI](#54-github-open-source-b2b-market-sizing-and-roi)
 - [52. Online-marriage market distribution scenario](#52-online-marriage-market-distribution-scenario)
 - [50. Male strength-athlete nutrition and hormones over 40](#50-male-strength-athlete-nutrition-and-hormones-over-40)
 - [49. Local Docker demo workflow](#49-local-docker-demo-workflow)
@@ -320,6 +321,8 @@ The supplemental register covers business, tourism, collaboration, workforce, sp
 | `docs/El estudio grupal en Discord.txt` | [Discord study groups: server design and community resources](./research/education/discord-study-groups-and-server-design.md) | Motivation, channel layout, timers, bots and Study Together/StudyStream claims consolidated; unsupported claims qualified; see section 46 |
 | `docs/Los canales y servidores.txt` | [Discord study groups: server design and community resources](./research/education/discord-study-groups-and-server-design.md) | Community, bot, role, moderation and privacy themes consolidated; unverified recommendations explicitly bounded; see section 46 |
 | `docs/Para estructurar una estrategia.txt` | [Aeronautical academy outreach and community funnel](./strategy/aeronautical-academy-outreach-and-community-funnel.md) | Full source proposal translated; social/dating-app, GitHub, Discord and Slack ideas qualified; transparent, consent-based participation emphasized; source retained in Git history; see section 53 |
+| `docs/Para sdk2035 y la organización.txt` | [GitHub open-source B2B market sizing and ROI](./business/github-open-source-market-sizing-and-roi.md) | Platform-scale figures distinguished from buyers; unsupported market percentages and conversion assumptions excluded; see section 54 |
+| `docs/Para estimar el potencial.txt` | [GitHub open-source B2B market sizing and ROI](./business/github-open-source-market-sizing-and-roi.md) | Plus throughput and funnel claims qualified; ROI equation retained as a labeled arithmetic illustration; see section 54 |
 
 Repository documentation should link to the English Markdown paths above. Historical source filenames remain only in this migration table so Git history and earlier references can be traced. Any future plaintext source should be migrated to a descriptive English Markdown path and added to this register.
 
@@ -604,3 +607,9 @@ Original source commit: `8837322225803b0cfab1e4ba0dad376b0033b7b7`; Git blob: `8
 The [English strategy note](./strategy/aeronautical-academy-outreach-and-community-funnel.md) translates and organizes the source's alternative-to-LinkedIn premise, dating/social profile example, GitHub educational-project ideas, Discord study channels, Slack volunteer channels and transparency, consent and value-first principles. It distinguishes a proposed contact path from permission to join a group or an established recruitment funnel. The social/dating-app examples and any claimed audience reach, platform fit, academy offerings, commission terms or conversion outcomes are unverified. The note links the existing volunteer, Discord study-group and recruiter-template documents, and is indexed in the root README, documentation index and strategy index.
 
 Original source commit: `bef726ea4f282b7703f9a1a4892b35aa3fb9abc3`; Git blob: `e1f1de33fab3b744a1059ebceaa9299cbf84dfb3`; SHA-256: `79c5274a0c60f2dcfd9b2baed3f2fb917525c4e44cfd3f86cb956e4e5761f780`. The immutable source is linked from the destination; its working TXT is removed while Git history preserves it. This supplemental migration does not renumber the earlier 68 entries. No outreach, recruitment, community deployment or outcome evaluation was performed.
+
+## 54. GitHub open-source B2B market sizing and ROI
+
+The [English business note](./business/github-open-source-market-sizing-and-roi.md) consolidates the two additional Spanish GitHub market-potential drafts. It distinguishes GitHub’s dated developer-scale context from buyer counts; rejects untraceable account, organization, monthly-active and niche-market estimates; and excludes unsupported Plus throughput, qualification, response and conversion rates. It defines organization-level TAM/SAM/SOM, separates technical collaborators from buyers, proposes a manually reviewed 100-organization pilot, and gives stage denominators and an ROI formula. California, Israel and Argentina are proposed as distinct research strata, subject to service and legal eligibility. The note records selected official GitHub and OpenAI checks and prohibits treating public open-source contributions as buying intent or consent to marketing.
+
+Both originals were added in source commit `97ae9548077106ac1af278876aaf2330f2d83fe7`. Git blobs: `2f4a5a030b8e219f707013f883025182ff8be0a8` and `0a044eb7464a2297be6fee746a0924a41b6fc611`; SHA-256 digests are recorded in the destination. Immutable originals remain linked there; working TXT copies are removed after indexing. Root, business and documentation indexes link the note. No contacts were collected, no outreach was performed and no conversion outcome was tested. This supplemental migration does not renumber earlier register entries.

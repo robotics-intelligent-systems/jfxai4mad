@@ -25,6 +25,7 @@ The root README is intentionally concise. Detailed material is organized by doma
 | Business | [Regional hiring hubs and market distribution](docs/business/regional-hiring-hubs-and-market-distribution.md) | Twenty-job Argentina/Türkiye revision, six-country allocation and payroll funding gap |
 | Business | [Online-marriage market distribution scenario](docs/business/online-marriage-market-distribution-scenario.md) | 30,000-record allocation hypothesis, unverified conversion estimates and legal/platform validation gates |
 | Business | [LinkedIn contact acquisition and lead velocity](docs/business/linkedin-contact-acquisition-and-lead-velocity.md) | Contact-building timeline, capacity scenarios and platform-policy qualifications |
+| Business | [GitHub open-source B2B market sizing and ROI](docs/business/github-open-source-market-sizing-and-roi.md) | Organization-level TAM/SAM/SOM, pilot funnel, source-checked tool limits and ROI method |
 | Business | [Ten skilled jobs: payroll and B2B conversion](docs/business/ten-skilled-jobs-payroll-and-b2b-conversion.md) | Supplemental payroll, sales-funnel and funding scenario with arithmetic corrections |
 | Business | [Interactive demo and B2B conversion](docs/business/interactive-demo-b2b-conversion-and-sandbox-plan.md) | PLG hypotheses, corrected funnel arithmetic and synthetic sandbox evaluation |
 | Business | [Business model and KPIs](docs/business/business-model-and-kpis.md) | Revenue hypotheses, metrics and evaluation rules |
@@ -117,6 +118,7 @@ Detailed compatibility and acceptance criteria are maintained in [`docs/architec
 Revenue and performance assumptions remain hypotheses pending controlled pilots. The platform is intended to monetize delivered coordination services rather than intimate data or vulnerability.
 
 - [Business model and KPI framework](docs/business/business-model-and-kpis.md)
+- [GitHub open-source B2B market sizing and ROI](docs/business/github-open-source-market-sizing-and-roi.md)
 - [Implementation and investment roadmap](docs/roadmap/implementation-and-investment.md)
 
 Historic staffing, AI-subscription and infrastructure cost estimates have been moved out of the root README and reframed as planning inputs that require current quotations.

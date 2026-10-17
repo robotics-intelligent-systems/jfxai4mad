@@ -35,6 +35,7 @@ These are proposed measurements, not published performance results.
 ## Related documents
 
 - [LinkedIn contact acquisition and lead velocity](linkedin-contact-acquisition-and-lead-velocity.md) — separates channel activity, net contacts and qualified leads.
+- [GitHub open-source B2B market sizing and ROI](github-open-source-market-sizing-and-roi.md) — separates organizational buyers from open-source collaborators and defines a pilot-level ROI calculation.
 
 - [Ten skilled jobs: payroll funding and B2B conversion](ten-skilled-jobs-payroll-and-b2b-conversion.md) — supplemental scenario separating ARR, margin and payroll funding.
 
