@@ -2,6 +2,8 @@
 
 **Status:** proposed programme and illustrative recruitment dialogues. Benefits, free-service scope and future support offers describe the source proposal; they are not evidence of an operating programme or guaranteed outcomes.
 
+Related planning: [Aeronautical academy outreach and community funnel](./aeronautical-academy-outreach-and-community-funnel.md) covers a separate, unverified education-community proposal.
+
 ## Three-way benefit model
 
 The strategy proposes a win-win-win model:
