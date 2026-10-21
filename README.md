@@ -16,6 +16,7 @@ The root README is intentionally concise. Detailed material is organized by doma
 | Architecture | [KVM demo sandbox hosting](docs/architecture/kvm-hosting-ephemeral-demo-sandbox.md) | VPS sizing, session lifecycle, provider terms and benchmark gates |
 | Architecture | [Local Docker demo workflow](docs/architecture/github-docker-local-demo-workflow.md) | GitHub checkout, Compose/Dockerfile startup, development sync and local safeguards |
 | Architecture | [Platform integration and AI](docs/architecture/platform-integration-ai.md) | Domain services, private AI gateway, retrieval, human review and provider adapters |
+| MBSE | [OpenTwin modular habitat](docs/mbse/opentwin-modular-habitat.md) | CAD/simulation concept, validation work package and related assets |
 
 
 ## Architecture overview
