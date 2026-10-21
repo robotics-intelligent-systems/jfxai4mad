@@ -1,0 +1,71 @@
+<mxfile host="Electron" pages="3">
+  <diagram name="Vista Arquitectura IoT" id="JPFCmZWvSBqX_aXAJEGF">
+    <mxGraphModel dx="860" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1080" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#cc6600;fontSize=16;fontStyle=1;" value="Cuatrimoto Anfibia Todo Terreno — Arquitectura IoT" vertex="1">
+          <mxGeometry height="60" width="480" x="400" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="IF-01 Aire-Agua / Sensores" vertex="1">
+          <mxGeometry height="80" width="220" x="100" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="IF-02 Tren Todo Terreno + Energía" vertex="1">
+          <mxGeometry height="80" width="220" x="400" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="IF-03 Transición Anfibia" vertex="1">
+          <mxGeometry height="80" width="220" x="700" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="IF-04 Telemetría / Control / IoT" vertex="1">
+          <mxGeometry height="80" width="220" x="1000" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#004085;fontStyle=1;" value="Gateway IoT / MQTT Broker" vertex="1">
+          <mxGeometry height="60" width="240" x="700" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6f2ff;strokeColor=#007bff;fontStyle=1;" value="Gemelo Digital OpenTwin Cloud" vertex="1">
+          <mxGeometry height="60" width="240" x="700" y="500" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Tabla de Interfaces" id="zSSpgmM0_k3IBGIM2-5r">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1920" pageHeight="1080" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#cc6600;fontSize=16;fontStyle=1;" value="Tabla de Interfaces — Cuatrimoto Anfibia Todo Terreno" vertex="1">
+          <mxGeometry height="60" width="480" x="400" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="IF-01 Aire-Agua → Sensores de presión, válvulas, propulsor jet" vertex="1">
+          <mxGeometry height="40" width="800" x="100" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="IF-02 Tren Todo Terreno → Motor eléctrico, ruedas, batería, inversor" vertex="1">
+          <mxGeometry height="40" width="800" x="100" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="5" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="IF-03 Transición Anfibia → Acoplamiento mecánico, sensores de modo, actuadores hidráulicos" vertex="1">
+          <mxGeometry height="40" width="800" x="100" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="6" parent="1" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="IF-04 Telemetría / Control → GPS, panel de mando, gateway IoT, CAN-Bus" vertex="1">
+          <mxGeometry height="40" width="800" x="100" y="330" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Matriz de Señales y Protocolos" id="tCJQa5U5G0eyjpNoCn4r">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1920" pageHeight="1080" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#cc6600;fontSize=16;fontStyle=1;" value="Matriz de Señales y Protocolos — Cuatrimoto Anfibia Todo Terreno" vertex="1">
+          <mxGeometry height="60" width="480" x="400" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="IF-01: Aire-Agua → Sensor presión / Sensor nivel / PWM válvulas / Modbus RTU" vertex="1">
+          <mxGeometry height="40" width="800" x="100" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="4" parent="1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="IF-02: Energía / Terreno → Voltaje / Corriente / SOC / CAN-Bus / RS485" vertex="1">
+          <mxGeometry height="40" width="800" x="100" y="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

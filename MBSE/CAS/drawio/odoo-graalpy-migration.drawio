@@ -1,0 +1,52 @@
+<mxfile host="Electron">
+  <diagram name="Arquitectura Migracion Odoo a GraalPy" id="C9pMSQcD3w-MCp1EJAPJ">
+    <mxGraphModel dx="2560" dy="1631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0ykViqPZYUgED_yJ3EyE-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#f8f9fa;strokeColor=#bdc3c7;fontStyle=1" value="ENTORNO LEGACY (CPython Stack)" vertex="1">
+          <mxGeometry height="420" width="280" x="40" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0ykViqPZYUgED_yJ3EyE-2" parent="0ykViqPZYUgED_yJ3EyE-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e74c3c;fontColor=#ffffff;fontStyle=1;" value="Odoo Core &amp; Custom Modules&#xa;(Python 3.10-3.12 / CPython)" vertex="1">
+          <mxGeometry height="60" width="220" x="30" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ykViqPZYUgED_yJ3EyE-3" parent="0ykViqPZYUgED_yJ3EyE-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e67e22;fontColor=#ffffff;" value="C-Extensions / Dependencies&#xa;(psycopg2, Pillow, lxml, gevent)" vertex="1">
+          <mxGeometry height="60" width="220" x="30" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0ykViqPZYUgED_yJ3EyE-4" parent="0ykViqPZYUgED_yJ3EyE-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#34495e;fontColor=#ffffff;" value="PostgreSQL DB&#xa;(Standard Connection)" vertex="1">
+          <mxGeometry height="80" width="120" x="80" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="0ykViqPZYUgED_yJ3EyE-5" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ebf5fb;strokeColor=#2980b9;fontStyle=1" value="PIPELINE DE REFRACTORIZACION E IA" vertex="1">
+          <mxGeometry height="420" width="380" x="360" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0ykViqPZYUgED_yJ3EyE-6" parent="0ykViqPZYUgED_yJ3EyE-5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2980b9;fontColor=#ffffff;" value="GitHub Copilot Enterprise&#xa;(Refactorizacion C-API &amp; C/CPython bindings)" vertex="1">
+          <mxGeometry height="50" width="300" x="40" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0ykViqPZYUgED_yJ3EyE-7" parent="0ykViqPZYUgED_yJ3EyE-5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8e44ad;fontColor=#ffffff;" value="Gemini Advanced / Code Assist&#xa;(Benchmarking, Analisis de Memoria &amp; Concurrencia)" vertex="1">
+          <mxGeometry height="50" width="300" x="40" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="0ykViqPZYUgED_yJ3EyE-8" parent="0ykViqPZYUgED_yJ3EyE-5" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#16a085;fontColor=#ffffff;" value="WorkGpt Astra Pro&#xa;(Analisis de Dependencias C Native en GraalPy)" vertex="1">
+          <mxGeometry height="50" width="300" x="40" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="0ykViqPZYUgED_yJ3EyE-9" parent="0ykViqPZYUgED_yJ3EyE-5" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d35400;fontColor=#ffffff;fontStyle=1;" value="CI/CD Pipeline (GitHub Actions)&#xa;Polyglot Compatibility &amp; TCK Tests" vertex="1">
+          <mxGeometry height="60" width="300" x="40" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="0ykViqPZYUgED_yJ3EyE-10" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#e8f8f5;strokeColor=#27ae60;fontStyle=1" value="ENTORNO TARGET (GraalVM / GraalPy)" vertex="1">
+          <mxGeometry height="420" width="320" x="780" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0ykViqPZYUgED_yJ3EyE-11" parent="0ykViqPZYUgED_yJ3EyE-10" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#27ae60;fontColor=#ffffff;fontStyle=1;" value="Odoo en GraalPy Runtime&#xa;(JIT / GraalVM Enterprise Engine)" vertex="1">
+          <mxGeometry height="60" width="240" x="40" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0ykViqPZYUgED_yJ3EyE-12" parent="0ykViqPZYUgED_yJ3EyE-10" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2fdab8;fontColor=#ffffff;" value="Sulu / Sulong (C Interop)&#xa;Java DB Drivers (Hiper-concurrencia)" vertex="1">
+          <mxGeometry height="60" width="240" x="40" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0ykViqPZYUgED_yJ3EyE-13" parent="0ykViqPZYUgED_yJ3EyE-10" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#34495e;fontColor=#ffffff;" value="PostgreSQL DB&#xa;(Optimized Connection Pool)" vertex="1">
+          <mxGeometry height="80" width="120" x="100" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="0ykViqPZYUgED_yJ3EyE-14" edge="1" parent="1" source="0ykViqPZYUgED_yJ3EyE-2" target="0ykViqPZYUgED_yJ3EyE-6" />
+        <mxCell id="0ykViqPZYUgED_yJ3EyE-15" edge="1" parent="1" source="0ykViqPZYUgED_yJ3EyE-3" target="0ykViqPZYUgED_yJ3EyE-8" />
+        <mxCell id="0ykViqPZYUgED_yJ3EyE-16" edge="1" parent="1" source="0ykViqPZYUgED_yJ3EyE-9" target="0ykViqPZYUgED_yJ3EyE-11" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

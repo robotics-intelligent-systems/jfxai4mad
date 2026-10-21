@@ -1,0 +1,67 @@
+<mxfile host="Electron">
+  <diagram name="jfxai4mad Integration Architecture" id="XpFgnaxfDvFm1ZmmmVaJ">
+    <mxGraphModel dx="860" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ViDd63u6PRbqwix_gCND-1" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;fontColor=#1A202C;" value="jfxai4mad: AI Matching &amp; Academic Life-Alignment Architecture" vertex="1">
+          <mxGeometry height="40" width="700" x="230" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ViDd63u6PRbqwix_gCND-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#EDF2F7;strokeColor=#CBD5E0;fontStyle=1;startSize=30;" value="jfxai4mad Matching Engine (GraalVM / RascalMPL)" vertex="1">
+          <mxGeometry height="340" width="320" x="40" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ViDd63u6PRbqwix_gCND-3" parent="ViDd63u6PRbqwix_gCND-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D53F8C;fontColor=#FFFFFF;strokeColor=#B83280;fontStyle=1;" value="RascalMPL DSL Core&#xa;(Academic &amp; Value Alignment Rules)" vertex="1">
+          <mxGeometry height="60" width="260" x="30" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ViDd63u6PRbqwix_gCND-4" parent="ViDd63u6PRbqwix_gCND-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D53F8C;fontColor=#FFFFFF;strokeColor=#B83280;fontStyle=1;" value="Truffle GraalVM JIT Evaluator&#xa;(Compatibility Scoring Matrix)" vertex="1">
+          <mxGeometry height="60" width="260" x="30" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ViDd63u6PRbqwix_gCND-5" parent="ViDd63u6PRbqwix_gCND-2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D53F8C;fontColor=#FFFFFF;strokeColor=#B83280;fontStyle=1;" value="JavaFX Mobile / Web Interface&#xa;(Interactive Matching Dashboard)" vertex="1">
+          <mxGeometry height="60" width="260" x="30" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ViDd63u6PRbqwix_gCND-6" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#EDF2F7;strokeColor=#CBD5E0;fontStyle=1;startSize=30;" value="Serverless Cloud State (&lt; $10/mo)" vertex="1">
+          <mxGeometry height="340" width="320" x="420" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ViDd63u6PRbqwix_gCND-7" parent="ViDd63u6PRbqwix_gCND-6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#38A169;fontColor=#FFFFFF;strokeColor=#276749;fontStyle=1;" value="Supabase (PostgreSQL)&#xa;(Interaction Memory &amp; Profile CRM)" vertex="1">
+          <mxGeometry height="60" width="260" x="30" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ViDd63u6PRbqwix_gCND-8" parent="ViDd63u6PRbqwix_gCND-6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#38A169;fontColor=#FFFFFF;strokeColor=#276749;fontStyle=1;" value="mcp-memory-service&#xa;(Contextual Dialogue &amp; Intent State)" vertex="1">
+          <mxGeometry height="60" width="260" x="30" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ViDd63u6PRbqwix_gCND-9" parent="ViDd63u6PRbqwix_gCND-6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#38A169;fontColor=#FFFFFF;strokeColor=#276749;fontStyle=1;" value="Cloudflare Pages Worker&#xa;(Webhook &amp; Auth Gateway)" vertex="1">
+          <mxGeometry height="60" width="260" x="30" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ViDd63u6PRbqwix_gCND-10" parent="1" style="swimlane;whiteSpace=wrap;html=1;fillColor=#EDF2F7;strokeColor=#CBD5E0;fontStyle=1;startSize=30;" value="LinkedIn Professional Pipeline" vertex="1">
+          <mxGeometry height="340" width="320" x="800" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ViDd63u6PRbqwix_gCND-11" parent="ViDd63u6PRbqwix_gCND-10" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3182CE;fontColor=#FFFFFF;strokeColor=#2B6CB0;fontStyle=1;" value="GitHub Activity Sync&#xa;(Technical Validation: UNMSM-Global)" vertex="1">
+          <mxGeometry height="60" width="260" x="30" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ViDd63u6PRbqwix_gCND-12" parent="ViDd63u6PRbqwix_gCND-10" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3182CE;fontColor=#FFFFFF;strokeColor=#2B6CB0;fontStyle=1;" value="LinkedIn Messaging &amp; Outreach&#xa;(BR, AR, ES, IT, TR University Leads)" vertex="1">
+          <mxGeometry height="60" width="260" x="30" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ViDd63u6PRbqwix_gCND-13" parent="ViDd63u6PRbqwix_gCND-10" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DD6B20;fontColor=#FFFFFF;strokeColor=#C05621;fontStyle=1;" value="Express Marriage &amp; Partnership Agreement&#xa;(Joint Career &amp; Life Goals)" vertex="1">
+          <mxGeometry height="60" width="260" x="30" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ViDd63u6PRbqwix_gCND-14" edge="1" parent="1" source="ViDd63u6PRbqwix_gCND-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthoLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#4A5568;" target="ViDd63u6PRbqwix_gCND-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ViDd63u6PRbqwix_gCND-15" edge="1" parent="1" source="ViDd63u6PRbqwix_gCND-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthoLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#4A5568;" target="ViDd63u6PRbqwix_gCND-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ViDd63u6PRbqwix_gCND-16" edge="1" parent="1" source="ViDd63u6PRbqwix_gCND-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthoLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#B83280;" target="ViDd63u6PRbqwix_gCND-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ViDd63u6PRbqwix_gCND-17" edge="1" parent="1" source="ViDd63u6PRbqwix_gCND-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthoLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#276749;" target="ViDd63u6PRbqwix_gCND-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ViDd63u6PRbqwix_gCND-18" edge="1" parent="1" source="ViDd63u6PRbqwix_gCND-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthoLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#2B6CB0;" target="ViDd63u6PRbqwix_gCND-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ViDd63u6PRbqwix_gCND-19" edge="1" parent="1" source="ViDd63u6PRbqwix_gCND-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthoLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#C05621;" target="ViDd63u6PRbqwix_gCND-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

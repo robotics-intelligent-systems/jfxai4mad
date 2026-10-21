@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="app.diagrams.net" version="31.4.2" type="device">
+  <diagram id="p0" name="01 · Requisitos de alto nivel">
+    <mxGraphModel dx="1800" dy="1600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="SUMERGIBLE DEPORTIVO HIDROJET | Ingeniería de requisitos&#10;Especificación conceptual de alto nivel · Revisión A · Basada en la imagen suministrada" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#12324A;strokeColor=#6D8CA3;fontColor=#FFFFFF;fontSize=23;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="30" width="1720" height="85" />
+        </mxCell>
+        <mxCell id="basis" value="BASE OBSERVADA&#10;Carenado hidrodinámico, cubierta transparente, dos asientos en tándem, aletas, módulo de energía y hidrojet posterior.&#10;La ilustración no demuestra casco resistente, soporte vital ni mecanismo de recuperación." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EAF4FC;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=16;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="145" width="840" height="140" />
+        </mxCell>
+        <mxCell id="open" value="ALCANCE POR CONFIRMAR&#10;D-01: misión y límites. D-02: cabina seca y régimen de presión. D-03: mecanismo de inmersión y recuperación. D-04: energía. D-05: jurisdicción, categoría y base de conformidad.&#10;TBD: por definir · TBC: por confirmar." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFF3D8;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=16;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="910" y="145" width="850" height="140" />
+        </mxCell>
+        <mxCell id="sys" value="SYS-00 · SISTEMA DE INTERÉS&#10;El sistema deberá ejecutar la misión acuática aprobada, integrando propulsión, flotabilidad, habitabilidad, control y recuperación dentro de una envolvente demostrada." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#12324A;strokeColor=#6D8CA3;fontColor=#FFFFFF;fontSize=18;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="440" y="320" width="920" height="110" />
+        </mxCell>
+        <mxCell id="r1" value="R-01 · MISIÓN Y ENVOLVENTE&#10;Deberá definir y limitar operación en superficie, transición e inmersión según una misión aprobada.&#10;Ocupantes, carga [kg], profundidad [m], duración [min], velocidad [m/s], oleaje y corriente: TBD.&#10;Verificación: V-01 · pestaña 03." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EAF4FC;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=15;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="485" width="560" height="225" />
+        </mxCell>
+        <mxCell id="r2" value="R-02 · ESTRUCTURA RESISTENTE Y CIERRES&#10;Deberá mantener la integridad del volumen ocupado y cierres frente a las cargas y presión de la envolvente aprobada.&#10;Arquitectura de presión, materiales, cargas, fatiga, sellos y margen: TBD. El carenado no equivale al casco resistente.&#10;Verificación: V-02 · pestaña 03." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EAF4FC;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=15;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="620" y="485" width="560" height="225" />
+        </mxCell>
+        <mxCell id="r3" value="R-03 · FLOTABILIDAD Y ESTABILIDAD&#10;Deberá mantener estabilidad y condiciones de flotación controladas para los estados de carga y modos definidos.&#10;Masa, CG, centro de flotación, reserva, trimado y principio de inmersión: TBD.&#10;Verificación: V-03 · pestaña 03." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EAF4FC;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=15;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1200" y="485" width="560" height="225" />
+        </mxCell>
+        <mxCell id="r4" value="R-04 · PROPULSIÓN HIDROJET&#10;Deberá proporcionar empuje y respuesta de maniobra compatibles con la misión, protegiendo las zonas de admisión y descarga.&#10;Empuje [N], potencia [kW], caudal, rendimiento, ruido y límites de operación: TBD.&#10;Verificación: V-04 · pestaña 03." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EAF4FC;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=15;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="730" width="560" height="225" />
+        </mxCell>
+        <mxCell id="r5" value="R-05 · ENERGÍA Y GESTIÓN TÉRMICA&#10;Deberá suministrar energía para la misión y reserva de emergencia con supervisión térmica y aislamiento de fallos.&#10;Batería eléctrica: opción conceptual; química, capacidad [kWh], reserva y límites térmicos: TBD.&#10;Verificación: V-05 · pestaña 03." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EAF4FC;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=15;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="620" y="730" width="560" height="225" />
+        </mxCell>
+        <mxCell id="r6" value="R-06 · CONTROL Y NAVEGACIÓN&#10;Deberá permitir mando, estimación de estado y transición entre modos dentro de límites supervisados.&#10;Sensores, profundidad, actitud, velocidades, alarmas, latencia y autoridad de mando: TBD.&#10;Verificación: V-06 · pestaña 03." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EAF4FC;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=15;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1200" y="730" width="560" height="225" />
+        </mxCell>
+        <mxCell id="r7" value="R-07 · HABITABILIDAD Y ATMÓSFERA&#10;Deberá mantener condiciones habitables en el volumen ocupado durante la misión y contingencias aprobadas.&#10;Cabina seca: hipótesis a confirmar; presión, O₂, CO₂, temperatura, humedad y duración de reserva: TBD.&#10;Verificación: V-07 · pestaña 03." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EAF4FC;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=15;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="975" width="560" height="225" />
+        </mxCell>
+        <mxCell id="r8" value="R-08 · EMERGENCIA Y RECUPERACIÓN&#10;Deberá proporcionar una estrategia verificable de retorno a superficie y recuperación ante los fallos definidos.&#10;Pérdida de energía/control, entrada de agua, incendio, atrapamiento y rescate: casos a analizar.&#10;Verificación: V-08 · pestaña 03." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EAF4FC;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=15;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="620" y="975" width="560" height="225" />
+        </mxCell>
+        <mxCell id="r9" value="R-09 · ACCESO Y FACTORES HUMANOS&#10;Deberá permitir embarque, visibilidad, sujeción y salida según los escenarios autorizados y la población usuaria.&#10;Dos asientos en tándem observados; ocupación, ergonomía, cierres y evacuación: TBC/TBD.&#10;Verificación: V-09 · pestaña 03." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EAF4FC;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=15;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1200" y="975" width="560" height="225" />
+        </mxCell>
+        <mxCell id="r10" value="R-10 · COMUNICACIONES Y LOCALIZACIÓN&#10;Deberá permitir coordinación con apoyo en superficie y localización según profundidad y estado operativo.&#10;Canal bajo el agua, alcance, tasa de datos, baliza y respuesta a pérdida de enlace: TBD.&#10;Verificación: V-10 · pestaña 03." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EAF4FC;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=15;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="1220" width="560" height="225" />
+        </mxCell>
+        <mxCell id="r11" value="R-11 · MODULARIDAD Y MANTENIMIENTO&#10;Deberá identificar configuraciones e interfaces y permitir mantenimiento con verificación posterior de integridad.&#10;Módulos, uniones, penetraciones, corrosión, tiempo de intervención y pruebas de cierre: TBD.&#10;Verificación: V-11 · pestaña 03." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EAF4FC;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=15;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="620" y="1220" width="560" height="225" />
+        </mxCell>
+        <mxCell id="r12" value="R-12 · GEMELA DIGITAL Y TRAZABILIDAD&#10;Deberá vincular modelos de hidrodinámica, estructura, energía y control a configuraciones y datos de validación.&#10;Fidelidad, incertidumbre, sincronización, cobertura y error admisible: TBD.&#10;Verificación: V-12 · pestaña 03." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#DAF3F2;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=15;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1200" y="1220" width="560" height="225" />
+        </mxCell>
+        <mxCell id="e0" value="derivar" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;endFill=1;strokeColor=#4D7892;fontSize=12;labelBackgroundColor=#FFFFFF;dashed=0;" edge="1" parent="1" source="sys" target="r1">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="e1" value="derivar" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;endFill=1;strokeColor=#4D7892;fontSize=12;labelBackgroundColor=#FFFFFF;dashed=0;" edge="1" parent="1" source="sys" target="r2">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="e2" value="derivar" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;endFill=1;strokeColor=#4D7892;fontSize=12;labelBackgroundColor=#FFFFFF;dashed=0;" edge="1" parent="1" source="sys" target="r3">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="legend" value="Las tarjetas R-01 a R-12 descomponen SYS-00. Todos los requisitos y responsables son propuestos.&#10;La imagen no permite inferir profundidad, resistencia, autonomía ni seguridad. Los límites y criterios se fijarán antes de las pruebas; esta lámina no constituye diseño de fabricación ni autorización de uso tripulado." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFF3D8;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=15;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="1485" width="1720" height="85" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="p1" name="02 · Arquitectura simplificada">
+    <mxGraphModel dx="1800" dy="1320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1320" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="ARQUITECTURA MODULAR | Asignación e interfaces&#10;Separación funcional: carenado, integridad del habitáculo, servicios y recuperación." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#12324A;strokeColor=#6D8CA3;fontColor=#FFFFFF;fontSize=23;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="30" width="1720" height="85" />
+        </mxCell>
+        <mxCell id="mission" value="MISIÓN Y ENVOLVENTE&#10;R-01 · Decisiones D-01 a D-05" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFF3D8;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=18;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="620" y="145" width="560" height="80" />
+        </mxCell>
+        <mxCell id="core" value="INTEGRACIÓN DEL SISTEMA&#10;Configuración · masa/CG · límites · riesgos&#10;R-01 / R-03 / R-08 / R-11" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#12324A;strokeColor=#6D8CA3;fontColor=#FFFFFF;fontSize=18;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="620" y="275" width="560" height="110" />
+        </mxCell>
+        <mxCell id="hull" value="M-01 · CARENADO Y ESTRUCTURA&#10;R-02 / R-09 / R-11&#10;IF-01: cargas, cierres y penetraciones&#10;Distinguir envolvente exterior y volumen resistente." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EAF4FC;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=16;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="455" width="400" height="180" />
+        </mxCell>
+        <mxCell id="buoy" value="M-02 · FLOTACIÓN Y RECUPERACIÓN&#10;R-03 / R-08&#10;IF-02: masa, fuerzas y estados&#10;Principio de inmersión y función de emergencia TBD." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EAF4FC;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=16;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="480" y="455" width="400" height="180" />
+        </mxCell>
+        <mxCell id="jet" value="M-03 · HIDROJET Y ENERGÍA&#10;R-04 / R-05&#10;IF-03: potencia, empuje y calor&#10;Aislamiento eléctrico y térmico por definir." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EAF4FC;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=16;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="920" y="455" width="400" height="180" />
+        </mxCell>
+        <mxCell id="cabin" value="M-04 · HABITÁCULO Y SERVICIOS&#10;R-07 / R-09&#10;IF-04: ambiente, ocupantes y cierres&#10;Régimen de presión y soporte vital TBD." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EAF4FC;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=16;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1360" y="455" width="400" height="180" />
+        </mxCell>
+        <mxCell id="a" value="define" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;endFill=1;strokeColor=#4D7892;fontSize=12;labelBackgroundColor=#FFFFFF;dashed=0;" edge="1" parent="1" source="mission" target="core">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="b0" value="asignar" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;endFill=1;strokeColor=#4D7892;fontSize=12;labelBackgroundColor=#FFFFFF;dashed=0;" edge="1" parent="1" source="core" target="hull">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="b1" value="asignar" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;endFill=1;strokeColor=#4D7892;fontSize=12;labelBackgroundColor=#FFFFFF;dashed=0;" edge="1" parent="1" source="core" target="buoy">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="b2" value="asignar" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;endFill=1;strokeColor=#4D7892;fontSize=12;labelBackgroundColor=#FFFFFF;dashed=0;" edge="1" parent="1" source="core" target="jet">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="b3" value="asignar" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;endFill=1;strokeColor=#4D7892;fontSize=12;labelBackgroundColor=#FFFFFF;dashed=0;" edge="1" parent="1" source="core" target="cabin">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="ctrl" value="M-05 · CONTROL, SENSORES Y COMUNICACIONES&#10;R-06 / R-10 · IF-05: datos, alimentación, alarmas y mando&#10;Estados: superficie → transición → inmersión → retorno.&#10;Modo degradado y recuperación definidos para cada fallo relevante." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#EAF4FC;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=17;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="710" width="840" height="150" />
+        </mxCell>
+        <mxCell id="sim" value="M-06 · GEMELA DIGITAL Y EVIDENCIA&#10;R-12 · IF-06: geometría, parámetros, telemetría y resultados&#10;Modelos versionados por configuración; incertidumbre explícita.&#10;Asistencia de IA para análisis; control autónomo fuera del alcance inicial." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#DAF3F2;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=17;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="920" y="710" width="840" height="150" />
+        </mxCell>
+        <mxCell id="c" value="supervisa" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;endFill=1;strokeColor=#4D7892;fontSize=12;labelBackgroundColor=#FFFFFF;dashed=1;" edge="1" parent="1" source="ctrl" target="core">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="d" value="evalúa" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=0;endArrow=block;endFill=1;strokeColor=#4D7892;fontSize=12;labelBackgroundColor=#FFFFFF;dashed=1;" edge="1" parent="1" source="sim" target="core">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="tools" value="CADENA ABIERTA PROPUESTA&#10;FreeCAD: geometría y ensamblajes · Blender: visualización&#10;OpenFOAM: hidrodinámica · OpenModelica: energía y sistemas&#10;Project Chrono: dinámica multicuerpo&#10;Adaptadores y modelos por desarrollar y validar; no se asume interoperabilidad automática." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#DAF3F2;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=17;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="925" width="840" height="180" />
+        </mxCell>
+        <mxCell id="interfaces" value="CONTRATOS DE INTERFAZ (ICD)&#10;Propietario, configuración, uniones y penetraciones, magnitudes y unidades, límites, tolerancias, fallos y ensayos.&#10;Separar datos de ingeniería de funciones críticas.&#10;Los cambios modulares exigen revisar presión/estanqueidad, masa, flotabilidad y recuperación." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFF3D8;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=17;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="920" y="925" width="840" height="180" />
+        </mxCell>
+        <mxCell id="footer" value="CONFORMIDAD: seleccionar jurisdicción y categoría antes de congelar requisitos. La ruta de validación debe definir revisiones técnicas y campañas no tripuladas previas a cualquier evaluación tripulada." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#12324A;strokeColor=#6D8CA3;fontColor=#FFFFFF;fontSize=17;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="1160" width="1720" height="100" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="p2" name="03 · Verificación y decisiones">
+    <mxGraphModel dx="1900" dy="1550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="1550" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="TRAZABILIDAD | Verificación y decisiones pendientes&#10;Métodos y evidencias propuestos · Ningún ensayo se declara ejecutado." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#12324A;strokeColor=#6D8CA3;fontColor=#FFFFFF;fontSize=23;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="30" width="1820" height="85" />
+        </mxCell>
+        <mxCell id="h0" value="ID" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#12324A;strokeColor=#6D8CA3;fontColor=#FFFFFF;fontSize=16;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="140" width="160" height="60" />
+        </mxCell>
+        <mxCell id="h1" value="Responsable / método" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#12324A;strokeColor=#6D8CA3;fontColor=#FFFFFF;fontSize=16;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="200" y="140" width="380" height="60" />
+        </mxCell>
+        <mxCell id="h2" value="Evidencia de aceptación" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#12324A;strokeColor=#6D8CA3;fontColor=#FFFFFF;fontSize=16;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="580" y="140" width="570" height="60" />
+        </mxCell>
+        <mxCell id="h3" value="Criterio o decisión pendiente" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#12324A;strokeColor=#6D8CA3;fontColor=#FFFFFF;fontSize=16;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1150" y="140" width="710" height="60" />
+        </mxCell>
+        <mxCell id="v0-0" value="V-01&#10;R-01" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F1F6FA;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="200" width="160" height="80" />
+        </mxCell>
+        <mxCell id="v0-1" value="Sistemas&#10;Revisión" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F1F6FA;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="200" y="200" width="380" height="80" />
+        </mxCell>
+        <mxCell id="v0-2" value="CONOPS y escenarios aprobados; límites cuantificados antes de G1." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F1F6FA;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="580" y="200" width="570" height="80" />
+        </mxCell>
+        <mxCell id="v0-3" value="Ocupantes, carga [kg], profundidad [m], duración [min], velocidad [m/s], oleaje y corriente: TBD." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F1F6FA;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1150" y="200" width="710" height="80" />
+        </mxCell>
+        <mxCell id="v1-0" value="V-02&#10;R-02" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="280" width="160" height="80" />
+        </mxCell>
+        <mxCell id="v1-1" value="Estructuras&#10;Análisis + inspección + ensayo" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="200" y="280" width="380" height="80" />
+        </mxCell>
+        <mxCell id="v1-2" value="Análisis, inspección y pruebas no tripuladas bajo plan aprobado; límites y márgenes TBD." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="580" y="280" width="570" height="80" />
+        </mxCell>
+        <mxCell id="v1-3" value="Arquitectura de presión, materiales, cargas, fatiga, sellos y margen: TBD. El carenado no equivale al casco resistente." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1150" y="280" width="710" height="80" />
+        </mxCell>
+        <mxCell id="v2-0" value="V-03&#10;R-03" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F1F6FA;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="360" width="160" height="80" />
+        </mxCell>
+        <mxCell id="v2-1" value="Hidrostática&#10;Análisis + ensayo" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F1F6FA;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="200" y="360" width="380" height="80" />
+        </mxCell>
+        <mxCell id="v2-2" value="Balances y ensayos de flotación por configuración; criterios de estabilidad fijados previamente." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F1F6FA;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="580" y="360" width="570" height="80" />
+        </mxCell>
+        <mxCell id="v2-3" value="Masa, CG, centro de flotación, reserva, trimado y principio de inmersión: TBD." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F1F6FA;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1150" y="360" width="710" height="80" />
+        </mxCell>
+        <mxCell id="v3-0" value="V-04&#10;R-04" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="440" width="160" height="80" />
+        </mxCell>
+        <mxCell id="v3-1" value="Propulsión&#10;Banco + integración" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="200" y="440" width="380" height="80" />
+        </mxCell>
+        <mxCell id="v3-2" value="Banco e integración; curvas medidas y respuesta ante obstrucción o pérdida de empuje." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="580" y="440" width="570" height="80" />
+        </mxCell>
+        <mxCell id="v3-3" value="Empuje [N], potencia [kW], caudal, rendimiento, ruido y límites de operación: TBD." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1150" y="440" width="710" height="80" />
+        </mxCell>
+        <mxCell id="v4-0" value="V-05&#10;R-05" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F1F6FA;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="520" width="160" height="80" />
+        </mxCell>
+        <mxCell id="v4-1" value="Energía&#10;Análisis + ensayo" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F1F6FA;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="200" y="520" width="380" height="80" />
+        </mxCell>
+        <mxCell id="v4-2" value="Balance por misión y ensayos de protección; reserva y fallos definidos antes de aceptación." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F1F6FA;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="580" y="520" width="570" height="80" />
+        </mxCell>
+        <mxCell id="v4-3" value="Batería eléctrica: opción conceptual; química, capacidad [kWh], reserva y límites térmicos: TBD." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F1F6FA;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1150" y="520" width="710" height="80" />
+        </mxCell>
+        <mxCell id="v5-0" value="V-06&#10;R-06" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="600" width="160" height="80" />
+        </mxCell>
+        <mxCell id="v5-1" value="Control&#10;Simulación + integración" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="200" y="600" width="380" height="80" />
+        </mxCell>
+        <mxCell id="v5-2" value="Simulación e integración con fallos; comprobar límites e indicaciones sin ambigüedad." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="580" y="600" width="570" height="80" />
+        </mxCell>
+        <mxCell id="v5-3" value="Sensores, profundidad, actitud, velocidades, alarmas, latencia y autoridad de mando: TBD." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1150" y="600" width="710" height="80" />
+        </mxCell>
+        <mxCell id="v6-0" value="V-07&#10;R-07" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F1F6FA;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="680" width="160" height="80" />
+        </mxCell>
+        <mxCell id="v6-1" value="Habitabilidad&#10;Análisis + ensayo" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F1F6FA;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="200" y="680" width="380" height="80" />
+        </mxCell>
+        <mxCell id="v6-2" value="Análisis y ensayos instrumentados no tripulados; fijar límites antes de validar." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F1F6FA;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="580" y="680" width="570" height="80" />
+        </mxCell>
+        <mxCell id="v6-3" value="Cabina seca: hipótesis a confirmar; presión, O₂, CO₂, temperatura, humedad y duración de reserva: TBD." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F1F6FA;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1150" y="680" width="710" height="80" />
+        </mxCell>
+        <mxCell id="v7-0" value="V-08&#10;R-08" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="760" width="160" height="80" />
+        </mxCell>
+        <mxCell id="v7-1" value="Seguridad&#10;Análisis de riesgos + demostración" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="200" y="760" width="380" height="80" />
+        </mxCell>
+        <mxCell id="v7-2" value="Análisis de peligros y demostraciones progresivas; independencia de funciones de emergencia por definir." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="580" y="760" width="570" height="80" />
+        </mxCell>
+        <mxCell id="v7-3" value="Pérdida de energía/control, entrada de agua, incendio, atrapamiento y rescate: casos a analizar." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1150" y="760" width="710" height="80" />
+        </mxCell>
+        <mxCell id="v8-0" value="V-09&#10;R-09" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F1F6FA;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="840" width="160" height="80" />
+        </mxCell>
+        <mxCell id="v8-1" value="Factores humanos&#10;Inspección + demostración" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F1F6FA;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="200" y="840" width="380" height="80" />
+        </mxCell>
+        <mxCell id="v8-2" value="Maqueta y demostración; no asumir apertura del habitáculo bajo presión diferencial." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F1F6FA;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="580" y="840" width="570" height="80" />
+        </mxCell>
+        <mxCell id="v8-3" value="Dos asientos en tándem observados; ocupación, ergonomía, cierres y evacuación: TBC/TBD." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F1F6FA;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1150" y="840" width="710" height="80" />
+        </mxCell>
+        <mxCell id="v9-0" value="V-10&#10;R-10" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="920" width="160" height="80" />
+        </mxCell>
+        <mxCell id="v9-1" value="Comunicaciones&#10;Ensayo de comunicación" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="200" y="920" width="380" height="80" />
+        </mxCell>
+        <mxCell id="v9-2" value="Ensayo por medio y modo; GNSS/radio de superficie no se presuponen disponibles en inmersión." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="580" y="920" width="570" height="80" />
+        </mxCell>
+        <mxCell id="v9-3" value="Canal bajo el agua, alcance, tasa de datos, baliza y respuesta a pérdida de enlace: TBD." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1150" y="920" width="710" height="80" />
+        </mxCell>
+        <mxCell id="v10-0" value="V-11&#10;R-11" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F1F6FA;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="1000" width="160" height="80" />
+        </mxCell>
+        <mxCell id="v10-1" value="Mantenimiento&#10;Inspección + demostración" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F1F6FA;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="200" y="1000" width="380" height="80" />
+        </mxCell>
+        <mxCell id="v10-2" value="ICD e inspección; demostrar sustitución, estanqueidad y actualización de masa/configuración." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F1F6FA;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="580" y="1000" width="570" height="80" />
+        </mxCell>
+        <mxCell id="v10-3" value="Módulos, uniones, penetraciones, corrosión, tiempo de intervención y pruebas de cierre: TBD." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#F1F6FA;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1150" y="1000" width="710" height="80" />
+        </mxCell>
+        <mxCell id="v11-0" value="V-12&#10;R-12" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="1080" width="160" height="80" />
+        </mxCell>
+        <mxCell id="v11-1" value="Simulación&#10;Análisis + correlación" style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="200" y="1080" width="380" height="80" />
+        </mxCell>
+        <mxCell id="v11-2" value="Correlación con datos independientes y ejecución reproducible; documentar dominio de validez." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="580" y="1080" width="570" height="80" />
+        </mxCell>
+        <mxCell id="v11-3" value="Fidelidad, incertidumbre, sincronización, cobertura y error admisible: TBD." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFFFFF;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=14;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="1150" y="1080" width="710" height="80" />
+        </mxCell>
+        <mxCell id="gates" value="MADUREZ Y CRITERIOS DE PASO&#10;G0: acordar misión → G1: cuantificar requisitos e interfaces → G2: modelos y bancos → G3: ensayos integrados no tripulados → G4: revisión de evidencia.&#10;La eventual evaluación tripulada requiere un plan específico y decisiones de conformidad; no queda aprobada por alcanzar estas etapas." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#DAF3F2;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=17;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="1200" width="1820" height="105" />
+        </mxCell>
+        <mxCell id="decisions" value="REGISTRO DE DECISIONES&#10;D-01 / Sistemas: misión, ocupación y límites → antes de G1. D-02 / Estructuras y habitabilidad: cabina y presión → antes de arquitectura detallada.&#10;D-03 / Hidrostática y seguridad: inmersión, retorno y recuperación → antes de cerrar arquitectura. D-04 / Energía: fuente y reservas → antes del balance de misión.&#10;D-05 / Conformidad: jurisdicción y categoría → antes de fijar criterios. Todo TBD debe tener valor, fuente, responsable y aprobación antes de su prueba.&#10;Fuente visual: dolphin-inspired-hydrojet-submersible-concept.jpg. No se han inferido prestaciones numéricas de la imagen." style="rounded=1;whiteSpace=wrap;html=0;fillColor=#FFF3D8;strokeColor=#6D8CA3;fontColor=#18354A;fontSize=16;fontFamily=Helvetica;align=left;verticalAlign=middle;spacing=14;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="1345" width="1820" height="155" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
